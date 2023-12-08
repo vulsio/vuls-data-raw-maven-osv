@@ -1,0 +1,70 @@
+{
+	"schema_version": "1.6.0",
+	"id": "GHSA-wjxj-5m7g-mg7q",
+	"modified": "2023-12-05T22:16:26.838813Z",
+	"published": "2023-11-23T18:30:33Z",
+	"aliases": [
+		"CVE-2023-33202"
+	],
+	"summary": "Bouncy Castle Denial of Service (DoS)",
+	"details": "Bouncy Castle for Java before 1.73 contains a potential Denial of Service (DoS) issue within the Bouncy Castle org.bouncycastle.openssl.PEMParser class. This class parses OpenSSL PEM encoded streams containing X.509 certificates, PKCS8 encoded keys, and PKCS7 objects. Parsing a file that has crafted ASN.1 data through the PEMParser causes an OutOfMemoryError, which can enable a denial of service attack.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H"
+		}
+	],
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-jdk18on",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk18on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.73"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.71",
+				"1.71.1",
+				"1.72"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-33202"
+		},
+		{
+			"type": "WEB",
+			"url": "https://bouncycastle.org"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/bcgit/bc-java/wiki/CVE-2023-33202"
+		}
+	],
+	"database_specific": {
+		"cwe_ids": [
+			"CWE-400"
+		],
+		"github_reviewed": true,
+		"github_reviewed_at": "2023-11-24T16:54:01Z",
+		"nvd_published_at": "2023-11-23T16:15:07Z",
+		"severity": "MODERATE"
+	}
+}

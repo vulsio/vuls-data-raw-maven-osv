@@ -1,0 +1,142 @@
+{
+	"schema_version": "1.6.0",
+	"id": "GHSA-2j39-qcjm-428w",
+	"modified": "2023-12-07T21:56:49.212644Z",
+	"published": "2023-12-07T09:30:45Z",
+	"aliases": [
+		"CVE-2023-50164"
+	],
+	"summary": "Apache Struts vulnerable to path traversal",
+	"details": "An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution.\nUsers are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue.\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.struts:struts2-core",
+				"purl": "pkg:maven/org.apache.struts/struts2-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.5-BETA1"
+						},
+						{
+							"fixed": "2.5.33"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.5",
+				"2.5-BETA1",
+				"2.5-BETA2",
+				"2.5-BETA3",
+				"2.5.1",
+				"2.5.10",
+				"2.5.10.1",
+				"2.5.12",
+				"2.5.13",
+				"2.5.14",
+				"2.5.14.1",
+				"2.5.16",
+				"2.5.17",
+				"2.5.18",
+				"2.5.2",
+				"2.5.20",
+				"2.5.22",
+				"2.5.25",
+				"2.5.26",
+				"2.5.27",
+				"2.5.28",
+				"2.5.28.1",
+				"2.5.28.2",
+				"2.5.28.3",
+				"2.5.29",
+				"2.5.30",
+				"2.5.31",
+				"2.5.32",
+				"2.5.5",
+				"2.5.8"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/12/GHSA-2j39-qcjm-428w/GHSA-2j39-qcjm-428w.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.struts:struts2-core",
+				"purl": "pkg:maven/org.apache.struts/struts2-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "6.0.0"
+						},
+						{
+							"fixed": "6.3.0.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"6.0.0",
+				"6.0.3",
+				"6.1.1",
+				"6.1.2",
+				"6.1.2.1",
+				"6.1.2.2",
+				"6.2.0",
+				"6.3.0",
+				"6.3.0.1"
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "< 6.3.0.1",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/12/GHSA-2j39-qcjm-428w/GHSA-2j39-qcjm-428w.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50164"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/162e29fee9136f4bfd9b2376da2cbf590f9ea163"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/d8c69691ef1d15e76a5f4fcf33039316da2340b6"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/struts"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread/yh09b3fkf6vz5d6jdgrlvmg60lfwtqhj"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.openwall.com/lists/oss-security/2023/12/07/1"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2023/12/07/1"
+		}
+	],
+	"database_specific": {
+		"cwe_ids": [
+			"CWE-552"
+		],
+		"github_reviewed": true,
+		"github_reviewed_at": "2023-12-07T21:34:55Z",
+		"nvd_published_at": "2023-12-07T09:15:07Z",
+		"severity": "MODERATE"
+	}
+}

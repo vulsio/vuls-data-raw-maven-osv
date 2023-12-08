@@ -1,0 +1,85 @@
+{
+	"schema_version": "1.6.0",
+	"id": "GHSA-9wcx-326r-7j7w",
+	"modified": "2023-11-08T03:57:01.935859Z",
+	"published": "2022-05-17T05:35:59Z",
+	"aliases": [
+		"CVE-2011-4905"
+	],
+	"summary": "Denial of Service in Apache ActiveMQ",
+	"details": "Apache ActiveMQ before 5.6.0 allows remote attackers to cause a denial of service (file-descriptor exhaustion and broker crash or hang) by sending many openwire failover:tcp:// connection requests.",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.activemq:activemq-core",
+				"purl": "pkg:maven/org.apache.activemq/activemq-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.6.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.1.1",
+				"4.1.2",
+				"5.0.0",
+				"5.1.0",
+				"5.2.0",
+				"5.3.0",
+				"5.3.1",
+				"5.3.2",
+				"5.4.0",
+				"5.4.1",
+				"5.4.2",
+				"5.4.3",
+				"5.5.0",
+				"5.5.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-9wcx-326r-7j7w/GHSA-9wcx-326r-7j7w.json"
+			}
+		}
+	],
+	"references": [
+		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2011-4905"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/AMQ-3294"
+		},
+		{
+			"type": "WEB",
+			"url": "http://openwall.com/lists/oss-security/2011/12/25/2"
+		},
+		{
+			"type": "WEB",
+			"url": "http://openwall.com/lists/oss-security/2011/12/25/6"
+		},
+		{
+			"type": "WEB",
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1209700"
+		},
+		{
+			"type": "WEB",
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1211844"
+		}
+	],
+	"database_specific": {
+		"cwe_ids": [],
+		"github_reviewed": true,
+		"github_reviewed_at": "2022-07-13T18:26:49Z",
+		"nvd_published_at": "2012-01-05T16:55:00Z",
+		"severity": "MODERATE"
+	}
+}
