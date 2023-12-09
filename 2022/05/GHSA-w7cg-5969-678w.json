@@ -1,17 +1,17 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-jrcp-c39h-r29x",
-	"modified": "2023-12-08T20:18:55.741162Z",
+	"id": "GHSA-w7cg-5969-678w",
+	"modified": "2023-12-08T22:58:27.833929Z",
 	"published": "2022-05-14T03:13:01Z",
 	"aliases": [
-		"CVE-2015-5346"
+		"CVE-2015-5351"
 	],
-	"summary": "Improper Neutralization of Input During Web Page Generation in Apache Tomcat",
-	"details": "Session fixation vulnerability in Apache Tomcat 7.x before 7.0.66, 8.x before 8.0.30, and 9.x before 9.0.0.M2, when different session settings are used for deployments of multiple versions of the same web application, might allow remote attackers to hijack web sessions by leveraging use of a requestedSessionSSL field for an unintended request, related to CoyoteAdapter.java and Request.java.",
+	"summary": "Apache Tomcat allows remote attackers to bypass a CSRF protection mechanism by using a token",
+	"details": "The (1) Manager and (2) Host Manager applications in Apache Tomcat 7.x before 7.0.68, 8.x before 8.0.31, and 9.x before 9.0.0.M2 establish sessions and send CSRF tokens for arbitrary new requests, which allows remote attackers to bypass a CSRF protection mechanism by using a token.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+			"score": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
 		}
 	],
 	"affected": [
@@ -26,19 +26,39 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "9.0.0.M1"
+							"introduced": "0"
 						},
 						{
-							"fixed": "9.0.0.M2"
+							"fixed": "7.0.68"
 						}
 					]
 				}
 			],
 			"versions": [
-				"9.0.0.M1"
+				"7.0.35",
+				"7.0.37",
+				"7.0.39",
+				"7.0.40",
+				"7.0.41",
+				"7.0.42",
+				"7.0.47",
+				"7.0.50",
+				"7.0.52",
+				"7.0.53",
+				"7.0.54",
+				"7.0.55",
+				"7.0.56",
+				"7.0.57",
+				"7.0.59",
+				"7.0.61",
+				"7.0.62",
+				"7.0.63",
+				"7.0.64",
+				"7.0.65",
+				"7.0.67"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-jrcp-c39h-r29x/GHSA-jrcp-c39h-r29x.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-w7cg-5969-678w/GHSA-w7cg-5969-678w.json"
 			}
 		},
 		{
@@ -52,7 +72,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "8.0.0.RC1"
+							"introduced": "8.0.0"
 						},
 						{
 							"fixed": "8.0.31"
@@ -84,8 +104,7 @@
 				"8.0.9"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 8.0.30",
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-jrcp-c39h-r29x/GHSA-jrcp-c39h-r29x.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-w7cg-5969-678w/GHSA-w7cg-5969-678w.json"
 			}
 		},
 		{
@@ -99,46 +118,26 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "7.0.0"
+							"introduced": "9.0.0.M0"
 						},
 						{
-							"fixed": "7.0.66"
+							"fixed": "9.0.0.M2"
 						}
 					]
 				}
 			],
 			"versions": [
-				"7.0.35",
-				"7.0.37",
-				"7.0.39",
-				"7.0.40",
-				"7.0.41",
-				"7.0.42",
-				"7.0.47",
-				"7.0.50",
-				"7.0.52",
-				"7.0.53",
-				"7.0.54",
-				"7.0.55",
-				"7.0.56",
-				"7.0.57",
-				"7.0.59",
-				"7.0.61",
-				"7.0.62",
-				"7.0.63",
-				"7.0.64",
-				"7.0.65"
+				"9.0.0.M1"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 7.0.65",
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-jrcp-c39h-r29x/GHSA-jrcp-c39h-r29x.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-w7cg-5969-678w/GHSA-w7cg-5969-678w.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5346"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5351"
 		},
 		{
 			"type": "WEB",
@@ -151,10 +150,6 @@
 		{
 			"type": "WEB",
 			"url": "https://bto.bluecoat.com/security-advisory/sa118"
-		},
-		{
-			"type": "WEB",
-			"url": "https://bz.apache.org/bugzilla/show_bug.cgi?id=58809"
 		},
 		{
 			"type": "PACKAGE",
@@ -186,11 +181,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://softwaresupport.hpe.com/document/-/facetsearch/document/KM02978021"
+		},
+		{
+			"type": "WEB",
 			"url": "https://web.archive.org/web/20160321234551/http://www.securitytracker.com/id/1035069"
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20160912063818/http://www.securityfocus.com/bid/83323"
+			"url": "https://web.archive.org/web/20161020161943/http://www.securityfocus.com/bid/83330"
 		},
 		{
 			"type": "WEB",
@@ -206,7 +205,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://packetstormsecurity.com/files/135890/Apache-Tomcat-Session-Fixation.html"
+			"url": "http://packetstormsecurity.com/files/135882/Apache-Tomcat-CSRF-Token-Leak.html"
 		},
 		{
 			"type": "WEB",
@@ -214,7 +213,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://rhn.redhat.com/errata/RHSA-2016-2046.html"
+			"url": "http://rhn.redhat.com/errata/RHSA-2016-2599.html"
 		},
 		{
 			"type": "WEB",
@@ -226,27 +225,31 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://seclists.org/bugtraq/2016/Feb/143"
+			"url": "http://seclists.org/bugtraq/2016/Feb/148"
 		},
 		{
 			"type": "WEB",
-			"url": "http://svn.apache.org/viewvc?view=revision&revision=1713184"
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1720652"
 		},
 		{
 			"type": "WEB",
-			"url": "http://svn.apache.org/viewvc?view=revision&revision=1713185"
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1720655"
 		},
 		{
 			"type": "WEB",
-			"url": "http://svn.apache.org/viewvc?view=revision&revision=1713187"
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1720658"
 		},
 		{
 			"type": "WEB",
-			"url": "http://svn.apache.org/viewvc?view=revision&revision=1723414"
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1720660"
 		},
 		{
 			"type": "WEB",
-			"url": "http://svn.apache.org/viewvc?view=revision&revision=1723506"
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1720661"
+		},
+		{
+			"type": "WEB",
+			"url": "http://svn.apache.org/viewvc?view=revision&revision=1720663"
 		},
 		{
 			"type": "WEB",
@@ -278,11 +281,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.oracle.com/technetwork/topics/security/bulletinjan2016-2867206.html"
+			"url": "http://www.oracle.com/technetwork/security-advisory/cpuoct2016-2881722.html"
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.oracle.com/technetwork/topics/security/linuxbulletinoct2016-3090545.html"
+			"url": "http://www.oracle.com/technetwork/security-advisory/cpuoct2017-3236626.html"
 		},
 		{
 			"type": "WEB",
@@ -291,10 +294,10 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-79"
+			"CWE-352"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2022-07-06T20:12:06Z",
+		"github_reviewed_at": "2023-12-08T22:36:54Z",
 		"nvd_published_at": "2016-02-25T01:59:00Z",
 		"severity": "HIGH"
 	}
