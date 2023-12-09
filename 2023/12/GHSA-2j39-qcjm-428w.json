@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2j39-qcjm-428w",
-	"modified": "2023-12-07T21:56:49.212644Z",
+	"modified": "2023-12-09T04:31:08.813346Z",
 	"published": "2023-12-07T09:30:45Z",
 	"aliases": [
 		"CVE-2023-50164"
@@ -95,7 +95,6 @@
 				"6.3.0.1"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "< 6.3.0.1",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/12/GHSA-2j39-qcjm-428w/GHSA-2j39-qcjm-428w.json"
 			}
 		}
