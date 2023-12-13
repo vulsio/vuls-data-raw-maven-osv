@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9hvf-pfq3-7pp6",
-	"modified": "2023-11-08T04:02:48.885580Z",
+	"modified": "2023-12-13T12:17:27.900645Z",
 	"published": "2022-05-24T17:06:22Z",
 	"aliases": [
 		"CVE-2020-2090"
@@ -91,6 +91,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2090"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ec2-plugin/commit/0cdbaf2d7da5c368209f427559c8608dec22a63b"
 		},
 		{
 			"type": "PACKAGE",

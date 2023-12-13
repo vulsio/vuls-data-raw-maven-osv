@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7xp8-7wqx-5hqx",
-	"modified": "2023-12-06T01:00:21.102111Z",
+	"modified": "2023-12-13T12:16:49.797165Z",
 	"published": "2022-05-24T17:07:41Z",
 	"aliases": [
 		"BIT-jenkins-2020-2105",
@@ -667,6 +667,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2105"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/639ade55caa05324c60d15b2fa8df27ee0111b76"
 		},
 		{
 			"type": "WEB",

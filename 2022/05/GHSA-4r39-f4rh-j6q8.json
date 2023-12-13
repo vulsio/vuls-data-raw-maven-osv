@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4r39-f4rh-j6q8",
-	"modified": "2023-11-08T04:01:18.774753Z",
+	"modified": "2023-12-13T10:46:00.457326Z",
 	"published": "2022-05-24T17:03:46Z",
 	"aliases": [
 		"CVE-2019-16552"
@@ -125,6 +125,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-16552"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/gerrit-trigger-plugin/commit/bdc94d3e23df0ad6a64565c732498f89ff743b51"
 		},
 		{
 			"type": "WEB",

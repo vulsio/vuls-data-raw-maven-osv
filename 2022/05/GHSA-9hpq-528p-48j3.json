@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9hpq-528p-48j3",
-	"modified": "2023-11-08T04:01:19.020719Z",
+	"modified": "2023-12-13T12:50:01.639388Z",
 	"published": "2022-05-24T17:03:47Z",
 	"aliases": [
 		"CVE-2019-16557"
@@ -61,6 +61,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-16557"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/redgate-sql-ci-plugin/commit/18525ee6f01a5bc36040d40f1ff63702ce7280ac"
 		},
 		{
 			"type": "WEB",

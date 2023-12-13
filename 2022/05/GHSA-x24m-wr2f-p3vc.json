@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x24m-wr2f-p3vc",
-	"modified": "2023-11-08T04:01:18.592055Z",
+	"modified": "2023-12-13T10:34:06.564193Z",
 	"published": "2022-05-24T17:01:41Z",
 	"aliases": [
 		"CVE-2019-16548"
@@ -70,6 +70,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-16548"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/google-compute-engine-plugin/commit/aaf81996741c67229982f70b3eaa83894e035025"
 		},
 		{
 			"type": "WEB",

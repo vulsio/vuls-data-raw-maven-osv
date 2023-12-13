@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6c7r-6p5m-cp82",
-	"modified": "2023-11-08T04:02:52.218370Z",
+	"modified": "2023-12-13T12:44:05.975029Z",
 	"published": "2022-05-24T17:10:27Z",
 	"aliases": [
 		"CVE-2020-2136"
@@ -163,6 +163,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2136"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/git-plugin/commit/f581998be38cfed8e080c672c4b7caa8b4a45979"
 		},
 		{
 			"type": "WEB",

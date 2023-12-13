@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rjjq-63c7-8724",
-	"modified": "2023-11-08T04:02:52.527726Z",
+	"modified": "2023-12-13T13:05:07.814735Z",
 	"published": "2022-05-24T17:10:28Z",
 	"aliases": [
 		"CVE-2020-2141"
@@ -149,6 +149,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2141"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/p4-plugin/commit/2f2a31d8d36de7abab45820fab3a82f4c682b760"
 		},
 		{
 			"type": "PACKAGE",

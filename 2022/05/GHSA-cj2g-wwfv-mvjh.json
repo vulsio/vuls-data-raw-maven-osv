@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cj2g-wwfv-mvjh",
-	"modified": "2023-11-08T04:02:52.464860Z",
+	"modified": "2023-12-13T13:04:34.335586Z",
 	"published": "2022-05-24T17:10:27Z",
 	"aliases": [
 		"CVE-2020-2140"
@@ -60,6 +60,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2140"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/audit-trail-plugin/commit/40c6d621a03e6a50b291dca7188d07d0aa3de946"
 		},
 		{
 			"type": "PACKAGE",
