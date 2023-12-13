@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j365-62px-vjjv",
-	"modified": "2023-11-08T04:00:44.998515Z",
+	"modified": "2023-12-13T09:59:41.294855Z",
 	"published": "2022-05-24T16:43:53Z",
 	"aliases": [
 		"CVE-2019-10300"
@@ -108,6 +108,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10300"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/gitlab-plugin/commit/f028c65539a8892f2d1f738cacc1ea5830adf5d3"
 		},
 		{
 			"type": "WEB",

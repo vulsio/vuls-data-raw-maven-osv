@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vwx8-qpqh-qwm9",
-	"modified": "2023-11-08T04:00:48.052757Z",
+	"modified": "2023-12-13T10:19:23.827433Z",
 	"published": "2022-05-24T16:51:51Z",
 	"aliases": [
 		"CVE-2019-10361"
@@ -50,6 +50,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10361"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/m2release-plugin/commit/a2e7f2bb82640a9d3641265a19c86ba141a7e79c"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xm94-9jw8-p6hw",
-	"modified": "2023-11-08T04:00:45.980633Z",
+	"modified": "2023-12-13T10:19:41.160967Z",
 	"published": "2022-05-24T16:46:09Z",
 	"aliases": [
 		"CVE-2019-10320"
@@ -118,6 +118,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10320"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/credentials-plugin/commit/40d0b5cc53c265b601ffaa4469310fad390a80fb"
 		},
 		{
 			"type": "WEB",

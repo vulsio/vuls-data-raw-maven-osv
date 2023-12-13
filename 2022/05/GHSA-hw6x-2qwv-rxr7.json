@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hw6x-2qwv-rxr7",
-	"modified": "2023-11-08T04:00:49.398392Z",
+	"modified": "2023-12-13T10:19:27.093634Z",
 	"published": "2022-05-24T16:55:58Z",
 	"aliases": [
 		"CVE-2019-10392"
@@ -139,6 +139,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10392"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/git-client-plugin/commit/899123fa2eb9dd2c37137aae630c47c6be6b4b02"
 		},
 		{
 			"type": "WEB",

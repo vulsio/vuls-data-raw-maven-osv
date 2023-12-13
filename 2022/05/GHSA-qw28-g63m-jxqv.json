@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qw28-g63m-jxqv",
-	"modified": "2023-11-08T04:00:45.306287Z",
+	"modified": "2023-12-13T10:01:50.238077Z",
 	"published": "2022-05-24T16:43:54Z",
 	"aliases": [
 		"CVE-2019-10306"
@@ -116,6 +116,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10306"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ontrack-plugin/commit/7f0f806c18fdd6043103d848ba4c813cb805dd85"
 		},
 		{
 			"type": "PACKAGE",

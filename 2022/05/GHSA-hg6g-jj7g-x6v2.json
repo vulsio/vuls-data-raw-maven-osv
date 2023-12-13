@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hg6g-jj7g-x6v2",
-	"modified": "2023-11-08T04:00:49.645023Z",
+	"modified": "2023-12-13T10:19:29.872074Z",
 	"published": "2022-05-24T22:00:43Z",
 	"aliases": [
 		"CVE-2019-10401"
@@ -642,6 +642,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10401"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/df600eb7a28dea189c41037398fd36fcea36302e"
 		},
 		{
 			"type": "WEB",
