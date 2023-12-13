@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2j39-qcjm-428w",
-	"modified": "2023-12-11T21:04:17.417930Z",
+	"modified": "2023-12-12T21:18:28.268247Z",
 	"published": "2023-12-07T09:30:45Z",
 	"aliases": [
 		"CVE-2023-50164"
 	],
 	"summary": "Apache Struts vulnerable to path traversal",
 	"details": "An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution.\nUsers are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue.\n",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {

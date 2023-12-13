@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-729q-fcgp-r5xh",
-	"modified": "2023-12-12T09:48:17.326373Z",
+	"modified": "2023-12-12T22:01:21.148551Z",
 	"published": "2023-12-05T09:33:27Z",
 	"aliases": [
 		"CVE-2023-41835"
@@ -218,8 +218,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-459",
-			"CWE-913"
+			"CWE-459"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-05T23:34:18Z",
