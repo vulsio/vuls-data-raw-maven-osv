@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fccv-jmmp-qg76",
-	"modified": "2023-12-05T22:02:14.543567Z",
+	"modified": "2023-12-14T12:50:01.721218Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"BIT-tomcat-2023-46589",
@@ -347,6 +347,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/0rqq6ktozqc42ro8hhxdmmdjm1k1tpxr"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231214-0009/"
 		},
 		{
 			"type": "WEB",

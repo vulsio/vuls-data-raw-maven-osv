@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v94h-hvhg-mf9h",
-	"modified": "2023-12-05T22:02:41.505366Z",
+	"modified": "2023-12-14T12:49:24.307170Z",
 	"published": "2023-11-28T09:30:27Z",
 	"aliases": [
 		"CVE-2023-34053"
@@ -67,6 +67,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/spring-projects/spring-framework/compare/v6.0.13...v6.0.14"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231214-0007/"
 		},
 		{
 			"type": "WEB",
