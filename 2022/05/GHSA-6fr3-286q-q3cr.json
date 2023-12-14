@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6fr3-286q-q3cr",
-	"modified": "2023-11-08T04:03:00.164459Z",
+	"modified": "2023-12-14T09:27:19.365508Z",
 	"published": "2022-05-24T17:28:25Z",
 	"aliases": [
 		"CVE-2020-2252"
@@ -129,6 +129,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2252"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/mailer-plugin/commit/e1893c6d105669f134ee5c5212ef9f3944d7d00d"
 		},
 		{
 			"type": "WEB",

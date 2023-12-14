@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5pg8-f89x-wjcx",
-	"modified": "2023-11-08T04:02:52.649066Z",
+	"modified": "2023-12-14T09:26:03.774318Z",
 	"published": "2022-05-24T17:10:28Z",
 	"aliases": [
 		"CVE-2020-2143"
@@ -67,6 +67,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2143"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/logstash-plugin/commit/b42d5c116473d11c79ebd2ff24e2643b9bce14d6"
 		},
 		{
 			"type": "PACKAGE",

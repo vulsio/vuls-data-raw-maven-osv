@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5c4v-vh95-c67c",
-	"modified": "2023-11-08T04:02:58.680384Z",
+	"modified": "2023-12-14T10:01:07.418831Z",
 	"published": "2022-05-24T17:25:24Z",
 	"aliases": [
 		"CVE-2020-2232"
@@ -47,6 +47,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2232"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/email-ext-plugin/commit/b51497d044e36e950d698a79bb781ef4c83a251c"
 		},
 		{
 			"type": "PACKAGE",

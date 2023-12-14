@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cfvw-84vq-43mx",
-	"modified": "2023-11-08T04:02:58.308032Z",
+	"modified": "2023-12-14T10:01:00.116011Z",
 	"published": "2022-05-24T17:23:39Z",
 	"aliases": [
 		"CVE-2020-2227"
@@ -49,6 +49,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2227"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/deployer-framework-plugin/commit/8fa2e16bce85ec1b93be60102d7cfb5153876e83"
 		},
 		{
 			"type": "PACKAGE",

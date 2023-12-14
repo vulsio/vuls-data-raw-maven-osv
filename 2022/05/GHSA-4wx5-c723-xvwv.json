@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4wx5-c723-xvwv",
-	"modified": "2023-11-08T04:02:55.017465Z",
+	"modified": "2023-12-14T09:31:03.231784Z",
 	"published": "2022-05-24T17:15:35Z",
 	"aliases": [
 		"CVE-2020-2177"
@@ -49,6 +49,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2177"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/copr-plugin/commit/23ea581364d64645cd90d2c5d97a4b94781f61f9"
 		},
 		{
 			"type": "PACKAGE",

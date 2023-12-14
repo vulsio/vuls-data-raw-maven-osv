@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p364-xfp2-f9rr",
-	"modified": "2023-11-08T04:02:56.598073Z",
+	"modified": "2023-12-14T09:46:07.898294Z",
 	"published": "2022-05-24T17:22:18Z",
 	"aliases": [
 		"CVE-2020-2203"
@@ -77,6 +77,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2203"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/fortify-on-demand-uploader-plugin/commit/28932f7c5ff18f87d4b3a480225fb0827591776b"
 		},
 		{
 			"type": "PACKAGE",
