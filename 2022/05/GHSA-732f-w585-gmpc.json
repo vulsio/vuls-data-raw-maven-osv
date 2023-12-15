@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-732f-w585-gmpc",
-	"modified": "2023-11-08T04:04:50.518410Z",
+	"modified": "2023-12-15T10:34:07.493492Z",
 	"published": "2022-05-24T19:05:40Z",
 	"aliases": [
 		"CVE-2021-21669"
@@ -119,6 +119,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21669"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/generic-webhook-trigger-plugin/commit/da434dfca1b82f5de81e29438762370d652493b8"
 		},
 		{
 			"type": "PACKAGE",

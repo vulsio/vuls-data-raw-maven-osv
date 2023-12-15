@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-96jw-3xw4-mq9p",
-	"modified": "2023-11-08T04:04:47.603338Z",
+	"modified": "2023-12-15T10:43:51.991119Z",
 	"published": "2022-05-24T17:44:47Z",
 	"aliases": [
 		"CVE-2021-21623"
@@ -79,6 +79,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21623"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/matrix-auth-plugin/commit/bbe358575155912b818ab3c6e8b9623f21ad3418"
 		},
 		{
 			"type": "PACKAGE",

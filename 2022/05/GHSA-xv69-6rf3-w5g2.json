@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xv69-6rf3-w5g2",
-	"modified": "2023-11-08T04:04:48.095418Z",
+	"modified": "2023-12-15T10:43:24.112133Z",
 	"published": "2022-05-24T17:45:45Z",
 	"aliases": [
 		"CVE-2021-21631"
@@ -72,6 +72,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21631"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/cloud-stats-plugin/commit/07dd3da346a65083a93a071036409f1128e0b133"
 		},
 		{
 			"type": "PACKAGE",
