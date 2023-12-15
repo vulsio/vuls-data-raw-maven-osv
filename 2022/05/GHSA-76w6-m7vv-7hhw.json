@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-76w6-m7vv-7hhw",
-	"modified": "2023-12-14T16:20:11.996531Z",
+	"modified": "2023-12-14T16:26:39.922840Z",
 	"published": "2022-05-24T16:50:03Z",
+	"aliases": [
+		"CVE-2019-10341"
+	],
 	"summary": "Missing permission check in Jenkins Docker Plugin",
 	"details": "A missing permission check in Jenkins Docker Plugin 1.1.6 and earlier in DockerAPI.DescriptorImpl#doTestConnection allowed users with Overall/Read access to connect to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.",
 	"severity": [

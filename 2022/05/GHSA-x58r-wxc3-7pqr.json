@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x58r-wxc3-7pqr",
-	"modified": "2023-11-08T04:03:03.774403Z",
+	"modified": "2023-12-14T20:05:15.584960Z",
 	"published": "2022-05-24T17:33:07Z",
 	"aliases": [
 		"CVE-2020-2305"
@@ -168,6 +168,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2305"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/mercurial-plugin/commit/84af58b08f80bb92792f7bc04a31487f3eeee95a"
 		},
 		{
 			"type": "WEB",

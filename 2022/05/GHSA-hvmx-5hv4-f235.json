@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-76q7-r3g4-wvm4",
-	"modified": "2023-12-14T16:26:40.061482Z",
+	"id": "GHSA-hvmx-5hv4-f235",
+	"modified": "2023-12-14T16:41:40.833321Z",
 	"published": "2022-05-24T16:55:59Z",
 	"aliases": [
-		"CVE-2019-10400"
+		"CVE-2019-10394"
 	],
 	"summary": "Sandbox bypass vulnerability in Jenkins Script Security Plugin",
-	"details": "A sandbox bypass vulnerability in Jenkins Script Security Plugin 1.62 and earlier related to the handling of subexpressions in increment and decrement expressions not involving actual assignment allowed attackers to execute arbitrary code in sandboxed scripts.",
+	"details": "A sandbox bypass vulnerability in Jenkins Script Security Plugin 1.62 and earlier related to the handling of property names in property expressions on the left-hand side of assignment expressions allowed attackers to execute arbitrary code in sandboxed scripts.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -121,14 +121,14 @@
 			],
 			"database_specific": {
 				"last_known_affected_version_range": "<= 1.62",
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-76q7-r3g4-wvm4/GHSA-76q7-r3g4-wvm4.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-hvmx-5hv4-f235/GHSA-hvmx-5hv4-f235.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10400"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10394"
 		},
 		{
 			"type": "WEB",
@@ -150,7 +150,7 @@
 	"database_specific": {
 		"cwe_ids": [],
 		"github_reviewed": true,
-		"github_reviewed_at": "2023-12-14T15:54:57Z",
+		"github_reviewed_at": "2023-12-14T15:51:31Z",
 		"nvd_published_at": "2019-09-12T14:15:00Z",
 		"severity": "MODERATE"
 	}

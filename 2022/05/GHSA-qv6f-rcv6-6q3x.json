@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qv6f-rcv6-6q3x",
-	"modified": "2023-12-06T01:00:47.146338Z",
+	"modified": "2023-12-14T19:34:14.773125Z",
 	"published": "2022-05-24T17:39:12Z",
 	"aliases": [
 		"BIT-jenkins-2021-21604",
@@ -740,6 +740,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21604"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/f1056bd814fc1f19ea241a101d649b8c143807e7"
 		},
 		{
 			"type": "PACKAGE",

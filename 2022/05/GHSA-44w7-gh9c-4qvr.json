@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-44w7-gh9c-4qvr",
-	"modified": "2023-12-14T16:11:06.816308Z",
+	"modified": "2023-12-14T16:26:39.854026Z",
 	"published": "2022-05-24T16:43:53Z",
+	"aliases": [
+		"CVE-2019-10305"
+	],
 	"summary": "Missing permission check in Jenkins XebiaLabs XL Deploy Plugin",
 	"details": "A missing permission check in Jenkins XebiaLabs XL Deploy Plugin in the Credential#doValidateUserNamePassword form validation method allows attackers with Overall/Read permission to initiate a connection to an attacker-specified server.",
 	"severity": [

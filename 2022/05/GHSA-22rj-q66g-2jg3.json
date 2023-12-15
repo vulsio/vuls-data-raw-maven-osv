@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-22rj-q66g-2jg3",
-	"modified": "2023-12-14T16:18:29.535639Z",
+	"modified": "2023-12-14T16:26:40.132387Z",
 	"published": "2022-05-24T22:00:44Z",
+	"aliases": [
+		"CVE-2019-10429"
+	],
 	"summary": "Jenkins GitLab Logo Plugin stores credentials unencrypted",
 	"details": "Jenkins GitLab Logo Plugin stores credentials unencrypted in its global configuration file on the Jenkins master where they can be viewed by users with access to the master file system.",
 	"severity": [
