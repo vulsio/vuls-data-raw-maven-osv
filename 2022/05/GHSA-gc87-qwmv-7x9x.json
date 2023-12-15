@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gc87-qwmv-7x9x",
-	"modified": "2023-11-08T04:04:47.542650Z",
+	"modified": "2023-12-15T10:16:25.914360Z",
 	"published": "2022-05-24T17:43:01Z",
 	"aliases": [
 		"CVE-2021-21622"
@@ -47,6 +47,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21622"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/artifact-repository-parameter-plugin/commit/84b63f7af101f68d7ccd5bc9c569f453f1f83f82"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/artifact-repository-parameter-plugin/commit/ac6659197807268b9947e80faeafffd35791f96f"
 		},
 		{
 			"type": "PACKAGE",

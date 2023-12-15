@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rr6j-37cv-c7x7",
-	"modified": "2023-11-08T04:03:04.017051Z",
+	"modified": "2023-12-15T10:16:42.777228Z",
 	"published": "2022-05-24T17:33:08Z",
 	"aliases": [
 		"CVE-2020-2308"
@@ -267,6 +267,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2308"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/kubernetes-plugin/commit/7aac20940e637cdd2e38d3afd3748704e4015782"
 		},
 		{
 			"type": "WEB",
