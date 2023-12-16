@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cwh6-hm53-6w2m",
-	"modified": "2023-12-13T19:43:35.563100Z",
+	"modified": "2023-12-15T22:10:15Z",
 	"published": "2023-12-13T15:30:58Z",
 	"aliases": [
 		"CVE-2023-47323"
 	],
 	"summary": "Missing access control in Silverpeas",
 	"details": "The notification/messaging feature of Silverpeas Core 6.3.1 does not enforce access control on the ID parameter. This allows an attacker to read all messages sent between other users; including those sent only to administrators.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -72,6 +78,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/Silverpeas/Silverpeas-Core"
+		},
+		{
+			"type": "WEB",
+			"url": "http://silverpeas.com"
 		}
 	],
 	"database_specific": {
