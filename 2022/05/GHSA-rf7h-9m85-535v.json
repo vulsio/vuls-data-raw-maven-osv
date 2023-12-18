@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rf7h-9m85-535v",
-	"modified": "2023-11-08T04:00:10.036989Z",
+	"modified": "2023-12-18T09:45:57.740703Z",
 	"published": "2022-05-14T02:21:29Z",
 	"aliases": [
 		"CVE-2018-1999038"
@@ -52,6 +52,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1999038"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/publish-over-cifs-plugin/commit/9402d8c1044508c2fc30a5dd1e34afe6819616a0"
 		},
 		{
 			"type": "PACKAGE",

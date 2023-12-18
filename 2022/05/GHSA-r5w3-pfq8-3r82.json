@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r5w3-pfq8-3r82",
-	"modified": "2023-11-22T22:47:10.429761Z",
+	"modified": "2023-12-18T09:31:57.063821Z",
 	"published": "2022-05-24T19:12:37Z",
 	"aliases": [
 		"CVE-2021-21678"
@@ -80,6 +80,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21678"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/saml-plugin/commit/e063317ee7e1c64a096e0ac323c7155b786c8b9d"
 		},
 		{
 			"type": "PACKAGE",

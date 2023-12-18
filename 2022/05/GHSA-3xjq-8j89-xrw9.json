@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3xjq-8j89-xrw9",
-	"modified": "2023-11-08T03:59:39.207130Z",
+	"modified": "2023-12-18T09:31:24.565814Z",
 	"published": "2022-05-14T03:05:27Z",
 	"aliases": [
 		"CVE-2018-1000604"
@@ -51,6 +51,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000604"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/badge-plugin/commit/63a7744cef33338e62898576a50bcc521d76ba9f"
 		},
 		{
 			"type": "PACKAGE",
