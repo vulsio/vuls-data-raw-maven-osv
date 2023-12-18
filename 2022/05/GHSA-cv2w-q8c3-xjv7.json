@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cv2w-q8c3-xjv7",
-	"modified": "2023-12-06T01:00:48.819851Z",
+	"modified": "2023-12-18T11:46:39.360347Z",
 	"published": "2022-05-24T19:19:43Z",
 	"aliases": [
 		"BIT-jenkins-2021-21697",
@@ -795,6 +795,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21697"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/cf388d2a04e6016d23eb93fa3cc804f2554b98f0"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/eae33841b587da787f37d5b6c8451d483edc04d9"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-667q-vj58-rj88",
-	"modified": "2023-11-08T04:00:10.473225Z",
+	"modified": "2023-12-18T12:19:07.182590Z",
 	"published": "2022-05-14T01:04:56Z",
 	"aliases": [
 		"CVE-2018-1999046"
@@ -566,6 +566,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1999046"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/6867e4469525d16319b1bae9c840b933fe4e23c4"
 		},
 		{
 			"type": "PACKAGE",

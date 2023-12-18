@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3pv3-jj4h-p528",
-	"modified": "2023-11-08T04:00:37.479600Z",
+	"modified": "2023-12-18T16:10:55.558185Z",
 	"published": "2022-05-13T01:15:09Z",
 	"aliases": [
 		"CVE-2019-1003040"
@@ -114,6 +114,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-1003040"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/script-security-plugin/commit/8424ad90547e37a2bd3b6a3a7da48eb1af9cd0ee"
 		},
 		{
 			"type": "WEB",
