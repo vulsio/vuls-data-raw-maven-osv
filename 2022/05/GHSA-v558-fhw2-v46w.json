@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v558-fhw2-v46w",
-	"modified": "2023-11-08T04:00:46.289438Z",
+	"modified": "2023-12-19T10:34:10.465697Z",
 	"published": "2022-05-24T22:00:03Z",
 	"aliases": [
 		"CVE-2019-10328"
@@ -50,6 +50,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10328"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/workflow-remote-loader-plugin/commit/6f9d60f614359720ec98e22b80ba15e8bf88e712"
 		},
 		{
 			"type": "WEB",

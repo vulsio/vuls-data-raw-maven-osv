@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3v9f-4vff-rx42",
-	"modified": "2023-11-08T04:00:45.368412Z",
+	"modified": "2023-12-19T10:34:34.731874Z",
 	"published": "2022-05-24T16:44:54Z",
 	"aliases": [
 		"CVE-2019-10307"
@@ -139,6 +139,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10307"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/analysis-core-plugin/commit/3d7a0c7907d831c58541508b893dcea2039809c5"
 		},
 		{
 			"type": "WEB",

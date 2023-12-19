@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fx9p-2qvx-pgjv",
-	"modified": "2023-11-08T04:00:46.717549Z",
+	"modified": "2023-12-19T10:33:11.652635Z",
 	"published": "2022-05-24T16:47:43Z",
 	"aliases": [
 		"CVE-2019-10335"
@@ -53,6 +53,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10335"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/electricflow-plugin/commit/1a90ee7727f8c6925df3e410837ddf6be28cce53"
 		},
 		{
 			"type": "WEB",

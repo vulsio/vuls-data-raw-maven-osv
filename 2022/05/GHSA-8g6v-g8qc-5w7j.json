@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8g6v-g8qc-5w7j",
-	"modified": "2023-11-08T04:02:51.538968Z",
+	"modified": "2023-12-19T10:33:50.929297Z",
 	"published": "2022-05-24T17:08:47Z",
 	"aliases": [
 		"CVE-2020-2126"
@@ -69,6 +69,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2126"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/digitalocean-plugin/commit/ca1112c5c52a842c6340401f02f536fc07c6620a"
 		},
 		{
 			"type": "PACKAGE",

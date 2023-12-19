@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6755-jgp4-8q7h",
-	"modified": "2023-11-08T04:00:46.227840Z",
+	"modified": "2023-12-19T10:34:54.265133Z",
 	"published": "2022-05-24T22:00:03Z",
 	"aliases": [
 		"CVE-2019-10327"
@@ -170,6 +170,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10327"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/pipeline-maven-plugin/commit/e7cb858852c05d2423e3fd9922a090982dcd6392"
 		},
 		{
 			"type": "PACKAGE",
