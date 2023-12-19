@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4vf2-cm23-rf4c",
-	"modified": "2023-11-08T03:59:34.712495Z",
+	"modified": "2023-12-18T17:31:11.531479Z",
 	"published": "2022-05-13T01:48:31Z",
 	"aliases": [
 		"CVE-2018-1000106"
@@ -118,6 +118,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000106"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/gerrit-trigger-plugin/commit/a222f2d9d1bca3422e6a462a7f587ae325455b80"
 		},
 		{
 			"type": "WEB",

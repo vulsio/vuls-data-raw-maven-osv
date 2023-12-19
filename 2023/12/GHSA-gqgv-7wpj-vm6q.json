@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gqgv-7wpj-vm6q",
-	"modified": "2023-12-13T19:56:37.932028Z",
+	"modified": "2023-12-18T21:40:49Z",
 	"published": "2023-12-13T15:30:58Z",
 	"aliases": [
 		"CVE-2023-47326"
 	],
 	"summary": "Cross Site Request Forgery in Silverpeas",
 	"details": "Silverpeas Core 6.3.1 is vulnerable to Cross Site Request Forgery (CSRF) via the Domain SQL Create function.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {

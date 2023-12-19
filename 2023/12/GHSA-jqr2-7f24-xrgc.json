@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jqr2-7f24-xrgc",
-	"modified": "2023-12-13T20:26:36.397214Z",
+	"modified": "2023-12-18T21:49:14.173026Z",
 	"published": "2023-12-13T18:31:04Z",
 	"aliases": [
 		"CVE-2023-50779"
 	],
 	"summary": "Missing permission check in Jenkins PaaSLane Estimate Plugin",
 	"details": "PaaSLane Estimate Plugin 1.0.4 and earlier does not perform permission checks in several HTTP endpoints. This allows attackers with Overall/Read permission to connect to an attacker-specified URL using an attacker-specified token.\n",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -57,7 +63,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-862"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-13T19:45:06Z",
 		"nvd_published_at": "2023-12-13T18:15:44Z",

@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v9w3-34xq-hrjg",
-	"modified": "2023-12-13T23:41:33.023966Z",
+	"modified": "2023-12-18T21:50:12.488043Z",
 	"published": "2023-12-13T18:31:04Z",
 	"aliases": [
 		"CVE-2023-50777"
 	],
 	"summary": "Tokens stored in plain text by PaaSLane Estimate Plugin ",
 	"details": "Jenkins PaaSLane Estimate Plugin 1.0.4 and earlier does not mask PaaSLane authentication tokens displayed on the job configuration form, increasing the potential for attackers to observe and capture them.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vq7p-f4fv-rr5x",
-	"modified": "2023-11-08T03:59:36.008835Z",
+	"modified": "2023-12-18T17:32:51.326844Z",
 	"published": "2022-05-14T03:23:45Z",
 	"aliases": [
 		"CVE-2018-1000151"
@@ -82,6 +82,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000151"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/vsphere-cloud-plugin/commit/f0fb143af340c7529dd9e50f5514334756019356"
 		},
 		{
 			"type": "PACKAGE",

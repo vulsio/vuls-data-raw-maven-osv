@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hhw5-c326-822h",
-	"modified": "2023-12-15T03:28:24.123059Z",
+	"modified": "2023-12-18T22:19:16.965455Z",
 	"published": "2023-12-14T09:30:19Z",
 	"aliases": [
 		"CVE-2023-46750"
 	],
 	"summary": "Open redirect in Apache Shiro",
 	"details": "URL Redirection to Untrusted Site ('Open Redirect') vulnerability when \"form\" authentication is used in Apache Shiro.\nMitigation: Update to Apache Shiro 1.13.0+ or 2.0.0-alpha-4+.\n",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {

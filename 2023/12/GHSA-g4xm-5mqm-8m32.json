@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g4xm-5mqm-8m32",
-	"modified": "2023-12-13T20:26:36.325770Z",
+	"modified": "2023-12-18T21:49:32.990018Z",
 	"published": "2023-12-13T18:31:04Z",
 	"aliases": [
 		"CVE-2023-50778"
 	],
 	"summary": "Cross-Site Request Forgery in Jenkins PaaSLane Estimate Plugin",
 	"details": "A cross-site request forgery (CSRF) vulnerability in Jenkins PaaSLane Estimate Plugin 1.0.4 and earlier allows attackers to connect to an attacker-specified URL using an attacker-specified token.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {

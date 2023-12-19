@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x77r-7m5w-pqq2",
-	"modified": "2023-11-22T22:20:43.889738Z",
+	"modified": "2023-12-18T16:41:26.686655Z",
 	"published": "2022-05-24T19:12:36Z",
 	"aliases": [
 		"CVE-2021-21679"
@@ -83,6 +83,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21679"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/azure-ad-plugin/commit/8b1e80e6f242275127ebb177e2a755a2104b4853"
 		},
 		{
 			"type": "PACKAGE",

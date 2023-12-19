@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7ccg-jm7j-4f8v",
-	"modified": "2023-12-13T19:56:38.336629Z",
+	"modified": "2023-12-18T19:03:19.568696Z",
 	"published": "2023-12-13T18:31:04Z",
 	"aliases": [
 		"CVE-2023-50774"
 	],
 	"summary": "Cross-site request forgery vulnerability in Jenkins HTMLResource Plugin",
 	"details": "A cross-site request forgery (CSRF) vulnerability in Jenkins HTMLResource Plugin 1.02 and earlier allows attackers to delete arbitrary files on the Jenkins controller file system.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {

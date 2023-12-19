@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-72x3-c7jc-q35x",
-	"modified": "2023-11-08T03:59:34.773190Z",
+	"modified": "2023-12-18T17:32:00.786047Z",
 	"published": "2022-05-13T01:48:31Z",
 	"aliases": [
 		"CVE-2018-1000107"
@@ -61,6 +61,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000107"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ownership-plugin/commit/42487df17cd272e504d3cd3e09abb4904f80dba2"
 		},
 		{
 			"type": "WEB",

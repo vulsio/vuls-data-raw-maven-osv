@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53jp-gmwc-jwf6",
-	"modified": "2023-11-08T03:59:38.342086Z",
+	"modified": "2023-12-18T17:33:08.402277Z",
 	"published": "2022-05-14T01:04:36Z",
 	"aliases": [
 		"CVE-2018-1000410"
@@ -577,6 +577,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000410"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/7366cc50106442a021c5178cd101057ecc08f2c2"
 		},
 		{
 			"type": "PACKAGE",

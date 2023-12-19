@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f9cx-789c-w2mr",
-	"modified": "2023-11-08T03:59:35.028316Z",
+	"modified": "2023-12-18T17:31:29.399477Z",
 	"published": "2022-05-13T01:48:32Z",
 	"aliases": [
 		"CVE-2018-1000112"
@@ -85,6 +85,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000112"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/mercurial-plugin/commit/54b4f82e80c89d51b12bc64258f6b59e98b0c16a"
 		},
 		{
 			"type": "WEB",
