@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7qp2-rgxr-29q4",
-	"modified": "2023-11-08T04:05:00.531136Z",
+	"modified": "2023-12-19T15:10:33.361535Z",
 	"published": "2022-05-24T17:46:58Z",
 	"aliases": [
 		"CVE-2021-22513"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "6.8"
+							"fixed": "7.2.3-beta"
 						}
 					]
 				}
@@ -127,7 +127,28 @@
 				"6.6.4-beta",
 				"6.6.5-beta",
 				"6.7",
-				"6.7.1-beta"
+				"6.7.1-beta",
+				"6.8",
+				"6.8.1-beta",
+				"6.8.2-beta",
+				"6.9",
+				"7.0",
+				"7.0-beta",
+				"7.0.1-beta",
+				"7.0.2-beta",
+				"7.0.3-beta",
+				"7.0.4-beta",
+				"7.0.5-beta",
+				"7.0.6-beta",
+				"7.0.7-beta",
+				"7.0.8-beta",
+				"7.0.9-beta",
+				"7.1",
+				"7.1.1-beta",
+				"7.1.2-beta",
+				"7.2",
+				"7.2.1-beta",
+				"7.2.2-beta"
 			],
 			"database_specific": {
 				"last_known_affected_version_range": "<= 6.7",
@@ -139,6 +160,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-22513"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/hpe-application-automation-tools-plugin/commit/497a143d9a95e9c937501ca329fe0dae22a0d9cd"
 		},
 		{
 			"type": "PACKAGE",

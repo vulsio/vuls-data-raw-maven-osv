@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rv97-r8f7-8wmg",
-	"modified": "2023-11-08T04:00:46.350691Z",
+	"modified": "2023-12-19T14:57:04.386134Z",
 	"published": "2022-05-24T22:00:03Z",
 	"aliases": [
 		"CVE-2019-10329"
@@ -77,6 +77,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10329"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/influxdb-plugin/commit/bfc2fcc0d8e6fb6f2dff5a45353abac5cefc0573"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vwq9-cmqr-3c8c",
-	"modified": "2023-11-08T04:00:47.080924Z",
+	"modified": "2023-12-19T14:55:00.801470Z",
 	"published": "2022-05-24T16:51:50Z",
 	"aliases": [
 		"CVE-2019-10343"
@@ -80,6 +80,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10343"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/configuration-as-code-plugin/commit/73afe3cb10a723cb06e29c2e5499206aadae3a0d"
 		},
 		{
 			"type": "WEB",
