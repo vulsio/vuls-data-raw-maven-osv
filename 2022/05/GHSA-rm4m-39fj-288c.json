@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rm4m-39fj-288c",
-	"modified": "2023-11-08T04:04:47.663912Z",
+	"modified": "2023-12-20T10:32:12.549333Z",
 	"published": "2022-05-24T17:44:48Z",
 	"aliases": [
 		"CVE-2021-21624"
@@ -72,6 +72,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21624"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/role-strategy-plugin/commit/2490ed51c30f6df9db809a7dcf637ac8ac08233a"
 		},
 		{
 			"type": "PACKAGE",

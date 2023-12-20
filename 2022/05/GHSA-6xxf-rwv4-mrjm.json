@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xxf-rwv4-mrjm",
-	"modified": "2023-11-08T04:02:52.279211Z",
+	"modified": "2023-12-20T10:31:26.958866Z",
 	"published": "2022-05-24T17:10:27Z",
 	"aliases": [
 		"CVE-2020-2137"
@@ -87,6 +87,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2137"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/timestamper-plugin/commit/6637c3e599c330e03251005675beeadb46d8495b"
 		},
 		{
 			"type": "PACKAGE",

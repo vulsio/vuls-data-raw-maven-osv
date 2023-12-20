@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gf8w-6hcm-rh3j",
-	"modified": "2023-11-08T04:03:04.320843Z",
+	"modified": "2023-12-20T10:32:21.045253Z",
 	"published": "2022-05-24T17:33:08Z",
 	"aliases": [
 		"CVE-2020-2313"
@@ -57,6 +57,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2313"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/azure-keyvault-plugin/commit/f09ed652cc572d8ba5d7c8c8f9972fd241883c21"
 		},
 		{
 			"type": "PACKAGE",
