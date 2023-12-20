@@ -1,8 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-59c9-pxq8-9c73",
-	"modified": "2023-12-13T13:59:02.510833Z",
+	"modified": "2023-12-19T21:26:26.959902Z",
 	"published": "2023-12-13T13:33:57Z",
+	"aliases": [
+		"CVE-2023-50422",
+		"GHSA-gcgw-q47m-prvj"
+	],
 	"summary": "Improper JWT Signature Validation in SAP Security Services Library ",
 	"details": "### Impact\nSAP BTP Security Services Integration Library ([Java] cloud-security-services-integration-library) allows under certain conditions an escalation of privileges. On successful exploitation, an unauthenticated attacker can obtain arbitrary permissions within the application.\n\n### Patches\nUpgrade to patched version >= 2.17.0 or >= 3.3.0 \nWe always recommend to upgrade to the latest released version.\n\n### Workarounds\nNo workarounds\n\n### References\nhttps://www.cve.org/CVERecord?id=CVE-2023-50422\n",
 	"severity": [

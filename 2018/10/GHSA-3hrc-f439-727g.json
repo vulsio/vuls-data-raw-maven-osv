@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3hrc-f439-727g",
-	"modified": "2023-11-08T03:57:48.290362Z",
+	"modified": "2023-12-19T22:16:16.763485Z",
 	"published": "2018-10-16T23:08:43Z",
 	"aliases": [
 		"CVE-2015-0263"
@@ -136,6 +136,18 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/camel/commit/06db9e0744f2bb9f6e3bf16c0dfe7099a3481558"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/camel/commit/367d53e73c8b5a1e73c24423e631709f9a96e08d"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/camel/commit/7d19340bcdb42f7aae584d9c5003ac4f7ddaee36"
+		},
+		{
+			"type": "WEB",
 			"url": "https://camel.apache.org/security-advisories.data/CVE-2015-0263.txt.asc"
 		},
 		{
@@ -149,6 +161,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/apache/camel"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/CAMEL-8312"
 		},
 		{
 			"type": "WEB",
