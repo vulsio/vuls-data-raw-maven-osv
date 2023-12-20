@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jgpm-2862-q5m8",
-	"modified": "2023-11-08T04:00:36.846145Z",
+	"modified": "2023-12-20T14:00:34.645458Z",
 	"published": "2022-05-13T01:15:21Z",
 	"aliases": [
 		"CVE-2019-1003024"
@@ -108,6 +108,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-1003024"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/script-security-plugin/commit/3228c88e84f0b2f24845b6466cae35617e082059"
 		},
 		{
 			"type": "WEB",

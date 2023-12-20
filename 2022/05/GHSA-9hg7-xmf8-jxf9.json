@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9hg7-xmf8-jxf9",
-	"modified": "2023-11-08T04:03:02.308860Z",
+	"modified": "2023-12-20T14:05:44.572263Z",
 	"published": "2022-05-24T17:29:16Z",
 	"aliases": [
 		"CVE-2020-2283"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1.4.7"
+							"fixed": "1.4.6"
 						}
 					]
 				}
@@ -57,6 +57,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2283"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/liquibase-runner-plugin/commit/4873c19dc921653d994edd6caa9e161c6353c6ae"
 		},
 		{
 			"type": "PACKAGE",
