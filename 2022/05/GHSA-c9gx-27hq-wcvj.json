@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c9gx-27hq-wcvj",
-	"modified": "2023-11-08T03:57:15.948655Z",
+	"modified": "2023-12-20T19:01:15.906377Z",
 	"published": "2022-05-17T03:46:32Z",
 	"aliases": [
 		"CVE-2013-1880"
@@ -58,7 +58,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/fafd12dfd4f71336f8e32c090d40ed1445959b40"
+		},
+		{
+			"type": "WEB",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=924447"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/activemq/"
 		},
 		{
 			"type": "WEB",

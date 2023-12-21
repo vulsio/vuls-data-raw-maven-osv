@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q9hr-3pg4-3jp4",
-	"modified": "2023-11-08T03:57:57.129530Z",
+	"modified": "2023-12-20T20:17:26.613015Z",
 	"published": "2022-05-13T01:30:05Z",
 	"aliases": [
 		"CVE-2015-5254"
@@ -29,7 +29,7 @@
 							"introduced": "5.0.0"
 						},
 						{
-							"fixed": "5.13.0"
+							"fixed": "5.11.3"
 						}
 					]
 				}
@@ -41,15 +41,36 @@
 				"5.11.0",
 				"5.11.1",
 				"5.11.2",
-				"5.11.3",
-				"5.11.4",
-				"5.12.0",
-				"5.12.1",
-				"5.12.2",
-				"5.12.3",
 				"5.8.0",
 				"5.9.0",
 				"5.9.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-q9hr-3pg4-3jp4/GHSA-q9hr-3pg4-3jp4.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.activemq:activemq-client",
+				"purl": "pkg:maven/org.apache.activemq/activemq-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "5.12.0"
+						},
+						{
+							"fixed": "5.12.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"5.12.0",
+				"5.12.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-q9hr-3pg4-3jp4/GHSA-q9hr-3pg4-3jp4.json"
@@ -60,6 +81,26 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5254"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/6f03921b31d9fefeddb0f4fa63150ed1f94a14b"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/73a0caf758f9e4916783a205c7e422b4db27905"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/7eb9b218b2705cf9273e30ee2da026e43b6dd4e"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/e7a4b53f799685e337972dd36ba0253c04bcc01"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/activemq/"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fp5r-v3w9-4333",
-	"modified": "2023-11-08T04:06:50.238216Z",
+	"modified": "2023-12-20T19:30:50.382887Z",
 	"published": "2021-12-14T19:49:31Z",
 	"aliases": [
 		"CVE-2021-4104"
@@ -108,6 +108,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.gentoo.org/glsa/202310-16"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202312-02"
 		},
 		{
 			"type": "WEB",

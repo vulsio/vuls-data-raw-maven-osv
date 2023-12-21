@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mvc8-6ffp-jrx5",
-	"modified": "2023-12-13T00:59:28.747558Z",
+	"modified": "2023-12-20T21:59:23.355626Z",
 	"published": "2023-12-09T03:30:15Z",
 	"aliases": [
 		"CVE-2023-6394"
@@ -224,6 +224,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/quarkusio/quarkus/pull/36961"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:7612"
 		},
 		{
 			"type": "WEB",
