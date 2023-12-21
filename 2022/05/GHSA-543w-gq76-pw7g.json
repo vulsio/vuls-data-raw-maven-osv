@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-543w-gq76-pw7g",
-	"modified": "2023-11-08T04:01:18.838823Z",
+	"modified": "2023-12-21T14:13:51.572929Z",
 	"published": "2022-05-24T17:03:46Z",
 	"aliases": [
 		"CVE-2019-16553"
@@ -89,6 +89,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-16553"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/build-failure-analyzer-plugin/commit/f316c885552ac75289cbb11b2af5757f18784bcb"
 		},
 		{
 			"type": "WEB",

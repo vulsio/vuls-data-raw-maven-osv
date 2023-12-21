@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fc92-8r77-9297",
-	"modified": "2023-11-08T04:02:49.139182Z",
+	"modified": "2023-12-21T13:50:50.700889Z",
 	"published": "2022-05-24T17:06:22Z",
 	"aliases": [
 		"CVE-2020-2093"
@@ -54,6 +54,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2093"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/cloudbees-jenkins-advisor-plugin/commit/f53fe8a41a1566fdd7d2996779f6c5684ef3e2df"
 		},
 		{
 			"type": "PACKAGE",

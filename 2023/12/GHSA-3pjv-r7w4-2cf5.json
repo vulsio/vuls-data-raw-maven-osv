@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3pjv-r7w4-2cf5",
-	"modified": "2023-12-20T21:26:36.396332Z",
+	"modified": "2023-12-21T16:01:13.587939Z",
 	"published": "2023-12-20T21:12:09Z",
 	"aliases": [
 		"CVE-2023-46131"
@@ -263,6 +263,10 @@
 			"url": "https://github.com/grails/grails-core/security/advisories/GHSA-3pjv-r7w4-2cf5"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46131"
+		},
+		{
 			"type": "WEB",
 			"url": "https://github.com/grails/grails-core/issues/13302"
 		},
@@ -284,10 +288,12 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-400"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-20T21:12:09Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2023-12-21T00:15:25Z",
 		"severity": "MODERATE"
 	}
 }

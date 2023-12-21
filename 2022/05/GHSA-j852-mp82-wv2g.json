@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j852-mp82-wv2g",
-	"modified": "2023-11-08T04:02:55.871440Z",
+	"modified": "2023-12-21T13:49:55.542326Z",
 	"published": "2022-05-24T17:19:04Z",
 	"aliases": [
 		"CVE-2020-2191"
@@ -84,6 +84,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2191"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/swarm-plugin/commit/4d18f98b00e4c84b152d52346fb9ef1a227b1cf7"
 		},
 		{
 			"type": "PACKAGE",

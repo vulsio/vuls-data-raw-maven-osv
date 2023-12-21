@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x23m-8c2h-6wg7",
-	"modified": "2023-11-08T04:02:49.262908Z",
+	"modified": "2023-12-21T13:49:59.377736Z",
 	"published": "2022-05-24T17:06:23Z",
 	"aliases": [
 		"CVE-2020-2095"
@@ -62,6 +62,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2095"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/redgate-sql-ci-plugin/commit/962f1770eeb1f18dfac91d12461fa6db566e769e"
 		},
 		{
 			"type": "PACKAGE",
