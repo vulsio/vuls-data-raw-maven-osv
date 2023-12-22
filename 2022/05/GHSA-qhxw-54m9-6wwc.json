@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qhxw-54m9-6wwc",
-	"modified": "2023-12-21T23:16:17.809291Z",
+	"modified": "2023-12-21T23:26:43.775870Z",
 	"published": "2022-05-14T03:45:43Z",
+	"aliases": [
+		"CVE-2017-1000397"
+	],
 	"summary": "MitM on Jenkins Maven Plugin",
 	"details": "Jenkins Maven Plugin 2.17 and earlier bundled a version of the commons-httpclient library with the vulnerability CVE-2012-6153 that incorrectly verified SSL certificates, making it susceptible to man-in-the-middle attacks. Maven Plugin 3.0 no longer has a dependency on commons-httpclient.",
 	"severity": [

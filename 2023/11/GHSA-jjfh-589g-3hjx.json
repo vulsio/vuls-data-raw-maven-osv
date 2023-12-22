@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjfh-589g-3hjx",
-	"modified": "2023-12-05T22:01:17.057358Z",
+	"modified": "2023-12-22T00:46:00.400607Z",
 	"published": "2023-11-28T09:30:27Z",
 	"aliases": [
 		"CVE-2023-34055"
@@ -303,6 +303,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/spring-projects/spring-boot"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231221-0010/"
 		},
 		{
 			"type": "WEB",
