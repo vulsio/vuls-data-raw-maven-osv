@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gj3q-p8cm-26rm",
-	"modified": "2023-11-08T04:02:52.092588Z",
+	"modified": "2023-12-22T11:31:16.104416Z",
 	"published": "2022-05-24T17:10:27Z",
 	"aliases": [
 		"CVE-2020-2134"
@@ -59,6 +59,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2134"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/script-security-plugin/commit/5b1969e0bdf5cde04a165b847144756b28495788"
 		},
 		{
 			"type": "PACKAGE",

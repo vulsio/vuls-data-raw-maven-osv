@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mm5c-7mpr-99fm",
-	"modified": "2023-11-08T04:04:47.850530Z",
+	"modified": "2023-12-22T13:49:26.784323Z",
 	"published": "2022-05-24T17:44:48Z",
 	"aliases": [
 		"CVE-2021-21627"
@@ -53,6 +53,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21627"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/libvirt-slave-plugin/commit/655eab9bde26e8b8e11034f6c405af374564cae7"
 		},
 		{
 			"type": "PACKAGE",

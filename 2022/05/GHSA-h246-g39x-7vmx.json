@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h246-g39x-7vmx",
-	"modified": "2023-11-08T04:04:50.082878Z",
+	"modified": "2023-12-22T14:13:35.635742Z",
 	"published": "2022-05-24T22:01:39Z",
 	"aliases": [
 		"CVE-2021-21662"
@@ -77,6 +77,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21662"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/xldeploy-plugin/commit/79ae204d2ee6cd94badf4c24a150cee13a3bde44"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8hwr-589g-xpj2",
-	"modified": "2023-11-08T04:00:50.378369Z",
+	"modified": "2023-12-22T11:16:54.701653Z",
 	"published": "2022-05-24T16:56:46Z",
 	"aliases": [
 		"CVE-2019-10415"
@@ -100,6 +100,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10415"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/violation-comments-to-gitlab-plugin/commit/e8237a803012bae7773d8bd10fe02e21892be3fe"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fph2-fwjq-prjf",
-	"modified": "2023-11-08T04:02:56.538102Z",
+	"modified": "2023-12-22T11:17:28.840512Z",
 	"published": "2022-05-24T17:22:18Z",
 	"aliases": [
 		"CVE-2020-2202"
@@ -78,6 +78,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2202"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/fortify-on-demand-uploader-plugin/commit/28932f7c5ff18f87d4b3a480225fb0827591776b"
 		},
 		{
 			"type": "PACKAGE",

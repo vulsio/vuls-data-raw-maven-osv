@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4m7p-55jm-3vwv",
-	"modified": "2023-11-08T04:08:41.938837Z",
+	"modified": "2023-12-22T14:28:16.653164Z",
 	"published": "2022-02-16T00:01:37Z",
 	"aliases": [
 		"CVE-2022-25173"
@@ -260,6 +260,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-25173"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/workflow-cps-plugin/commit/f7ae7b75a457976853539bff1db52373b85fdb85"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hhpm-5cp2-hg4x",
-	"modified": "2023-11-08T03:59:41.175422Z",
+	"modified": "2023-12-22T14:36:19.212280Z",
 	"published": "2022-05-13T01:01:00Z",
 	"aliases": [
 		"CVE-2018-1000861"
@@ -590,6 +590,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000861"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/47f38d714c99e1841fb737ad1005618eb26ed852"
 		},
 		{
 			"type": "WEB",

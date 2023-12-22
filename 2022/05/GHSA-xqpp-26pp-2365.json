@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xqpp-26pp-2365",
-	"modified": "2023-11-08T04:04:49.959685Z",
+	"modified": "2023-12-22T13:31:23.223143Z",
 	"published": "2022-05-24T19:03:11Z",
 	"aliases": [
 		"CVE-2021-21660"
@@ -47,6 +47,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21660"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/markdown-formatter-plugin/commit/6b283a5bba3424fd5174b92e7ad8724cdbdf596c"
 		},
 		{
 			"type": "PACKAGE",

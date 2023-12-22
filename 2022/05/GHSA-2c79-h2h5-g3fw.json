@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2c79-h2h5-g3fw",
-	"modified": "2023-12-06T01:00:48.457969Z",
+	"modified": "2023-12-22T14:39:57.931491Z",
 	"published": "2022-05-24T19:19:44Z",
 	"aliases": [
 		"BIT-jenkins-2021-21691",
@@ -795,6 +795,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21691"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/63cde2daadc705edf086f2213b48c8c547f98358"
 		},
 		{
 			"type": "PACKAGE",

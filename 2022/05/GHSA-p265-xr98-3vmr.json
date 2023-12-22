@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p265-xr98-3vmr",
-	"modified": "2023-11-08T04:00:09.303832Z",
+	"modified": "2023-12-22T11:30:59.301575Z",
 	"published": "2022-05-13T01:00:59Z",
 	"aliases": [
 		"CVE-2018-1999003"
@@ -533,7 +533,7 @@
 							"introduced": "2.122"
 						},
 						{
-							"fixed": "2.132"
+							"fixed": "2.133"
 						}
 					]
 				}
@@ -548,9 +548,11 @@
 				"2.128",
 				"2.129",
 				"2.130",
-				"2.131"
+				"2.131",
+				"2.132"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 2.132",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-p265-xr98-3vmr/GHSA-p265-xr98-3vmr.json"
 			}
 		}
@@ -559,6 +561,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1999003"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/af9e11c9941487f69ec1a95c65958fc208064e7a"
 		},
 		{
 			"type": "PACKAGE",

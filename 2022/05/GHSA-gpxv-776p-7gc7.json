@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gpxv-776p-7gc7",
-	"modified": "2023-12-06T01:00:20.797300Z",
+	"modified": "2023-12-22T14:14:14.324237Z",
 	"published": "2022-05-24T17:07:40Z",
 	"aliases": [
 		"BIT-jenkins-2020-2100",
@@ -665,6 +665,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2100"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/cd28a6d9347228b03da0e45653e23032342c2a36"
 		},
 		{
 			"type": "WEB",

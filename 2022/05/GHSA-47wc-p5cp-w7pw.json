@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-47wc-p5cp-w7pw",
-	"modified": "2023-11-08T04:00:49.888557Z",
+	"modified": "2023-12-22T11:04:57.887920Z",
 	"published": "2022-05-24T22:00:43Z",
 	"aliases": [
 		"CVE-2019-10405"
@@ -642,6 +642,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10405"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/560ee832b41814660c5632ea36ad1a1c977177bf"
 		},
 		{
 			"type": "WEB",

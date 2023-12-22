@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4f6x-g5vh-8jm5",
-	"modified": "2023-11-08T04:04:47.175942Z",
+	"modified": "2023-12-22T13:49:45.667973Z",
 	"published": "2022-05-24T17:43:01Z",
 	"aliases": [
 		"CVE-2021-21616"
@@ -67,6 +67,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21616"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/active-choices-plugin/commit/d0b768c18bafd812b52fe579def8b14e26033ec9"
 		},
 		{
 			"type": "PACKAGE",

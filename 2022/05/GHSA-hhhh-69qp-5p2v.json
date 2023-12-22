@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hhhh-69qp-5p2v",
-	"modified": "2023-11-08T04:00:52.153224Z",
+	"modified": "2023-12-22T14:50:59.661198Z",
 	"published": "2022-05-24T16:58:50Z",
 	"aliases": [
 		"CVE-2019-10449"
@@ -75,6 +75,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10449"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/fortify-on-demand-uploader-plugin/commit/277642040362bcc64df163bfc1ab48f7763c2853"
 		},
 		{
 			"type": "WEB",

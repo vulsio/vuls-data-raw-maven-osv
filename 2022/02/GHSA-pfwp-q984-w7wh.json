@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pfwp-q984-w7wh",
-	"modified": "2023-11-08T04:08:42.571332Z",
+	"modified": "2023-12-22T14:51:18.856454Z",
 	"published": "2022-02-16T00:01:31Z",
 	"aliases": [
 		"CVE-2022-25183"
@@ -120,6 +120,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-25183"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/workflow-cps-global-lib-plugin/commit/ace0de3c2d691662021ea10306eeb407da6b6365"
 		},
 		{
 			"type": "WEB",

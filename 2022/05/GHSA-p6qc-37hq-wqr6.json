@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p6qc-37hq-wqr6",
-	"modified": "2023-11-08T04:04:49.024147Z",
+	"modified": "2023-12-22T13:31:03.413899Z",
 	"published": "2022-05-24T17:48:06Z",
 	"aliases": [
 		"CVE-2021-21646"
@@ -68,6 +68,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21646"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/templating-engine-plugin/commit/aed14bed7333329f51330d0a8111e4d94cdee3e6"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6hmm-77r2-h6hr",
-	"modified": "2023-11-08T04:02:48.947083Z",
+	"modified": "2023-12-22T14:20:03.802187Z",
 	"published": "2022-05-24T17:06:22Z",
 	"aliases": [
 		"CVE-2020-2091"
@@ -91,6 +91,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2091"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ec2-plugin/commit/0cdbaf2d7da5c368209f427559c8608dec22a63b"
 		},
 		{
 			"type": "PACKAGE",

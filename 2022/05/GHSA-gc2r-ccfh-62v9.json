@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gc2r-ccfh-62v9",
-	"modified": "2023-11-08T04:05:00.348025Z",
+	"modified": "2023-12-22T13:49:08.865779Z",
 	"published": "2022-05-24T17:46:58Z",
 	"aliases": [
 		"CVE-2021-22510"
@@ -139,6 +139,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-22510"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/hpe-application-automation-tools-plugin/commit/9fbd698401048644c325751e290f6d901128c1c7"
 		},
 		{
 			"type": "PACKAGE",

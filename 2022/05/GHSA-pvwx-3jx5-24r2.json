@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pvwx-3jx5-24r2",
-	"modified": "2023-12-06T01:00:47.685275Z",
+	"modified": "2023-12-22T13:49:36.190228Z",
 	"published": "2022-05-24T17:46:47Z",
 	"aliases": [
 		"BIT-jenkins-2021-21639",
@@ -755,6 +755,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21639"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/84210baed0c866bdee3e59271f98a767a14a5509"
 		},
 		{
 			"type": "PACKAGE",

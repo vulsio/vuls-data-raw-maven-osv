@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p56j-x44h-g66j",
-	"modified": "2023-11-08T04:00:47.747940Z",
+	"modified": "2023-12-22T15:58:50.311815Z",
 	"published": "2022-05-24T16:51:50Z",
 	"aliases": [
 		"CVE-2019-10355"
@@ -144,6 +144,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2019:2662"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/jenkinsci/script-security-plugin"
 		},
 		{
 			"type": "WEB",
