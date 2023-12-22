@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9cjv-93g7-c6mv",
-	"modified": "2023-11-08T03:59:41.358063Z",
+	"modified": "2023-12-21T18:46:06.397937Z",
 	"published": "2022-05-13T01:48:40Z",
 	"aliases": [
 		"CVE-2018-1000864"
@@ -590,6 +590,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000864"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/73afa0ca786a87f05b5433e2e38f863826fcad17"
 		},
 		{
 			"type": "WEB",

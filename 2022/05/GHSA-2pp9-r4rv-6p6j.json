@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2pp9-r4rv-6p6j",
-	"modified": "2023-11-08T04:00:09.485068Z",
+	"modified": "2023-12-21T18:20:03.951437Z",
 	"published": "2022-05-14T01:05:26Z",
 	"aliases": [
 		"CVE-2018-1999006"
@@ -559,6 +559,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1999006"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/f46842c7a2c916170ac457a039a2f7f019afd885"
 		},
 		{
 			"type": "PACKAGE",
