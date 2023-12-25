@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8j3m-j6x6-cp5v",
-	"modified": "2023-11-08T04:00:53.498075Z",
+	"modified": "2023-12-25T15:25:41.910173Z",
 	"published": "2022-05-24T16:59:37Z",
 	"aliases": [
 		"CVE-2019-10473"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1.9.0"
+							"fixed": "1.8.6"
 						}
 					]
 				}
@@ -39,8 +39,7 @@
 				"1.8.1",
 				"1.8.3",
 				"1.8.4",
-				"1.8.5",
-				"1.8.6"
+				"1.8.5"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-8j3m-j6x6-cp5v/GHSA-8j3m-j6x6-cp5v.json"
@@ -51,6 +50,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10473"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/libvirt-slave-plugin/commit/c671d68f9498414a735913c9372ede8b4791bfee"
 		},
 		{
 			"type": "PACKAGE",

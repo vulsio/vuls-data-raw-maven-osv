@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h6qv-f5gf-8gcf",
-	"modified": "2023-11-08T04:04:49.525032Z",
+	"modified": "2023-12-25T16:26:14.131934Z",
 	"published": "2021-06-16T17:29:35Z",
 	"aliases": [
 		"CVE-2021-21654"
@@ -159,6 +159,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21654"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/p4-plugin/commit/6b0237b04c985987460e31987d3cb314afa1ead6"
 		},
 		{
 			"type": "PACKAGE",
