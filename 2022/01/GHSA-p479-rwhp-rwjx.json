@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p479-rwhp-rwjx",
-	"modified": "2023-11-08T04:04:50.393094Z",
+	"modified": "2023-12-26T12:17:24.090888Z",
 	"published": "2022-01-06T18:45:29Z",
 	"aliases": [
 		"CVE-2021-21667"
@@ -61,6 +61,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21667"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/scriptler-plugin/commit/ea9c4e6abdd15ee4731e76bb7130069af6dfed88"
 		},
 		{
 			"type": "PACKAGE",

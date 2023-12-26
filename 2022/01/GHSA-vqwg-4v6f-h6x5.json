@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vqwg-4v6f-h6x5",
-	"modified": "2023-11-08T04:08:02.750844Z",
+	"modified": "2023-12-26T12:20:07.855025Z",
 	"published": "2022-01-13T00:01:04Z",
 	"aliases": [
 		"CVE-2022-20615"
@@ -95,6 +95,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-20615"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/matrix-project-plugin/commit/78cc60556304965ffb2dd8c017bf61d4f153f5ea"
 		},
 		{
 			"type": "WEB",

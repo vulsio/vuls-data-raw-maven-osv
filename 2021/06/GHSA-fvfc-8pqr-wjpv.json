@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fvfc-8pqr-wjpv",
-	"modified": "2023-11-08T04:04:49.272739Z",
+	"modified": "2023-12-26T12:05:01.983255Z",
 	"published": "2021-06-16T17:29:08Z",
 	"aliases": [
 		"CVE-2021-21650"
@@ -101,6 +101,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21650"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/s3-plugin/commit/a146c28c849ffe643ece46eaa5940d1fd6ab048e"
 		},
 		{
 			"type": "WEB",
