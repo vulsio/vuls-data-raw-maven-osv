@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w4jv-6rg4-pr4m",
-	"modified": "2023-11-08T04:08:02.998129Z",
+	"modified": "2023-12-27T15:30:59.214476Z",
 	"published": "2022-01-13T00:01:00Z",
 	"aliases": [
 		"CVE-2022-20619"
@@ -184,6 +184,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-20619"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/bitbucket-branch-source-plugin/commit/a596f651a4b3bfe31a087c4d392e81c0167ab551"
 		},
 		{
 			"type": "WEB",

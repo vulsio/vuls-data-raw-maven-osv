@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-884c-9wwh-9p6v",
-	"modified": "2023-11-08T04:08:16.764584Z",
+	"modified": "2023-12-27T15:17:17.767959Z",
 	"published": "2022-01-13T00:00:53Z",
 	"aliases": [
 		"CVE-2022-23111"
@@ -71,6 +71,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-23111"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/publish-over-ssh-plugin/commit/21bf41adbce9e71d3f77e113e29bf81d437cadc3"
 		},
 		{
 			"type": "PACKAGE",

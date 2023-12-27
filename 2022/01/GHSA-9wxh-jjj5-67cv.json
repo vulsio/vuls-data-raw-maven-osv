@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9wxh-jjj5-67cv",
-	"modified": "2023-11-08T04:08:03.119468Z",
+	"modified": "2023-12-27T15:17:35.225586Z",
 	"published": "2022-01-13T00:00:58Z",
 	"aliases": [
 		"CVE-2022-20620"
@@ -97,6 +97,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-20620"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ssh-agent-plugin/commit/04f526d2f73a6fc24b59df20ba03d95265114835"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ssh-agent-plugin/commit/9c08b9f93cfb3ada0f0124f5bd7f0d027728a750"
 		},
 		{
 			"type": "WEB",

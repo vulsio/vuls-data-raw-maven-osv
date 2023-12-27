@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jpxj-vgq5-prjc",
-	"modified": "2023-11-08T04:08:02.875696Z",
+	"modified": "2023-12-27T15:40:31.962831Z",
 	"published": "2022-01-13T00:01:03Z",
 	"aliases": [
 		"CVE-2022-20617"
@@ -78,6 +78,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-20617"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/docker-commons-plugin/commit/c069b79c31c5aa80a01b0c462f0dc6b41751f059"
 		},
 		{
 			"type": "PACKAGE",

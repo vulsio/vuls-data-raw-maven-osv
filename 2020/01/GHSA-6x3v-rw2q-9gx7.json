@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6x3v-rw2q-9gx7",
-	"modified": "2023-11-08T04:00:41.874725Z",
+	"modified": "2023-12-27T15:46:38.147740Z",
 	"published": "2020-01-21T21:18:44Z",
 	"aliases": [
 		"CVE-2019-10158"
@@ -288,6 +288,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/infinispan/infinispan/commits/9.4.15.Final/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20231227-0009/"
 		}
 	],
 	"database_specific": {

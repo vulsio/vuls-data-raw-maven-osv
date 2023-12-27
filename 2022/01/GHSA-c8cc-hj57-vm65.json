@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c8cc-hj57-vm65",
-	"modified": "2023-11-08T04:08:16.397706Z",
+	"modified": "2023-12-27T15:26:37.328806Z",
 	"published": "2022-01-13T00:00:55Z",
 	"aliases": [
 		"CVE-2022-23105"
@@ -104,6 +104,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-23105"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/active-directory-plugin/commit/07b05f83b167c79590f2efbdad8cb84fc98ed150"
 		},
 		{
 			"type": "PACKAGE",
