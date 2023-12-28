@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hrgc-54mv-58gv",
-	"modified": "2023-11-08T03:57:07.338267Z",
+	"modified": "2023-12-27T18:49:12.963156Z",
 	"published": "2022-05-17T01:42:17Z",
 	"aliases": [
 		"CVE-2012-4387"
@@ -12,15 +12,15 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.struts:struts2-core",
-				"purl": "pkg:maven/org.apache.struts/struts2-core"
+				"name": "org.apache.struts.xwork:xwork-core",
+				"purl": "pkg:maven/org.apache.struts.xwork/xwork-core"
 			},
 			"ranges": [
 				{
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "2.0.0"
 						},
 						{
 							"fixed": "2.3.4.1"
@@ -29,19 +29,6 @@
 				}
 			],
 			"versions": [
-				"2.0.11",
-				"2.0.11.1",
-				"2.0.11.2",
-				"2.0.12",
-				"2.0.14",
-				"2.0.5",
-				"2.0.6",
-				"2.0.8",
-				"2.0.9",
-				"2.1.2",
-				"2.1.6",
-				"2.1.8",
-				"2.1.8.1",
 				"2.2.1",
 				"2.2.1.1",
 				"2.2.3",
@@ -64,7 +51,19 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/80e03182d66d9e6ab18f9a9a9b3c42725a1c89e9"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/87935af56a27235e9399308ee1fcfb74f8edcefa"
+		},
+		{
+			"type": "WEB",
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/78183"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/struts"
 		},
 		{
 			"type": "WEB",
