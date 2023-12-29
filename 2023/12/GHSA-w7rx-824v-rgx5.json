@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w7rx-824v-rgx5",
-	"modified": "2023-12-28T23:16:01.846138Z",
+	"modified": "2023-12-28T23:26:51.202180Z",
 	"published": "2023-12-15T12:30:25Z",
+	"aliases": [
+		"CVE-2023-6835"
+	],
 	"summary": "WSO2 API Manager allows attackers to change the API rating",
 	"details": "Multiple WSO2 products have been identified as vulnerable due to lack of server-side input validation in the Forum feature, API rating could be manipulated.",
 	"severity": [
