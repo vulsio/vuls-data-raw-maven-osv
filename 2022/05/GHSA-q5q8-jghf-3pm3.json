@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q5q8-jghf-3pm3",
-	"modified": "2023-11-08T03:57:21.893193Z",
+	"modified": "2023-12-28T18:00:56.961118Z",
 	"published": "2022-05-17T04:44:52Z",
 	"aliases": [
 		"CVE-2013-4310"
@@ -72,6 +72,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-4310"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/0c8366cb792227d484b9ca13e537037dd0cb57dc"
 		},
 		{
 			"type": "PACKAGE",

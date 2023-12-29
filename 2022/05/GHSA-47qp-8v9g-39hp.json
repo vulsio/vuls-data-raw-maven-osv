@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-47qp-8v9g-39hp",
-	"modified": "2023-11-08T03:57:18.775886Z",
+	"modified": "2023-12-28T17:46:37.856318Z",
 	"published": "2022-05-13T01:14:26Z",
 	"aliases": [
 		"CVE-2013-2251"
@@ -73,11 +73,23 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/3cfe34fefedcf0fdcfcb061c0aea34a715b7de6"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/630e1ba065a8215c4e9ac03bfb09be9d655c2b6e"
+		},
+		{
+			"type": "WEB",
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/90392"
 		},
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/apache/struts"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/WW-4140"
 		},
 		{
 			"type": "WEB",
