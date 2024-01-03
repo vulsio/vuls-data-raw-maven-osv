@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mc22-25r3-2w9w",
-	"modified": "2023-11-08T03:58:42.452728Z",
+	"modified": "2024-01-03T10:46:00.424221Z",
 	"published": "2022-05-13T01:40:56Z",
 	"aliases": [
 		"CVE-2017-1000084"
@@ -80,6 +80,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/jenkinsci/parameterized-trigger-plugin/pull/114"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/fbelzunc/parameterized-trigger-plugin/commit/345d54f8f031bef68ecb6fd4e7eee0be720162e4"
 		},
 		{
 			"type": "PACKAGE",
