@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-38hw-368m-7jmg",
-	"modified": "2023-11-08T04:12:37.052748Z",
+	"modified": "2024-01-04T12:19:24.556627Z",
 	"published": "2023-05-16T18:30:16Z",
 	"aliases": [
 		"CVE-2023-32982"
@@ -60,6 +60,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32982"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ansible-plugin/commit/4cbc48657c21a65a917b3b3049918480198c0cfb"
 		},
 		{
 			"type": "WEB",

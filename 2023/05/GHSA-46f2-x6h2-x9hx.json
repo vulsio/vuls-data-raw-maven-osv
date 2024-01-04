@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-46f2-x6h2-x9hx",
-	"modified": "2023-11-08T04:12:37.298318Z",
+	"modified": "2024-01-04T12:19:04.991349Z",
 	"published": "2023-05-16T18:30:16Z",
 	"aliases": [
 		"CVE-2023-32986"
@@ -58,6 +58,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32986"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/file-parameters-plugin/commit/4b7b29d3469dc020ec61a387c0c793c1f1ac31dd"
 		},
 		{
 			"type": "WEB",

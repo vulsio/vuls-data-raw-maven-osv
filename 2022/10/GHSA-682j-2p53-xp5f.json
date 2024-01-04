@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-682j-2p53-xp5f",
-	"modified": "2023-11-08T04:10:43.334160Z",
+	"modified": "2024-01-04T12:33:30.042002Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43423"
@@ -65,6 +65,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43423"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/compuware-scm-downloader-plugin/commit/115f057078baad506e2b34b74f4f0600f81990b3"
 		},
 		{
 			"type": "PACKAGE",

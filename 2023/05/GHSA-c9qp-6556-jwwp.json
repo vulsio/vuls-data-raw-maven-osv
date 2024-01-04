@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c9qp-6556-jwwp",
-	"modified": "2023-11-08T04:12:36.808828Z",
+	"modified": "2024-01-04T12:44:12.468036Z",
 	"published": "2023-05-16T18:30:16Z",
 	"aliases": [
 		"CVE-2023-32978"
@@ -94,6 +94,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32978"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/ldap-plugin/commit/fa64cf6bb002f1b60a45fcd308d45b5a1047e687"
 		},
 		{
 			"type": "WEB",

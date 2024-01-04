@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-64r9-x74q-wxmh",
-	"modified": "2023-11-08T04:10:42.414471Z",
+	"modified": "2024-01-04T12:17:01.368584Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43409"
@@ -141,6 +141,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43409"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/workflow-support-plugin/commit/35e2736cfd5c56799eece176328906d92b6a0dd1"
 		},
 		{
 			"type": "PACKAGE",

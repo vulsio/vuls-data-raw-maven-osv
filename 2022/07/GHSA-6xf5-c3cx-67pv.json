@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xf5-c3cx-67pv",
-	"modified": "2023-11-08T04:10:04.472834Z",
+	"modified": "2024-01-04T12:32:17.667520Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36894"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "64.vc0d66de1dfb"
+							"fixed": "71.v0741865e206f"
 						}
 					]
 				}
@@ -37,9 +37,12 @@
 			"versions": [
 				"1.0.0",
 				"1.0.1",
-				"1.0.2"
+				"1.0.2",
+				"64.vc0d66de1dfb_f",
+				"70.v7214dfdb_32ec"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 64.vc0d66de1dfb",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/07/GHSA-6xf5-c3cx-67pv/GHSA-6xf5-c3cx-67pv.json"
 			}
 		}
@@ -48,6 +51,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36894"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/clif-performance-testing-plugin/commit/0741865e206fdb2fe4cdbad7f9956de3121c7b26"
 		},
 		{
 			"type": "PACKAGE",

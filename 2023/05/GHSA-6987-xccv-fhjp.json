@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6987-xccv-fhjp",
-	"modified": "2023-11-08T04:12:36.990692Z",
+	"modified": "2024-01-04T12:34:04.436661Z",
 	"published": "2023-05-16T18:30:16Z",
 	"aliases": [
 		"CVE-2023-32981"
@@ -89,6 +89,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32981"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/pipeline-utility-steps-plugin/commit/0ba4f329ee27c023609653e25bdd5604c5e46a11"
 		},
 		{
 			"type": "WEB",

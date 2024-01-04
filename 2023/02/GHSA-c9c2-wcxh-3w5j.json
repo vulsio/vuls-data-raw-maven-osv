@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c9c2-wcxh-3w5j",
-	"modified": "2023-11-08T04:11:55.381617Z",
+	"modified": "2024-01-04T12:59:04.024744Z",
 	"published": "2023-02-15T15:30:40Z",
 	"aliases": [
 		"CVE-2023-25765"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "2.93"
+							"fixed": "2.94"
 						}
 					]
 				}
@@ -134,13 +134,16 @@
 				"2.88",
 				"2.89",
 				"2.89.0.1",
+				"2.89.0.2",
 				"2.89.1",
 				"2.90",
 				"2.91",
 				"2.92",
-				"2.93"
+				"2.93",
+				"2.93.1"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 2.93",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/02/GHSA-c9c2-wcxh-3w5j/GHSA-c9c2-wcxh-3w5j.json"
 			}
 		}
@@ -149,6 +152,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25765"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/email-ext-plugin/commit/ffe44a4c1c1830325787d7ef5e9e19ebf9a936f9"
 		},
 		{
 			"type": "PACKAGE",
