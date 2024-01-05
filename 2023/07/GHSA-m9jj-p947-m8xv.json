@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m9jj-p947-m8xv",
-	"modified": "2023-11-08T04:13:05.603969Z",
+	"modified": "2024-01-05T13:47:02.050610Z",
 	"published": "2023-07-12T18:30:38Z",
 	"aliases": [
 		"CVE-2023-37953"
@@ -81,6 +81,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-37953"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/mabl-integration-plugin/commit/4e21f498b0704d62f5a6114fcd8c274a5f440b18"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j896-j72w-cr32",
-	"modified": "2023-11-08T04:10:04.047149Z",
+	"modified": "2024-01-05T13:33:20.525782Z",
 	"published": "2022-07-28T00:00:43Z",
 	"aliases": [
 		"CVE-2022-36887"
@@ -97,6 +97,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36887"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/job-config-history-plugin/commit/536a97b8d649b3114f5db24ea32a7c63188a35c6"
 		},
 		{
 			"type": "WEB",

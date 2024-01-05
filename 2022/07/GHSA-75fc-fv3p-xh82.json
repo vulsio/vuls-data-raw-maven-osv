@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-75fc-fv3p-xh82",
-	"modified": "2023-11-08T04:10:04.596492Z",
+	"modified": "2024-01-05T16:31:01.477499Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36896"
@@ -66,6 +66,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36896"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/compuware-scm-downloader-plugin/commit/bf00665b13641351a9f67027bbe34609cc4f65e2"
 		},
 		{
 			"type": "PACKAGE",

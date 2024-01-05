@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8gc7-whph-rx5q",
-	"modified": "2023-11-08T04:13:05.727909Z",
+	"modified": "2024-01-05T17:01:19.084092Z",
 	"published": "2023-07-12T18:30:38Z",
 	"aliases": [
 		"CVE-2023-37955"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "1.2.13"
+							"fixed": "1.2.16"
 						}
 					]
 				}
@@ -63,6 +63,8 @@
 				"1.2.11",
 				"1.2.12",
 				"1.2.13",
+				"1.2.14",
+				"1.2.15",
 				"1.2.2",
 				"1.2.3",
 				"1.2.4",
@@ -73,6 +75,7 @@
 				"1.2.9"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 1.2.13",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/07/GHSA-8gc7-whph-rx5q/GHSA-8gc7-whph-rx5q.json"
 			}
 		}
@@ -81,6 +84,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-37955"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/test-results-aggregator-plugin/commit/7dc29066d70af52cb3aa143783e8d2cb863fa4f7"
 		},
 		{
 			"type": "WEB",

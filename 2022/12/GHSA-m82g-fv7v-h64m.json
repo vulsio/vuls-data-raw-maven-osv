@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m82g-fv7v-h64m",
-	"modified": "2023-11-08T04:10:57.533485Z",
+	"modified": "2024-01-05T13:46:17.179120Z",
 	"published": "2022-12-12T09:30:35Z",
 	"aliases": [
 		"CVE-2022-46688"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "377.v8f3808963dc5"
+							"fixed": "378.vf4646d4df087"
 						}
 					]
 				}
@@ -69,6 +69,7 @@
 				"377.v8f3808963dc5"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 377.v8f3808963dc5",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/12/GHSA-m82g-fv7v-h64m/GHSA-m82g-fv7v-h64m.json"
 			}
 		}
@@ -77,6 +78,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46688"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/sonar-gerrit-plugin/commit/f4646d4df0870bd06b76de86309bb38fbd929d54"
 		},
 		{
 			"type": "PACKAGE",

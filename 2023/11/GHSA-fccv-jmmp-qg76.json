@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fccv-jmmp-qg76",
-	"modified": "2023-12-21T22:16:22.371265Z",
+	"modified": "2024-01-05T12:46:02.136374Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"BIT-tomcat-2023-46589",
@@ -649,6 +649,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/0rqq6ktozqc42ro8hhxdmmdjm1k1tpxr"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2024/01/msg00001.html"
 		},
 		{
 			"type": "WEB",

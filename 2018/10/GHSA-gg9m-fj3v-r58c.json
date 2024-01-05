@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gg9m-fj3v-r58c",
-	"modified": "2023-11-08T03:59:29.927439Z",
+	"modified": "2024-01-05T16:01:18.871920Z",
 	"published": "2018-10-16T19:37:56Z",
 	"aliases": [
 		"CVE-2017-9805"
@@ -26,7 +26,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "2.1.2"
 						},
 						{
 							"fixed": "2.3.34"
@@ -123,6 +123,14 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/19494718865f2fb7da5ea363de3822f87fbda26"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/6dd6e5cfb7b5e020abffe7e8091bd63fe97c10a"
+		},
+		{
+			"type": "WEB",
 			"url": "https://blogs.apache.org/foundation/entry/apache-struts-statement-on-equifax"
 		},
 		{
@@ -134,8 +142,8 @@
 			"url": "https://cwiki.apache.org/confluence/display/WW/S2-052"
 		},
 		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-gg9m-fj3v-r58c"
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/struts"
 		},
 		{
 			"type": "WEB",
@@ -155,6 +163,14 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://web.archive.org/web/20170909031344/http://www.securityfocus.com/bid/100609"
+		},
+		{
+			"type": "WEB",
+			"url": "https://web.archive.org/web/20170922053119/http://www.securitytracker.com/id/1039263"
+		},
+		{
+			"type": "WEB",
 			"url": "https://www.exploit-db.com/exploits/42627/"
 		},
 		{
@@ -164,14 +180,6 @@
 		{
 			"type": "WEB",
 			"url": "http://www.oracle.com/technetwork/security-advisory/alert-cve-2017-9805-3889403.html"
-		},
-		{
-			"type": "WEB",
-			"url": "http://www.securityfocus.com/bid/100609"
-		},
-		{
-			"type": "WEB",
-			"url": "http://www.securitytracker.com/id/1039263"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f9f9-4r63-4qcc",
-	"modified": "2023-11-08T04:10:42.536971Z",
+	"modified": "2024-01-05T17:16:05.929264Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43411"
@@ -126,6 +126,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43411"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/gitlab-plugin/commit/882f84c6a42b42b74ff7c9803d814f61b8fde0ed"
 		},
 		{
 			"type": "PACKAGE",

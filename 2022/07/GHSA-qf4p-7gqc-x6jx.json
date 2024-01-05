@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qf4p-7gqc-x6jx",
-	"modified": "2023-11-08T04:10:04.533688Z",
+	"modified": "2024-01-05T16:31:37.937800Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36895"
@@ -53,6 +53,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36895"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/compuware-topaz-utilities-plugin/commit/a79f95c7d32ad6a2e161159fa77f371705f3b20d"
 		},
 		{
 			"type": "WEB",

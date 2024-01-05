@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pw4g-jcp5-63m9",
-	"modified": "2023-11-08T04:10:04.412857Z",
+	"modified": "2024-01-05T15:16:00.729482Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36893"
@@ -53,6 +53,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36893"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/rpmsign-plugin/commit/1b136cddf908138864cfe1c9c861114f5d263871"
 		},
 		{
 			"type": "WEB",

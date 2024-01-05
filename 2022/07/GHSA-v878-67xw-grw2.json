@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v878-67xw-grw2",
-	"modified": "2023-11-08T04:10:03.800829Z",
+	"modified": "2024-01-05T16:46:34.714972Z",
 	"published": "2022-07-28T00:00:43Z",
 	"aliases": [
 		"CVE-2022-36883"
@@ -198,6 +198,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36883"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/git-plugin/commit/b46165c74a0bf15e08763de2e506005624d5d238"
 		},
 		{
 			"type": "PACKAGE",

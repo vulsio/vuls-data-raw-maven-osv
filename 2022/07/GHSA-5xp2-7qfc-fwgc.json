@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5xp2-7qfc-fwgc",
-	"modified": "2023-11-08T04:10:04.836794Z",
+	"modified": "2024-01-05T16:46:18.687978Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36900"
@@ -50,6 +50,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-36900"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/compuware-zadviser-api-plugin/commit/0aff2c33476b55b30e1fa9bb0eacf2f9f70ed0a8"
 		},
 		{
 			"type": "WEB",

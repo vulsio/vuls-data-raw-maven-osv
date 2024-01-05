@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g66m-fqxf-3w35",
-	"modified": "2023-11-08T04:10:42.290820Z",
+	"modified": "2024-01-05T17:17:25.416062Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43407"
@@ -69,6 +69,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43407"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/pipeline-input-step-plugin/commit/d8a957db5be95ddfbf81f41a60b2f034000314b5"
 		},
 		{
 			"type": "PACKAGE",

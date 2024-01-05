@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mjmf-7wjw-f5xx",
-	"modified": "2023-11-08T04:12:00.983719Z",
+	"modified": "2024-01-05T13:47:17.986120Z",
 	"published": "2023-05-16T21:30:22Z",
 	"aliases": [
 		"CVE-2023-2631"
@@ -65,6 +65,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2631"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/codedx-plugin/commit/0214f30488ea8481f01e4b14a861e13d75bebb8b"
 		},
 		{
 			"type": "WEB",

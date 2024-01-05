@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q6f6-6c4p-xph4",
-	"modified": "2023-11-08T04:10:42.842608Z",
+	"modified": "2024-01-05T15:27:08.962030Z",
 	"published": "2022-10-19T19:00:18Z",
 	"aliases": [
 		"CVE-2022-43416"
@@ -71,6 +71,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43416"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/katalon-plugin/commit/0ee4b34afdcba367b547aa0a706cb1c66ac9f45a"
 		},
 		{
 			"type": "WEB",

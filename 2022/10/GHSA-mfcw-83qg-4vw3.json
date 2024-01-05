@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mfcw-83qg-4vw3",
-	"modified": "2023-11-08T04:10:43.395972Z",
+	"modified": "2024-01-05T13:46:48.274144Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43424"
@@ -53,6 +53,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43424"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/compuware-xpediter-code-coverage-plugin/commit/e506fc9e77a2609f6a5aa331e052d35be652071c"
 		},
 		{
 			"type": "PACKAGE",

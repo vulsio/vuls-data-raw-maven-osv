@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-298r-5c48-7q2r",
-	"modified": "2023-11-08T04:10:51.554830Z",
+	"modified": "2024-01-05T17:16:22.377891Z",
 	"published": "2022-11-16T12:00:22Z",
 	"aliases": [
 		"CVE-2022-45380"
@@ -130,6 +130,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-45380"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/junit-plugin/commit/f1f01aaeab7fa35017112f6163b89283390f5da8"
 		},
 		{
 			"type": "PACKAGE",
