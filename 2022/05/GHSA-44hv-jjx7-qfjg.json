@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-44hv-jjx7-qfjg",
-	"modified": "2023-11-08T03:58:33.223638Z",
+	"modified": "2024-01-04T20:46:01.618810Z",
 	"published": "2022-05-14T00:54:13Z",
 	"aliases": [
 		"CVE-2016-6795"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.struts:struts2-core",
-				"purl": "pkg:maven/org.apache.struts/struts2-core"
+				"name": "org.apache.struts:struts2-convention-plugin",
+				"purl": "pkg:maven/org.apache.struts/struts2-convention-plugin"
 			},
 			"ranges": [
 				{
@@ -74,8 +74,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.struts:struts2-core",
-				"purl": "pkg:maven/org.apache.struts/struts2-core"
+				"name": "org.apache.struts:struts2-convention-plugin",
+				"purl": "pkg:maven/org.apache.struts/struts2-convention-plugin"
 			},
 			"ranges": [
 				{
@@ -107,6 +107,18 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/8e67b9144aa643769b261e2492cb561e04d016ab"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/c1869f4989942dd33fa4e189e0ac1f766fb5ac14"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/struts"
+		},
+		{
+			"type": "WEB",
 			"url": "https://security.netapp.com/advisory/ntap-20180629-0003/"
 		},
 		{
@@ -115,7 +127,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.securityfocus.com/bid/93773"
+			"url": "https://web.archive.org/web/20200227214705/http://www.securityfocus.com/bid/93773"
 		}
 	],
 	"database_specific": {

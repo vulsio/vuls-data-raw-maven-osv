@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j77q-2qqg-6989",
-	"modified": "2023-11-08T03:59:22.308840Z",
+	"modified": "2024-01-04T23:04:24.664262Z",
 	"published": "2018-10-18T19:24:26Z",
 	"aliases": [
 		"CVE-2017-5638"
@@ -101,7 +101,7 @@
 				"2.5.8"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 2.5.10.0",
+				"last_known_affected_version_range": "<= 2.5.10",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/10/GHSA-j77q-2qqg-6989/GHSA-j77q-2qqg-6989.json"
 			}
 		}
@@ -114,6 +114,14 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/rapid7/metasploit-framework/issues/8064"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/352306493971e7d5a756d61780d57a76eb1f519a"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/b06dd50af2a3319dd896bf5c2f4972d2b772cf2b"
 		},
 		{
 			"type": "WEB",
@@ -142,6 +150,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://github.com/advisories/GHSA-j77q-2qqg-6989"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/struts"
 		},
 		{
 			"type": "WEB",
@@ -205,6 +217,14 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://web.archive.org/web/20170311203630/http://www.securityfocus.com/bid/96729"
+		},
+		{
+			"type": "WEB",
+			"url": "https://web.archive.org/web/20170921030226/http://www.securitytracker.com/id/1037973"
+		},
+		{
+			"type": "WEB",
 			"url": "https://www.exploit-db.com/exploits/41614/"
 		},
 		{
@@ -238,14 +258,6 @@
 		{
 			"type": "WEB",
 			"url": "http://www.oracle.com/technetwork/security-advisory/cpujul2017-3236622.html"
-		},
-		{
-			"type": "WEB",
-			"url": "http://www.securityfocus.com/bid/96729"
-		},
-		{
-			"type": "WEB",
-			"url": "http://www.securitytracker.com/id/1037973"
 		}
 	],
 	"database_specific": {

@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m5hf-m3r2-xq53",
-	"modified": "2024-01-03T16:41:32.606835Z",
+	"modified": "2024-01-04T22:16:04.957859Z",
 	"published": "2023-12-27T21:31:01Z",
 	"aliases": [
 		"CVE-2023-51080"
 	],
 	"summary": "hutool-core was discovered to contain a stack overflow via NumberUtil.toBigDecimal method",
 	"details": "The NumberUtil.toBigDecimal method in hutool-core v5.8.23 was discovered to contain a stack overflow.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -241,10 +247,12 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-787"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T16:22:55Z",
 		"nvd_published_at": "2023-12-27T21:15:08Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }
