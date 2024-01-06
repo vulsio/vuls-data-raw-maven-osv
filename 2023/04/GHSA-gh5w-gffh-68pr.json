@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gh5w-gffh-68pr",
-	"modified": "2023-11-08T04:12:24.373571Z",
+	"modified": "2024-01-05T17:31:03.914637Z",
 	"published": "2023-04-12T18:30:36Z",
 	"aliases": [
 		"CVE-2023-30529"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "387.v938a"
+							"fixed": "398.v3dfa_cb_223984"
 						}
 					]
 				}
@@ -51,6 +51,8 @@
 				"3.0",
 				"358.vf0bb3a3ef215",
 				"370.v62a5f618cd3a",
+				"387.v938a_ecb_f7fe9",
+				"389.v52a_ec2810b_ca",
 				"4.0",
 				"4.1",
 				"4.2",
@@ -60,6 +62,7 @@
 				"5.1"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 387.v938a",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/04/GHSA-gh5w-gffh-68pr/GHSA-gh5w-gffh-68pr.json"
 			}
 		}
@@ -68,6 +71,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30529"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/lucene-search-plugin/commit/828f79fedbe3da08b17937a85b98b5d7f499a8dd"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/lucene-search-plugin/commit/ffd691642b8dda63b55cfc7e73993336554dbcb2"
 		},
 		{
 			"type": "WEB",

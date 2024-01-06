@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-49jp-cghc-p5pj",
-	"modified": "2024-01-03T22:11:28.395373Z",
+	"modified": "2024-01-05T22:31:01.887292Z",
 	"published": "2023-12-30T06:30:28Z",
 	"aliases": [
 		"CVE-2023-41544"
@@ -64,7 +64,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-94"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T21:49:53Z",
 		"nvd_published_at": "2023-12-30T04:15:08Z",

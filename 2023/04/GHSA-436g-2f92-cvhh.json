@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-436g-2f92-cvhh",
-	"modified": "2023-11-08T04:12:12.989851Z",
+	"modified": "2024-01-05T17:31:41.925909Z",
 	"published": "2023-04-02T21:30:17Z",
 	"aliases": [
 		"CVE-2023-28668"
@@ -94,6 +94,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-28668"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/role-strategy-plugin/commit/850a20a3016276d0c0ba4898a876c113a9191da4"
 		},
 		{
 			"type": "WEB",

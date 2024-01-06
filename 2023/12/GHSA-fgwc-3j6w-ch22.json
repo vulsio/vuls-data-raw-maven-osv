@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fgwc-3j6w-ch22",
-	"modified": "2023-12-29T19:56:53.969032Z",
+	"modified": "2024-01-05T19:49:32Z",
 	"published": "2023-12-29T15:30:37Z",
 	"aliases": [
 		"CVE-2023-50571"
 	],
 	"summary": "easy-rules-mvel vulnerable to remote code execution",
 	"details": "easy-rules-mvel v4.1.0 was discovered to contain a remote code execution (RCE) vulnerability via the component `mVELRule`.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -42,6 +48,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-29T19:42:00Z",
 		"nvd_published_at": "2023-12-29T15:15:09Z",
-		"severity": "CRITICAL"
+		"severity": "HIGH"
 	}
 }
