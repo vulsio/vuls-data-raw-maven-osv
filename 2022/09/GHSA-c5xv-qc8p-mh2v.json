@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c5xv-qc8p-mh2v",
-	"modified": "2023-11-08T04:10:11.925123Z",
+	"modified": "2024-01-08T16:02:58.043147Z",
 	"published": "2022-09-23T00:00:39Z",
 	"aliases": [
 		"CVE-2022-38398"
@@ -67,6 +67,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.debian.org/debian-lts-announce/2023/10/msg00021.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-11"
 		}
 	],
 	"database_specific": {

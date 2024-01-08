@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5v9r-788c-wc8p",
-	"modified": "2024-01-03T21:58:13.555749Z",
+	"modified": "2024-01-08T15:21:04.744497Z",
 	"published": "2023-12-30T03:30:19Z",
 	"aliases": [
 		"CVE-2023-41542"
 	],
 	"summary": "Jeecg Boot SQL injection vulnerability",
 	"details": "SQL injection vulnerability in jeecg-boot version 3.5.3, allows remote attackers to escalate privileges and obtain sensitive information via the jmreport/qurestSql component.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -58,10 +64,12 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-89"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-03T21:30:51Z",
 		"nvd_published_at": "2023-12-30T02:15:08Z",
-		"severity": "MODERATE"
+		"severity": "CRITICAL"
 	}
 }

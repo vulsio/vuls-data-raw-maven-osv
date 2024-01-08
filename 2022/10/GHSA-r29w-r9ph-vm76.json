@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r29w-r9ph-vm76",
-	"modified": "2023-11-08T04:10:31.558489Z",
+	"modified": "2024-01-08T16:17:06.787354Z",
 	"published": "2022-10-25T19:00:29Z",
 	"aliases": [
 		"CVE-2022-41704"
@@ -68,6 +68,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.debian.org/debian-lts-announce/2022/10/msg00038.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-11"
 		},
 		{
 			"type": "WEB",

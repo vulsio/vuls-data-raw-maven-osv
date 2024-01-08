@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cmx4-p4v5-hmr5",
-	"modified": "2023-11-08T04:01:24.557665Z",
+	"modified": "2024-01-08T15:15:58.002157Z",
 	"published": "2022-02-09T00:46:46Z",
 	"aliases": [
 		"CVE-2019-17566"
@@ -64,11 +64,23 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/rab94fe68b180d2e2fba97abf6fe1ec83cff826be25f86cd90f047171%40%3Ccommits.myfaces.apache.org%3E"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.apache.org/thread.html/rab94fe68b180d2e2fba97abf6fe1ec83cff826be25f86cd90f047171@%3Ccommits.myfaces.apache.org%3E"
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/rcab14a9ec91aa4c151e0729966282920423eff50a22759fd21db6509%40%3Ccommits.myfaces.apache.org%3E"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.apache.org/thread.html/rcab14a9ec91aa4c151e0729966282920423eff50a22759fd21db6509@%3Ccommits.myfaces.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-11"
 		},
 		{
 			"type": "WEB",

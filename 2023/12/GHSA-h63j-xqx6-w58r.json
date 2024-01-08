@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h63j-xqx6-w58r",
-	"modified": "2023-12-28T17:12:16.141417Z",
+	"modified": "2024-01-08T15:54:10Z",
 	"published": "2023-12-27T21:31:01Z",
 	"aliases": [
 		"CVE-2023-51079"
 	],
 	"summary": "mvel2 TimeOut error exists in the ParseTools.subCompileExpression method",
 	"details": "A TimeOut error exists in the ParseTools.subCompileExpression method in mvel2 v2.5.0 Final.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+		}
+	],
 	"affected": [
 		{
 			"package": {
