@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wjxj-5m7g-mg7q",
-	"modified": "2023-12-05T22:16:26.838813Z",
+	"modified": "2024-01-09T19:01:25.383616Z",
 	"published": "2023-11-23T18:30:33Z",
 	"aliases": [
 		"CVE-2023-33202"
@@ -20,6 +20,34 @@
 				"ecosystem": "Maven",
 				"name": "org.bouncycastle:bcprov-jdk18on",
 				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk18on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.73"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.71",
+				"1.71.1",
+				"1.72"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcpkix-jdk18on",
+				"purl": "pkg:maven/org.bouncycastle/bcpkix-jdk18on"
 			},
 			"ranges": [
 				{

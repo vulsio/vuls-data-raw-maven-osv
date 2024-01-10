@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mvc8-6ffp-jrx5",
-	"modified": "2023-12-20T21:59:23.355626Z",
+	"modified": "2024-01-09T20:38:53.666705Z",
 	"published": "2023-12-09T03:30:15Z",
 	"aliases": [
 		"CVE-2023-6394"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "io.quarkus:quarkus-smallrye-graphql-client-parent",
-				"purl": "pkg:maven/io.quarkus/quarkus-smallrye-graphql-client-parent"
+				"name": "io.quarkus:quarkus-smallrye-graphql-client",
+				"purl": "pkg:maven/io.quarkus/quarkus-smallrye-graphql-client"
 			},
 			"ranges": [
 				{
@@ -110,8 +110,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "io.quarkus:quarkus-smallrye-graphql-client-parent",
-				"purl": "pkg:maven/io.quarkus/quarkus-smallrye-graphql-client-parent"
+				"name": "io.quarkus:quarkus-smallrye-graphql-client",
+				"purl": "pkg:maven/io.quarkus/quarkus-smallrye-graphql-client"
 			},
 			"ranges": [
 				{
