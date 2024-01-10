@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cg6q-gp23-vwx8",
-	"modified": "2024-01-09T22:16:05.893081Z",
+	"modified": "2024-01-09T22:26:40.656209Z",
 	"published": "2022-05-13T01:18:46Z",
+	"aliases": [
+		"CVE-2018-1000423"
+	],
 	"summary": "Jenkins Crowd 2 Integration Plugin stored credentials in plain text ",
 	"details": "An insufficiently protected credentials vulnerability exists in Jenkins Crowd 2 Integration Plugin 2.0.0 and earlier in CrowdSecurityRealm.java, CrowdConfigurationService.java that allows attackers with local file system access to obtain the credentials used to connect to Crowd 2.",
 	"severity": [
