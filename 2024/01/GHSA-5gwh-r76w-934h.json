@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5gwh-r76w-934h",
-	"modified": "2024-01-09T19:41:30.616140Z",
+	"modified": "2024-01-12T22:49:12.664905Z",
 	"published": "2024-01-09T09:30:29Z",
 	"aliases": [
 		"CVE-2023-6149"
@@ -67,6 +67,10 @@
 		{
 			"type": "WEB",
 			"url": "https://www.qualys.com/security-advisories/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.qualys.com/security-advisories/cve-2023-6149/"
 		}
 	],
 	"database_specific": {
