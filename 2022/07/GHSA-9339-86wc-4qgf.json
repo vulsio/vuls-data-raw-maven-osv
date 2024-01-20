@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9339-86wc-4qgf",
-	"modified": "2023-11-08T04:09:41.985698Z",
+	"modified": "2024-01-19T19:46:35.477007Z",
 	"published": "2022-07-20T00:00:18Z",
 	"aliases": [
 		"CVE-2022-34169"
@@ -136,6 +136,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/YULPNO3PAWMEQQZV2C54I3H3ZOXFZUTB/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-25"
 		},
 		{
 			"type": "WEB",

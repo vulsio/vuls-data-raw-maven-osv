@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-599f-7c49-w659",
-	"modified": "2023-11-08T04:10:40.254210Z",
+	"modified": "2024-01-19T21:02:23.425007Z",
 	"published": "2022-10-13T19:00:17Z",
 	"aliases": [
 		"CVE-2022-42889"
@@ -552,6 +552,10 @@
 		{
 			"type": "WEB",
 			"url": "http://packetstormsecurity.com/files/171003/OX-App-Suite-Cross-Site-Scripting-Server-Side-Request-Forgery.html"
+		},
+		{
+			"type": "WEB",
+			"url": "http://packetstormsecurity.com/files/176650/Apache-Commons-Text-1.9-Remote-Code-Execution.html"
 		},
 		{
 			"type": "WEB",
