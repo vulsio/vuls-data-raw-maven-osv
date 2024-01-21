@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qphf-w3cq-jpmx",
-	"modified": "2024-01-12T18:02:31.886917Z",
+	"modified": "2024-01-21T05:16:00.968607Z",
 	"published": "2023-12-29T15:30:37Z",
 	"summary": "IPAddress Infinite Loop vulnerability (Disputed)",
 	"details": "An issue in the component IPAddressBitsDivision of IPAddress v5.1.0 leads to an infinite loop.",
@@ -73,6 +73,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/seancfoley/IPAddress/issues/118#issuecomment-1876043773"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/github/advisory-database/pull/3279"
 		},
 		{
 			"type": "PACKAGE",
