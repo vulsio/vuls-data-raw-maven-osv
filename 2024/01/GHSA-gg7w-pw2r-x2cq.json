@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gg7w-pw2r-x2cq",
-	"modified": "2024-01-22T21:46:04.105531Z",
+	"modified": "2024-01-23T08:12:33.054980Z",
 	"published": "2024-01-15T12:30:19Z",
 	"aliases": [
+		"BIT-solr-2023-50290",
 		"CVE-2023-50290"
 	],
 	"summary": "Apache Solr allows read access to host environmet variables",
