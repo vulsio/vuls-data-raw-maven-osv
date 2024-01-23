@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pwh8-58vv-vw48",
-	"modified": "2023-11-10T18:49:16.338493Z",
+	"modified": "2024-01-22T20:46:35.563230Z",
 	"published": "2023-09-15T13:36:10Z",
 	"aliases": [
 		"CVE-2023-41900"
@@ -189,7 +189,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-1390"
+			"CWE-1390",
+			"CWE-287"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-09-15T13:36:10Z",

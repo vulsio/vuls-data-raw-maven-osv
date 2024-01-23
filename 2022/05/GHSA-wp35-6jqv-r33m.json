@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wp35-6jqv-r33m",
-	"modified": "2023-11-08T03:58:30.408272Z",
+	"modified": "2024-01-22T19:46:16.475626Z",
 	"published": "2022-05-14T01:53:10Z",
 	"aliases": [
 		"CVE-2016-5002"
@@ -63,6 +63,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-26"
+		},
+		{
+			"type": "WEB",
 			"url": "https://web.archive.org/web/20210123151805/http://www.securityfocus.com/bid/91736"
 		},
 		{
@@ -76,6 +80,14 @@
 		{
 			"type": "WEB",
 			"url": "http://www.openwall.com/lists/oss-security/2016/07/12/5"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.securityfocus.com/bid/91736"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.securitytracker.com/id/1036294"
 		}
 	],
 	"database_specific": {

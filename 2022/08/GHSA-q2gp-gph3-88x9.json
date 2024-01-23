@@ -1,10 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q2gp-gph3-88x9",
-	"modified": "2023-04-11T01:43:38.890448Z",
+	"modified": "2024-01-22T21:15:59.053479Z",
 	"published": "2022-08-06T00:00:42Z",
 	"summary": "Keycloak allows arbitrary Javascript to be uploaded for SAML protocol mapper even if UPLOAD_SCRIPTS feature disabled",
-	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of [GHSA-wf7g-7h6h-678v]https://github.com/advisories/GHSA-wf7g-7h6h-678v). This link is maintained to preserve external references.\n\n## Original Description\nAn issue was discovered in Keycloak that allows arbitrary Javascript to be uploaded for the SAML protocol mapper even if the UPLOAD_SCRIPTS feature is disabled.",
+	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of [GHSA-wf7g-7h6h-678v](https://github.com/advisories/GHSA-wf7g-7h6h-678v). This link is maintained to preserve external references.\n\n## Original Description\nAn issue was discovered in Keycloak that allows arbitrary Javascript to be uploaded for the SAML protocol mapper even if the UPLOAD_SCRIPTS feature is disabled.",
 	"severity": [
 		{
 			"type": "CVSS_V3",

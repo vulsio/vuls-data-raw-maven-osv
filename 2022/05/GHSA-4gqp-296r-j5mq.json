@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4gqp-296r-j5mq",
-	"modified": "2023-11-08T03:58:30.468122Z",
+	"modified": "2024-01-22T19:46:02.741697Z",
 	"published": "2022-05-14T01:53:10Z",
 	"aliases": [
 		"CVE-2016-5003"
@@ -91,6 +91,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-26"
+		},
+		{
+			"type": "WEB",
 			"url": "https://web.archive.org/web/20160716070844/http://www.securitytracker.com/id/1036294"
 		},
 		{
@@ -112,6 +116,18 @@
 		{
 			"type": "WEB",
 			"url": "https://www.openwall.com/lists/oss-security/2020/01/24/2"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2016/07/12/5"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2020/01/16/1"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2020/01/24/2"
 		}
 	],
 	"database_specific": {
