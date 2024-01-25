@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f67f-2j6r-m4c9",
-	"modified": "2024-01-24T22:12:22.003001Z",
+	"modified": "2024-01-24T22:27:01.609015Z",
 	"published": "2024-01-24T18:31:02Z",
+	"aliases": [
+		"CVE-2024-23903"
+	],
 	"summary": "Non-constant time webhook token comparison in Jenkins GitLab Branch Source Plugin ",
 	"details": "Jenkins GitLab Branch Source Plugin 684.vea_fa_7c1e2fe3 and earlier uses a non-constant time comparison function when checking whether the provided and expected webhook token are equal, potentially allowing attackers to use statistical methods to obtain a valid webhook token.",
 	"affected": [

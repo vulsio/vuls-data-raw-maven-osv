@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4446-656p-f54g",
-	"modified": "2023-11-08T03:59:39.637912Z",
+	"modified": "2024-01-25T03:46:25.961867Z",
 	"published": "2018-10-17T16:23:12Z",
 	"aliases": [
 		"CVE-2018-1000613"
@@ -68,6 +68,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/bcgit/bc-java"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/rf1bbc0ea4a9f014cf94df9a12a6477d24a27f52741dbc87f2fd52ff2%40%3Cissues.geode.apache.org%3E"
 		},
 		{
 			"type": "WEB",
