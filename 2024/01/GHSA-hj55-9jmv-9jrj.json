@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hj55-9jmv-9jrj",
-	"modified": "2024-01-22T21:56:52.098552Z",
+	"modified": "2024-01-26T20:31:01.402586Z",
 	"published": "2024-01-19T21:30:36Z",
 	"aliases": [
 		"CVE-2024-23682"
 	],
 	"summary": "Sandbox escape in Artemis Java Test Sandbox",
 	"details": "Artemis Java Test Sandbox versions before 1.8.0 are vulnerable to a sandbox escape when an attacker includes class files in a package that Ares trusts. An attacker can abuse this issue to execute arbitrary Java when a victim executes the supposedly sandboxed code.\n\n\n",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -105,6 +111,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-22T21:31:04Z",
 		"nvd_published_at": "2024-01-19T21:15:10Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }

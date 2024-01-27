@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hv5g-q4h3-64q4",
-	"modified": "2024-01-23T14:56:36.953675Z",
+	"modified": "2024-01-26T19:58:39Z",
 	"published": "2024-01-19T21:30:37Z",
 	"aliases": [
 		"CVE-2024-23685"
 	],
 	"summary": "Hard-coded credentials in org.folio:mod-remote-storage",
 	"details": "Hard-coded credentials in mod-remote-storage versions under 1.7.2 and from 2.0.0 to 2.0.3 allows unauthorized users to gain read access to mod-inventory-storage records including instances, holdings, items, contributor-types, and identifier-types.\n\n\n",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -87,7 +93,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-798"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-23T14:35:53Z",
 		"nvd_published_at": "2024-01-19T21:15:10Z",
