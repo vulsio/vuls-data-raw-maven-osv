@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53ph-2r2x-vqw8",
-	"modified": "2024-01-26T02:11:58.405203Z",
+	"modified": "2024-01-29T22:31:05.555598Z",
 	"published": "2024-01-24T18:31:02Z",
 	"aliases": [
 		"CVE-2024-23898"
@@ -20,15 +20,21 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "2.222.1"
+							"introduced": "2.217"
 						},
 						{
-							"fixed": "2.427"
+							"fixed": "2.426.3"
 						}
 					]
 				}
 			],
 			"versions": [
+				"2.217",
+				"2.218",
+				"2.219",
+				"2.220",
+				"2.221",
+				"2.222",
 				"2.222.1",
 				"2.222.3",
 				"2.222.4",
@@ -282,6 +288,61 @@
 				"2.426",
 				"2.426.1",
 				"2.426.2"
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "<= 2.426.2",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-53ph-2r2x-vqw8/GHSA-53ph-2r2x-vqw8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.jenkins-ci.main:jenkins-core",
+				"purl": "pkg:maven/org.jenkins-ci.main/jenkins-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.427"
+						},
+						{
+							"fixed": "2.442"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.427",
+				"2.428",
+				"2.429",
+				"2.430",
+				"2.431",
+				"2.432",
+				"2.433",
+				"2.434",
+				"2.435",
+				"2.436",
+				"2.437",
+				"2.438",
+				"2.439",
+				"2.440",
+				"2.441"
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "<= 2.440",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-53ph-2r2x-vqw8/GHSA-53ph-2r2x-vqw8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.jenkins-ci.main:jenkins-core",
+				"purl": "pkg:maven/org.jenkins-ci.main/jenkins-core"
+			},
+			"versions": [
+				"2.441"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/01/GHSA-53ph-2r2x-vqw8/GHSA-53ph-2r2x-vqw8.json"
