@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-63vw-rprv-4f8j",
-	"modified": "2024-01-30T23:17:46.662246Z",
+	"modified": "2024-01-30T23:26:45.503080Z",
 	"published": "2023-09-06T15:30:26Z",
+	"aliases": [
+		"CVE-2023-41938"
+	],
 	"summary": "CSRF vulnerability in Jenkins Ivy Plugin",
 	"details": "A cross-site request forgery (CSRF) vulnerability in Jenkins Ivy Plugin 2.5 and earlier allows attackers to delete disabled modules.",
 	"severity": [

@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c7r5-cww9-64q6",
-	"modified": "2024-01-30T23:16:57.240983Z",
+	"modified": "2024-01-30T23:26:45.181164Z",
 	"published": "2023-09-06T15:30:26Z",
+	"aliases": [
+		"CVE-2023-41930"
+	],
 	"summary": "Path traversal in Jenkins Job Configuration History Plugin",
 	"details": "Jenkins Job Configuration History Plugin 1227.v7a_79fc4dc01f and earlier does not restrict the 'name' query parameter when rendering a history entry, allowing attackers to have Jenkins render a manipulated configuration history that was not created by the plugin.",
 	"severity": [

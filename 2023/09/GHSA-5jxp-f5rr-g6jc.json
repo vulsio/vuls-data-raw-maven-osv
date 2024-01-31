@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5jxp-f5rr-g6jc",
-	"modified": "2024-01-30T23:16:51.589422Z",
+	"modified": "2024-01-30T23:26:45.247210Z",
 	"published": "2023-09-06T15:30:26Z",
+	"aliases": [
+		"CVE-2023-41931"
+	],
 	"summary": "XSS vulnerability in Jenkins Job Configuration History Plugin",
 	"details": "Jenkins Job Configuration History Plugin 1227.v7a_79fc4dc01f and earlier does not property sanitize or escape the timestamp value from history entries when rendering a history entry on the history view, resulting in a stored cross-site scripting (XSS) vulnerability.",
 	"severity": [

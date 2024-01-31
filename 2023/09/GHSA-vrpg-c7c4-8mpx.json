@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vrpg-c7c4-8mpx",
-	"modified": "2024-01-30T23:16:33.692892Z",
+	"modified": "2024-01-30T23:26:45.437685Z",
 	"published": "2023-09-06T15:30:26Z",
+	"aliases": [
+		"CVE-2023-41937"
+	],
 	"summary": "SSRF vulnerability in Jenkins Bitbucket Push and Pull Request Plugin allows capturing credentials",
 	"details": "Jenkins Bitbucket Push and Pull Request Plugin 2.4.0 through 2.8.3 (both inclusive) trusts values provided in the webhook payload, including certain URLs, and uses configured Bitbucket credentials to connect to those URLs, allowing attackers to capture Bitbucket credentials stored in Jenkins by sending a crafted webhook payload.",
 	"severity": [

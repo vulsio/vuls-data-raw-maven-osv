@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vcgj-j8c5-2h52",
-	"modified": "2024-01-30T23:19:18.268944Z",
+	"modified": "2024-01-30T23:26:44.512430Z",
 	"published": "2022-05-13T01:36:52Z",
+	"aliases": [
+		"CVE-2017-2649"
+	],
 	"summary": "Jenkins Active Directory Plugin did not verify certificate of AD server",
 	"details": "It was found that the Active Directory Plugin for Jenkins up to and including version 2.2 did not verify certificates of the Active Directory server, thereby enabling Man-in-the-Middle attacks.",
 	"severity": [

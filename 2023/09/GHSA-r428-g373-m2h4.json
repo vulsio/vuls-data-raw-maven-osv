@@ -1,17 +1,17 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-whgj-6m78-2gg9",
-	"modified": "2024-01-30T23:26:45.051448Z",
-	"published": "2023-06-14T15:30:37Z",
+	"id": "GHSA-r428-g373-m2h4",
+	"modified": "2024-01-30T23:41:35.829103Z",
+	"published": "2023-09-06T15:30:26Z",
 	"aliases": [
-		"CVE-2023-35147"
+		"CVE-2023-41943"
 	],
-	"summary": "Arbitrary file read vulnerability in Jenkins AWS CodeCommit Trigger Plugin",
-	"details": "Jenkins AWS CodeCommit Trigger Plugin 3.0.12 and earlier does not restrict the AWS SQS queue name path parameter in an HTTP endpoint, allowing attackers with Item/Read permission to obtain the contents of arbitrary files on the Jenkins controller file system.",
+	"summary": "Missing permission check in Jenkins AWS CodeCommit Trigger Plugin ",
+	"details": "Jenkins AWS CodeCommit Trigger Plugin 3.0.12 and earlier does not perform a permission check in an HTTP endpoint, allowing attackers with Overall/Read permission to clear the SQS queue.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H"
 		}
 	],
 	"affected": [
@@ -73,31 +73,31 @@
 				"3.0.7"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/06/GHSA-whgj-6m78-2gg9/GHSA-whgj-6m78-2gg9.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/09/GHSA-r428-g373-m2h4/GHSA-r428-g373-m2h4.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-35147"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-41943"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.jenkins.io/security/advisory/2023-06-14/#SECURITY-3099"
+			"url": "https://www.jenkins.io/security/advisory/2023-09-06/#SECURITY-3101%20(2)"
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.openwall.com/lists/oss-security/2023/06/14/5"
+			"url": "http://www.openwall.com/lists/oss-security/2023/09/06/9"
 		}
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-732"
+			"CWE-862"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2024-01-30T23:02:36Z",
-		"nvd_published_at": "2023-06-14T13:15:12Z",
+		"github_reviewed_at": "2024-01-30T23:19:34Z",
+		"nvd_published_at": "2023-09-06T13:15:11Z",
 		"severity": "MODERATE"
 	}
 }

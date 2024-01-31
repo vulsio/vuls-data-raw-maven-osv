@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rr3p-5fcf-v5m3",
-	"modified": "2024-01-30T23:18:08.741327Z",
+	"modified": "2024-01-30T23:26:44.848466Z",
 	"published": "2023-06-14T15:30:37Z",
+	"aliases": [
+		"CVE-2023-35142"
+	],
 	"summary": "SSL/TLS certificate validation disabled by default in Jenkins Checkmarx Plugin",
 	"details": "Jenkins Checkmarx Plugin 2022.4.3 and earlier disables SSL/TLS validation for connections to the Checkmarx server by default.",
 	"severity": [

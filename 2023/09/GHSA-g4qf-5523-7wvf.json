@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g4qf-5523-7wvf",
-	"modified": "2024-01-30T23:18:11.188824Z",
+	"modified": "2024-01-30T23:26:45.627756Z",
 	"published": "2023-09-06T15:30:26Z",
+	"aliases": [
+		"CVE-2023-41944"
+	],
 	"summary": "HTML injection vulnerability in Jenkins AWS CodeCommit Trigger Plugin",
 	"details": "Jenkins AWS CodeCommit Trigger Plugin 3.0.12 and earlier does not escape the queue name parameter passed to a form validation URL, when rendering an error message, resulting in an HTML injection vulnerability.",
 	"severity": [

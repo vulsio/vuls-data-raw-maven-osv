@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pvjf-4hfg-wr84",
-	"modified": "2024-01-30T23:18:44.405905Z",
+	"modified": "2024-01-30T23:26:45.118281Z",
 	"published": "2023-07-26T15:30:57Z",
+	"aliases": [
+		"CVE-2023-39152"
+	],
 	"summary": "Incorrect control flow in Jenkins Gradle Plugin breaks credentials masking in the build log",
 	"details": "Always-incorrect control flow implementation in Jenkins Gradle Plugin 2.8 may result in credentials not being masked (i.e., replaced with asterisks) in the build log in some circumstances.",
 	"severity": [

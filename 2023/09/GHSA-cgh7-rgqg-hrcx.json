@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cgh7-rgqg-hrcx",
-	"modified": "2024-01-30T23:16:14.764436Z",
+	"modified": "2024-01-30T23:26:45.314474Z",
 	"published": "2023-09-06T15:30:26Z",
+	"aliases": [
+		"CVE-2023-41932"
+	],
 	"summary": "Path traversal allows exploiting XXE vulnerability in Jenkins Job Configuration History Plugin",
 	"details": "Jenkins Job Configuration History Plugin 1227.v7a_79fc4dc01f and earlier does not restrict 'timestamp' query parameters in multiple endpoints, allowing attackers with to delete attacker-specified directories on the Jenkins controller file system as long as they contain a file called 'history.xml'.",
 	"severity": [

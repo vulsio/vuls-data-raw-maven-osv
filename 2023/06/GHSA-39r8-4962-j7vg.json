@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-39r8-4962-j7vg",
-	"modified": "2024-01-30T23:18:46.818659Z",
+	"modified": "2024-01-30T23:26:44.986083Z",
 	"published": "2023-06-14T15:30:37Z",
+	"aliases": [
+		"CVE-2023-35144"
+	],
 	"summary": "Stored XSS vulnerability in Jenkins Maven Repository Server Plugin",
 	"details": "Jenkins Maven Repository Server Plugin 1.10 and earlier does not escape project and build display names on the Build Artifacts As Maven Repository page, resulting in a stored cross-site scripting (XSS) vulnerability.",
 	"severity": [

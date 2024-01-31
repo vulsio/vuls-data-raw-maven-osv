@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8hc6-w44m-wfxf",
-	"modified": "2024-01-30T23:16:35.681208Z",
+	"modified": "2024-01-30T23:26:44.781082Z",
 	"published": "2023-07-19T18:30:56Z",
+	"aliases": [
+		"CVE-2023-32263"
+	],
 	"summary": "Potential leak of credentials in Micro Focus Dimensions CM Jenkins Plugin",
 	"details": "A potential vulnerability has been identified in the Micro Focus Dimensions CM Plugin for Jenkins. The vulnerability could be exploited to retrieve a login certificate if an authenticated user is duped into using an attacker-controlled Dimensions CM server.  This vulnerability only applies when the Jenkins plugin is configured to use login certificate credentials.\n",
 	"severity": [
