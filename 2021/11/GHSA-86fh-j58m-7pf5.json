@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-86fh-j58m-7pf5",
-	"modified": "2023-11-08T04:06:13.218569Z",
+	"modified": "2024-01-31T15:13:11Z",
 	"published": "2021-11-23T17:57:14Z",
 	"aliases": [
 		"CVE-2021-36372"
@@ -43,6 +43,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-36372"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/ozone"
 		},
 		{
 			"type": "WEB",

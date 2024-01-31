@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-grc3-8q8m-4j7c",
-	"modified": "2024-01-22T20:46:04.256058Z",
+	"modified": "2024-01-31T15:26:01.366984Z",
 	"published": "2022-02-09T22:37:59Z",
 	"aliases": [
 		"CVE-2020-17533"
@@ -98,6 +98,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/apache/accumulo/commit/877ad502f6857e48342664e4b0ce83db74e4cda4"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/accumulo"
 		},
 		{
 			"type": "WEB",
