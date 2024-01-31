@@ -1,8 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2pwh-52h7-7j84",
-	"modified": "2023-04-11T01:23:49.214775Z",
+	"modified": "2024-01-30T20:13:56.561683Z",
 	"published": "2021-04-16T19:52:49Z",
+	"aliases": [
+		"CVE-2024-0758",
+		"GHSA-wc6f-qjxc-622v"
+	],
 	"summary": "JavaScript execution via malicious molfiles (XSS)",
 	"details": "### Impact\nThe viewer plugin implementation of `<mol:molecule>` renders molfile data directly inside a `<script>` tag without any escaping. Arbitrary JavaScript code can thus be executed in the client browser via crafted molfiles.\n\n### Patches\nPatched in v0.3.0: Molfile data is now rendered as value of a hidden `<input>` tag and escaped via JSF's mechanisms.\n\n### Workarounds\nNo workaround available.",
 	"affected": [

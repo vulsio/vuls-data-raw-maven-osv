@@ -1,8 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4m5p-5w5w-3jcf",
-	"modified": "2022-10-12T20:13:46Z",
+	"modified": "2024-01-30T20:14:02.806687Z",
 	"published": "2022-10-12T20:13:46Z",
+	"aliases": [
+		"CVE-2024-23679",
+		"GHSA-4hrp-m3f2-643j"
+	],
 	"summary": "com.enonic.xp:lib-auth vulnerable to Session Fixation",
 	"details": "### Impact\nAll id-providers using lib-auth `login` method. lib-auth should invalidate old session after login and replicate session attributes in a new one, however this is not the behavior in affected versions.\n\n### Workarounds\nDon't use lib-auth for `login`. \nJava API uses low-level structures and allows to invalidate previous session before auth-info is added.\n\n### References\n\nhttps://github.com/enonic/xp/issues/9253",
 	"affected": [

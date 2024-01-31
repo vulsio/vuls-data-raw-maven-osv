@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wc6f-qjxc-622v",
-	"modified": "2024-01-26T20:02:14.806204Z",
+	"modified": "2024-01-30T20:13:56.561683Z",
 	"published": "2024-01-19T21:30:36Z",
 	"aliases": [
-		"CVE-2024-0758"
+		"CVE-2024-0758",
+		"GHSA-2pwh-52h7-7j84"
 	],
 	"summary": "JavaScript execution via malicious molfiles (XSS)",
 	"details": "MolecularFaces before 0.3.0 is vulnerable to cross site scripting. A remote attacker can execute arbitrary JavaScript in the context of a victim browser via crafted molfiles.\n\n\n",
