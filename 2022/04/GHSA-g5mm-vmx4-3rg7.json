@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g5mm-vmx4-3rg7",
-	"modified": "2023-11-08T04:08:15.117395Z",
+	"modified": "2024-02-02T20:47:14.686503Z",
 	"published": "2022-04-15T00:00:32Z",
 	"aliases": [
 		"CVE-2022-22968"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.springframework:spring-core",
-				"purl": "pkg:maven/org.springframework/spring-core"
+				"name": "org.springframework:spring-context",
+				"purl": "pkg:maven/org.springframework/spring-context"
 			},
 			"ranges": [
 				{
@@ -62,8 +62,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.springframework:spring-core",
-				"purl": "pkg:maven/org.springframework/spring-core"
+				"name": "org.springframework:spring-context",
+				"purl": "pkg:maven/org.springframework/spring-context"
 			},
 			"ranges": [
 				{
@@ -80,6 +80,7 @@
 			],
 			"versions": [
 				"1.0",
+				"1.0-m4",
 				"1.0-rc1",
 				"1.0.1",
 				"1.1",
