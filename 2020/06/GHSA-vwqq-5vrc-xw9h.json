@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vwqq-5vrc-xw9h",
-	"modified": "2023-11-08T04:04:20.989684Z",
+	"modified": "2024-02-05T22:16:01.611171Z",
 	"published": "2020-06-05T14:15:51Z",
 	"aliases": [
 		"CVE-2020-9488"
@@ -26,10 +26,108 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "2.13.0"
 						},
 						{
 							"fixed": "2.13.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.13.0",
+				"2.13.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/06/GHSA-vwqq-5vrc-xw9h/GHSA-vwqq-5vrc-xw9h.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.logging.log4j:log4j-core",
+				"purl": "pkg:maven/org.apache.logging.log4j/log4j-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.13.0"
+						},
+						{
+							"fixed": "2.13.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.13.0",
+				"2.13.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/06/GHSA-vwqq-5vrc-xw9h/GHSA-vwqq-5vrc-xw9h.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.logging.log4j:log4j",
+				"purl": "pkg:maven/org.apache.logging.log4j/log4j"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.4.0"
+						},
+						{
+							"fixed": "2.12.3"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.10.0",
+				"2.11.0",
+				"2.11.1",
+				"2.11.2",
+				"2.12.0",
+				"2.12.1",
+				"2.12.2",
+				"2.4",
+				"2.4.1",
+				"2.5",
+				"2.6",
+				"2.6.1",
+				"2.6.2",
+				"2.7",
+				"2.8",
+				"2.8.1",
+				"2.8.2",
+				"2.9.0",
+				"2.9.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/06/GHSA-vwqq-5vrc-xw9h/GHSA-vwqq-5vrc-xw9h.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.logging.log4j:log4j",
+				"purl": "pkg:maven/org.apache.logging.log4j/log4j"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "2.3.2"
 						}
 					]
 				}
@@ -52,6 +150,34 @@
 				"2.0.1",
 				"2.0.2",
 				"2.1",
+				"2.2",
+				"2.3",
+				"2.3.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/06/GHSA-vwqq-5vrc-xw9h/GHSA-vwqq-5vrc-xw9h.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.logging.log4j:log4j-core",
+				"purl": "pkg:maven/org.apache.logging.log4j/log4j-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.4.0"
+						},
+						{
+							"fixed": "2.12.3"
+						}
+					]
+				}
+			],
+			"versions": [
 				"2.10.0",
 				"2.11.0",
 				"2.11.1",
@@ -59,14 +185,6 @@
 				"2.12.0",
 				"2.12.1",
 				"2.12.2",
-				"2.12.3",
-				"2.12.4",
-				"2.13.0",
-				"2.13.1",
-				"2.2",
-				"2.3",
-				"2.3.1",
-				"2.3.2",
 				"2.4",
 				"2.4.1",
 				"2.5",
@@ -98,7 +216,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "2.13.2"
+							"fixed": "2.3.2"
 						}
 					]
 				}
@@ -121,33 +239,9 @@
 				"2.0.1",
 				"2.0.2",
 				"2.1",
-				"2.10.0",
-				"2.11.0",
-				"2.11.1",
-				"2.11.2",
-				"2.12.0",
-				"2.12.1",
-				"2.12.2",
-				"2.12.3",
-				"2.12.4",
-				"2.13.0",
-				"2.13.1",
 				"2.2",
 				"2.3",
-				"2.3.1",
-				"2.3.2",
-				"2.4",
-				"2.4.1",
-				"2.5",
-				"2.6",
-				"2.6.1",
-				"2.6.2",
-				"2.7",
-				"2.8",
-				"2.8.1",
-				"2.8.2",
-				"2.9.0",
-				"2.9.1"
+				"2.3.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/06/GHSA-vwqq-5vrc-xw9h/GHSA-vwqq-5vrc-xw9h.json"
