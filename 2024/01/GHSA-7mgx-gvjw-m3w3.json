@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mgx-gvjw-m3w3",
-	"modified": "2024-01-31T12:37:36Z",
+	"modified": "2024-02-06T20:41:45.559656Z",
 	"published": "2024-01-30T03:30:30Z",
 	"aliases": [
-		"CVE-2023-51982"
+		"CVE-2023-51982",
+		"PYSEC-2024-27"
 	],
 	"summary": "CrateDB authentication bypass vulnerability",
 	"details": "CrateDB 5.5.1 is contains an authentication bypass vulnerability in the Admin UI component. After configuring password authentication and_ Local_ In the case of an address, identity authentication can be bypassed by setting the X-Real IP request header to a specific value and accessing the Admin UI directly using the default user identity.",
@@ -140,10 +141,16 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/crate/crate"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/pypa/advisory-database/tree/main/vulns/crate/PYSEC-2024-27.yaml"
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-287"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-30T18:43:26Z",
 		"nvd_published_at": "2024-01-30T01:15:59Z",

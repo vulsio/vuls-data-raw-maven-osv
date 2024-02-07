@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9gp8-6cg8-7h34",
-	"modified": "2024-02-06T16:12:21.076998Z",
+	"modified": "2024-02-06T16:26:36.908606Z",
 	"published": "2024-02-06T00:30:25Z",
+	"aliases": [
+		"CVE-2023-34042"
+	],
 	"summary": "Spring Security's spring-security.xsd file is world writable",
 	"details": "The spring-security.xsd file inside the spring-security-config jar is world writable which means that if it were extracted it could be written by anyone with access to the file system.\n\nWhile there are no known exploits, this is an example of “CWE-732: Incorrect Permission Assignment for Critical Resource” and could result in an exploit. Users should update to the latest version of Spring Security to mitigate any future exploits found around this issue.",
 	"severity": [
