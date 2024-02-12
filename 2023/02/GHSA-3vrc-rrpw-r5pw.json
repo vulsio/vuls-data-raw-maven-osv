@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3vrc-rrpw-r5pw",
-	"modified": "2023-11-08T03:57:34.452066Z",
+	"modified": "2024-02-08T13:02:41.579361Z",
 	"published": "2023-02-19T18:30:21Z",
 	"aliases": [
 		"CVE-2014-125087"
@@ -66,6 +66,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/jmurty/java-xmlbuilder/releases/tag/v1.2"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240208-0009/"
 		},
 		{
 			"type": "WEB",
