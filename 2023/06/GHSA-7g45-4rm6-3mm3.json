@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7g45-4rm6-3mm3",
-	"modified": "2023-11-09T19:01:39.471370Z",
+	"modified": "2024-02-13T22:17:50.900183Z",
 	"published": "2023-06-14T18:30:38Z",
 	"aliases": [
 		"CVE-2023-2976"
@@ -170,7 +170,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230818-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20230818-0008"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01006.html"
 		}
 	],
 	"database_specific": {

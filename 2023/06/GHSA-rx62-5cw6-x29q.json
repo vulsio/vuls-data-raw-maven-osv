@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rx62-5cw6-x29q",
-	"modified": "2023-11-08T05:31:05.175150Z",
+	"modified": "2024-02-13T19:01:35.370289Z",
 	"published": "2023-06-18T09:30:17Z",
 	"aliases": [
 		"CVE-2023-3308"
@@ -59,7 +59,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/NanKeXXX/selfVuln_poc/blob/main/whaleal%3Aicefrog/icefrog_1.1.8_RCE.md"
+			"url": "https://github.com/NanKeXXX/selfVuln_poc/blob/main/whaleal:icefrog/icefrog_1.1.8_RCE.md"
 		},
 		{
 			"type": "PACKAGE",

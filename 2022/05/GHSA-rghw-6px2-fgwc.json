@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rghw-6px2-fgwc",
-	"modified": "2023-11-08T04:04:37.234162Z",
+	"modified": "2024-02-13T19:31:05.602395Z",
 	"published": "2022-05-24T22:28:56Z",
 	"aliases": [
 		"CVE-2021-20328"
@@ -11,7 +11,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:A/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N"
+			"score": "CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N"
 		}
 	],
 	"affected": [

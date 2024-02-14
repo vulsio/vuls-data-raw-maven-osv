@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g4r8-28fp-f255",
-	"modified": "2023-11-08T04:03:48.778486Z",
+	"modified": "2024-02-13T22:19:12.672120Z",
 	"published": "2023-01-05T12:30:27Z",
 	"aliases": [
 		"CVE-2020-36641"
@@ -54,6 +54,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/gturri/aXMLRPC/commit/456752ebc1ef4c0db980cb5b01a0b3cd0a9e0bae"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/gturri/aXMLRPC/commit/ad6615b3ec41353e614f6ea5fdd5b046442a832b"
 		},
 		{
@@ -63,6 +67,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/gturri/aXMLRPC/releases/tag/aXMLRPC-1.12.1"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/gturri/aXMLRPC/releases/tag/aXMLRPC-1.14.0"
 		},
 		{
 			"type": "WEB",
