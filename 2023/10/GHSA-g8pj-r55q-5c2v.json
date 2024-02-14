@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g8pj-r55q-5c2v",
-	"modified": "2023-12-21T22:16:53.943206Z",
+	"modified": "2024-02-14T05:32:23.629746Z",
 	"published": "2023-10-10T18:31:35Z",
 	"aliases": [
 		"BIT-tomcat-2023-42795",
@@ -630,7 +630,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231103-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20231103-0007"
 		},
 		{
 			"type": "WEB",

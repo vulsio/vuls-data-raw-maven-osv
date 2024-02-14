@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f268-65qc-98vg",
-	"modified": "2023-12-06T01:00:12.910204Z",
+	"modified": "2024-02-14T05:19:48.378826Z",
 	"published": "2022-02-09T23:03:53Z",
 	"aliases": [
 		"BIT-tomcat-2020-13943",
@@ -222,7 +222,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20201016-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20201016-0007"
 		},
 		{
 			"type": "WEB",

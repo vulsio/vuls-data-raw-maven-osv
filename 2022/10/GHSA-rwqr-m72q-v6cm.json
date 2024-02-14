@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rwqr-m72q-v6cm",
-	"modified": "2024-01-08T16:01:56.338598Z",
+	"modified": "2024-02-14T05:32:37.013890Z",
 	"published": "2022-10-25T19:00:29Z",
 	"aliases": [
 		"CVE-2022-42890"
@@ -90,8 +90,8 @@
 			"url": "https://xmlgraphics.apache.org/security.html"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "http://svn.apache.org/repos/asf/xmlgraphics/batik/trunk/"
+			"type": "WEB",
+			"url": "http://svn.apache.org/repos/asf/xmlgraphics/batik/trunk"
 		},
 		{
 			"type": "WEB",

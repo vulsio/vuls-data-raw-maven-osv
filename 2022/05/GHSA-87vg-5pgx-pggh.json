@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-87vg-5pgx-pggh",
-	"modified": "2023-11-08T03:59:50.711371Z",
+	"modified": "2024-02-14T05:21:41.495201Z",
 	"published": "2022-05-13T01:07:04Z",
 	"aliases": [
 		"CVE-2018-1263"
@@ -58,7 +58,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20210125210559/https://www.securityfocus.com/bid/104179/"
+			"url": "https://web.archive.org/web/20210125210559/https://www.securityfocus.com/bid/104179"
 		}
 	],
 	"database_specific": {

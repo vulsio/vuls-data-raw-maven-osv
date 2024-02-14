@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8ffc-79xg-29w8",
-	"modified": "2023-12-06T01:01:41.573652Z",
+	"modified": "2024-02-14T05:26:57.040785Z",
 	"published": "2022-02-12T00:00:48Z",
 	"aliases": [
 		"BIT-cassandra-2021-44521",
@@ -313,7 +313,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jfrog.com/blog/cve-2021-44521-exploiting-apache-cassandra-user-defined-functions-for-remote-code-execution/"
+			"url": "https://jfrog.com/blog/cve-2021-44521-exploiting-apache-cassandra-user-defined-functions-for-remote-code-execution"
 		},
 		{
 			"type": "WEB",
@@ -321,7 +321,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220225-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20220225-0001"
 		},
 		{
 			"type": "WEB",

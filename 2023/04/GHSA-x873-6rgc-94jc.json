@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x873-6rgc-94jc",
-	"modified": "2023-11-08T05:31:27.114187Z",
+	"modified": "2024-02-14T05:33:01.746842Z",
 	"published": "2023-04-19T21:30:26Z",
 	"aliases": [
 		"CVE-2023-20862"
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230526-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20230526-0002"
 		},
 		{
 			"type": "WEB",

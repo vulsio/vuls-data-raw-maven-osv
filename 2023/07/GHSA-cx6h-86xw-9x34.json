@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cx6h-86xw-9x34",
-	"modified": "2023-12-06T01:02:58.358461Z",
+	"modified": "2024-02-14T05:32:59.447452Z",
 	"published": "2023-07-06T21:14:59Z",
 	"aliases": [
 		"BIT-tomcat-2023-28709",
@@ -147,7 +147,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230616-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20230616-0004"
 		},
 		{
 			"type": "WEB",

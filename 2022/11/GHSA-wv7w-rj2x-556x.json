@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wv7w-rj2x-556x",
-	"modified": "2023-11-08T04:10:10.093137Z",
+	"modified": "2024-02-14T05:25:01.625633Z",
 	"published": "2022-11-07T19:00:20Z",
 	"aliases": [
 		"CVE-2022-37866"
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/YDIFDL5WSBEKBUVKTABUFDDD25SBNJLS/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/YDIFDL5WSBEKBUVKTABUFDDD25SBNJLS"
 		}
 	],
 	"database_specific": {

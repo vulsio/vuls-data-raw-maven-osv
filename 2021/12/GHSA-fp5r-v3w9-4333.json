@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fp5r-v3w9-4333",
-	"modified": "2023-12-22T15:24:56.234909Z",
+	"modified": "2024-02-14T05:24:45.322197Z",
 	"published": "2021-12-14T19:49:31Z",
 	"aliases": [
 		"CVE-2021-4104"
@@ -119,7 +119,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211223-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20211223-0007"
 		},
 		{
 			"type": "WEB",

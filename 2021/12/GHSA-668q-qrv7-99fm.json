@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-668q-qrv7-99fm",
-	"modified": "2023-11-08T04:07:06.639651Z",
+	"modified": "2024-02-14T05:32:42.206960Z",
 	"published": "2021-12-17T20:00:50Z",
 	"aliases": [
 		"CVE-2021-42550"
@@ -151,7 +151,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211229-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20211229-0001"
 		},
 		{
 			"type": "WEB",

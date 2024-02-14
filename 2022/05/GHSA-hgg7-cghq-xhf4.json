@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hgg7-cghq-xhf4",
-	"modified": "2023-11-08T03:57:15.264967Z",
+	"modified": "2024-02-14T05:25:12.587181Z",
 	"published": "2022-05-17T03:23:26Z",
 	"aliases": [
 		"CVE-2013-1821"
@@ -169,7 +169,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.ruby-lang.org/en/news/2013/02/22/rexml-dos-2013-02-22/"
+			"url": "http://www.ruby-lang.org/en/news/2013/02/22/rexml-dos-2013-02-22"
 		},
 		{
 			"type": "WEB",

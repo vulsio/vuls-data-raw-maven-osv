@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ghm8-mmx7-xvg2",
-	"modified": "2023-11-08T04:05:46.642374Z",
+	"modified": "2024-02-14T05:36:57.105395Z",
 	"published": "2022-03-18T17:53:58Z",
 	"aliases": [
 		"CVE-2021-30638"
@@ -91,11 +91,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210528-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20210528-0004"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-21-491/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-21-491"
 		},
 		{
 			"type": "WEB",

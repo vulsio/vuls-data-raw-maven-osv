@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fr29-w6j4-525f",
-	"modified": "2024-01-08T15:11:11.756615Z",
+	"modified": "2024-02-14T05:20:20.560908Z",
 	"published": "2023-12-30T03:30:19Z",
 	"aliases": [
 		"CVE-2023-41543"
@@ -64,7 +64,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://pho3n1x-web.github.io/2023/09/18/CVE-2023-41543%28JeecgBoot_sql%29/"
+			"url": "https://pho3n1x-web.github.io/2023/09/18/CVE-2023-41543%28JeecgBoot_sql%29"
 		}
 	],
 	"database_specific": {

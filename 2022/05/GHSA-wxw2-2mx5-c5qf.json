@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wxw2-2mx5-c5qf",
-	"modified": "2023-11-08T03:56:51.858080Z",
+	"modified": "2024-02-14T05:32:38.796032Z",
 	"published": "2022-05-17T02:11:15Z",
 	"aliases": [
 		"CVE-2008-6504"
@@ -75,7 +75,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://fisheye6.atlassian.com/cru/CR-9/"
+			"url": "http://fisheye6.atlassian.com/cru/CR-9"
 		},
 		{
 			"type": "WEB",
@@ -103,7 +103,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://web.archive.org/web/20130807023152/https://fisheye6.atlassian.com/cru/CR-9/"
+			"url": "http://web.archive.org/web/20130807023152/https://fisheye6.atlassian.com/cru/CR-9"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9895-g6x5-xwcp",
-	"modified": "2023-11-08T04:10:30.754282Z",
+	"modified": "2024-02-14T05:32:45.779803Z",
 	"published": "2022-12-06T21:30:46Z",
 	"aliases": [
 		"CVE-2022-4147"
@@ -258,7 +258,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://quarkus.io/blog/quarkus-2-14-2-final-released/"
+			"url": "https://quarkus.io/blog/quarkus-2-14-2-final-released"
 		}
 	],
 	"database_specific": {

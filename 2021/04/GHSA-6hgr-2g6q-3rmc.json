@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6hgr-2g6q-3rmc",
-	"modified": "2023-04-17T19:30:58.932141Z",
+	"modified": "2024-02-14T05:36:40.094488Z",
 	"published": "2021-04-22T16:11:26Z",
 	"summary": "Server session is not invalidated when logout() helper method of Authentication module is used in Vaadin 18-19",
 	"details": "`Authentication.logout()` helper in `com.vaadin:flow-client` versions 5.0.0 prior to 6.0.0 (Vaadin 18), and 6.0.0 through 6.0.4 (Vaadin 19.0.0 through 19.0.3) uses incorrect HTTP method, which, in combination with Spring Security CSRF protection, allows local attackers to access Fusion endpoints after the user attempted to log out.\n\n- https://vaadin.com/security/cve-2021-31408",
@@ -62,8 +62,8 @@
 			"url": "https://github.com/vaadin/flow/commit/815b967fc84fefa8d3a4d72b9a036f48b0d96326"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/vaadin/flow/"
+			"type": "WEB",
+			"url": "https://github.com/vaadin/flow"
 		},
 		{
 			"type": "WEB",

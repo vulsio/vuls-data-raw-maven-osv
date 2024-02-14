@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qw3f-w4pf-jh5f",
-	"modified": "2023-11-08T04:09:22.046032Z",
+	"modified": "2024-02-14T05:33:10.638536Z",
 	"published": "2022-06-01T00:00:36Z",
 	"aliases": [
 		"CVE-2022-30973"
@@ -84,7 +84,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220722-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220722-0004"
 		},
 		{
 			"type": "WEB",

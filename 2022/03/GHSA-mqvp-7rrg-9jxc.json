@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mqvp-7rrg-9jxc",
-	"modified": "2023-11-08T04:08:53.918930Z",
+	"modified": "2024-02-14T05:33:03.323706Z",
 	"published": "2022-03-05T00:00:44Z",
 	"aliases": [
 		"CVE-2022-26336"
@@ -108,7 +108,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221028-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20221028-0006"
 		}
 	],
 	"database_specific": {

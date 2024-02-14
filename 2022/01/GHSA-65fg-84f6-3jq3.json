@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-65fg-84f6-3jq3",
-	"modified": "2023-11-08T04:08:17.689893Z",
+	"modified": "2024-02-14T05:18:54.084643Z",
 	"published": "2022-01-21T23:26:47Z",
 	"aliases": [
 		"CVE-2022-23305"
@@ -100,7 +100,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220217-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20220217-0007"
 		},
 		{
 			"type": "WEB",
