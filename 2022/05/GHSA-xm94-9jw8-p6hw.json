@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xm94-9jw8-p6hw",
-	"modified": "2023-12-13T10:19:41.160967Z",
+	"modified": "2024-02-14T05:42:14.344856Z",
 	"published": "2022-05-24T16:46:09Z",
 	"aliases": [
 		"CVE-2019-10320"
@@ -137,7 +137,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://wwws.nightwatchcybersecurity.com/2019/05/23/exploring-the-file-system-via-jenkins-credentials-plugin-vulnerability-cve-2019-10320/"
+			"url": "https://wwws.nightwatchcybersecurity.com/2019/05/23/exploring-the-file-system-via-jenkins-credentials-plugin-vulnerability-cve-2019-10320"
 		},
 		{
 			"type": "WEB",

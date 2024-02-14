@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cv6r-h2fm-pvrp",
-	"modified": "2023-11-08T04:09:50.838625Z",
+	"modified": "2024-02-14T05:42:28.807483Z",
 	"published": "2022-08-24T00:00:29Z",
 	"aliases": [
 		"CVE-2022-35278"
@@ -96,7 +96,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221209-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20221209-0005"
 		}
 	],
 	"database_specific": {
