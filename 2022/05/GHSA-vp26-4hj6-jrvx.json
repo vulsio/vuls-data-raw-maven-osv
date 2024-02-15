@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vp26-4hj6-jrvx",
-	"modified": "2023-12-14T16:11:31.585862Z",
+	"modified": "2024-02-15T05:31:31.156731Z",
 	"published": "2022-05-24T16:51:52Z",
 	"aliases": [
 		"CVE-2019-10366"
@@ -71,7 +71,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-833/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-833"
 		},
 		{
 			"type": "WEB",

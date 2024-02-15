@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3f3p-qhfv-7p8h",
-	"modified": "2024-01-09T22:26:40.880906Z",
+	"modified": "2024-02-15T05:33:07.899311Z",
 	"published": "2022-05-13T01:25:16Z",
 	"aliases": [
 		"CVE-2019-1003099"
@@ -65,8 +65,8 @@
 			"url": "https://github.com/jenkinsci/openid-plugin/commit/5a91a74a94e44d87cd61afc2441aab42b7542bf0"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/openid-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/openid-plugin"
 		},
 		{
 			"type": "WEB",

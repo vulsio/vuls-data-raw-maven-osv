@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8c6j-ffmf-q6vm",
-	"modified": "2023-11-08T03:58:25.078074Z",
+	"modified": "2024-02-15T05:38:10.651276Z",
 	"published": "2022-05-14T00:54:14Z",
 	"aliases": [
 		"CVE-2016-3081"
@@ -126,7 +126,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/39756/"
+			"url": "https://www.exploit-db.com/exploits/39756"
 		},
 		{
 			"type": "WEB",

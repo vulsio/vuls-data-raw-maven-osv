@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5mg8-w23w-74h3",
-	"modified": "2023-11-09T19:02:16.268384Z",
+	"modified": "2024-02-15T05:51:14.731459Z",
 	"published": "2021-03-25T17:04:19Z",
 	"aliases": [
 		"CVE-2020-8908",
@@ -458,7 +458,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0003"
 		},
 		{
 			"type": "WEB",

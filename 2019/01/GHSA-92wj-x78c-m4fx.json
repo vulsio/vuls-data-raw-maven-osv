@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-92wj-x78c-m4fx",
-	"modified": "2023-11-08T03:59:47.875020Z",
+	"modified": "2024-02-15T05:30:36.147129Z",
 	"published": "2019-01-07T19:14:49Z",
 	"aliases": [
 		"CVE-2018-11788"
@@ -81,7 +81,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20200227101219/https://www.securityfocus.com/bid/106479/"
+			"url": "https://web.archive.org/web/20200227101219/https://www.securityfocus.com/bid/106479"
 		},
 		{
 			"type": "WEB",

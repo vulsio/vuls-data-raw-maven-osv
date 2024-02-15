@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cj7v-27pg-wf7q",
-	"modified": "2023-11-08T04:08:00.105687Z",
+	"modified": "2024-02-15T05:31:44.051238Z",
 	"published": "2022-07-07T20:55:34Z",
 	"aliases": [
 		"CVE-2022-2047"
@@ -424,7 +424,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220901-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20220901-0006"
 		},
 		{
 			"type": "WEB",

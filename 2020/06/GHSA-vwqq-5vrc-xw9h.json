@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vwqq-5vrc-xw9h",
-	"modified": "2024-02-05T22:16:01.611171Z",
+	"modified": "2024-02-15T05:27:36.345378Z",
 	"published": "2020-06-05T14:15:51Z",
 	"aliases": [
 		"CVE-2020-9488"
@@ -419,7 +419,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200504-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20200504-0003"
 		},
 		{
 			"type": "WEB",

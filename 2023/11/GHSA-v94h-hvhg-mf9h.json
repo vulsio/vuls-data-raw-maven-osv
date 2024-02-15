@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v94h-hvhg-mf9h",
-	"modified": "2023-12-14T12:49:24.307170Z",
+	"modified": "2024-02-15T05:31:18.479860Z",
 	"published": "2023-11-28T09:30:27Z",
 	"aliases": [
 		"CVE-2023-34053"
@@ -70,7 +70,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231214-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20231214-0007"
 		},
 		{
 			"type": "WEB",

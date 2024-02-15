@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9vfc-qxc8-wrpq",
-	"modified": "2023-12-05T22:04:33.097945Z",
+	"modified": "2024-02-15T05:31:57.661119Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"CVE-2023-48848"
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/h00klod0er/ureport2-vuln/"
+			"url": "https://github.com/h00klod0er/ureport2-vuln"
 		},
 		{
 			"type": "PACKAGE",

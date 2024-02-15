@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w8v7-prhw-xjpw",
-	"modified": "2023-11-08T03:59:22.369834Z",
+	"modified": "2024-02-15T05:22:46.087254Z",
 	"published": "2022-05-13T01:02:10Z",
 	"aliases": [
 		"CVE-2017-5641"
@@ -113,11 +113,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-22-506/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-22-506"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-22-507/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-22-507"
 		},
 		{
 			"type": "WEB",

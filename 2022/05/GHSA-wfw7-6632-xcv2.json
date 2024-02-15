@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wfw7-6632-xcv2",
-	"modified": "2024-01-09T16:56:38.512278Z",
+	"modified": "2024-02-15T05:31:53.624844Z",
 	"published": "2022-05-13T01:30:07Z",
 	"aliases": [
 		"CVE-2015-8103"
@@ -381,7 +381,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/38983/"
+			"url": "https://www.exploit-db.com/exploits/38983"
 		},
 		{
 			"type": "WEB",

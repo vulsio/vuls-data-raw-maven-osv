@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hh82-3pmq-7frp",
-	"modified": "2023-11-08T04:10:35.509282Z",
+	"modified": "2024-02-15T05:29:43.245902Z",
 	"published": "2022-12-12T21:25:44Z",
 	"aliases": [
 		"CVE-2022-41915"
@@ -70,8 +70,8 @@
 			"url": "https://github.com/netty/netty/commit/fe18adff1c2b333acb135ab779a3b9ba3295a1c4"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/netty/netty/"
+			"type": "WEB",
+			"url": "https://github.com/netty/netty"
 		},
 		{
 			"type": "WEB",
@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230113-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20230113-0004"
 		},
 		{
 			"type": "WEB",

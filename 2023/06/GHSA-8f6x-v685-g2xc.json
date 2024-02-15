@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8f6x-v685-g2xc",
-	"modified": "2023-11-10T05:47:35.640161Z",
+	"modified": "2024-02-15T05:21:39.446765Z",
 	"published": "2023-06-14T09:30:42Z",
 	"aliases": [
 		"CVE-2023-34149"
@@ -180,7 +180,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230706-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20230706-0005"
 		},
 		{
 			"type": "WEB",

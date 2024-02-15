@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x9gm-m8pp-54vx",
-	"modified": "2024-01-09T21:56:38.820909Z",
+	"modified": "2024-02-15T05:28:57.919006Z",
 	"published": "2022-05-14T01:38:48Z",
 	"aliases": [
 		"CVE-2018-1000411"
@@ -83,8 +83,8 @@
 			"url": "https://github.com/jenkinsci/junit-plugin/commit/091ee0dc8dd6023713827ce1a5914fa9fa9b6043"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/junit-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/junit-plugin"
 		},
 		{
 			"type": "WEB",

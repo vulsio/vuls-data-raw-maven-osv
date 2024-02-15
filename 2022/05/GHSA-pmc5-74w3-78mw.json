@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pmc5-74w3-78mw",
-	"modified": "2024-01-09T18:56:53.786102Z",
+	"modified": "2024-02-15T05:31:27.539245Z",
 	"published": "2022-05-13T01:31:35Z",
 	"aliases": [
 		"CVE-2019-1003014"
@@ -112,8 +112,8 @@
 			"url": "https://access.redhat.com/errata/RHBA-2019:0327"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/config-file-provider-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/config-file-provider-plugin"
 		},
 		{
 			"type": "WEB",

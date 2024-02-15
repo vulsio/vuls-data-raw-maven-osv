@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cg6q-gp23-vwx8",
-	"modified": "2024-01-09T22:26:40.656209Z",
+	"modified": "2024-02-15T05:30:44.836963Z",
 	"published": "2022-05-13T01:18:46Z",
 	"aliases": [
 		"CVE-2018-1000423"
@@ -66,8 +66,8 @@
 			"url": "https://github.com/jenkinsci/crowd2-plugin/commit/580be2a0dfb38d494420901f03555092b885a85f"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/crowd2-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/crowd2-plugin"
 		},
 		{
 			"type": "WEB",

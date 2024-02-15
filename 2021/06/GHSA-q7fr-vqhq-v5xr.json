@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q7fr-vqhq-v5xr",
-	"modified": "2023-11-08T04:05:20.228719Z",
+	"modified": "2024-02-15T05:32:40.204075Z",
 	"published": "2021-06-16T17:39:05Z",
 	"aliases": [
 		"CVE-2021-26118"
@@ -98,7 +98,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210827-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20210827-0002"
 		}
 	],
 	"database_specific": {

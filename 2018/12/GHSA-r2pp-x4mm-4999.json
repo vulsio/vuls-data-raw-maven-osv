@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r2pp-x4mm-4999",
-	"modified": "2023-11-08T03:59:40.499789Z",
+	"modified": "2024-02-15T05:32:14.903153Z",
 	"published": "2018-12-20T22:02:02Z",
 	"aliases": [
 		"CVE-2018-1000820"
@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://0dd.zone/2018/10/27/neo4f-apoc-procedures-XXE/"
+			"url": "https://0dd.zone/2018/10/27/neo4f-apoc-procedures-XXE"
 		}
 	],
 	"database_specific": {

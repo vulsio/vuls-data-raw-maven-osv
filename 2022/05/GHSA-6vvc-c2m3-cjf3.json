@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6vvc-c2m3-cjf3",
-	"modified": "2023-11-08T03:57:46.700501Z",
+	"modified": "2024-02-15T05:22:44.385937Z",
 	"published": "2022-05-17T19:57:29Z",
 	"aliases": [
 		"CVE-2014-9390",
@@ -80,7 +80,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://libgit2.org/security/"
+			"url": "https://libgit2.org/security"
 		},
 		{
 			"type": "WEB",

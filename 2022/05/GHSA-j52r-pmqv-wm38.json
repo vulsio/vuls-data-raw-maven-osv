@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j52r-pmqv-wm38",
-	"modified": "2023-12-14T18:56:33.024727Z",
+	"modified": "2024-02-15T05:30:01.815755Z",
 	"published": "2022-05-24T17:01:40Z",
 	"aliases": [
 		"CVE-2019-16539"
@@ -126,8 +126,8 @@
 			"url": "https://github.com/jenkinsci/support-core-plugin/commit/6b177ea7cc7347e13fa87174472400bbbe78d422"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/support-core-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/support-core-plugin"
 		},
 		{
 			"type": "WEB",

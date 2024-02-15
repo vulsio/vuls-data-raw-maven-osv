@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rfq3-wpjh-ppvg",
-	"modified": "2023-12-22T21:57:55.323232Z",
+	"modified": "2024-02-15T05:17:43.702605Z",
 	"published": "2023-12-22T18:30:30Z",
 	"aliases": [
 		"CVE-2023-6911"
@@ -98,12 +98,12 @@
 			"url": "https://github.com/wso2/carbon-registry/commit/878fc7e53c90acc85e303d2af73440014a68b246"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/wso2/carbon-registry/"
+			"type": "WEB",
+			"url": "https://github.com/wso2/carbon-registry"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2021/WSO2-2020-1225/"
+			"url": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2021/WSO2-2020-1225"
 		}
 	],
 	"database_specific": {

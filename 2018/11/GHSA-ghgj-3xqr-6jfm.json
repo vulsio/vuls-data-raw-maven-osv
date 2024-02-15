@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ghgj-3xqr-6jfm",
-	"modified": "2023-11-08T03:57:51.675170Z",
+	"modified": "2024-02-15T05:51:14.062117Z",
 	"published": "2018-11-09T17:50:00Z",
 	"aliases": [
 		"CVE-2015-2080"
@@ -214,7 +214,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190307-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20190307-0005"
 		},
 		{
 			"type": "WEB",

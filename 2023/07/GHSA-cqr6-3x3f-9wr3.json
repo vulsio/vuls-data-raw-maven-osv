@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cqr6-3x3f-9wr3",
-	"modified": "2023-11-08T04:12:23.262949Z",
+	"modified": "2024-02-15T05:50:46.562400Z",
 	"published": "2023-07-06T19:24:14Z",
 	"aliases": [
 		"CVE-2023-30465"
@@ -89,7 +89,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://inlong.apache.org/zh-CN/download/release-1.6.0/"
+			"url": "https://inlong.apache.org/zh-CN/download/release-1.6.0"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mvr2-9pj6-7w5j",
-	"modified": "2023-11-09T19:01:59.551735Z",
+	"modified": "2024-02-15T05:32:03.867826Z",
 	"published": "2020-06-15T20:35:11Z",
 	"aliases": [
 		"CVE-2018-10237"
@@ -452,7 +452,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220629-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20220629-0008"
 		},
 		{
 			"type": "WEB",

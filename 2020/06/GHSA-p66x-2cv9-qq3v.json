@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p66x-2cv9-qq3v",
-	"modified": "2023-11-08T03:57:31.809715Z",
+	"modified": "2024-02-15T05:31:32.259919Z",
 	"published": "2020-06-10T23:38:01Z",
 	"aliases": [
 		"CVE-2014-0114"
@@ -472,11 +472,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20140911-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20140911-0001"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180629-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20180629-0006"
 		},
 		{
 			"type": "WEB",

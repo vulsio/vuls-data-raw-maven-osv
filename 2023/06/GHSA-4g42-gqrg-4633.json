@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4g42-gqrg-4633",
-	"modified": "2023-11-10T05:22:36.439926Z",
+	"modified": "2024-02-15T05:41:06.850399Z",
 	"published": "2023-06-14T09:30:42Z",
 	"aliases": [
 		"CVE-2023-34396"
@@ -180,7 +180,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230706-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20230706-0005"
 		},
 		{
 			"type": "WEB",

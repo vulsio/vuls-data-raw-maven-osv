@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r2vw-x3hr-969v",
-	"modified": "2023-12-14T19:11:32.871250Z",
+	"modified": "2024-02-15T05:32:52.280943Z",
 	"published": "2022-05-13T01:15:07Z",
 	"aliases": [
 		"CVE-2019-1003037"
@@ -75,8 +75,8 @@
 			"url": "https://github.com/jenkinsci/azure-vm-agents-plugin/commit/e36c8a9b0a436d3b79dc14b5cb4f7f6032fedd3f"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/azure-vm-agents-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/azure-vm-agents-plugin"
 		},
 		{
 			"type": "WEB",

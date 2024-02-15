@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fx2c-96vj-985v",
-	"modified": "2023-11-08T04:10:33.710187Z",
+	"modified": "2024-02-15T05:22:11.178738Z",
 	"published": "2022-12-12T21:24:29Z",
 	"aliases": [
 		"CVE-2022-41881"
@@ -189,7 +189,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230113-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20230113-0004"
 		},
 		{
 			"type": "WEB",

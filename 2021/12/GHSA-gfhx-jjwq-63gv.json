@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gfhx-jjwq-63gv",
-	"modified": "2023-11-08T04:07:06.701030Z",
+	"modified": "2024-02-15T05:32:26.810499Z",
 	"published": "2021-12-10T20:24:11Z",
 	"aliases": [
 		"CVE-2021-42567"
@@ -188,7 +188,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://apereo.github.io/2021/10/18/restvuln/"
+			"url": "https://apereo.github.io/2021/10/18/restvuln"
 		},
 		{
 			"type": "PACKAGE",
