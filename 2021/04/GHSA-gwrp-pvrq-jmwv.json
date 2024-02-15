@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gwrp-pvrq-jmwv",
-	"modified": "2024-02-02T21:16:29.952157Z",
+	"modified": "2024-02-14T20:31:24.150487Z",
 	"published": "2021-04-26T16:04:00Z",
 	"aliases": [
 		"CVE-2021-29425"
@@ -55,12 +55,269 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "com.cosium.vet:vet",
+				"purl": "pkg:maven/com.cosium.vet/vet"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "1.0"
+						},
+						{
+							"last_affected": "3.22"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.0",
+				"1.1",
+				"1.11",
+				"1.12",
+				"1.13",
+				"1.2",
+				"1.3",
+				"1.4",
+				"1.5",
+				"2.2",
+				"2.3",
+				"2.6",
+				"2.7",
+				"2.8",
+				"2.9",
+				"3.0",
+				"3.10",
+				"3.11",
+				"3.12",
+				"3.13",
+				"3.14",
+				"3.15",
+				"3.16",
+				"3.17",
+				"3.18",
+				"3.19",
+				"3.22"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "com.diamondq.common:common-thirdparty.jcasbin",
+				"purl": "pkg:maven/com.diamondq.common/common-thirdparty.jcasbin"
+			},
+			"versions": [
+				"1.4.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "com.liferay:com.liferay.sass.compiler.jsass",
+				"purl": "pkg:maven/com.liferay/com.liferay.sass.compiler.jsass"
+			},
+			"versions": [
+				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "com.virjar:ratel-api",
+				"purl": "pkg:maven/com.virjar/ratel-api"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "1.0.0"
+						},
+						{
+							"last_affected": "1.3.6"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.0.0",
+				"1.1.0",
+				"1.2.0",
+				"1.3.0",
+				"1.3.1",
+				"1.3.2",
+				"1.3.3",
+				"1.3.4",
+				"1.3.5",
+				"1.3.6"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "net.hasor:cobble-lang",
+				"purl": "pkg:maven/net.hasor/cobble-lang"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "4.4.1"
+						},
+						{
+							"last_affected": "4.6.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.4.1",
+				"4.4.2",
+				"4.5.0",
+				"4.5.1",
+				"4.5.2",
+				"4.5.3",
+				"4.5.4",
+				"4.6.0",
+				"4.6.1",
+				"4.6.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.commons:commons-io",
+				"purl": "pkg:maven/org.apache.commons/commons-io"
+			},
+			"versions": [
+				"1.3.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.servicemix.bundles:org.apache.servicemix.bundles.commons-io",
+				"purl": "pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-io"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "1.4"
+						},
+						{
+							"last_affected": "1.5"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.4_1",
+				"1.4_2",
+				"1.4_3"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.checkerframework.annotatedlib:commons-io",
+				"purl": "pkg:maven/org.checkerframework.annotatedlib/commons-io"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.6"
+						},
+						{
+							"fixed": "2.7"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.6",
+				"2.6.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.smartboot.servlet:servlet-core",
+				"purl": "pkg:maven/org.smartboot.servlet/servlet-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0.1.9"
+						},
+						{
+							"last_affected": "0.6"
+						}
+					]
+				}
+			],
+			"versions": [
+				"0.1.9",
+				"0.2",
+				"0.2.1",
+				"0.3",
+				"0.3.1",
+				"0.4",
+				"0.5",
+				"0.6"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-gwrp-pvrq-jmwv/GHSA-gwrp-pvrq-jmwv.json"
+			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-29425"
+		},
+		{
+			"type": "WEB",
+			"url": "https://arxiv.org/pdf/2306.05534.pdf"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jensdietrich/xshady-release/tree/main/CVE-2021-29425"
 		},
 		{
 			"type": "WEB",
@@ -232,7 +489,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0004"
 		},
 		{
 			"type": "WEB",

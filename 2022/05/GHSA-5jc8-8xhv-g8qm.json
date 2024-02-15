@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5jc8-8xhv-g8qm",
-	"modified": "2023-11-08T03:57:10.458806Z",
+	"modified": "2024-02-14T21:46:46.308270Z",
 	"published": "2022-05-17T01:38:40Z",
 	"aliases": [
 		"CVE-2012-5817"
 	],
 	"summary": "Improper Input Validation in XFire",
 	"details": "Codehaus XFire 1.2.6 and earlier, as used in the Amazon EC2 API Tools Java library and other products, does not verify that the server hostname matches a domain name in the subject's Common Name (CN) or subjectAltName field of the X.509 certificate, which allows man-in-the-middle attackers to spoof SSL servers via an arbitrary valid certificate.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -67,11 +73,12 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-20"
+			"CWE-20",
+			"CWE-295"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2022-07-12T22:17:46Z",
 		"nvd_published_at": "2012-11-04T22:55:00Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }
