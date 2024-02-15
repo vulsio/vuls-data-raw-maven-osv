@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mqf8-4cqm-p83x",
-	"modified": "2024-02-08T18:58:21.731441Z",
+	"modified": "2024-02-15T15:10:23.834338Z",
 	"published": "2024-02-08T06:30:23Z",
 	"aliases": [
 		"CVE-2024-25146"
@@ -151,6 +151,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-203",
 			"CWE-204"
 		],
 		"github_reviewed": true,
