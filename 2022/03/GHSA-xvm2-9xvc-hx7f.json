@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xvm2-9xvc-hx7f",
-	"modified": "2023-11-08T04:08:26.174022Z",
+	"modified": "2024-02-16T05:31:08.259827Z",
 	"published": "2022-03-02T21:30:54Z",
 	"aliases": [
 		"CVE-2022-23640"
@@ -73,8 +73,8 @@
 			"url": "https://github.com/monitorjbl/excel-streaming-reader/commit/0749c7b9709db078ccdeada16d46a34bc2910c73"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/monitorjbl/excel-streaming-reader/"
+			"type": "WEB",
+			"url": "https://github.com/monitorjbl/excel-streaming-reader"
 		}
 	],
 	"database_specific": {

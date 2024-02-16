@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cg6r-gqvc-r396",
-	"modified": "2023-11-10T05:26:44.017248Z",
+	"modified": "2024-02-16T05:30:37.159415Z",
 	"published": "2023-07-26T15:30:57Z",
 	"aliases": [
 		"CVE-2023-39153"
@@ -76,8 +76,8 @@
 			"url": "https://github.com/jenkinsci/gitlab-oauth-plugin/commit/d5bdf767e6be2efa2e9d8f8cf99b98726bb5f29d"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/gitlab-oauth-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/gitlab-oauth-plugin"
 		},
 		{
 			"type": "WEB",

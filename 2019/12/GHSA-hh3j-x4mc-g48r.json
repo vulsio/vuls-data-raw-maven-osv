@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hh3j-x4mc-g48r",
-	"modified": "2023-11-08T04:01:04.966962Z",
+	"modified": "2024-02-16T05:30:54.043692Z",
 	"published": "2019-12-26T18:22:36Z",
 	"aliases": [
 		"CVE-2019-12418"
@@ -307,7 +307,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200107-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20200107-0001"
 		},
 		{
 			"type": "WEB",
@@ -315,7 +315,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4251-1/"
+			"url": "https://usn.ubuntu.com/4251-1"
 		},
 		{
 			"type": "WEB",

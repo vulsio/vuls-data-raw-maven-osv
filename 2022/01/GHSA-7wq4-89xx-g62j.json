@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7wq4-89xx-g62j",
-	"modified": "2023-11-08T04:08:17.437108Z",
+	"modified": "2024-02-16T05:21:24.828024Z",
 	"published": "2022-01-28T22:13:57Z",
 	"aliases": [
 		"CVE-2022-23223"
@@ -57,8 +57,8 @@
 			"url": "https://github.com/apache/shenyu/commit/0e826ceae97a1258cb15c73a3072118c920e8654"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/incubator-shenyu/"
+			"type": "WEB",
+			"url": "https://github.com/apache/incubator-shenyu"
 		},
 		{
 			"type": "WEB",

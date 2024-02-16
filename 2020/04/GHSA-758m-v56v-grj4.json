@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-758m-v56v-grj4",
-	"modified": "2023-11-08T04:02:02.067965Z",
+	"modified": "2024-02-16T05:29:05.508867Z",
 	"published": "2020-04-23T21:36:03Z",
 	"aliases": [
 		"CVE-2020-10969"
@@ -86,7 +86,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200403-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20200403-0002"
 		},
 		{
 			"type": "WEB",

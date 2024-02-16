@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-338v-3958-8v8r",
-	"modified": "2023-11-08T03:57:45.412989Z",
+	"modified": "2024-02-16T05:19:59.361892Z",
 	"published": "2020-06-10T20:54:15Z",
 	"aliases": [
 		"CVE-2014-8122"
@@ -166,8 +166,8 @@
 			"url": "https://github.com/victims/victims-cve-db/blob/master/database/java/2014/8122.yaml"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/weld/core/"
+			"type": "WEB",
+			"url": "https://github.com/weld/core"
 		},
 		{
 			"type": "WEB",

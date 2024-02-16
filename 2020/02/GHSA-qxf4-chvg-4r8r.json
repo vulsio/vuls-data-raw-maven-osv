@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qxf4-chvg-4r8r",
-	"modified": "2023-12-06T01:00:20.367196Z",
+	"modified": "2024-02-16T05:26:12.536727Z",
 	"published": "2020-02-28T01:10:48Z",
 	"aliases": [
 		"BIT-tomcat-2020-1935",
@@ -538,11 +538,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200327-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20200327-0005"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4448-1/"
+			"url": "https://usn.ubuntu.com/4448-1"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mcg9-64cp-xwp7",
-	"modified": "2023-11-08T04:01:47.831181Z",
+	"modified": "2024-02-16T05:23:38.996073Z",
 	"published": "2019-07-05T21:08:09Z",
 	"aliases": [
 		"CVE-2019-9827"
@@ -171,7 +171,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ciphertechs.com/hawtio-advisory/"
+			"url": "https://www.ciphertechs.com/hawtio-advisory"
 		}
 	],
 	"database_specific": {

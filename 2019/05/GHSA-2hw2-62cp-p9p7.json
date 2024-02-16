@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2hw2-62cp-p9p7",
-	"modified": "2023-11-08T04:00:31.102924Z",
+	"modified": "2024-02-16T05:22:33.752535Z",
 	"published": "2019-05-29T18:54:11Z",
 	"aliases": [
 		"CVE-2019-0201"
@@ -150,7 +150,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190619-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20190619-0001"
 		},
 		{
 			"type": "WEB",

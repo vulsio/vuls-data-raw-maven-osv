@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4q98-wr72-h35w",
-	"modified": "2023-11-08T04:01:04.050681Z",
+	"modified": "2024-02-16T05:31:05.674761Z",
 	"published": "2019-08-27T17:41:33Z",
 	"aliases": [
 		"CVE-2019-12400"
@@ -104,7 +104,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190910-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190910-0003"
 		},
 		{
 			"type": "WEB",

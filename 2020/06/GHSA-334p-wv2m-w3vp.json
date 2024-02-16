@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-334p-wv2m-w3vp",
-	"modified": "2023-11-08T03:56:53.274600Z",
+	"modified": "2024-02-16T05:29:22.369688Z",
 	"published": "2020-06-15T18:51:30Z",
 	"aliases": [
 		"CVE-2009-2625"
@@ -225,7 +225,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.codenomicon.com/labs/xml/"
+			"url": "http://www.codenomicon.com/labs/xml"
 		},
 		{
 			"type": "WEB",

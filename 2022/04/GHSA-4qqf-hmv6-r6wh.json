@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4qqf-hmv6-r6wh",
-	"modified": "2023-11-08T03:57:00.008022Z",
+	"modified": "2024-02-16T05:23:54.634315Z",
 	"published": "2022-04-22T00:24:28Z",
 	"aliases": [
 		"CVE-2011-2487"
@@ -164,7 +164,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.nds.ruhr-uni-bochum.de/research/publications/breaking-xml-encryption-pkcs15/"
+			"url": "https://www.nds.ruhr-uni-bochum.de/research/publications/breaking-xml-encryption-pkcs15"
 		},
 		{
 			"type": "WEB",

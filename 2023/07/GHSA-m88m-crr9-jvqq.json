@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m88m-crr9-jvqq",
-	"modified": "2023-11-11T05:31:34.545454Z",
+	"modified": "2024-02-16T05:24:10.168491Z",
 	"published": "2023-07-18T18:47:27Z",
 	"aliases": [
 		"CVE-2023-37476"
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.sonarsource.com/blog/openrefine-zip-slip/"
+			"url": "https://www.sonarsource.com/blog/openrefine-zip-slip"
 		}
 	],
 	"database_specific": {
