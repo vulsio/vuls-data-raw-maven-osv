@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jwgx-9mmh-684w",
-	"modified": "2023-11-08T04:01:35.012299Z",
+	"modified": "2024-02-16T08:17:52.019722Z",
 	"published": "2019-06-13T20:02:56Z",
 	"aliases": [
 		"CVE-2019-3888"
@@ -301,7 +301,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0019/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0019"
 		},
 		{
 			"type": "WEB",

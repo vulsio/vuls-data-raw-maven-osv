@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cfh5-3ghh-wfjx",
-	"modified": "2023-11-08T03:57:38.868947Z",
+	"modified": "2024-02-16T08:01:53.497179Z",
 	"published": "2018-10-17T00:05:06Z",
 	"aliases": [
 		"CVE-2014-3577"

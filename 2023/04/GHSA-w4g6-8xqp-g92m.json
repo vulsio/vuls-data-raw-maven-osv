@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w4g6-8xqp-g92m",
-	"modified": "2023-11-08T04:12:13.901078Z",
+	"modified": "2024-02-16T08:08:40.829224Z",
 	"published": "2023-04-02T21:30:16Z",
 	"aliases": [
 		"CVE-2023-28683"
@@ -80,8 +80,8 @@
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-28683"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/phabricator-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/phabricator-plugin"
 		},
 		{
 			"type": "WEB",

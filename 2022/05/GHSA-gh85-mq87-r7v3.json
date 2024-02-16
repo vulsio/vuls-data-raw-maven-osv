@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gh85-mq87-r7v3",
-	"modified": "2024-02-15T05:27:20.274871Z",
+	"modified": "2024-02-16T08:11:06.358133Z",
 	"published": "2022-05-14T03:13:13Z",
 	"aliases": [
 		"CVE-2018-1000184"

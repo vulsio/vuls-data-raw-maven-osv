@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jw3v-5ch2-wfmm",
-	"modified": "2023-12-06T01:00:25.157916Z",
+	"modified": "2024-02-16T08:17:27.972196Z",
 	"published": "2022-02-15T01:38:27Z",
 	"aliases": [
 		"BIT-wildfly-2020-25640",

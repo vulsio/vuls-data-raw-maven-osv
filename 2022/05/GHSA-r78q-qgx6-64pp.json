@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r78q-qgx6-64pp",
-	"modified": "2023-12-22T14:14:43.477787Z",
+	"modified": "2024-02-16T08:19:28.929792Z",
 	"published": "2022-05-24T17:07:40Z",
 	"aliases": [
 		"BIT-jenkins-2020-2104",

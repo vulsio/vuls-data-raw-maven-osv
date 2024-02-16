@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2mgj-mwvf-mpg5",
-	"modified": "2024-01-30T22:26:50.391054Z",
+	"modified": "2024-02-16T08:04:22.630904Z",
 	"published": "2022-03-30T00:00:24Z",
 	"aliases": [
 		"CVE-2022-28144"

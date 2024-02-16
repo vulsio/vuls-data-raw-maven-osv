@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hj36-v72x-cc6j",
-	"modified": "2023-12-14T10:19:40.404213Z",
+	"modified": "2024-02-16T08:23:21.432038Z",
 	"published": "2022-05-24T17:27:06Z",
 	"aliases": [
 		"CVE-2020-2242"

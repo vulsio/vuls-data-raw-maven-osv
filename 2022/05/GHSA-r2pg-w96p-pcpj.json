@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r2pg-w96p-pcpj",
-	"modified": "2023-11-08T03:58:30.530387Z",
+	"modified": "2024-02-16T08:17:57.490231Z",
 	"published": "2022-05-17T02:40:59Z",
 	"aliases": [
 		"CVE-2016-5004"

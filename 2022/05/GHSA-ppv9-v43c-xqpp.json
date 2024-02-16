@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ppv9-v43c-xqpp",
-	"modified": "2023-11-08T04:07:10.891158Z",
+	"modified": "2024-02-16T07:58:02.424536Z",
 	"published": "2022-05-24T19:20:33Z",
 	"aliases": [
 		"CVE-2021-43576"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53ph-2r2x-vqw8",
-	"modified": "2024-02-01T08:11:38.591556Z",
+	"modified": "2024-02-16T08:23:40.700526Z",
 	"published": "2024-01-24T18:31:02Z",
 	"aliases": [
 		"BIT-jenkins-2024-23898",

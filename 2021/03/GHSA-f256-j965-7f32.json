@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f256-j965-7f32",
-	"modified": "2023-12-06T01:00:45.941642Z",
+	"modified": "2024-02-16T08:19:57.447653Z",
 	"published": "2021-03-30T15:10:38Z",
 	"aliases": [
 		"BIT-zookeeper-2021-21295",

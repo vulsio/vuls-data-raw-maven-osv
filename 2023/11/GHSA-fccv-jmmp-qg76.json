@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fccv-jmmp-qg76",
-	"modified": "2024-01-05T12:46:02.136374Z",
+	"modified": "2024-02-16T08:04:34.334152Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"BIT-tomcat-2023-46589",

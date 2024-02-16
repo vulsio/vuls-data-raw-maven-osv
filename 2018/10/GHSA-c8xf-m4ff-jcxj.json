@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c8xf-m4ff-jcxj",
-	"modified": "2023-11-08T03:58:08.766527Z",
+	"modified": "2024-02-16T08:22:39.797976Z",
 	"published": "2018-10-17T16:23:38Z",
 	"aliases": [
 		"CVE-2016-1000339"
@@ -117,11 +117,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20181127-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20181127-0004"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3727-1/"
+			"url": "https://usn.ubuntu.com/3727-1"
 		},
 		{
 			"type": "WEB",

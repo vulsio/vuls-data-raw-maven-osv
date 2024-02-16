@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3858-58w9-wpcg",
-	"modified": "2024-01-30T22:56:49.106295Z",
+	"modified": "2024-02-16T08:09:05.717774Z",
 	"published": "2022-05-13T01:31:34Z",
 	"aliases": [
 		"CVE-2019-1003021"

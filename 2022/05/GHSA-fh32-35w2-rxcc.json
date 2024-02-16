@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fh32-35w2-rxcc",
-	"modified": "2023-11-08T03:56:54.187559Z",
+	"modified": "2024-02-16T08:10:11.244059Z",
 	"published": "2022-05-02T03:53:13Z",
 	"aliases": [
 		"CVE-2009-4269"

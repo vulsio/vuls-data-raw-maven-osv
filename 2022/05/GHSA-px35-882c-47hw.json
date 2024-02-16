@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-px35-882c-47hw",
-	"modified": "2024-01-30T21:43:39.126473Z",
+	"modified": "2024-02-16T08:07:50.174868Z",
 	"published": "2022-05-24T22:00:03Z",
 	"aliases": [
 		"CVE-2019-10326"

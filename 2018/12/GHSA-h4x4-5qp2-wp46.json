@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h4x4-5qp2-wp46",
-	"modified": "2023-11-08T03:59:41.543402Z",
+	"modified": "2024-02-16T08:24:03.165385Z",
 	"published": "2018-12-21T17:46:54Z",
 	"aliases": [
 		"CVE-2018-1000873"
@@ -172,7 +172,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200904-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20200904-0004"
 		},
 		{
 			"type": "WEB",

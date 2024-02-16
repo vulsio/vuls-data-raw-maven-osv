@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-758m-v56v-grj4",
-	"modified": "2024-02-16T05:29:05.508867Z",
+	"modified": "2024-02-16T08:20:04.357261Z",
 	"published": "2020-04-23T21:36:03Z",
 	"aliases": [
 		"CVE-2020-10969"

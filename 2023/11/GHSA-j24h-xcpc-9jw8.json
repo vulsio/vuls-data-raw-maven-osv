@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j24h-xcpc-9jw8",
-	"modified": "2023-11-30T20:11:43.350096Z",
+	"modified": "2024-02-16T08:13:05.865607Z",
 	"published": "2023-11-30T19:52:54Z",
 	"aliases": [
 		"CVE-2023-4218"
@@ -53,7 +53,8 @@
 				"3.8.200",
 				"3.8.300",
 				"3.9.0",
-				"3.9.100"
+				"3.9.100",
+				"3.9.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -92,7 +93,8 @@
 				"3.5.0",
 				"3.5.100",
 				"3.6.0",
-				"3.6.100"
+				"3.6.100",
+				"3.6.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -140,7 +142,8 @@
 				"3.20.0",
 				"3.20.100",
 				"3.21.0",
-				"3.21.100"
+				"3.21.100",
+				"3.21.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -190,7 +193,8 @@
 				"3.17.100",
 				"3.17.200",
 				"3.18.0",
-				"3.18.100"
+				"3.18.100",
+				"3.18.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -238,7 +242,8 @@
 				"3.18.100",
 				"3.18.200",
 				"3.19.0",
-				"3.19.100"
+				"3.19.100",
+				"3.20.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -308,7 +313,8 @@
 				"3.6.400",
 				"3.6.500",
 				"3.7.0",
-				"3.7.100"
+				"3.7.100",
+				"3.7.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -353,7 +359,8 @@
 				"1.3.300",
 				"1.3.400",
 				"1.4.0",
-				"1.4.100"
+				"1.4.100",
+				"1.4.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -381,6 +388,7 @@
 			"versions": [
 				"3.10.0",
 				"3.10.100",
+				"3.10.200",
 				"3.8.0",
 				"3.8.1",
 				"3.8.100",
@@ -443,7 +451,8 @@
 				"3.5.0",
 				"3.5.100",
 				"3.6.0",
-				"3.6.100"
+				"3.6.100",
+				"3.6.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -497,7 +506,8 @@
 				"4.3.800",
 				"4.3.900",
 				"4.4.0",
-				"4.4.100"
+				"4.4.100",
+				"4.4.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -543,7 +553,8 @@
 				"4.4.0",
 				"4.4.100",
 				"4.5.0",
-				"4.6.0"
+				"4.6.0",
+				"4.6.100"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -582,6 +593,7 @@
 				"3.10.900",
 				"3.11.0",
 				"3.11.100",
+				"3.11.200",
 				"3.8.0",
 				"3.9.0",
 				"3.9.1",
@@ -621,6 +633,7 @@
 			"versions": [
 				"3.10.0",
 				"3.10.100",
+				"3.10.200",
 				"3.7.0",
 				"3.8.0",
 				"3.8.1",
@@ -671,7 +684,8 @@
 				"0.2.0",
 				"0.2.100",
 				"0.3.0",
-				"0.3.100"
+				"0.3.100",
+				"0.3.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -713,7 +727,8 @@
 				"3.7.400",
 				"3.7.500",
 				"3.8.0",
-				"3.8.100"
+				"3.8.100",
+				"3.8.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -754,7 +769,8 @@
 				"3.4.200",
 				"3.4.300",
 				"3.5.0",
-				"3.5.100"
+				"3.5.100",
+				"3.5.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -800,7 +816,8 @@
 				"3.6.500",
 				"3.6.600",
 				"3.7.0",
-				"3.7.100"
+				"3.7.100",
+				"3.7.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -839,7 +856,8 @@
 				"3.4.800",
 				"3.4.900",
 				"3.5.0",
-				"3.5.100"
+				"3.5.100",
+				"3.5.200"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"

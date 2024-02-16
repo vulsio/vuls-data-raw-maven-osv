@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hrgc-54mv-58gv",
-	"modified": "2023-12-27T18:49:12.963156Z",
+	"modified": "2024-02-16T08:22:13.264449Z",
 	"published": "2022-05-17T01:42:17Z",
 	"aliases": [
 		"CVE-2012-4387"

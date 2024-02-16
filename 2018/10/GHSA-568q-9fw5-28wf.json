@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-568q-9fw5-28wf",
-	"modified": "2023-11-08T03:59:44.849854Z",
+	"modified": "2024-02-16T08:05:33.389586Z",
 	"published": "2018-10-19T16:53:33Z",
 	"aliases": [
 		"CVE-2018-10936"
@@ -71,7 +71,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.postgresql.org/about/news/1883/"
+			"url": "https://www.postgresql.org/about/news/1883"
 		},
 		{
 			"type": "WEB",

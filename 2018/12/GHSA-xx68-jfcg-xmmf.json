@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xx68-jfcg-xmmf",
-	"modified": "2023-11-08T03:57:30.473106Z",
+	"modified": "2024-02-16T08:17:21.948848Z",
 	"published": "2018-12-21T17:51:42Z",
 	"aliases": [
 		"CVE-2014-0050"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pcm9-fp55-563v",
-	"modified": "2024-01-19T18:11:33.552848Z",
+	"modified": "2024-02-16T08:21:13.950005Z",
 	"published": "2022-05-17T05:36:48Z",
 	"aliases": [
 		"CVE-2011-4457"

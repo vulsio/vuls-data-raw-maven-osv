@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gx96-vgf7-hwfg",
-	"modified": "2023-11-08T03:59:48.060344Z",
+	"modified": "2024-02-16T08:14:19.885368Z",
 	"published": "2018-10-17T18:22:29Z",
 	"aliases": [
 		"CVE-2018-11797"
@@ -121,11 +121,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HKVPTJWZGUB4MH4AAOWMRJHRDBYFHGJ/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6HKVPTJWZGUB4MH4AAOWMRJHRDBYFHGJ"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/POPOGHJ5CVMUVCRQU7APBAN5IVZGZFDX/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/POPOGHJ5CVMUVCRQU7APBAN5IVZGZFDX"
 		},
 		{
 			"type": "WEB",

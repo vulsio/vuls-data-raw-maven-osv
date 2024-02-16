@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p986-hpr3-493p",
-	"modified": "2024-01-30T23:26:45.748429Z",
+	"modified": "2024-02-16T08:05:29.498546Z",
 	"published": "2023-09-06T15:30:26Z",
 	"aliases": [
 		"CVE-2023-41947"

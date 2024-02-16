@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8cxw-wvhc-p4x4",
-	"modified": "2024-01-04T12:31:07.628797Z",
+	"modified": "2024-02-16T08:07:01.292792Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43414"

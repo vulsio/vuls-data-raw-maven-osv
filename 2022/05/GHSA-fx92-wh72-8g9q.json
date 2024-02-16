@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fx92-wh72-8g9q",
-	"modified": "2023-12-04T15:46:45.018797Z",
+	"modified": "2024-02-16T08:20:49.951452Z",
 	"published": "2022-05-17T01:17:12Z",
 	"aliases": [
 		"CVE-2017-3154",

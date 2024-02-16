@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jfgp-q2hg-w285",
-	"modified": "2023-11-08T04:02:12.809959Z",
+	"modified": "2024-02-16T08:24:14.884439Z",
 	"published": "2022-05-24T17:18:11Z",
 	"aliases": [
 		"CVE-2020-13226"

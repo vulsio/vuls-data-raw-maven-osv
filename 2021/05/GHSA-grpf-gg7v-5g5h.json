@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-grpf-gg7v-5g5h",
-	"modified": "2023-11-08T04:02:22.389169Z",
+	"modified": "2024-02-16T08:14:51.095451Z",
 	"published": "2021-05-07T15:53:31Z",
 	"aliases": [
 		"CVE-2020-13921",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pgpj-83g3-mfr2",
-	"modified": "2023-12-05T23:18:49.051966Z",
+	"modified": "2024-02-16T08:17:27.238990Z",
 	"published": "2023-11-29T15:30:21Z",
 	"aliases": [
 		"CVE-2023-49652"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h4rc-386g-6m85",
-	"modified": "2023-11-08T04:02:06.958214Z",
+	"modified": "2024-02-16T07:59:41.262398Z",
 	"published": "2020-04-23T20:19:02Z",
 	"aliases": [
 		"CVE-2020-11620"
@@ -86,7 +86,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200511-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20200511-0004"
 		},
 		{
 			"type": "WEB",

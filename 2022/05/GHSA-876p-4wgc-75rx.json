@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-876p-4wgc-75rx",
-	"modified": "2023-12-28T20:01:01.235316Z",
+	"modified": "2024-02-16T08:22:46.726550Z",
 	"published": "2022-05-14T00:52:12Z",
 	"aliases": [
 		"CVE-2016-0785"

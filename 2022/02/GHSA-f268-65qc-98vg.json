@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f268-65qc-98vg",
-	"modified": "2024-02-14T05:19:48.378826Z",
+	"modified": "2024-02-16T08:04:48.542136Z",
 	"published": "2022-02-09T23:03:53Z",
 	"aliases": [
 		"BIT-tomcat-2020-13943",

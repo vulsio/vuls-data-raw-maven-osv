@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fcr6-6cph-vmcm",
-	"modified": "2023-11-21T12:02:52.326852Z",
+	"modified": "2024-02-16T08:18:07.234033Z",
 	"published": "2022-04-13T00:00:17Z",
 	"aliases": [
 		"CVE-2022-29040"

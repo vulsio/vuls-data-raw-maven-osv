@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h475-7v3c-26q7",
-	"modified": "2023-11-10T05:28:50.272252Z",
+	"modified": "2024-02-16T08:24:25.236929Z",
 	"published": "2023-05-03T21:30:18Z",
 	"aliases": [
 		"CVE-2023-25826"
@@ -69,7 +69,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.synopsys.com/blogs/software-security/opentsdb/"
+			"url": "https://www.synopsys.com/blogs/software-security/opentsdb"
 		},
 		{
 			"type": "WEB",

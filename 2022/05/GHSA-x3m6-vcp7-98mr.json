@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x3m6-vcp7-98mr",
-	"modified": "2023-12-20T10:32:27.076572Z",
+	"modified": "2024-02-16T08:11:24.221720Z",
 	"published": "2022-05-24T17:45:45Z",
 	"aliases": [
 		"CVE-2021-21635"

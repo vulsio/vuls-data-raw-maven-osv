@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wrr5-p265-7252",
-	"modified": "2024-01-30T21:43:39.052312Z",
+	"modified": "2024-02-16T08:11:28.197147Z",
 	"published": "2022-05-24T22:00:03Z",
 	"aliases": [
 		"CVE-2019-10325"

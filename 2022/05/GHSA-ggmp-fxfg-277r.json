@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ggmp-fxfg-277r",
-	"modified": "2023-11-08T03:58:25.442024Z",
+	"modified": "2024-02-16T08:24:46.724902Z",
 	"published": "2022-05-14T03:15:07Z",
 	"aliases": [
 		"CVE-2016-3090"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h5hm-73hg-frrm",
-	"modified": "2024-01-30T22:26:49.867906Z",
+	"modified": "2024-02-16T08:24:46.633134Z",
 	"published": "2022-05-14T02:56:39Z",
 	"aliases": [
 		"CVE-2018-1999034"

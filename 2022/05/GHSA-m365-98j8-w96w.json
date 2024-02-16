@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m365-98j8-w96w",
-	"modified": "2023-11-08T04:02:53.617671Z",
+	"modified": "2024-02-16T08:09:54.906904Z",
 	"published": "2022-05-24T17:10:29Z",
 	"aliases": [
 		"CVE-2020-2154"

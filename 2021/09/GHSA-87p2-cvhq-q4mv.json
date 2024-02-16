@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-87p2-cvhq-q4mv",
-	"modified": "2023-11-27T21:49:42.592054Z",
+	"modified": "2024-02-16T08:20:33.718960Z",
 	"published": "2021-09-07T22:56:56Z",
 	"aliases": [
 		"CVE-2020-13929"

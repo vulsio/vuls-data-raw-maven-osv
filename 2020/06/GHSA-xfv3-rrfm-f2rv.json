@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xfv3-rrfm-f2rv",
-	"modified": "2023-11-08T03:57:51.738566Z",
+	"modified": "2024-02-16T08:04:08.954640Z",
 	"published": "2020-06-30T21:01:21Z",
 	"aliases": [
 		"CVE-2015-2156"

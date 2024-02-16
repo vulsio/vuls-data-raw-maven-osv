@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-492x-gfqx-wpf3",
-	"modified": "2024-01-30T22:26:50.132681Z",
+	"modified": "2024-02-16T08:25:01.494058Z",
 	"published": "2022-05-13T01:17:42Z",
 	"aliases": [
 		"CVE-2019-1003077"

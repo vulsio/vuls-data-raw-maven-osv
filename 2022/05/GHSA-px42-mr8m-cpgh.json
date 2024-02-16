@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-px42-mr8m-cpgh",
-	"modified": "2023-11-08T03:57:40.249359Z",
+	"modified": "2024-02-16T08:15:37.741595Z",
 	"published": "2022-05-17T19:57:06Z",
 	"aliases": [
 		"CVE-2014-3656"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-732f-w585-gmpc",
-	"modified": "2023-12-15T10:34:07.493492Z",
+	"modified": "2024-02-16T08:23:34.075796Z",
 	"published": "2022-05-24T19:05:40Z",
 	"aliases": [
 		"CVE-2021-21669"

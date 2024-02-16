@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x3pr-fcgm-wjgc",
-	"modified": "2023-12-06T14:56:30.680993Z",
+	"modified": "2024-02-16T08:15:23.347347Z",
 	"published": "2022-05-24T17:08:46Z",
 	"aliases": [
 		"CVE-2020-2111"

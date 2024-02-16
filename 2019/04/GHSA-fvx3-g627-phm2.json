@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fvx3-g627-phm2",
-	"modified": "2023-11-08T04:00:54.225664Z",
+	"modified": "2024-02-16T08:19:16.981144Z",
 	"published": "2019-04-18T14:27:42Z",
 	"aliases": [
 		"CVE-2019-10686"

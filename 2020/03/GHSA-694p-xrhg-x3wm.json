@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-694p-xrhg-x3wm",
-	"modified": "2023-11-08T04:04:00.431588Z",
+	"modified": "2024-02-16T07:57:52.052296Z",
 	"published": "2020-03-30T20:54:55Z",
 	"aliases": [
 		"CVE-2020-7611",

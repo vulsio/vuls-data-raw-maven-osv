@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jwhm-9cjm-4493",
-	"modified": "2023-12-27T15:41:00.109728Z",
+	"modified": "2024-02-16T08:22:12.555351Z",
 	"published": "2021-06-16T17:24:41Z",
 	"aliases": [
 		"CVE-2021-21649"

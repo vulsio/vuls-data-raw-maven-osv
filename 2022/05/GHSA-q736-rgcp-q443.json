@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q736-rgcp-q443",
-	"modified": "2023-12-05T17:33:46.846203Z",
+	"modified": "2024-02-16T08:23:36.366603Z",
 	"published": "2022-05-24T16:50:04Z",
 	"aliases": [
 		"CVE-2019-10348"

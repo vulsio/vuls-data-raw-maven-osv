@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vpf7-q2rx-26mh",
-	"modified": "2024-01-05T16:18:53.698070Z",
+	"modified": "2024-02-16T08:08:46.256264Z",
 	"published": "2022-07-28T00:00:43Z",
 	"aliases": [
 		"CVE-2022-36888"

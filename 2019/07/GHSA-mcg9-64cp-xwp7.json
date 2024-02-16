@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mcg9-64cp-xwp7",
-	"modified": "2024-02-16T05:23:38.996073Z",
+	"modified": "2024-02-16T08:17:46.110595Z",
 	"published": "2019-07-05T21:08:09Z",
 	"aliases": [
 		"CVE-2019-9827"

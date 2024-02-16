@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cv6r-h2fm-pvrp",
-	"modified": "2024-02-14T05:42:28.807483Z",
+	"modified": "2024-02-16T08:02:06.153404Z",
 	"published": "2022-08-24T00:00:29Z",
 	"aliases": [
 		"CVE-2022-35278"

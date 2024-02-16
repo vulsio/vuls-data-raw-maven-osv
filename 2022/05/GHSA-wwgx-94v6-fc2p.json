@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wwgx-94v6-fc2p",
-	"modified": "2023-12-15T17:32:12.723091Z",
+	"modified": "2024-02-16T08:15:54.165492Z",
 	"published": "2022-05-13T01:50:55Z",
 	"aliases": [
 		"CVE-2018-1999036"

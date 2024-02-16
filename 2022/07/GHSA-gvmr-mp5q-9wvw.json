@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gvmr-mp5q-9wvw",
-	"modified": "2023-11-22T22:17:58.736473Z",
+	"modified": "2024-02-16T08:20:10.686086Z",
 	"published": "2022-07-01T00:01:08Z",
 	"aliases": [
 		"CVE-2022-34805"

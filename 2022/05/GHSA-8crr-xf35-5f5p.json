@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8crr-xf35-5f5p",
-	"modified": "2024-01-09T19:11:38.507842Z",
+	"modified": "2024-02-16T08:24:01.931551Z",
 	"published": "2022-05-13T01:31:34Z",
 	"aliases": [
 		"CVE-2019-1003017"

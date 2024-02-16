@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x24m-wr2f-p3vc",
-	"modified": "2023-12-13T10:34:06.564193Z",
+	"modified": "2024-02-16T08:03:39.811037Z",
 	"published": "2022-05-24T17:01:41Z",
 	"aliases": [
 		"CVE-2019-16548"

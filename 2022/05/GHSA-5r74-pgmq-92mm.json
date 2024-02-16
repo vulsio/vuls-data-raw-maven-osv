@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5r74-pgmq-92mm",
-	"modified": "2023-12-21T18:46:06.369298Z",
+	"modified": "2024-02-16T08:12:02.870927Z",
 	"published": "2022-05-13T01:15:07Z",
 	"aliases": [
 		"CVE-2019-1003034"

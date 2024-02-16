@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h8q5-g2cj-qr5h",
-	"modified": "2023-11-08T03:59:47.999147Z",
+	"modified": "2024-02-16T08:07:07.926981Z",
 	"published": "2018-10-17T15:43:25Z",
 	"aliases": [
 		"CVE-2018-11796"
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190903-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20190903-0002"
 		},
 		{
 			"type": "WEB",

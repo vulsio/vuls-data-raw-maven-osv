@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jf9v-fxfq-wm76",
-	"modified": "2023-11-08T03:57:19.510016Z",
+	"modified": "2024-02-16T08:17:16.609768Z",
 	"published": "2022-05-17T05:07:19Z",
 	"aliases": [
 		"CVE-2013-3300"

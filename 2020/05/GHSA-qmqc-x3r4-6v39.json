@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qmqc-x3r4-6v39",
-	"modified": "2023-11-08T04:01:12.199735Z",
+	"modified": "2024-02-16T08:19:01.021763Z",
 	"published": "2020-05-15T18:59:07Z",
 	"aliases": [
 		"CVE-2019-14893"
@@ -83,7 +83,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200327-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20200327-0006"
 		},
 		{
 			"type": "WEB",

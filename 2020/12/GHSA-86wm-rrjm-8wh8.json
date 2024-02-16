@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-86wm-rrjm-8wh8",
-	"modified": "2023-12-06T01:00:29.013118Z",
+	"modified": "2024-02-16T08:21:08.312313Z",
 	"published": "2020-12-02T18:28:18Z",
 	"aliases": [
 		"BIT-kafka-2020-27218",

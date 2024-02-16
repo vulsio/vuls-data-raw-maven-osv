@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m6gf-p26p-mx2w",
-	"modified": "2023-12-19T15:00:57.587206Z",
+	"modified": "2024-02-16T08:23:29.084900Z",
 	"published": "2022-05-24T16:50:03Z",
 	"aliases": [
 		"CVE-2019-10340"

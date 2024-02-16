@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x68x-wvm2-hqc8",
-	"modified": "2023-12-07T21:46:59.323277Z",
+	"modified": "2024-02-16T07:57:21.931577Z",
 	"published": "2022-05-24T17:19:04Z",
 	"aliases": [
 		"CVE-2020-2195"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wcrg-92wp-4h28",
-	"modified": "2023-11-08T04:03:03.286756Z",
+	"modified": "2024-02-16T08:00:56.136489Z",
 	"published": "2022-05-24T17:30:19Z",
 	"aliases": [
 		"CVE-2020-2298"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mx47-h5fv-ghwh",
-	"modified": "2023-11-10T05:30:18.179286Z",
+	"modified": "2024-02-16T08:21:33.704912Z",
 	"published": "2023-10-25T18:32:21Z",
 	"aliases": [
 		"CVE-2023-31580"

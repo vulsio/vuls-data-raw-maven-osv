@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hmhg-95wh-r699",
-	"modified": "2023-11-08T04:05:14.105699Z",
+	"modified": "2024-02-16T08:11:59.161510Z",
 	"published": "2022-05-24T19:03:11Z",
 	"aliases": [
 		"CVE-2021-23937"

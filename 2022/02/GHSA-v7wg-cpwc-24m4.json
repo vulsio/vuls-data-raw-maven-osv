@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v7wg-cpwc-24m4",
-	"modified": "2024-02-15T05:32:54.219529Z",
+	"modified": "2024-02-16T08:17:39.978034Z",
 	"published": "2022-02-02T00:04:20Z",
 	"aliases": [
 		"BIT-postgresql-jdbc-driver-2022-21724",

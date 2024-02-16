@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pvm9-288c-v5wq",
-	"modified": "2023-12-28T21:31:30.317827Z",
+	"modified": "2024-02-16T08:23:55.788932Z",
 	"published": "2022-05-17T03:42:18Z",
 	"aliases": [
 		"CVE-2016-3082"

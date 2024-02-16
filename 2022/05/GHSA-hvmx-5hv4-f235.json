@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hvmx-5hv4-f235",
-	"modified": "2023-12-14T16:41:40.833321Z",
+	"modified": "2024-02-16T08:20:35.943043Z",
 	"published": "2022-05-24T16:55:59Z",
 	"aliases": [
 		"CVE-2019-10394"

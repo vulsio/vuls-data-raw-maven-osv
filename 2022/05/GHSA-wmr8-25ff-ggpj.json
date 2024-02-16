@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wmr8-25ff-ggpj",
-	"modified": "2023-12-21T18:46:21.545025Z",
+	"modified": "2024-02-16T08:18:15.647159Z",
 	"published": "2022-05-13T01:01:02Z",
 	"aliases": [
 		"CVE-2018-1999004"

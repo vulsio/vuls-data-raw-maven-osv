@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vjj4-qwcm-552h",
-	"modified": "2023-12-06T01:02:39.861778Z",
+	"modified": "2024-02-16T08:04:29.938718Z",
 	"published": "2022-11-15T12:00:16Z",
 	"aliases": [
 		"BIT-liferay-2022-42124",

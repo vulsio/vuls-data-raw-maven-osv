@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-729q-fcgp-r5xh",
-	"modified": "2023-12-12T22:01:21.148551Z",
+	"modified": "2024-02-16T08:05:02.483237Z",
 	"published": "2023-12-05T09:33:27Z",
 	"aliases": [
 		"CVE-2023-41835"

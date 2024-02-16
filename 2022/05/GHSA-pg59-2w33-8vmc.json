@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pg59-2w33-8vmc",
-	"modified": "2023-12-20T14:00:42.178973Z",
+	"modified": "2024-02-16T08:19:54.695260Z",
 	"published": "2022-05-24T16:52:45Z",
 	"aliases": [
 		"CVE-2019-10372"

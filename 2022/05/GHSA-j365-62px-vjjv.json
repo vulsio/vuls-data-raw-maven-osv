@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j365-62px-vjjv",
-	"modified": "2023-12-13T09:59:41.294855Z",
+	"modified": "2024-02-16T08:11:48.215650Z",
 	"published": "2022-05-24T16:43:53Z",
 	"aliases": [
 		"CVE-2019-10300"

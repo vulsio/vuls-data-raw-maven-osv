@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mvc8-6ffp-jrx5",
-	"modified": "2024-01-09T20:38:53.666705Z",
+	"modified": "2024-02-16T08:21:56.234858Z",
 	"published": "2023-12-09T03:30:15Z",
 	"aliases": [
 		"CVE-2023-6394"
@@ -80,6 +80,7 @@
 				"3.2.0.CR1",
 				"3.2.0.Final",
 				"3.2.1.Final",
+				"3.2.10.Final",
 				"3.2.2.Final",
 				"3.2.3.Final",
 				"3.2.4.Final",

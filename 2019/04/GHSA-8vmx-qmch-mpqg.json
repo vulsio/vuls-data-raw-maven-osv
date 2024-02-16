@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8vmx-qmch-mpqg",
-	"modified": "2023-12-08T23:15:56.667076Z",
+	"modified": "2024-02-16T08:13:49.978244Z",
 	"published": "2019-04-18T14:27:35Z",
 	"aliases": [
 		"CVE-2019-0232"

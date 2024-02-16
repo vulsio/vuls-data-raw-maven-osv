@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mfp-938r-fcfj",
-	"modified": "2023-11-08T04:00:39.071382Z",
+	"modified": "2024-02-16T08:15:21.337158Z",
 	"published": "2022-05-13T01:17:42Z",
 	"aliases": [
 		"CVE-2019-1003074"

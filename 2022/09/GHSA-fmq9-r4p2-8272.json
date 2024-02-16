@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fmq9-r4p2-8272",
-	"modified": "2023-11-08T04:10:29.309756Z",
+	"modified": "2024-02-16T08:09:40.635768Z",
 	"published": "2022-09-22T00:00:26Z",
 	"aliases": [
 		"CVE-2022-41255"

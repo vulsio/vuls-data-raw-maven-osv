@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-68pr-6fjc-wmgm",
-	"modified": "2023-11-28T21:27:06.315788Z",
+	"modified": "2024-02-16T08:24:24.572878Z",
 	"published": "2023-11-28T00:30:33Z",
 	"aliases": [
 		"CVE-2023-49145"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3hvc-xwjp-xr8m",
-	"modified": "2023-12-15T15:41:34.292091Z",
+	"modified": "2024-02-16T08:18:52.365248Z",
 	"published": "2022-05-13T01:48:33Z",
 	"aliases": [
 		"CVE-2018-1000146"
@@ -67,8 +67,8 @@
 			"url": "https://github.com/jenkinsci/liquibase-runner-plugin/commit/7726ce4569a287e32fbda6f01ad2846ada909436"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/liquibase-runner-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/liquibase-runner-plugin"
 		},
 		{
 			"type": "WEB",

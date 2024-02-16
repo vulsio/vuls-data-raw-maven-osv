@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wgmr-mf83-7x4j",
-	"modified": "2023-12-06T01:01:54.033218Z",
+	"modified": "2024-02-16T08:12:26.043206Z",
 	"published": "2022-07-07T20:55:40Z",
 	"aliases": [
 		"BIT-jenkins-2022-2048",

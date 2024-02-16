@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h7mf-qrm9-2848",
-	"modified": "2023-11-08T03:56:48.309533Z",
+	"modified": "2024-02-16T08:24:21.300652Z",
 	"published": "2022-05-01T18:24:47Z",
 	"aliases": [
 		"CVE-2007-4556"

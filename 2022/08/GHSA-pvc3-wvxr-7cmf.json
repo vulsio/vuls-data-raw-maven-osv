@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pvc3-wvxr-7cmf",
-	"modified": "2023-11-16T15:58:43.109892Z",
+	"modified": "2024-02-16T08:01:16.156999Z",
 	"published": "2022-08-26T00:03:29Z",
 	"aliases": [
 		"CVE-2021-3914"

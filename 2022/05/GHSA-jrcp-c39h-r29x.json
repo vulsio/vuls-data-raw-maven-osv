@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jrcp-c39h-r29x",
-	"modified": "2023-12-08T20:18:55.741162Z",
+	"modified": "2024-02-16T08:08:53.959170Z",
 	"published": "2022-05-14T03:13:01Z",
 	"aliases": [
 		"CVE-2015-5346"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pfwp-q984-w7wh",
-	"modified": "2023-12-22T14:51:18.856454Z",
+	"modified": "2024-02-16T07:50:19.640647Z",
 	"published": "2022-02-16T00:01:31Z",
 	"aliases": [
 		"CVE-2022-25183"

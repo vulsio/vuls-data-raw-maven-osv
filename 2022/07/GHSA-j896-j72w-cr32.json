@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j896-j72w-cr32",
-	"modified": "2024-01-05T13:33:20.525782Z",
+	"modified": "2024-02-16T08:19:53.977426Z",
 	"published": "2022-07-28T00:00:43Z",
 	"aliases": [
 		"CVE-2022-36887"

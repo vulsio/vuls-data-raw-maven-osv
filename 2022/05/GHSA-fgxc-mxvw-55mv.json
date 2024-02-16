@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fgxc-mxvw-55mv",
-	"modified": "2023-12-13T12:16:01.417235Z",
+	"modified": "2024-02-16T07:56:49.942405Z",
 	"published": "2022-05-24T17:08:46Z",
 	"aliases": [
 		"CVE-2020-2113"

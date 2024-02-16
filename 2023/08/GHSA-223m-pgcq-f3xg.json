@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-223m-pgcq-f3xg",
-	"modified": "2023-11-09T05:31:09.319094Z",
+	"modified": "2024-02-16T08:19:06.995696Z",
 	"published": "2023-08-22T00:31:11Z",
 	"aliases": [
 		"CVE-2023-4303"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9mgm-gcq8-86wq",
-	"modified": "2023-12-06T01:00:58.244276Z",
+	"modified": "2024-02-16T08:13:56.711547Z",
 	"published": "2021-06-16T17:39:35Z",
 	"aliases": [
 		"BIT-activemq-2021-26117",

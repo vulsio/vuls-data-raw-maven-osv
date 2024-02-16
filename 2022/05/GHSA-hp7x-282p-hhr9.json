@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hp7x-282p-hhr9",
-	"modified": "2024-01-09T21:42:11.247330Z",
+	"modified": "2024-02-16T08:24:18.325610Z",
 	"published": "2022-05-14T02:57:12Z",
 	"aliases": [
 		"CVE-2018-1999026"

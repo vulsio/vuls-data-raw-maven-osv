@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcgx-crrx-38v5",
-	"modified": "2023-11-08T04:06:05.865026Z",
+	"modified": "2024-02-16T08:23:56.810954Z",
 	"published": "2021-10-13T18:54:09Z",
 	"aliases": [
 		"CVE-2021-33609"

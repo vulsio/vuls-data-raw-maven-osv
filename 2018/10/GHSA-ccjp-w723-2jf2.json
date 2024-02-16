@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ccjp-w723-2jf2",
-	"modified": "2023-11-08T03:57:53.888840Z",
+	"modified": "2024-02-16T08:02:13.953023Z",
 	"published": "2018-10-17T15:44:10Z",
 	"aliases": [
 		"CVE-2015-3271"

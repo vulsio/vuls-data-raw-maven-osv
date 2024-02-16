@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wx5j-54mm-rqqq",
-	"modified": "2023-11-08T04:07:12.620688Z",
+	"modified": "2024-02-16T08:11:55.178290Z",
 	"published": "2021-12-09T19:09:17Z",
 	"aliases": [
 		"CVE-2021-43797"

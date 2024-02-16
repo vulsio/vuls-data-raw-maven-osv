@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hr65-qq6p-87r4",
-	"modified": "2023-12-06T01:00:49.850410Z",
+	"modified": "2024-02-16T08:00:58.448031Z",
 	"published": "2022-05-24T19:02:19Z",
 	"aliases": [
 		"BIT-elasticsearch-2021-22137",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p92q-7fhh-mq35",
-	"modified": "2024-01-03T13:31:09.812787Z",
+	"modified": "2024-02-16T08:15:22.801357Z",
 	"published": "2022-01-21T23:37:57Z",
 	"aliases": [
 		"BIT-jenkins-2022-20612",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xjrr-xv9m-4pw5",
-	"modified": "2023-11-08T03:59:15.676354Z",
+	"modified": "2024-02-16T07:59:10.562257Z",
 	"published": "2018-10-24T19:42:03Z",
 	"aliases": [
 		"CVE-2017-18349"
@@ -124,6 +124,7 @@
 				"1.1.68.android",
 				"1.1.69.android",
 				"1.1.70.android",
+				"1.1.70.android_noneautotype",
 				"1.1.71.android",
 				"1.1.72.android",
 				"1.1.73.android",

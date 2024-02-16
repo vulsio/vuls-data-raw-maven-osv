@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5mp4-32rr-v3x5",
-	"modified": "2024-02-14T15:41:42.875598Z",
+	"modified": "2024-02-16T08:24:52.031297Z",
 	"published": "2024-02-14T15:08:23Z",
 	"aliases": [
 		"CVE-2024-25125"

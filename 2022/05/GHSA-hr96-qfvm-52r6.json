@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hr96-qfvm-52r6",
-	"modified": "2023-12-14T18:43:10.433288Z",
+	"modified": "2024-02-16T08:23:54.818340Z",
 	"published": "2022-05-24T16:51:50Z",
 	"aliases": [
 		"CVE-2019-10358"

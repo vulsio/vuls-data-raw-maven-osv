@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w33c-445m-f8w7",
-	"modified": "2023-11-27T22:31:22.918992Z",
+	"modified": "2024-02-16T08:13:16.299336Z",
 	"published": "2023-07-12T21:30:50Z",
 	"aliases": [
 		"CVE-2023-3635"
@@ -193,7 +193,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://research.jfrog.com/vulnerabilities/okio-gzip-source-unhandled-exception-dos-xray-523195/"
+			"url": "https://research.jfrog.com/vulnerabilities/okio-gzip-source-unhandled-exception-dos-xray-523195"
 		}
 	],
 	"database_specific": {

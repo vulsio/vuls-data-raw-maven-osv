@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-75fc-fv3p-xh82",
-	"modified": "2024-01-05T16:31:01.477499Z",
+	"modified": "2024-02-16T08:25:13.890915Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36896"

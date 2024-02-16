@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pw4g-jcp5-63m9",
-	"modified": "2024-01-05T15:16:00.729482Z",
+	"modified": "2024-02-16T08:10:37.939062Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36893"

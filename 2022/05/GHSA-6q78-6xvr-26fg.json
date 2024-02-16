@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6q78-6xvr-26fg",
-	"modified": "2023-12-15T17:49:15.061099Z",
+	"modified": "2024-02-16T08:22:10.674196Z",
 	"published": "2022-05-13T01:15:20Z",
 	"aliases": [
 		"CVE-2019-1003001"
@@ -180,7 +180,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46572/"
+			"url": "https://www.exploit-db.com/exploits/46572"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h246-g39x-7vmx",
-	"modified": "2023-12-22T14:13:35.635742Z",
+	"modified": "2024-02-16T08:11:39.610432Z",
 	"published": "2022-05-24T22:01:39Z",
 	"aliases": [
 		"CVE-2021-21662"

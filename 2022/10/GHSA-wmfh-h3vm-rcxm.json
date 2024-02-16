@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wmfh-h3vm-rcxm",
-	"modified": "2024-01-05T17:02:04.383313Z",
+	"modified": "2024-02-16T08:01:29.531084Z",
 	"published": "2022-10-19T19:00:18Z",
 	"aliases": [
 		"CVE-2022-43434"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mx84-frhw-pcg8",
-	"modified": "2023-11-08T04:13:05.972399Z",
+	"modified": "2024-02-16T08:23:14.474828Z",
 	"published": "2023-07-12T18:30:39Z",
 	"aliases": [
 		"CVE-2023-37959"

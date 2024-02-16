@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vmvp-2hhx-rgm8",
-	"modified": "2023-12-21T14:13:53.046496Z",
+	"modified": "2024-02-16T08:08:32.497266Z",
 	"published": "2022-05-24T17:03:46Z",
 	"aliases": [
 		"CVE-2019-16551"

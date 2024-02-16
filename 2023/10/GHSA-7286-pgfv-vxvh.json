@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7286-pgfv-vxvh",
-	"modified": "2023-12-06T01:03:14.806725Z",
+	"modified": "2024-02-16T08:21:45.434951Z",
 	"published": "2023-10-11T12:30:27Z",
 	"aliases": [
 		"BIT-zookeeper-2023-44981",

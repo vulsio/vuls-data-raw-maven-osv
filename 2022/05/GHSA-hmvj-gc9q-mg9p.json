@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hmvj-gc9q-mg9p",
-	"modified": "2023-12-27T20:41:37.052570Z",
+	"modified": "2024-02-16T08:13:35.318935Z",
 	"published": "2022-05-04T00:29:43Z",
 	"aliases": [
 		"CVE-2012-0394"

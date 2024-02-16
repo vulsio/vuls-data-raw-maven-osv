@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vp68-fm96-7v79",
-	"modified": "2024-01-03T14:14:13.482528Z",
+	"modified": "2024-02-16T08:17:21.469022Z",
 	"published": "2022-07-28T00:00:42Z",
 	"aliases": [
 		"CVE-2022-36915"

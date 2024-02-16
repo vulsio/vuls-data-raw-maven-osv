@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m9p2-j4hg-g373",
-	"modified": "2023-12-06T01:02:59.983286Z",
+	"modified": "2024-02-16T08:12:25.408372Z",
 	"published": "2023-07-06T21:15:06Z",
 	"aliases": [
 		"BIT-cassandra-2023-30601",

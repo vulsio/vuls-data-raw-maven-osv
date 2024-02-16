@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fx3v-4w3w-wpwr",
-	"modified": "2023-11-08T04:13:11.505703Z",
+	"modified": "2024-02-16T08:19:13.021947Z",
 	"published": "2023-07-28T15:30:23Z",
 	"aliases": [
 		"CVE-2023-39021"

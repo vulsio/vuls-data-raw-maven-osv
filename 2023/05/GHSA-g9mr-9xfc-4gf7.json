@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g9mr-9xfc-4gf7",
-	"modified": "2023-12-06T01:03:03.307058Z",
+	"modified": "2024-02-16T08:12:53.840916Z",
 	"published": "2023-05-24T18:30:26Z",
 	"aliases": [
 		"BIT-liferay-2023-33949",

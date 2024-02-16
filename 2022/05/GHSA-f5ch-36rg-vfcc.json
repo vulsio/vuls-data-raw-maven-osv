@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f5ch-36rg-vfcc",
-	"modified": "2023-12-22T21:46:39.495530Z",
+	"modified": "2024-02-16T08:11:54.586227Z",
 	"published": "2022-05-13T01:09:19Z",
 	"aliases": [
 		"CVE-2017-7662"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pgp9-x83g-v8x8",
-	"modified": "2023-11-22T22:18:38.914778Z",
+	"modified": "2024-02-16T08:15:25.778068Z",
 	"published": "2022-07-01T00:01:07Z",
 	"aliases": [
 		"CVE-2022-34802"

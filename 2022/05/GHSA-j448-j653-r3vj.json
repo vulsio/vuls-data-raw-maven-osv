@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j448-j653-r3vj",
-	"modified": "2023-11-08T03:57:21.649671Z",
+	"modified": "2024-02-16T08:07:32.223233Z",
 	"published": "2022-05-14T01:10:36Z",
 	"aliases": [
 		"CVE-2013-4286"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rpvr-mw7r-25xx",
-	"modified": "2023-11-08T04:07:24.908296Z",
+	"modified": "2024-02-16T08:11:34.370877Z",
 	"published": "2022-02-19T00:01:24Z",
 	"aliases": [
 		"CVE-2021-46062"

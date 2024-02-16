@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q829-hrmc-84c8",
-	"modified": "2023-11-08T04:00:51.173554Z",
+	"modified": "2024-02-16T08:12:15.153682Z",
 	"published": "2022-05-24T16:57:28Z",
 	"aliases": [
 		"CVE-2019-10432"

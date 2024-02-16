@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3hwc-rqwp-v36q",
-	"modified": "2024-02-09T21:56:43.352366Z",
+	"modified": "2024-02-16T08:26:35.544942Z",
 	"published": "2024-02-09T18:31:07Z",
 	"aliases": [
+		"BIT-solr-2023-50291",
 		"CVE-2023-50291"
 	],
 	"summary": "Apache Solr can leak certain passwords due to System Property redaction logic inconsistencies",

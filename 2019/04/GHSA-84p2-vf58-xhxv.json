@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-84p2-vf58-xhxv",
-	"modified": "2023-11-08T04:01:36.043527Z",
+	"modified": "2024-02-16T08:07:45.873484Z",
 	"published": "2019-04-23T16:03:18Z",
 	"aliases": [
 		"CVE-2019-5427"
@@ -76,11 +76,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/BFIVX6HOVNLAM7W3SUAMHYRNLCVQSAWR/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/BFIVX6HOVNLAM7W3SUAMHYRNLCVQSAWR"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MQ47OFV57Y2DAHMGA5H3JOL4WHRWRFN4/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MQ47OFV57Y2DAHMGA5H3JOL4WHRWRFN4"
 		},
 		{
 			"type": "WEB",

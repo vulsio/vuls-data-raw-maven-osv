@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53v4-42fg-g287",
-	"modified": "2023-12-05T22:05:09.947073Z",
+	"modified": "2024-02-16T08:21:42.455186Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"BIT-activemq-2022-41678",

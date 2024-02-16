@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h72v-652w-xv64",
-	"modified": "2023-12-20T14:00:31.666729Z",
+	"modified": "2024-02-16T08:05:08.341766Z",
 	"published": "2022-05-24T17:06:23Z",
 	"aliases": [
 		"CVE-2020-2094"

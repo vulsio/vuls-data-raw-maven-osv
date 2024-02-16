@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g5mm-vmx4-3rg7",
-	"modified": "2024-02-02T20:47:14.686503Z",
+	"modified": "2024-02-16T08:09:00.784369Z",
 	"published": "2022-04-15T00:00:32Z",
 	"aliases": [
 		"CVE-2022-22968"

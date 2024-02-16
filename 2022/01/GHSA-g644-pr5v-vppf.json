@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g644-pr5v-vppf",
-	"modified": "2023-11-08T04:04:20.868657Z",
+	"modified": "2024-02-16T08:22:56.559313Z",
 	"published": "2022-01-06T20:41:02Z",
 	"aliases": [
 		"CVE-2020-9486"

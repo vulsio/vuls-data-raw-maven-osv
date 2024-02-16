@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j8wc-gxx9-82hx",
-	"modified": "2023-11-08T04:06:48.277507Z",
+	"modified": "2024-02-16T08:02:45.559725Z",
 	"published": "2021-09-20T23:18:41Z",
 	"aliases": [
 		"CVE-2021-40690"
@@ -154,7 +154,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230818-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20230818-0002"
 		},
 		{
 			"type": "WEB",

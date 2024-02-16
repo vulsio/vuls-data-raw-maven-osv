@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4vpr-xfrp-cj64",
-	"modified": "2023-11-08T04:12:43.499635Z",
+	"modified": "2024-02-16T08:20:17.503929Z",
 	"published": "2023-07-18T18:30:36Z",
 	"aliases": [
 		"CVE-2023-34035"

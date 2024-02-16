@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mx27-gg24-h2jc",
-	"modified": "2023-11-08T05:39:01.377248Z",
+	"modified": "2024-02-16T08:08:17.071836Z",
 	"published": "2023-06-14T15:30:38Z",
 	"aliases": [
 		"CVE-2023-34612"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-crqg-jrpj-fc84",
-	"modified": "2023-11-10T05:32:25.827688Z",
+	"modified": "2024-02-16T08:00:08.359623Z",
 	"published": "2023-07-07T12:30:22Z",
 	"aliases": [
 		"CVE-2023-33008"

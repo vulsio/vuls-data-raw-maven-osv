@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jcwr-x25h-x5fh",
-	"modified": "2023-11-08T04:10:39.375728Z",
+	"modified": "2024-02-16T08:24:24.205603Z",
 	"published": "2023-09-25T21:30:26Z",
 	"aliases": [
 		"CVE-2022-4245"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rmpj-7c96-mrg8",
-	"modified": "2023-11-08T04:06:18.268443Z",
+	"modified": "2024-02-16T08:17:14.544186Z",
 	"published": "2022-06-14T00:00:37Z",
 	"aliases": [
 		"CVE-2021-37404"

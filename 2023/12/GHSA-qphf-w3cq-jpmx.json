@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qphf-w3cq-jpmx",
-	"modified": "2024-01-21T05:16:00.968607Z",
+	"modified": "2024-02-16T08:19:57.066219Z",
 	"published": "2023-12-29T15:30:37Z",
 	"summary": "IPAddress Infinite Loop vulnerability (Disputed)",
 	"details": "An issue in the component IPAddressBitsDivision of IPAddress v5.1.0 leads to an infinite loop.",

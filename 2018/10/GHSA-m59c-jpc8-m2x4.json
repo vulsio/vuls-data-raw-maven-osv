@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m59c-jpc8-m2x4",
-	"modified": "2023-12-08T23:04:04.686247Z",
+	"modified": "2024-02-16T08:19:59.971081Z",
 	"published": "2018-10-17T16:32:18Z",
 	"aliases": [
 		"CVE-2018-1336"

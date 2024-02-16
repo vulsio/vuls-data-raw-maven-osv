@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f3j5-rmmp-3fc5",
-	"modified": "2023-11-08T04:01:23.191926Z",
+	"modified": "2024-02-16T08:12:50.348378Z",
 	"published": "2020-06-15T18:44:48Z",
 	"aliases": [
 		"CVE-2019-17267"

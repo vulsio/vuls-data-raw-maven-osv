@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r2pp-x4mm-4999",
-	"modified": "2024-02-15T05:32:14.903153Z",
+	"modified": "2024-02-16T08:04:11.271299Z",
 	"published": "2018-12-20T22:02:02Z",
 	"aliases": [
 		"CVE-2018-1000820"

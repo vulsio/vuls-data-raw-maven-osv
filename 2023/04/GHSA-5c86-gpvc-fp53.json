@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5c86-gpvc-fp53",
-	"modified": "2023-11-08T04:12:21.852633Z",
+	"modified": "2024-02-16T08:22:34.599566Z",
 	"published": "2023-04-19T15:30:21Z",
 	"aliases": [
 		"CVE-2023-29923"

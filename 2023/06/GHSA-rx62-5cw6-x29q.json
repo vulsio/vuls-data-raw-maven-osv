@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rx62-5cw6-x29q",
-	"modified": "2024-02-13T19:01:35.370289Z",
+	"modified": "2024-02-16T08:09:20.535798Z",
 	"published": "2023-06-18T09:30:17Z",
 	"aliases": [
 		"CVE-2023-3308"

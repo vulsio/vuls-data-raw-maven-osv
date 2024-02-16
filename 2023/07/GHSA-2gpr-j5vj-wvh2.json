@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2gpr-j5vj-wvh2",
-	"modified": "2023-11-08T04:12:44.603756Z",
+	"modified": "2024-02-16T08:15:15.639362Z",
 	"published": "2023-07-05T09:30:20Z",
 	"aliases": [
 		"CVE-2023-34150"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xq8-pvg4-3mf3",
-	"modified": "2023-11-08T03:59:39.824108Z",
+	"modified": "2024-02-16T08:23:41.029249Z",
 	"published": "2018-10-19T16:54:11Z",
 	"aliases": [
 		"CVE-2018-1000644"
@@ -88,7 +88,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://0dd.zone/2018/08/05/rdf4j-XXE/"
+			"url": "https://0dd.zone/2018/08/05/rdf4j-XXE"
 		},
 		{
 			"type": "ADVISORY",

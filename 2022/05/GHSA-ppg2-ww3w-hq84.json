@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ppg2-ww3w-hq84",
-	"modified": "2023-12-18T22:41:42.336933Z",
+	"modified": "2024-02-16T08:11:20.837933Z",
 	"published": "2022-05-17T05:17:01Z",
 	"aliases": [
 		"CVE-2012-3428"

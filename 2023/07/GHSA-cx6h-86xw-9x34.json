@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cx6h-86xw-9x34",
-	"modified": "2024-02-14T05:32:59.447452Z",
+	"modified": "2024-02-16T08:21:07.204062Z",
 	"published": "2023-07-06T21:14:59Z",
 	"aliases": [
 		"BIT-tomcat-2023-28709",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hcw3-6459-pwhc",
-	"modified": "2024-01-05T17:17:59.192608Z",
+	"modified": "2024-02-16T08:16:45.398656Z",
 	"published": "2022-10-19T19:00:22Z",
 	"aliases": [
 		"CVE-2022-43431"

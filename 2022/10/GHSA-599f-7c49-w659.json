@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-599f-7c49-w659",
-	"modified": "2024-01-19T21:02:23.425007Z",
+	"modified": "2024-02-16T08:09:06.872889Z",
 	"published": "2022-10-13T19:00:17Z",
 	"aliases": [
 		"CVE-2022-42889"
@@ -543,7 +543,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221020-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20221020-0004"
 		},
 		{
 			"type": "ADVISORY",

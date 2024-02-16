@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9hjv-9h75-xmpp",
-	"modified": "2023-12-08T20:20:27.726300Z",
+	"modified": "2024-02-16T08:04:26.058137Z",
 	"published": "2022-05-14T01:18:35Z",
 	"aliases": [
 		"CVE-2016-0763"

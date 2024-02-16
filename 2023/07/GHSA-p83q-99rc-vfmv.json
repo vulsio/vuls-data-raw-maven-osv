@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p83q-99rc-vfmv",
-	"modified": "2023-11-08T04:13:11.321379Z",
+	"modified": "2024-02-16T08:13:52.076082Z",
 	"published": "2023-07-28T15:30:23Z",
 	"aliases": [
 		"CVE-2023-39013"

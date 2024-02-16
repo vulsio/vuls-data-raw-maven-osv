@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vx9j-rvmj-jc32",
-	"modified": "2023-11-08T03:59:20.960589Z",
+	"modified": "2024-02-16T08:22:46.524323Z",
 	"published": "2022-05-13T01:28:41Z",
 	"aliases": [
 		"CVE-2017-3200"

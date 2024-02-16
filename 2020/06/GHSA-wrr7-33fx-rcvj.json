@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wrr7-33fx-rcvj",
-	"modified": "2024-02-16T05:23:40.228224Z",
+	"modified": "2024-02-16T08:20:23.110178Z",
 	"published": "2020-06-15T18:44:56Z",
 	"summary": "Deserialization of Untrusted Data in jackson-databind",
 	"details": "**Withdrawn:** Duplicate of GHSA-cjjf-94ff-43w7",

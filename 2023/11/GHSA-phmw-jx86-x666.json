@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-phmw-jx86-x666",
-	"modified": "2023-11-17T22:16:08.973484Z",
+	"modified": "2024-02-16T08:12:20.196852Z",
 	"published": "2023-11-16T20:48:46Z",
 	"aliases": [
 		"CVE-2023-48222"

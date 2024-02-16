@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pvjf-4hfg-wr84",
-	"modified": "2024-01-30T23:26:45.118281Z",
+	"modified": "2024-02-16T08:20:27.090621Z",
 	"published": "2023-07-26T15:30:57Z",
 	"aliases": [
 		"CVE-2023-39152"

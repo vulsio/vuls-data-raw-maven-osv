@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xc67-hjx6-cgg6",
-	"modified": "2023-11-08T04:00:43.833299Z",
+	"modified": "2024-02-16T08:06:47.796534Z",
 	"published": "2019-04-23T16:07:12Z",
 	"aliases": [
 		"CVE-2019-10247"
@@ -367,7 +367,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190509-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190509-0003"
 		},
 		{
 			"type": "WEB",

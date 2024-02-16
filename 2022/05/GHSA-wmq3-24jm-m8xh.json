@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wmq3-24jm-m8xh",
-	"modified": "2024-01-30T21:26:35.416051Z",
+	"modified": "2024-02-16T08:20:44.334963Z",
 	"published": "2022-05-13T01:15:01Z",
 	"aliases": [
 		"CVE-2019-10280"

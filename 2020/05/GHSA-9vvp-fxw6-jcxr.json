@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9vvp-fxw6-jcxr",
-	"modified": "2023-11-08T04:02:05.916338Z",
+	"modified": "2024-02-16T08:16:15.750753Z",
 	"published": "2020-05-15T18:58:47Z",
 	"aliases": [
 		"CVE-2020-11113"
@@ -86,7 +86,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200403-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20200403-0002"
 		},
 		{
 			"type": "WEB",

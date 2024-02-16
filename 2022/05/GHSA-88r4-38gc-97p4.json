@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-88r4-38gc-97p4",
-	"modified": "2024-01-12T20:26:42.588945Z",
+	"modified": "2024-02-16T08:07:50.485424Z",
 	"published": "2022-05-17T05:16:12Z",
 	"aliases": [
 		"CVE-2012-4418"

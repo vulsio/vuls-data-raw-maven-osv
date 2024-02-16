@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c8hm-7hpq-7jhg",
-	"modified": "2023-11-08T04:00:07.879875Z",
+	"modified": "2024-02-16T08:14:58.971484Z",
 	"published": "2019-01-04T19:07:03Z",
 	"aliases": [
 		"CVE-2018-19362"
@@ -266,7 +266,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190530-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190530-0003"
 		},
 		{
 			"type": "WEB",

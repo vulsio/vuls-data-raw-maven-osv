@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fprr-rrm8-4534",
-	"modified": "2024-02-14T05:32:20.740516Z",
+	"modified": "2024-02-16T08:08:39.688341Z",
 	"published": "2023-01-03T18:30:25Z",
 	"aliases": [
 		"CVE-2021-32824"

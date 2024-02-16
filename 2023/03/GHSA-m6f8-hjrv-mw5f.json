@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m6f8-hjrv-mw5f",
-	"modified": "2023-11-08T04:12:12.866888Z",
+	"modified": "2024-02-16T08:18:19.788609Z",
 	"published": "2023-03-27T22:17:57Z",
 	"aliases": [
 		"CVE-2023-28640"
@@ -131,7 +131,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.apiman.io/blog/potential-permissions-bypass-disclosure/"
+			"url": "https://www.apiman.io/blog/potential-permissions-bypass-disclosure"
 		}
 	],
 	"database_specific": {

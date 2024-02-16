@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xvhf-q744-5xm8",
-	"modified": "2023-12-13T12:16:17.058390Z",
+	"modified": "2024-02-16T08:25:58.132139Z",
 	"published": "2022-05-24T17:08:46Z",
 	"aliases": [
 		"CVE-2020-2115"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cggj-fvv3-cqwv",
-	"modified": "2023-11-08T04:00:22.680220Z",
+	"modified": "2024-02-16T08:24:21.024674Z",
 	"published": "2018-10-16T17:45:18Z",
 	"aliases": [
 		"CVE-2018-7489"
@@ -250,7 +250,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180328-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180328-0001"
 		},
 		{
 			"type": "WEB",

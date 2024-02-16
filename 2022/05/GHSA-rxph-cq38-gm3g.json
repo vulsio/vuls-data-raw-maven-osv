@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rxph-cq38-gm3g",
-	"modified": "2024-01-30T21:26:35.614023Z",
+	"modified": "2024-02-16T08:23:37.783987Z",
 	"published": "2022-05-24T17:03:48Z",
 	"aliases": [
 		"CVE-2019-16568"

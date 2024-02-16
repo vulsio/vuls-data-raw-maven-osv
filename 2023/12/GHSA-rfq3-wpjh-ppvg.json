@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rfq3-wpjh-ppvg",
-	"modified": "2024-02-15T05:17:43.702605Z",
+	"modified": "2024-02-16T08:11:33.398904Z",
 	"published": "2023-12-22T18:30:30Z",
 	"aliases": [
 		"CVE-2023-6911"

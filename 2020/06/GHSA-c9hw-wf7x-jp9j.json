@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c9hw-wf7x-jp9j",
-	"modified": "2023-12-06T01:00:20.426995Z",
+	"modified": "2024-02-16T08:07:36.193200Z",
 	"published": "2020-06-15T18:51:21Z",
 	"aliases": [
 		"BIT-tomcat-2020-1938",
@@ -423,15 +423,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2XFLQB3O5QVP4ZBIPVIXBEZV7F2R7ZMS/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/2XFLQB3O5QVP4ZBIPVIXBEZV7F2R7ZMS"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/K3IPNHCKFVUKSHDTM45UL4Q765EHHTFG/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/K3IPNHCKFVUKSHDTM45UL4Q765EHHTFG"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/L46WJIV6UV3FWA5O5YEY6XLA73RYD53B/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/L46WJIV6UV3FWA5O5YEY6XLA73RYD53B"
 		},
 		{
 			"type": "WEB",
@@ -439,7 +439,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200226-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20200226-0002"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hq87-h4jg-vxfw",
-	"modified": "2023-12-06T01:03:13.714051Z",
+	"modified": "2024-02-16T08:06:21.766151Z",
 	"published": "2023-09-20T18:30:21Z",
 	"aliases": [
 		"BIT-jenkins-2023-43498",

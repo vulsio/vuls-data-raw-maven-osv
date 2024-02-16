@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q3mw-pvr8-9ggc",
-	"modified": "2023-12-06T01:03:12.437515Z",
+	"modified": "2024-02-16T08:05:15.258238Z",
 	"published": "2023-08-25T21:30:48Z",
 	"aliases": [
 		"BIT-tomcat-2023-41080",

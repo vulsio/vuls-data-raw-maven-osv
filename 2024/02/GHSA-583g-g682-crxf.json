@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-583g-g682-crxf",
-	"modified": "2024-02-09T15:43:24.502126Z",
+	"modified": "2024-02-16T08:11:28.421547Z",
 	"published": "2024-02-09T15:19:15Z",
 	"aliases": [
 		"CVE-2024-23639"

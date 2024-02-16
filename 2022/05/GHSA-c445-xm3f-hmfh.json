@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c445-xm3f-hmfh",
-	"modified": "2023-12-07T12:41:28.573685Z",
+	"modified": "2024-02-16T08:17:54.313542Z",
 	"published": "2022-05-24T17:28:25Z",
 	"aliases": [
 		"CVE-2020-2258"

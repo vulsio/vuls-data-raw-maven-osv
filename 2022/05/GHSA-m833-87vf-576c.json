@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m833-87vf-576c",
-	"modified": "2023-10-25T05:33:22.349293Z",
+	"modified": "2024-02-16T08:06:32.382414Z",
 	"published": "2022-05-13T01:37:34Z",
 	"summary": "ovirt-engine Logs Plaintext Passwords To File",
 	"details": "ovirt-engine before version 4.1.7.6 with log level set to DEBUG includes passwords in the log file without masking. Only administrators can change the log level and only administrators can access the logs. This presents a risk when debug-level logs are shared with vendors or other parties to troubleshoot issues.",

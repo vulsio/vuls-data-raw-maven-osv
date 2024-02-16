@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vrpg-c7c4-8mpx",
-	"modified": "2024-01-30T23:26:45.437685Z",
+	"modified": "2024-02-16T08:13:31.958028Z",
 	"published": "2023-09-06T15:30:26Z",
 	"aliases": [
 		"CVE-2023-41937"

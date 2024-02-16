@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-85wg-cg5p-m76p",
-	"modified": "2023-11-08T04:03:01.932798Z",
+	"modified": "2024-02-16T08:06:17.972565Z",
 	"published": "2022-05-24T17:28:27Z",
 	"aliases": [
 		"CVE-2020-2277"

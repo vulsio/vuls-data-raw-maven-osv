@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qwj8-qgpr-8crm",
-	"modified": "2024-02-15T15:26:46.639278Z",
+	"modified": "2024-02-16T08:18:37.093535Z",
 	"published": "2024-02-08T06:30:23Z",
 	"aliases": [
 		"CVE-2024-25148"

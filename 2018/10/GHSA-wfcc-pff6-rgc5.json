@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wfcc-pff6-rgc5",
-	"modified": "2023-11-08T03:59:29.020818Z",
+	"modified": "2024-02-16T08:22:10.602897Z",
 	"published": "2018-10-19T16:15:46Z",
 	"aliases": [
 		"CVE-2017-9735"

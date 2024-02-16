@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pccr-q7v9-5f27",
-	"modified": "2024-02-14T05:37:41.041469Z",
+	"modified": "2024-02-16T08:19:55.616303Z",
 	"published": "2022-01-06T21:32:35Z",
 	"aliases": [
 		"BIT-solr-2021-44548",

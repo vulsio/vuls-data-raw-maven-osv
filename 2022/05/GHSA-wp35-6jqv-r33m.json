@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wp35-6jqv-r33m",
-	"modified": "2024-01-22T19:46:16.475626Z",
+	"modified": "2024-02-16T08:03:03.693238Z",
 	"published": "2022-05-14T01:53:10Z",
 	"aliases": [
 		"CVE-2016-5002"

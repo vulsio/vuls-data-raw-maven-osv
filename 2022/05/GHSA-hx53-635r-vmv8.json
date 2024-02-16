@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hx53-635r-vmv8",
-	"modified": "2023-11-08T04:03:05.486681Z",
+	"modified": "2024-02-16T08:08:18.706530Z",
 	"published": "2022-05-24T17:35:09Z",
 	"aliases": [
 		"CVE-2020-2323"

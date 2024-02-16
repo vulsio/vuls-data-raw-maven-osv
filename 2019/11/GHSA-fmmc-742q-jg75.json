@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fmmc-742q-jg75",
-	"modified": "2023-11-08T04:01:22.575359Z",
+	"modified": "2024-02-16T08:08:41.241340Z",
 	"published": "2019-11-13T00:32:27Z",
 	"aliases": [
 		"CVE-2019-16943"

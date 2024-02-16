@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-285m-vhfq-xx4h",
-	"modified": "2023-12-01T08:12:45.882941Z",
+	"modified": "2024-02-16T07:58:09.292811Z",
 	"published": "2023-11-22T12:30:26Z",
 	"aliases": [
 		"BIT-elasticsearch-2023-46673",

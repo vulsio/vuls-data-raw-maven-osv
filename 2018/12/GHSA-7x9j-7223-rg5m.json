@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7x9j-7223-rg5m",
-	"modified": "2023-11-08T03:58:07.107581Z",
+	"modified": "2024-02-16T08:06:05.402826Z",
 	"published": "2018-12-21T17:51:51Z",
 	"aliases": [
 		"CVE-2016-1000031"
@@ -81,7 +81,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190212-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20190212-0001"
 		},
 		{
 			"type": "WEB",
@@ -157,7 +157,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.zerodayinitiative.com/advisories/ZDI-16-570/"
+			"url": "http://www.zerodayinitiative.com/advisories/ZDI-16-570"
 		}
 	],
 	"database_specific": {

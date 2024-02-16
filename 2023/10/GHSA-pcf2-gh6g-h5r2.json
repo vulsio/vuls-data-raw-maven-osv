@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pcf2-gh6g-h5r2",
-	"modified": "2023-11-08T04:13:31.664162Z",
+	"modified": "2024-02-16T08:06:43.223770Z",
 	"published": "2023-10-09T00:42:27Z",
 	"aliases": [
 		"CVE-2023-43643"

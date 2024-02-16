@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcfr-65hf-f98x",
-	"modified": "2023-11-08T04:00:48.908533Z",
+	"modified": "2024-02-16T08:17:47.582439Z",
 	"published": "2022-05-24T16:52:46Z",
 	"aliases": [
 		"CVE-2019-10378"

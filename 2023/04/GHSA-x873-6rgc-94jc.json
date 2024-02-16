@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x873-6rgc-94jc",
-	"modified": "2024-02-14T05:33:01.746842Z",
+	"modified": "2024-02-16T08:23:55.197987Z",
 	"published": "2023-04-19T21:30:26Z",
 	"aliases": [
 		"CVE-2023-20862"

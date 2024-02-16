@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8gc7-whph-rx5q",
-	"modified": "2024-01-05T17:01:19.084092Z",
+	"modified": "2024-02-16T08:22:27.926467Z",
 	"published": "2023-07-12T18:30:38Z",
 	"aliases": [
 		"CVE-2023-37955"

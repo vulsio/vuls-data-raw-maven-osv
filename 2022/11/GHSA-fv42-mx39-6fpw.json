@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fv42-mx39-6fpw",
-	"modified": "2024-01-04T12:49:01.747506Z",
+	"modified": "2024-02-16T08:19:50.868642Z",
 	"published": "2022-11-16T12:00:22Z",
 	"aliases": [
 		"CVE-2022-45379"

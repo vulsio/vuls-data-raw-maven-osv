@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9295-mhf3-v33m",
-	"modified": "2023-11-08T04:05:28.279509Z",
+	"modified": "2024-02-16T08:10:15.734375Z",
 	"published": "2021-03-29T18:25:26Z",
 	"aliases": [
 		"CVE-2021-28099"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pv7p-c7cp-vrh3",
-	"modified": "2023-11-08T04:09:07.277534Z",
+	"modified": "2024-02-16T08:20:59.020103Z",
 	"published": "2022-04-13T00:00:16Z",
 	"aliases": [
 		"CVE-2022-29044"
