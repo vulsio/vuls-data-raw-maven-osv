@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8j3x-w35r-rw4r",
-	"modified": "2024-02-16T08:15:28.410127Z",
+	"modified": "2024-02-17T13:04:14.860747Z",
 	"published": "2024-01-25T21:32:14Z",
 	"aliases": [
 		"CVE-2023-6267"
@@ -199,6 +199,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-6267"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:0494"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:0495"
 		},
 		{
 			"type": "WEB",
