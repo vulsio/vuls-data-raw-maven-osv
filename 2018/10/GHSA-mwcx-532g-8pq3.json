@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mwcx-532g-8pq3",
-	"modified": "2023-11-08T03:59:49.855923Z",
+	"modified": "2024-02-17T05:43:52.147542Z",
 	"published": "2018-10-16T17:44:11Z",
 	"aliases": [
 		"CVE-2018-12538"
@@ -84,7 +84,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20181014-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20181014-0001"
 		},
 		{
 			"type": "WEB",

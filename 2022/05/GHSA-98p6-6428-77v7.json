@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-98p6-6428-77v7",
-	"modified": "2023-11-08T04:00:51.601395Z",
+	"modified": "2024-02-17T05:43:52.987697Z",
 	"published": "2022-05-24T16:58:49Z",
 	"aliases": [
 		"CVE-2019-10440"
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-932/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-932"
 		},
 		{
 			"type": "WEB",
