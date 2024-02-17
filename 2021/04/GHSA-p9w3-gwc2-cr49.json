@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p9w3-gwc2-cr49",
-	"modified": "2023-11-08T04:01:59.324033Z",
+	"modified": "2024-02-17T05:34:29.176855Z",
 	"published": "2021-04-30T17:28:52Z",
 	"aliases": [
 		"CVE-2020-10687"
@@ -325,7 +325,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0015/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0015"
 		}
 	],
 	"database_specific": {

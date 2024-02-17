@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4fh8-pm7g-pmxq",
-	"modified": "2023-11-08T03:59:46.946649Z",
+	"modified": "2024-02-17T05:29:43.227712Z",
 	"published": "2022-02-10T20:28:06Z",
 	"aliases": [
 		"CVE-2018-11764"
@@ -108,7 +108,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20201103-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20201103-0003"
 		}
 	],
 	"database_specific": {

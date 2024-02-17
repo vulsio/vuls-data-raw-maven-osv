@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wgmr-mf83-7x4j",
-	"modified": "2024-02-16T08:12:26.043206Z",
+	"modified": "2024-02-17T05:23:31.094257Z",
 	"published": "2022-07-07T20:55:40Z",
 	"aliases": [
 		"BIT-jenkins-2022-2048",
@@ -248,7 +248,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220901-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20220901-0006"
 		},
 		{
 			"type": "WEB",

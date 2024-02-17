@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cccf-7xw3-p2vr",
-	"modified": "2023-11-08T04:01:59.811375Z",
+	"modified": "2024-02-17T05:36:12.315801Z",
 	"published": "2021-04-30T17:28:33Z",
 	"aliases": [
 		"CVE-2020-10719"
@@ -313,7 +313,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0014/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0014"
 		}
 	],
 	"database_specific": {

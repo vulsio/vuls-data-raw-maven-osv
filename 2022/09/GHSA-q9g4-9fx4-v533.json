@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q9g4-9fx4-v533",
-	"modified": "2023-11-08T04:10:28.325210Z",
+	"modified": "2024-02-17T05:19:07.198288Z",
 	"published": "2022-09-22T00:00:28Z",
 	"aliases": [
 		"CVE-2022-41239"
@@ -186,7 +186,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/DotCi/"
+			"url": "https://plugins.jenkins.io/DotCi"
 		},
 		{
 			"type": "WEB",

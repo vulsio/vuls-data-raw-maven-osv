@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h822-r4r5-v8jg",
-	"modified": "2024-02-16T08:22:50.992100Z",
+	"modified": "2024-02-17T05:35:37.763139Z",
 	"published": "2019-09-23T18:33:25Z",
 	"aliases": [
 		"CVE-2019-14540"
@@ -324,11 +324,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Q7CANA7KV53JROZDX5Z5P26UG5VN2K43/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Q7CANA7KV53JROZDX5Z5P26UG5VN2K43"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/TH5VFUN4P7CCIP7KSEXYA5MUTFCUDUJT/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/TH5VFUN4P7CCIP7KSEXYA5MUTFCUDUJT"
 		},
 		{
 			"type": "WEB",
@@ -336,7 +336,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20191004-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20191004-0002"
 		},
 		{
 			"type": "WEB",

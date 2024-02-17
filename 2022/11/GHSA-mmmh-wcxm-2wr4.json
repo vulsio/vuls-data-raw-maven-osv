@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mmmh-wcxm-2wr4",
-	"modified": "2023-11-08T04:09:32.645552Z",
+	"modified": "2024-02-17T05:36:24.492398Z",
 	"published": "2022-11-01T12:00:37Z",
 	"aliases": [
 		"CVE-2022-31692"
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221215-0010/"
+			"url": "https://security.netapp.com/advisory/ntap-20221215-0010"
 		},
 		{
 			"type": "WEB",

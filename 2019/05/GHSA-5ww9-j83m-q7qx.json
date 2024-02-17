@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5ww9-j83m-q7qx",
-	"modified": "2024-02-16T08:23:45.893116Z",
+	"modified": "2024-02-17T05:36:57.738085Z",
 	"published": "2019-05-23T09:32:24Z",
 	"aliases": [
 		"CVE-2019-12086"
@@ -267,15 +267,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/OVRZDN2T6AZ6DJCZJ3VSIQIVHBVMVWBL/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/OVRZDN2T6AZ6DJCZJ3VSIQIVHBVMVWBL"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/TXRVXNRFHJSQWFHPRJQRI5UPMZ63B544/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/TXRVXNRFHJSQWFHPRJQRI5UPMZ63B544"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UKUALE2TUCKEKOHE2D342PQXN4MWCSLC/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UKUALE2TUCKEKOHE2D342PQXN4MWCSLC"
 		},
 		{
 			"type": "WEB",
@@ -287,7 +287,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190530-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190530-0003"
 		},
 		{
 			"type": "WEB",
@@ -295,7 +295,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20200808181049/http://russiansecurity.expert/2016/04/20/mysql-connect-file-read/"
+			"url": "https://web.archive.org/web/20200808181049/http://russiansecurity.expert/2016/04/20/mysql-connect-file-read"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v3vf-2r98-xw8w",
-	"modified": "2023-11-08T03:59:53.014407Z",
+	"modified": "2024-02-17T05:35:57.228056Z",
 	"published": "2018-11-06T23:17:25Z",
 	"aliases": [
 		"CVE-2018-1322"
@@ -119,7 +119,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/45400/"
+			"url": "https://www.exploit-db.com/exploits/45400"
 		},
 		{
 			"type": "WEB",

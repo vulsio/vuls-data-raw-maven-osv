@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vp98-w2p3-mv35",
-	"modified": "2023-11-08T04:12:01.231090Z",
+	"modified": "2024-02-17T05:17:15.835182Z",
 	"published": "2023-03-10T15:30:43Z",
 	"aliases": [
 		"CVE-2023-26464"
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230505-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20230505-0008"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v7ff-8wcx-gmc5",
-	"modified": "2023-11-08T04:05:29.072891Z",
+	"modified": "2024-02-17T05:33:28.155690Z",
 	"published": "2021-04-06T17:31:01Z",
 	"aliases": [
 		"CVE-2021-28164"
@@ -134,7 +134,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210611-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20210611-0006"
 		},
 		{
 			"type": "WEB",

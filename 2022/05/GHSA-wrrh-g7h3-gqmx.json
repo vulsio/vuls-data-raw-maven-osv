@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wrrh-g7h3-gqmx",
-	"modified": "2023-11-08T03:57:02.926779Z",
+	"modified": "2024-02-17T05:33:03.471824Z",
 	"published": "2022-05-17T01:49:58Z",
 	"aliases": [
 		"CVE-2012-0818"
@@ -117,7 +117,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20200229045254/https://www.securityfocus.com/bid/51766/"
+			"url": "https://web.archive.org/web/20200229045254/https://www.securityfocus.com/bid/51766"
 		},
 		{
 			"type": "WEB",

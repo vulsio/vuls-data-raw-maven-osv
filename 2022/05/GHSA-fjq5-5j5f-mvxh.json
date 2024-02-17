@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fjq5-5j5f-mvxh",
-	"modified": "2024-02-16T08:18:42.432709Z",
+	"modified": "2024-02-17T05:22:18.562352Z",
 	"published": "2022-05-13T01:25:20Z",
 	"aliases": [
 		"CVE-2015-7501"
@@ -169,7 +169,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/"
+			"url": "https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability"
 		},
 		{
 			"type": "PACKAGE",
@@ -185,7 +185,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://sourceforge.net/p/collections/code/HEAD/tree/"
+			"url": "https://sourceforge.net/p/collections/code/HEAD/tree"
 		},
 		{
 			"type": "WEB",

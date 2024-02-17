@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mjmj-j48q-9wg2",
-	"modified": "2024-02-16T08:10:00.582437Z",
+	"modified": "2024-02-17T05:36:02.734259Z",
 	"published": "2022-12-12T21:19:47Z",
 	"aliases": [
 		"CVE-2022-1471"
@@ -119,11 +119,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230818-0015/"
+			"url": "https://security.netapp.com/advisory/ntap-20230818-0015"
 		},
 		{
 			"type": "WEB",
-			"url": "https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471/"
+			"url": "https://snyk.io/blog/unsafe-deserialization-snakeyaml-java-cve-2022-1471"
 		},
 		{
 			"type": "WEB",

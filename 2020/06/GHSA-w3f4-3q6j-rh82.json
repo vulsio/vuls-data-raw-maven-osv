@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w3f4-3q6j-rh82",
-	"modified": "2024-02-16T08:15:57.042188Z",
+	"modified": "2024-02-17T05:35:00.723812Z",
 	"published": "2020-06-30T20:40:50Z",
 	"aliases": [
 		"CVE-2018-5968"
@@ -224,7 +224,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180423-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20180423-0002"
 		},
 		{
 			"type": "WEB",

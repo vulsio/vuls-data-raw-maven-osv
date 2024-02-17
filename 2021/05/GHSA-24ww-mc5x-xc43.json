@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-24ww-mc5x-xc43",
-	"modified": "2023-12-06T01:00:13.090102Z",
+	"modified": "2024-02-17T05:33:58.960995Z",
 	"published": "2021-05-07T15:54:46Z",
 	"aliases": [
 		"BIT-cassandra-2020-13946",
@@ -226,7 +226,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210521-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210521-0005"
 		}
 	],
 	"database_specific": {

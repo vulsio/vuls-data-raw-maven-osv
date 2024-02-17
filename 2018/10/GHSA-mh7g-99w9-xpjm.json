@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mh7g-99w9-xpjm",
-	"modified": "2023-11-08T03:58:53.790523Z",
+	"modified": "2024-02-17T05:33:45.356307Z",
 	"published": "2018-10-17T19:56:17Z",
 	"aliases": [
 		"CVE-2017-12629"
@@ -198,7 +198,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4259-1/"
+			"url": "https://usn.ubuntu.com/4259-1"
 		},
 		{
 			"type": "WEB",
@@ -206,7 +206,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/43009/"
+			"url": "https://www.exploit-db.com/exploits/43009"
 		},
 		{
 			"type": "WEB",

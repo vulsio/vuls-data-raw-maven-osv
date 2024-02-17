@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rpr3-cw39-3pxh",
-	"modified": "2024-02-16T08:16:32.464693Z",
+	"modified": "2024-02-17T05:35:59.864022Z",
 	"published": "2022-07-15T19:41:47Z",
 	"aliases": [
 		"CVE-2020-10650"
@@ -211,7 +211,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230818-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20230818-0007"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v6w3-2prq-h95f",
-	"modified": "2023-11-08T04:05:29.317096Z",
+	"modified": "2024-02-17T05:17:46.990704Z",
 	"published": "2021-10-06T17:48:38Z",
 	"aliases": [
 		"CVE-2021-28170"
@@ -61,7 +61,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://securitylab.github.com/advisories/GHSL-2020-021-jakarta-el/"
+			"url": "https://securitylab.github.com/advisories/GHSL-2020-021-jakarta-el"
 		},
 		{
 			"type": "WEB",

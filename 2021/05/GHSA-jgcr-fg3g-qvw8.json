@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jgcr-fg3g-qvw8",
-	"modified": "2023-12-06T01:01:02.527933Z",
+	"modified": "2024-02-17T05:32:44.599619Z",
 	"published": "2021-05-10T15:18:17Z",
 	"aliases": [
 		"BIT-solr-2021-29262",
@@ -198,7 +198,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210604-0009/"
+			"url": "https://security.netapp.com/advisory/ntap-20210604-0009"
 		}
 	],
 	"database_specific": {

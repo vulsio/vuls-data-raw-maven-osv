@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3xrr-7m6p-p7xh",
-	"modified": "2024-02-16T08:02:11.864056Z",
+	"modified": "2024-02-17T05:32:04.097962Z",
 	"published": "2023-07-06T19:24:13Z",
 	"aliases": [
 		"CVE-2023-26119"
@@ -138,7 +138,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://siebene.github.io/2022/12/30/HtmlUnit-RCE/"
+			"url": "https://siebene.github.io/2022/12/30/HtmlUnit-RCE"
 		}
 	],
 	"database_specific": {

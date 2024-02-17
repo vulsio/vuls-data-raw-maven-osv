@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gq28-h5vg-8prx",
-	"modified": "2023-11-08T04:04:53.829493Z",
+	"modified": "2024-02-17T05:22:35.094002Z",
 	"published": "2021-05-10T15:22:39Z",
 	"aliases": [
 		"CVE-2021-22112"
@@ -438,7 +438,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.jenkins.io/security/advisory/2021-02-19/"
+			"url": "https://www.jenkins.io/security/advisory/2021-02-19"
 		},
 		{
 			"type": "WEB",

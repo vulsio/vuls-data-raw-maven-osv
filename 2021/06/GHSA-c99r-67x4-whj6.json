@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c99r-67x4-whj6",
-	"modified": "2023-11-08T04:06:05.743850Z",
+	"modified": "2024-02-17T05:31:46.930420Z",
 	"published": "2021-06-28T16:56:07Z",
 	"aliases": [
 		"CVE-2021-33604"
@@ -191,8 +191,8 @@
 			"url": "https://github.com/vaadin/flow/pull/11099"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/vaadin/flow/"
+			"type": "WEB",
+			"url": "https://github.com/vaadin/flow"
 		},
 		{
 			"type": "WEB",

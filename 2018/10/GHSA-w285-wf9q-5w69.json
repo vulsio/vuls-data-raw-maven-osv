@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w285-wf9q-5w69",
-	"modified": "2023-11-08T03:58:09.254940Z",
+	"modified": "2024-02-17T05:32:15.805205Z",
 	"published": "2018-10-17T16:27:38Z",
 	"aliases": [
 		"CVE-2016-1000352"
@@ -113,7 +113,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20181127-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20181127-0004"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xmvg-w4f9-99r7",
-	"modified": "2023-11-08T03:59:40.744487Z",
+	"modified": "2024-02-17T05:36:31.664167Z",
 	"published": "2018-12-20T22:02:51Z",
 	"aliases": [
 		"CVE-2018-1000836"
@@ -55,7 +55,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://0dd.zone/2018/10/28/bw-calendar-engine-XXE-MitM/"
+			"url": "https://0dd.zone/2018/10/28/bw-calendar-engine-XXE-MitM"
 		},
 		{
 			"type": "PACKAGE",

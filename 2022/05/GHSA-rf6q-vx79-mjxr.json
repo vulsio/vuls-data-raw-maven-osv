@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rf6q-vx79-mjxr",
-	"modified": "2023-11-08T04:06:13.032850Z",
+	"modified": "2024-02-17T05:33:49.987547Z",
 	"published": "2022-05-25T00:00:22Z",
 	"aliases": [
 		"CVE-2021-3629"
@@ -359,7 +359,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220729-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20220729-0008"
 		}
 	],
 	"database_specific": {

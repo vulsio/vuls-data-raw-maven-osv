@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mc6h-4qgp-37qh",
-	"modified": "2023-11-08T04:02:25.554831Z",
+	"modified": "2024-02-17T05:35:25.375738Z",
 	"published": "2020-06-18T14:44:43Z",
 	"aliases": [
 		"CVE-2020-14195"
@@ -87,7 +87,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200702-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20200702-0003"
 		},
 		{
 			"type": "WEB",

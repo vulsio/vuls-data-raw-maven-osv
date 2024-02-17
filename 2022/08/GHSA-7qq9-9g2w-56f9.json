@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7qq9-9g2w-56f9",
-	"modified": "2024-02-16T08:14:13.629281Z",
+	"modified": "2024-02-17T05:36:58.372049Z",
 	"published": "2022-08-20T00:00:30Z",
 	"aliases": [
 		"CVE-2022-36157"
@@ -82,8 +82,8 @@
 			"url": "https://github.com/xuxueli/xxl-job/commit/730c1066b80e8ab44503ed34ced19ef8e0471fec"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/xuxueli/xxl-job/"
+			"type": "WEB",
+			"url": "https://github.com/xuxueli/xxl-job"
 		}
 	],
 	"database_specific": {

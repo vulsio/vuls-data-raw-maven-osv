@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cjjf-94ff-43w7",
-	"modified": "2024-02-16T08:17:23.672975Z",
+	"modified": "2024-02-17T05:26:54.701261Z",
 	"published": "2019-03-25T18:03:09Z",
 	"aliases": [
 		"CVE-2018-12022"
@@ -316,7 +316,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZEDLDUYBSTDY4GWDBUXGJNS2RFYTFVRC/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZEDLDUYBSTDY4GWDBUXGJNS2RFYTFVRC"
 		},
 		{
 			"type": "WEB",
@@ -328,7 +328,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190530-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190530-0003"
 		},
 		{
 			"type": "WEB",

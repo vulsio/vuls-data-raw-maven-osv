@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-32vj-v39g-jh23",
-	"modified": "2023-11-08T04:09:32.585302Z",
+	"modified": "2024-02-17T05:34:48.008166Z",
 	"published": "2022-11-01T12:00:37Z",
 	"aliases": [
 		"CVE-2022-31690"
@@ -176,7 +176,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221215-0010/"
+			"url": "https://security.netapp.com/advisory/ntap-20221215-0010"
 		},
 		{
 			"type": "WEB",

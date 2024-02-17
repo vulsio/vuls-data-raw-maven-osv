@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xhcq-fv7x-grr2",
-	"modified": "2023-11-08T04:00:30.737306Z",
+	"modified": "2024-02-17T05:34:32.164978Z",
 	"published": "2019-03-14T15:39:45Z",
 	"aliases": [
 		"CVE-2019-0192"
@@ -166,7 +166,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190327-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190327-0003"
 		},
 		{
 			"type": "WEB",

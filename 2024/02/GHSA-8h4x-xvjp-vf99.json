@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8h4x-xvjp-vf99",
-	"modified": "2024-02-16T23:31:02.780493Z",
+	"modified": "2024-02-16T23:41:49.991559Z",
 	"published": "2024-02-16T23:14:45Z",
+	"aliases": [
+		"CVE-2023-45860"
+	],
 	"summary": "Hazelcast Platform permission checking in CSV File Source connector",
 	"details": "### Impact\nIn Hazelcast Platform through 5.3.4, a security issue exists within the SQL mapping for the CSV File Source connector. This issue arises from inadequate permission checking, which could enable unauthorized clients to access data from files stored on a member's filesystem.\n\n### Patches\nFix versions: 5.3.5, 5.4.0-BETA-1\n\n### Workaround\nDisabling Hazelcast Jet processing engine in Hazelcast member configuration workarounds the issue. As a result SQL and Jet jobs won't work.\n",
 	"severity": [

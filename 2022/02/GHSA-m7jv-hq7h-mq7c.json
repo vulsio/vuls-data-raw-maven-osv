@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m7jv-hq7h-mq7c",
-	"modified": "2023-12-06T01:00:12.728601Z",
+	"modified": "2024-02-17T05:34:22.643999Z",
 	"published": "2022-02-08T22:05:17Z",
 	"aliases": [
 		"BIT-tomcat-2020-13935",
@@ -281,15 +281,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200724-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20200724-0003"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4448-1/"
+			"url": "https://usn.ubuntu.com/4448-1"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4596-1/"
+			"url": "https://usn.ubuntu.com/4596-1"
 		},
 		{
 			"type": "WEB",

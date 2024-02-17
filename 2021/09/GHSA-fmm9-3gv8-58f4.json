@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fmm9-3gv8-58f4",
-	"modified": "2023-11-08T04:06:33.333387Z",
+	"modified": "2024-02-17T05:34:08.557056Z",
 	"published": "2021-09-07T23:08:40Z",
 	"aliases": [
 		"CVE-2021-39194"
@@ -101,8 +101,8 @@
 			"url": "https://github.com/charleskorn/kaml/commit/e18785d043fc6324c81e968aae9764b4b060bc6a"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/charleskorn/kaml/"
+			"type": "WEB",
+			"url": "https://github.com/charleskorn/kaml"
 		}
 	],
 	"database_specific": {

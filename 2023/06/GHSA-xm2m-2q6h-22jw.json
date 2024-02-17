@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xm2m-2q6h-22jw",
-	"modified": "2024-02-16T08:12:11.429885Z",
+	"modified": "2024-02-17T05:34:59.799360Z",
 	"published": "2023-06-12T18:30:18Z",
 	"aliases": [
 		"CVE-2023-34468"
@@ -111,7 +111,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.cyfirma.com/outofband/apache-nifi-cve-2023-34468-rce-vulnerability-analysis-and-exploitation/"
+			"url": "https://www.cyfirma.com/outofband/apache-nifi-cve-2023-34468-rce-vulnerability-analysis-and-exploitation"
 		},
 		{
 			"type": "WEB",

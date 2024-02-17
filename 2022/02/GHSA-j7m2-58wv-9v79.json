@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j7m2-58wv-9v79",
-	"modified": "2023-11-08T04:01:01.213886Z",
+	"modified": "2024-02-17T05:36:11.066941Z",
 	"published": "2022-02-10T20:47:29Z",
 	"aliases": [
 		"CVE-2019-11343"
@@ -71,8 +71,8 @@
 			"url": "https://github.com/xjodoin/torpedoquery/commit/3c20b874fba9cc2a78b9ace10208de1602b56c3f"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/xjodoin/torpedoquery/"
+			"type": "WEB",
+			"url": "https://github.com/xjodoin/torpedoquery"
 		},
 		{
 			"type": "WEB",

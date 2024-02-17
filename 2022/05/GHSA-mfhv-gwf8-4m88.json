@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mfhv-gwf8-4m88",
-	"modified": "2023-11-08T04:06:11.049949Z",
+	"modified": "2024-02-17T05:20:54.600492Z",
 	"published": "2022-05-25T00:00:21Z",
 	"aliases": [
 		"CVE-2021-3597"
@@ -356,7 +356,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220804-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20220804-0003"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5mh9-r3rr-9597",
-	"modified": "2024-02-16T07:55:55.803657Z",
+	"modified": "2024-02-17T05:35:45.707621Z",
 	"published": "2020-05-21T21:08:33Z",
 	"aliases": [
 		"CVE-2020-5529"
@@ -100,7 +100,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jvn.jp/en/jp/JVN34535327/"
+			"url": "https://jvn.jp/en/jp/JVN34535327"
 		},
 		{
 			"type": "WEB",
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4584-1/"
+			"url": "https://usn.ubuntu.com/4584-1"
 		}
 	],
 	"database_specific": {

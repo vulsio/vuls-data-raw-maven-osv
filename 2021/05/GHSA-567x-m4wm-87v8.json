@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-567x-m4wm-87v8",
-	"modified": "2023-11-08T04:05:31.076670Z",
+	"modified": "2024-02-17T05:34:30.132120Z",
 	"published": "2021-05-10T15:23:25Z",
 	"aliases": [
 		"CVE-2021-28657"
@@ -81,7 +81,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210507-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20210507-0004"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j239-4gqg-5j54",
-	"modified": "2023-11-08T03:58:47.213426Z",
+	"modified": "2024-02-17T05:33:36.840731Z",
 	"published": "2021-06-03T19:22:22Z",
 	"aliases": [
 		"CVE-2017-1000486"
@@ -56,11 +56,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://cryptosense.com/weak-encryption-flaw-in-primefaces/"
+			"url": "https://cryptosense.com/weak-encryption-flaw-in-primefaces"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/43733/"
+			"url": "https://www.exploit-db.com/exploits/43733"
 		},
 		{
 			"type": "WEB",

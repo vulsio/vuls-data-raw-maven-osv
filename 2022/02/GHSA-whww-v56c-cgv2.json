@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-whww-v56c-cgv2",
-	"modified": "2023-11-08T04:02:46.681071Z",
+	"modified": "2024-02-17T05:34:59.276780Z",
 	"published": "2022-02-10T22:39:17Z",
 	"aliases": [
 		"CVE-2020-1948"
@@ -93,7 +93,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://nsfocusglobal.com/apache-dubbo-remote-code-execution-vulnerability-cve-2020-1948-threat-alert/"
+			"url": "https://nsfocusglobal.com/apache-dubbo-remote-code-execution-vulnerability-cve-2020-1948-threat-alert"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-29qj-rvv6-qrmv",
-	"modified": "2023-11-08T04:01:59.385431Z",
+	"modified": "2024-02-17T05:28:57.426480Z",
 	"published": "2021-06-15T16:05:22Z",
 	"aliases": [
 		"CVE-2020-10688"
@@ -265,7 +265,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210706-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20210706-0008"
 		}
 	],
 	"database_specific": {

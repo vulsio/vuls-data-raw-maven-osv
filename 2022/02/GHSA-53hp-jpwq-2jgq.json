@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53hp-jpwq-2jgq",
-	"modified": "2023-12-06T01:00:03.064704Z",
+	"modified": "2024-02-17T05:20:11.843819Z",
 	"published": "2022-02-09T23:01:22Z",
 	"aliases": [
 		"BIT-tomcat-2020-11996",
@@ -259,11 +259,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200709-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20200709-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4596-1/"
+			"url": "https://usn.ubuntu.com/4596-1"
 		},
 		{
 			"type": "WEB",

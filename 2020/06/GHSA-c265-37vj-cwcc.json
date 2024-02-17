@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c265-37vj-cwcc",
-	"modified": "2023-11-08T04:02:25.310068Z",
+	"modified": "2024-02-17T05:35:21.304649Z",
 	"published": "2020-06-18T14:44:48Z",
 	"aliases": [
 		"CVE-2020-14062"
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200702-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20200702-0003"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mx9v-gmh4-mgqw",
-	"modified": "2023-11-08T04:00:07.819381Z",
+	"modified": "2024-02-17T05:33:42.043795Z",
 	"published": "2019-01-04T19:07:01Z",
 	"aliases": [
 		"CVE-2018-19361"
@@ -266,7 +266,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190530-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190530-0003"
 		},
 		{
 			"type": "WEB",

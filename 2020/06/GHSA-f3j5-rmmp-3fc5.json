@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f3j5-rmmp-3fc5",
-	"modified": "2024-02-16T08:12:50.348378Z",
+	"modified": "2024-02-17T05:35:30.643577Z",
 	"published": "2020-06-15T18:44:48Z",
 	"aliases": [
 		"CVE-2019-17267"
@@ -269,7 +269,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20191017-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20191017-0006"
 		},
 		{
 			"type": "WEB",

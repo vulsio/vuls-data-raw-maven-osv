@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p5hg-3xm3-gcjg",
-	"modified": "2023-11-08T03:59:50.897135Z",
+	"modified": "2024-02-17T05:29:04.185282Z",
 	"published": "2018-10-17T20:05:59Z",
 	"aliases": [
 		"CVE-2018-1270"
@@ -241,7 +241,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44796/"
+			"url": "https://www.exploit-db.com/exploits/44796"
 		},
 		{
 			"type": "WEB",

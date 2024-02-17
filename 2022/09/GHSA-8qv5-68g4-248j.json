@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8qv5-68g4-248j",
-	"modified": "2023-11-08T04:10:06.242377Z",
+	"modified": "2024-02-17T05:36:08.723405Z",
 	"published": "2022-09-25T00:00:20Z",
 	"aliases": [
 		"CVE-2022-36944"
@@ -77,15 +77,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6ZOZVWY3X72FZZCCRAKRJYTQOJ6LUD6Z/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/6ZOZVWY3X72FZZCCRAKRJYTQOJ6LUD6Z"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/L3WMKPFAMFQE3HJVRQ5KOJUTWG264SXI/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/L3WMKPFAMFQE3HJVRQ5KOJUTWG264SXI"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.scala-lang.org/download/"
+			"url": "https://www.scala-lang.org/download"
 		}
 	],
 	"database_specific": {

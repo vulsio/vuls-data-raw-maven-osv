@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wmv4-5w76-vp9g",
-	"modified": "2023-11-08T03:57:38.250418Z",
+	"modified": "2024-02-17T05:35:12.287058Z",
 	"published": "2020-09-15T20:16:22Z",
 	"aliases": [
 		"CVE-2014-3527"
@@ -106,8 +106,8 @@
 			"url": "https://github.com/spring-projects/spring-security/issues/2907"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/spring-projects/spring-security/"
+			"type": "WEB",
+			"url": "https://github.com/spring-projects/spring-security"
 		},
 		{
 			"type": "WEB",

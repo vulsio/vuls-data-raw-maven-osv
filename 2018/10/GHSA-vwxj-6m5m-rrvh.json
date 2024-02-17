@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vwxj-6m5m-rrvh",
-	"modified": "2023-11-08T03:59:29.322707Z",
+	"modified": "2024-02-17T05:35:58.099645Z",
 	"published": "2018-10-16T19:37:22Z",
 	"aliases": [
 		"CVE-2017-9793"
@@ -128,7 +128,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180629-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180629-0001"
 		},
 		{
 			"type": "WEB",

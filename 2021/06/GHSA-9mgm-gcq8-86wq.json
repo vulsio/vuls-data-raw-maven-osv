@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9mgm-gcq8-86wq",
-	"modified": "2024-02-16T08:13:56.711547Z",
+	"modified": "2024-02-17T05:33:43.000127Z",
 	"published": "2021-06-16T17:39:35Z",
 	"aliases": [
 		"BIT-activemq-2021-26117",
@@ -327,7 +327,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210304-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20210304-0008"
 		},
 		{
 			"type": "WEB",

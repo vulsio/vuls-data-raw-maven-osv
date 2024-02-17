@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xj57-8qj4-c4m6",
-	"modified": "2023-11-08T04:09:41.065897Z",
+	"modified": "2024-02-17T05:33:18.672687Z",
 	"published": "2022-07-07T00:00:26Z",
 	"aliases": [
 		"CVE-2022-33980"
@@ -72,7 +72,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221028-0015/"
+			"url": "https://security.netapp.com/advisory/ntap-20221028-0015"
 		},
 		{
 			"type": "WEB",

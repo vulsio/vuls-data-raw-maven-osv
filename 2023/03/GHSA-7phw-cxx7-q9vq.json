@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7phw-cxx7-q9vq",
-	"modified": "2023-11-08T04:11:22.320590Z",
+	"modified": "2024-02-17T05:26:38.354021Z",
 	"published": "2023-03-28T00:34:28Z",
 	"aliases": [
 		"CVE-2023-20860"
@@ -101,7 +101,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230505-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20230505-0006"
 		},
 		{
 			"type": "WEB",

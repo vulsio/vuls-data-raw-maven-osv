@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-64x2-gq24-75pv",
-	"modified": "2023-11-08T04:02:24.201397Z",
+	"modified": "2024-02-17T05:24:56.779969Z",
 	"published": "2021-04-22T16:15:23Z",
 	"aliases": [
 		"CVE-2020-13954"
@@ -487,7 +487,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210513-0010/"
+			"url": "https://security.netapp.com/advisory/ntap-20210513-0010"
 		},
 		{
 			"type": "WEB",

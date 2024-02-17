@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c2q3-4qrh-fm48",
-	"modified": "2023-11-08T04:02:25.248620Z",
+	"modified": "2024-02-17T05:36:21.468281Z",
 	"published": "2020-06-18T14:44:50Z",
 	"aliases": [
 		"CVE-2020-14061"
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200702-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20200702-0003"
 		},
 		{
 			"type": "WEB",

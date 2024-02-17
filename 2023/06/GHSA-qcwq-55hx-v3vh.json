@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcwq-55hx-v3vh",
-	"modified": "2024-02-16T08:14:06.561911Z",
+	"modified": "2024-02-17T05:36:43.827976Z",
 	"published": "2023-06-15T17:15:06Z",
 	"aliases": [
 		"CVE-2023-34455"
@@ -144,7 +144,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230818-0009/"
+			"url": "https://security.netapp.com/advisory/ntap-20230818-0009"
 		}
 	],
 	"database_specific": {

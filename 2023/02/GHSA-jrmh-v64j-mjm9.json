@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jrmh-v64j-mjm9",
-	"modified": "2023-11-08T04:11:08.846112Z",
+	"modified": "2024-02-17T05:42:59.822653Z",
 	"published": "2023-02-18T00:31:59Z",
 	"aliases": [
 		"CVE-2023-0482"
@@ -188,6 +188,9 @@
 				"5.0.4.Final",
 				"5.0.5.Final",
 				"5.0.6.Final",
+				"5.0.7.Final",
+				"5.0.8.Final",
+				"5.0.9.Final",
 				"6.0.0.Beta1",
 				"6.0.0.Final",
 				"6.0.1.Final",
@@ -227,7 +230,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230427-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20230427-0001"
 		}
 	],
 	"database_specific": {
