@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q4hg-rmq2-52q9",
-	"modified": "2024-02-16T08:01:27.892591Z",
+	"modified": "2024-02-18T05:33:10.654560Z",
 	"published": "2019-06-26T01:09:40Z",
 	"aliases": [
 		"CVE-2019-10072"
@@ -190,7 +190,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190625-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20190625-0002"
 		},
 		{
 			"type": "WEB",
@@ -198,11 +198,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4128-1/"
+			"url": "https://usn.ubuntu.com/4128-1"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4128-2/"
+			"url": "https://usn.ubuntu.com/4128-2"
 		},
 		{
 			"type": "WEB",

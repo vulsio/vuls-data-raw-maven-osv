@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xjgh-84hx-56c5",
-	"modified": "2024-02-16T08:24:46.960230Z",
+	"modified": "2024-02-18T05:19:52.514573Z",
 	"published": "2022-05-14T01:07:15Z",
 	"aliases": [
 		"CVE-2017-12617"
@@ -437,11 +437,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20171018-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20171018-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180117-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20180117-0002"
 		},
 		{
 			"type": "WEB",
@@ -457,7 +457,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3665-1/"
+			"url": "https://usn.ubuntu.com/3665-1"
 		},
 		{
 			"type": "WEB",
@@ -469,11 +469,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/42966/"
+			"url": "https://www.exploit-db.com/exploits/42966"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/43008/"
+			"url": "https://www.exploit-db.com/exploits/43008"
 		},
 		{
 			"type": "WEB",

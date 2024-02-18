@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w47g-4vrc-m3w2",
-	"modified": "2023-11-08T04:00:30.493475Z",
+	"modified": "2024-02-18T05:21:20.977509Z",
 	"published": "2022-05-24T16:44:43Z",
 	"aliases": [
 		"CVE-2019-0186"
@@ -58,7 +58,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46759/"
+			"url": "https://www.exploit-db.com/exploits/46759"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vx6r-w45x-q3h6",
-	"modified": "2023-11-08T04:00:53.193473Z",
+	"modified": "2024-02-18T05:32:54.315687Z",
 	"published": "2022-05-24T16:59:37Z",
 	"aliases": [
 		"CVE-2019-10468"
@@ -60,7 +60,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/kubernetes-ci/"
+			"url": "https://plugins.jenkins.io/kubernetes-ci"
 		},
 		{
 			"type": "WEB",

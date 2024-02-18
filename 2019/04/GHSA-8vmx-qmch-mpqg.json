@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8vmx-qmch-mpqg",
-	"modified": "2024-02-16T08:13:49.978244Z",
+	"modified": "2024-02-18T05:20:40.794363Z",
 	"published": "2019-04-18T14:27:35Z",
 	"aliases": [
 		"CVE-2019-0232"
@@ -271,7 +271,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat/"
+			"url": "https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat"
 		},
 		{
 			"type": "WEB",
@@ -411,11 +411,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190419-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20190419-0001"
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20161228144344/https://blogs.msdn.microsoft.com/twistylittlepassagesallalike/2011/04/23/everyone-quotes-command-line-arguments-the-wrong-way/"
+			"url": "https://web.archive.org/web/20161228144344/https://blogs.msdn.microsoft.com/twistylittlepassagesallalike/2011/04/23/everyone-quotes-command-line-arguments-the-wrong-way"
 		},
 		{
 			"type": "WEB",
@@ -451,7 +451,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://wwws.nightwatchcybersecurity.com/2019/04/30/remote-code-execution-rce-in-cgi-servlet-apache-tomcat-on-windows-cve-2019-0232/"
+			"url": "https://wwws.nightwatchcybersecurity.com/2019/04/30/remote-code-execution-rce-in-cgi-servlet-apache-tomcat-on-windows-cve-2019-0232"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r4x2-3cq5-hqvp",
-	"modified": "2024-02-16T08:14:51.409040Z",
+	"modified": "2024-02-18T05:30:31.206361Z",
 	"published": "2018-10-17T16:32:32Z",
 	"aliases": [
 		"CVE-2018-8014"
@@ -442,11 +442,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20181018-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20181018-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3665-1/"
+			"url": "https://usn.ubuntu.com/3665-1"
 		},
 		{
 			"type": "WEB",

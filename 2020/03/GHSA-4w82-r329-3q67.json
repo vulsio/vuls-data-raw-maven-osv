@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4w82-r329-3q67",
-	"modified": "2024-02-16T08:13:38.224719Z",
+	"modified": "2024-02-18T05:37:56.931459Z",
 	"published": "2020-03-04T20:52:14Z",
 	"aliases": [
 		"CVE-2020-8840"
@@ -419,7 +419,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200327-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20200327-0002"
 		},
 		{
 			"type": "WEB",

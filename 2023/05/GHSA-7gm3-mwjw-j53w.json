@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7gm3-mwjw-j53w",
-	"modified": "2024-02-16T08:07:02.141703Z",
+	"modified": "2024-02-18T05:31:39.182985Z",
 	"published": "2023-05-23T03:30:16Z",
 	"aliases": [
 		"CVE-2023-31826"
@@ -75,11 +75,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://novysodope.github.io/2023/04/01/95/"
+			"url": "https://novysodope.github.io/2023/04/01/95"
 		},
 		{
 			"type": "WEB",
-			"url": "http://nevado.skyscreamer.org/"
+			"url": "http://nevado.skyscreamer.org"
 		}
 	],
 	"database_specific": {

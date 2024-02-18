@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xj63-95xc-jc4v",
-	"modified": "2024-02-16T08:20:17.382038Z",
+	"modified": "2024-02-18T05:28:18.607750Z",
 	"published": "2022-05-24T16:52:46Z",
 	"aliases": [
 		"CVE-2019-10385"
@@ -58,7 +58,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-834/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-834"
 		},
 		{
 			"type": "WEB",

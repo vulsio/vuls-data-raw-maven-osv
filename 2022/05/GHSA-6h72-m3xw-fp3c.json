@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6h72-m3xw-fp3c",
-	"modified": "2024-02-16T08:24:33.740515Z",
+	"modified": "2024-02-18T05:33:20.395951Z",
 	"published": "2022-05-13T01:40:56Z",
 	"aliases": [
 		"CVE-2017-1000104"
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2017-08-07/"
+			"url": "https://jenkins.io/security/advisory/2017-08-07"
 		}
 	],
 	"database_specific": {

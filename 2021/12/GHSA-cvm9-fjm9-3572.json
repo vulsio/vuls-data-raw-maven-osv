@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cvm9-fjm9-3572",
-	"modified": "2024-02-16T08:05:16.278720Z",
+	"modified": "2024-02-18T05:25:36.165759Z",
 	"published": "2021-12-09T19:16:10Z",
 	"aliases": [
 		"CVE-2020-36181"
@@ -220,7 +220,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210205-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210205-0005"
 		},
 		{
 			"type": "WEB",

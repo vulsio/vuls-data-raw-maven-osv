@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6v52-mj5r-7j2m",
-	"modified": "2024-02-16T08:07:25.799790Z",
+	"modified": "2024-02-18T05:41:26.356846Z",
 	"published": "2018-10-17T16:33:02Z",
 	"aliases": [
 		"CVE-2018-8037"
@@ -242,7 +242,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180817-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180817-0001"
 		},
 		{
 			"type": "WEB",

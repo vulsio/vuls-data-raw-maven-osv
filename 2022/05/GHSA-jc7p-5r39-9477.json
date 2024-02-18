@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jc7p-5r39-9477",
-	"modified": "2024-02-16T08:14:49.424624Z",
+	"modified": "2024-02-18T05:31:15.372166Z",
 	"published": "2022-05-13T01:14:53Z",
 	"aliases": [
 		"CVE-2016-6816"
@@ -365,7 +365,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180607-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180607-0001"
 		},
 		{
 			"type": "WEB",
@@ -409,7 +409,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4557-1/"
+			"url": "https://usn.ubuntu.com/4557-1"
 		},
 		{
 			"type": "WEB",
@@ -421,7 +421,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/41783/"
+			"url": "https://www.exploit-db.com/exploits/41783"
 		},
 		{
 			"type": "WEB",

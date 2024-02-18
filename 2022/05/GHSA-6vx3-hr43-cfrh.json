@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6vx3-hr43-cfrh",
-	"modified": "2024-02-16T08:05:25.309358Z",
+	"modified": "2024-02-18T05:31:41.874259Z",
 	"published": "2022-05-14T01:10:17Z",
 	"aliases": [
 		"CVE-2016-0706"
@@ -208,7 +208,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180531-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180531-0001"
 		},
 		{
 			"type": "WEB",

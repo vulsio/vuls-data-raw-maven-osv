@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mmjh-45vj-hfvf",
-	"modified": "2024-02-16T08:10:35.208620Z",
+	"modified": "2024-02-18T05:23:53.124652Z",
 	"published": "2022-05-17T05:50:10Z",
 	"aliases": [
 		"CVE-2010-2274"
@@ -156,7 +156,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://dojotoolkit.org/blog/post/dylan/2010/03/dojo-security-advisory/"
+			"url": "http://dojotoolkit.org/blog/post/dylan/2010/03/dojo-security-advisory"
 		},
 		{
 			"type": "WEB",

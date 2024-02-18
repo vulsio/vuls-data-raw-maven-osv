@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5532-prrf-rf5x",
-	"modified": "2024-02-16T08:24:14.490531Z",
+	"modified": "2024-02-18T05:30:55.780698Z",
 	"published": "2022-05-13T01:41:14Z",
 	"aliases": [
 		"CVE-2017-1000403"
@@ -50,7 +50,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2017-10-11/"
+			"url": "https://jenkins.io/security/advisory/2017-10-11"
 		}
 	],
 	"database_specific": {

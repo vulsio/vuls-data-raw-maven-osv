@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rh8q-vjgf-gf74",
-	"modified": "2024-02-16T08:06:27.827188Z",
+	"modified": "2024-02-18T05:21:20.580922Z",
 	"published": "2022-05-14T01:10:16Z",
 	"aliases": [
 		"CVE-2015-5345"
@@ -255,7 +255,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180531-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180531-0001"
 		},
 		{
 			"type": "WEB",

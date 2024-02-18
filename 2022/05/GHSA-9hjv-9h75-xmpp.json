@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9hjv-9h75-xmpp",
-	"modified": "2024-02-16T08:04:26.058137Z",
+	"modified": "2024-02-18T05:27:16.512584Z",
 	"published": "2022-05-14T01:18:35Z",
 	"aliases": [
 		"CVE-2016-0763"
@@ -190,7 +190,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180531-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180531-0001"
 		},
 		{
 			"type": "WEB",

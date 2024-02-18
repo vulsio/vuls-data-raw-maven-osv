@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p43x-xfjf-5jhr",
-	"modified": "2024-02-16T08:15:55.255877Z",
+	"modified": "2024-02-18T05:21:05.113559Z",
 	"published": "2020-05-15T18:59:01Z",
 	"aliases": [
 		"CVE-2020-9548"
@@ -273,7 +273,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200904-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20200904-0006"
 		},
 		{
 			"type": "WEB",

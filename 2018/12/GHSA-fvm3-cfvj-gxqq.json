@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fvm3-cfvj-gxqq",
-	"modified": "2024-02-16T08:01:02.351650Z",
+	"modified": "2024-02-18T05:30:52.992909Z",
 	"published": "2018-12-21T17:47:47Z",
 	"aliases": [
 		"CVE-2016-3092"
@@ -120,7 +120,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190212-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20190212-0001"
 		},
 		{
 			"type": "WEB",

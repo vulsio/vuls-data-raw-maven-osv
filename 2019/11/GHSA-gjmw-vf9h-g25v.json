@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gjmw-vf9h-g25v",
-	"modified": "2024-02-16T08:12:56.529887Z",
+	"modified": "2024-02-18T05:35:35.955655Z",
 	"published": "2019-11-13T00:32:38Z",
 	"aliases": [
 		"CVE-2019-17531"
@@ -277,7 +277,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20191024-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20191024-0005"
 		},
 		{
 			"type": "WEB",

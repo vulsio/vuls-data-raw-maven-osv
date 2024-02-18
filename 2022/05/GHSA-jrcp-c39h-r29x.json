@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jrcp-c39h-r29x",
-	"modified": "2024-02-16T08:08:53.959170Z",
+	"modified": "2024-02-18T05:32:20.609487Z",
 	"published": "2022-05-14T03:13:01Z",
 	"aliases": [
 		"CVE-2015-5346"
@@ -182,7 +182,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180531-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180531-0001"
 		},
 		{
 			"type": "WEB",

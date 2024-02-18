@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4cmq-88f8-53r5",
-	"modified": "2023-11-08T04:00:51.541374Z",
+	"modified": "2024-02-18T05:27:22.807163Z",
 	"published": "2022-05-24T16:58:49Z",
 	"aliases": [
 		"CVE-2019-10439"
@@ -74,8 +74,8 @@
 			"url": "https://github.com/jenkinsci/crx-content-package-deployer-plugin/commit/06cd0e7e1b3f2fb87b3fa332ee1da710ca94b8e1"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/crx-content-package-deployer-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/crx-content-package-deployer-plugin"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2rvf-329f-p99g",
-	"modified": "2024-02-16T08:23:18.486518Z",
+	"modified": "2024-02-18T05:33:06.912349Z",
 	"published": "2022-05-13T01:02:16Z",
 	"aliases": [
 		"CVE-2016-6794"
@@ -342,11 +342,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180605-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180605-0001"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4557-1/"
+			"url": "https://usn.ubuntu.com/4557-1"
 		},
 		{
 			"type": "WEB",

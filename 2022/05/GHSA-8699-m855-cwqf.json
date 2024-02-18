@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8699-m855-cwqf",
-	"modified": "2023-11-08T03:57:44.126749Z",
+	"modified": "2024-02-18T05:30:59.608229Z",
 	"published": "2022-05-14T02:51:14Z",
 	"aliases": [
 		"CVE-2014-6439"
@@ -153,7 +153,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.elastic.co/community/security/"
+			"url": "https://www.elastic.co/community/security"
 		},
 		{
 			"type": "WEB",
@@ -161,7 +161,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.elasticsearch.org/blog/elasticsearch-1-4-0-beta-released/"
+			"url": "http://www.elasticsearch.org/blog/elasticsearch-1-4-0-beta-released"
 		},
 		{
 			"type": "WEB",

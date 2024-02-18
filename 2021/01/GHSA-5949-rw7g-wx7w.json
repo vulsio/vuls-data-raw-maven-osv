@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5949-rw7g-wx7w",
-	"modified": "2024-02-16T08:17:20.280610Z",
+	"modified": "2024-02-18T05:38:43.695637Z",
 	"published": "2021-01-20T21:20:15Z",
 	"aliases": [
 		"CVE-2021-20190"
@@ -226,7 +226,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210219-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20210219-0008"
 		},
 		{
 			"type": "WEB",

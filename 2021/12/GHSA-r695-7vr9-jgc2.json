@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r695-7vr9-jgc2",
-	"modified": "2024-02-16T08:23:04.683034Z",
+	"modified": "2024-02-18T05:30:45.856594Z",
 	"published": "2021-12-09T19:16:51Z",
 	"aliases": [
 		"CVE-2020-36187"
@@ -199,7 +199,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210205-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210205-0005"
 		},
 		{
 			"type": "WEB",

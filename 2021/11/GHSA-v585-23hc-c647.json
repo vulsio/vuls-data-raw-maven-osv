@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v585-23hc-c647",
-	"modified": "2024-02-16T08:22:28.851924Z",
+	"modified": "2024-02-18T05:22:38.024460Z",
 	"published": "2021-11-19T20:13:06Z",
 	"aliases": [
 		"CVE-2020-36186"
@@ -199,7 +199,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210205-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210205-0005"
 		},
 		{
 			"type": "WEB",

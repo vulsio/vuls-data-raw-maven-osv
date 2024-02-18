@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-29rm-6752-gvwv",
-	"modified": "2023-11-08T03:59:29.262450Z",
+	"modified": "2024-02-18T05:36:19.877424Z",
 	"published": "2022-05-13T01:26:13Z",
 	"aliases": [
 		"CVE-2017-9791"
@@ -107,15 +107,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180706-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20180706-0002"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/42324/"
+			"url": "https://www.exploit-db.com/exploits/42324"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44643/"
+			"url": "https://www.exploit-db.com/exploits/44643"
 		},
 		{
 			"type": "WEB",

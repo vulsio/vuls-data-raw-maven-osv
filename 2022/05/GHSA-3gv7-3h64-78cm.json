@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3gv7-3h64-78cm",
-	"modified": "2024-02-16T08:21:54.383537Z",
+	"modified": "2024-02-18T05:31:53.424869Z",
 	"published": "2022-05-14T01:10:16Z",
 	"aliases": [
 		"CVE-2017-5647"
@@ -418,7 +418,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180614-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180614-0001"
 		},
 		{
 			"type": "WEB",

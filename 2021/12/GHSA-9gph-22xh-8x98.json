@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9gph-22xh-8x98",
-	"modified": "2024-02-16T08:08:59.680128Z",
+	"modified": "2024-02-18T05:33:27.617261Z",
 	"published": "2021-12-09T19:15:54Z",
 	"aliases": [
 		"CVE-2020-36179"
@@ -224,7 +224,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210205-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210205-0005"
 		},
 		{
 			"type": "WEB",

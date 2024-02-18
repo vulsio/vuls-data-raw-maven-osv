@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6278-2q4m-cmf3",
-	"modified": "2023-11-08T04:10:03.067403Z",
+	"modified": "2024-02-18T05:33:42.672143Z",
 	"published": "2022-08-27T00:00:43Z",
 	"aliases": [
 		"CVE-2022-36537"
@@ -228,7 +228,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-zk-java-framework-rce-flaw/"
+			"url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-zk-java-framework-rce-flaw"
 		}
 	],
 	"database_specific": {

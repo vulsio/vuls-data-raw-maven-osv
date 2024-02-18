@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c2hw-w9qm-q5r9",
-	"modified": "2023-11-08T03:58:45.269718Z",
+	"modified": "2024-02-18T05:32:07.726891Z",
 	"published": "2022-05-14T00:58:32Z",
 	"aliases": [
 		"CVE-2017-1000386"
@@ -59,7 +59,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2017-10-23/"
+			"url": "https://jenkins.io/security/advisory/2017-10-23"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-645p-88qh-w398",
-	"modified": "2024-02-16T08:15:20.156540Z",
+	"modified": "2024-02-18T05:33:05.737639Z",
 	"published": "2019-01-04T19:06:55Z",
 	"aliases": [
 		"CVE-2018-14718"
@@ -339,7 +339,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190530-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20190530-0003"
 		},
 		{
 			"type": "WEB",

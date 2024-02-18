@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-32xp-m6vg-gwpj",
-	"modified": "2024-02-16T08:15:09.354441Z",
+	"modified": "2024-02-18T05:22:30.270899Z",
 	"published": "2022-05-24T17:25:24Z",
 	"aliases": [
 		"CVE-2020-2233"
@@ -176,8 +176,8 @@
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-2233"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/pipeline-maven-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/pipeline-maven-plugin"
 		},
 		{
 			"type": "WEB",

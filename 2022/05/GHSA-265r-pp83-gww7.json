@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-265r-pp83-gww7",
-	"modified": "2023-11-08T03:57:52.722979Z",
+	"modified": "2024-02-18T05:38:33.893025Z",
 	"published": "2022-05-24T17:09:44Z",
 	"aliases": [
 		"CVE-2015-2992"
@@ -92,7 +92,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200330-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20200330-0001"
 		},
 		{
 			"type": "WEB",

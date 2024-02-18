@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rfx6-vp9g-rh7v",
-	"modified": "2024-02-16T08:25:11.294298Z",
+	"modified": "2024-02-18T05:24:16.802700Z",
 	"published": "2018-10-18T17:42:48Z",
 	"aliases": [
 		"CVE-2017-17485"
@@ -263,11 +263,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/irsl/jackson-rce-via-spel/"
+			"url": "https://github.com/irsl/jackson-rce-via-spel"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180201-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20180201-0003"
 		},
 		{
 			"type": "WEB",

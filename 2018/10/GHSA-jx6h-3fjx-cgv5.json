@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jx6h-3fjx-cgv5",
-	"modified": "2024-02-16T08:16:03.180585Z",
+	"modified": "2024-02-18T05:19:36.916887Z",
 	"published": "2018-10-17T16:31:48Z",
 	"aliases": [
 		"CVE-2018-1305"
@@ -373,11 +373,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180706-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180706-0001"
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3665-1/"
+			"url": "https://usn.ubuntu.com/3665-1"
 		},
 		{
 			"type": "WEB",

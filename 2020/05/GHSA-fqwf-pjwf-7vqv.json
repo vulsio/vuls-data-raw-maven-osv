@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fqwf-pjwf-7vqv",
-	"modified": "2024-02-16T08:22:57.729349Z",
+	"modified": "2024-02-18T05:22:12.569602Z",
 	"published": "2020-05-15T18:59:04Z",
 	"aliases": [
 		"CVE-2020-10673"
@@ -215,7 +215,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200403-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20200403-0002"
 		},
 		{
 			"type": "WEB",
