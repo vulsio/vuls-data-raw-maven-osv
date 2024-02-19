@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8wjx-p2f8-5rjp",
-	"modified": "2024-02-16T08:18:03.791513Z",
+	"modified": "2024-02-19T05:51:48.526768Z",
 	"published": "2023-12-26T06:30:33Z",
 	"aliases": [
 		"CVE-2023-27150"
@@ -68,11 +68,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.esecforte.com/cve-2023-27150-cross-site-scripting-xss/"
+			"url": "https://www.esecforte.com/cve-2023-27150-cross-site-scripting-xss"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.opencrx.org/"
+			"url": "https://www.opencrx.org"
 		}
 	],
 	"database_specific": {
