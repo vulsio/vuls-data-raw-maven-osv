@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-44qp-qhfv-c7f6",
-	"modified": "2023-12-06T01:01:10.959128Z",
+	"modified": "2024-02-19T05:32:15.919393Z",
 	"published": "2021-08-13T15:21:02Z",
 	"aliases": [
 		"BIT-tomcat-2021-30639",
@@ -304,7 +304,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210827-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20210827-0007"
 		},
 		{
 			"type": "WEB",

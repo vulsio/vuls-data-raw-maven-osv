@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ppv9-v43c-xqpp",
-	"modified": "2024-02-16T07:58:02.424536Z",
+	"modified": "2024-02-19T05:32:49.217629Z",
 	"published": "2022-05-24T19:20:33Z",
 	"aliases": [
 		"CVE-2021-43576"
@@ -57,7 +57,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-21-1314/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-21-1314"
 		},
 		{
 			"type": "WEB",

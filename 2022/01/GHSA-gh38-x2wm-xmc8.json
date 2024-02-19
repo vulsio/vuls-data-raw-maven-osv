@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gh38-x2wm-xmc8",
-	"modified": "2023-11-08T04:07:19.274127Z",
+	"modified": "2024-02-19T05:17:41.481193Z",
 	"published": "2022-01-28T22:13:27Z",
 	"aliases": [
 		"CVE-2021-45029"
@@ -49,8 +49,8 @@
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-45029"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/incubator-shenyu/"
+			"type": "WEB",
+			"url": "https://github.com/apache/incubator-shenyu"
 		},
 		{
 			"type": "WEB",

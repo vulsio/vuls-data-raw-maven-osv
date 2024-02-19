@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3w73-fmf3-hg5c",
-	"modified": "2023-11-08T04:07:06.763281Z",
+	"modified": "2024-02-19T05:33:53.630019Z",
 	"published": "2021-10-19T20:15:50Z",
 	"aliases": [
 		"CVE-2021-42575"
@@ -83,7 +83,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://docs.google.com/document/d/11SoX296sMS0XoQiQbpxc5pNxSdbJKDJkm5BDv0zrX50/"
+			"url": "https://docs.google.com/document/d/11SoX296sMS0XoQiQbpxc5pNxSdbJKDJkm5BDv0zrX50"
 		},
 		{
 			"type": "WEB",

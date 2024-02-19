@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g5w6-mrj7-75h2",
-	"modified": "2023-11-08T04:06:30.600563Z",
+	"modified": "2024-02-19T05:33:25.748072Z",
 	"published": "2021-08-25T14:48:31Z",
 	"aliases": [
 		"CVE-2021-39141"
@@ -102,19 +102,19 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/22KVR6B5IZP3BGQ3HPWIO2FWWCKT3DHP/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/22KVR6B5IZP3BGQ3HPWIO2FWWCKT3DHP"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/PVPHZA7VW2RRSDCOIPP2W6O5ND254TU7/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/PVPHZA7VW2RRSDCOIPP2W6O5ND254TU7"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QGXIU3YDPG6OGTDHMBLAFN7BPBERXREB/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/QGXIU3YDPG6OGTDHMBLAFN7BPBERXREB"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210923-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20210923-0003"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j24h-xcpc-9jw8",
-	"modified": "2024-02-16T08:13:05.865607Z",
+	"modified": "2024-02-19T05:33:11.761159Z",
 	"published": "2023-11-30T19:52:54Z",
 	"aliases": [
 		"CVE-2023-4218"
@@ -879,11 +879,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/eclipse-pde/eclipse.pde/pull/632/"
+			"url": "https://github.com/eclipse-pde/eclipse.pde/pull/632"
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/eclipse-pde/eclipse.pde/pull/667/"
+			"url": "https://github.com/eclipse-pde/eclipse.pde/pull/667"
 		},
 		{
 			"type": "WEB",

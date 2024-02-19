@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f6jp-j6w3-w9hm",
-	"modified": "2023-11-08T04:06:58.657583Z",
+	"modified": "2024-02-19T05:32:19.684337Z",
 	"published": "2021-09-20T20:18:11Z",
 	"aliases": [
 		"CVE-2021-41303"
@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220609-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20220609-0001"
 		},
 		{
 			"type": "WEB",

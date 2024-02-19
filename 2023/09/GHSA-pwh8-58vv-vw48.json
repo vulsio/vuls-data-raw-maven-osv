@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pwh8-58vv-vw48",
-	"modified": "2024-02-16T08:23:30.537947Z",
+	"modified": "2024-02-19T05:24:13.657372Z",
 	"published": "2023-09-15T13:36:10Z",
 	"aliases": [
 		"CVE-2023-41900"
@@ -180,7 +180,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231110-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20231110-0004"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2h26-qfxm-r3pq",
-	"modified": "2024-02-16T07:59:41.679361Z",
+	"modified": "2024-02-19T05:31:28.793901Z",
 	"published": "2023-07-28T15:30:23Z",
 	"aliases": [
 		"CVE-2023-37754"
@@ -67,11 +67,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/PowerJob/PowerJob/"
-		},
-		{
-			"type": "WEB",
-			"url": "https://novysodope.github.io/2023/07/02/100/"
+			"url": "https://novysodope.github.io/2023/07/02/100"
 		}
 	],
 	"database_specific": {

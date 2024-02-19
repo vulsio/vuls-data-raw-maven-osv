@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jxm5-5xcw-h57q",
-	"modified": "2023-11-08T03:59:40.623414Z",
+	"modified": "2024-02-19T05:33:45.559912Z",
 	"published": "2018-12-20T22:02:17Z",
 	"aliases": [
 		"CVE-2018-1000823"
@@ -70,7 +70,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://0dd.zone/2018/10/27/exist-XXE/"
+			"url": "https://0dd.zone/2018/10/27/exist-XXE"
 		},
 		{
 			"type": "ADVISORY",

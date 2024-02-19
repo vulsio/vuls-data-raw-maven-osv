@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fcxw-hhxq-48wx",
-	"modified": "2023-11-08T03:58:44.532842Z",
+	"modified": "2024-02-19T05:32:11.257424Z",
 	"published": "2022-05-17T00:21:58Z",
 	"aliases": [
 		"CVE-2017-1000242"
@@ -128,7 +128,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2017-04-27/"
+			"url": "https://jenkins.io/security/advisory/2017-04-27"
 		},
 		{
 			"type": "WEB",

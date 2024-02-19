@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xm92-v2mq-842q",
-	"modified": "2024-02-16T08:10:35.397396Z",
+	"modified": "2024-02-19T05:32:44.846310Z",
 	"published": "2022-05-17T02:16:00Z",
 	"aliases": [
 		"CVE-2016-4436"
@@ -139,7 +139,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20161015140316/http://www.securityfocus.com/bid/91280/"
+			"url": "https://web.archive.org/web/20161015140316/http://www.securityfocus.com/bid/91280"
 		},
 		{
 			"type": "WEB",

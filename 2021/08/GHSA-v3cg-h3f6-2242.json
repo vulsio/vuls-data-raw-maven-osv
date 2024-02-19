@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v3cg-h3f6-2242",
-	"modified": "2023-11-08T04:06:01.560193Z",
+	"modified": "2024-02-19T05:30:07.401397Z",
 	"published": "2021-08-30T16:24:38Z",
 	"aliases": [
 		"CVE-2021-32827"
@@ -142,7 +142,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://securitylab.github.com/advisories/GHSL-2021-059-mockserver/"
+			"url": "https://securitylab.github.com/advisories/GHSL-2021-059-mockserver"
 		},
 		{
 			"type": "WEB",

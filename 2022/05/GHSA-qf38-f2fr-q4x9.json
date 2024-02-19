@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qf38-f2fr-q4x9",
-	"modified": "2024-02-16T08:10:47.063921Z",
+	"modified": "2024-02-19T05:36:07.483374Z",
 	"published": "2022-05-13T01:01:02Z",
 	"aliases": [
 		"CVE-2018-1999002"
@@ -578,7 +578,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46453/"
+			"url": "https://www.exploit-db.com/exploits/46453"
 		},
 		{
 			"type": "WEB",

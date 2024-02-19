@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qgrq-cx4c-2rmm",
-	"modified": "2023-11-08T04:02:41.698373Z",
+	"modified": "2024-02-19T05:23:50.408363Z",
 	"published": "2022-02-15T01:39:27Z",
 	"aliases": [
 		"CVE-2020-1748"
@@ -174,7 +174,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20201001-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20201001-0005"
 		}
 	],
 	"database_specific": {

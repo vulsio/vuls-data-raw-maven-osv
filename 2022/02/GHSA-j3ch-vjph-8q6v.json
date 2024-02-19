@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j3ch-vjph-8q6v",
-	"modified": "2023-11-08T04:08:27.586818Z",
+	"modified": "2024-02-19T05:30:26.222607Z",
 	"published": "2022-02-21T00:00:19Z",
 	"aliases": [
 		"CVE-2022-23848"
@@ -96,7 +96,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.alluxio.io/download/releases/alluxio-2-7-3-release/"
+			"url": "https://www.alluxio.io/download/releases/alluxio-2-7-3-release"
 		}
 	],
 	"database_specific": {

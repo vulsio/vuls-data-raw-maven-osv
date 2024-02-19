@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mc84-pj99-q6hh",
-	"modified": "2023-11-08T04:06:11.484776Z",
+	"modified": "2024-02-19T05:33:37.194012Z",
 	"published": "2021-08-02T16:55:53Z",
 	"aliases": [
 		"CVE-2021-36090"
@@ -180,7 +180,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211022-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20211022-0001"
 		},
 		{
 			"type": "WEB",

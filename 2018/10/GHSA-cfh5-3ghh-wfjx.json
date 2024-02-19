@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cfh5-3ghh-wfjx",
-	"modified": "2024-02-16T08:01:53.497179Z",
+	"modified": "2024-02-19T05:33:01.877292Z",
 	"published": "2018-10-17T00:05:06Z",
 	"aliases": [
 		"CVE-2014-3577"
@@ -124,7 +124,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231027-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20231027-0003"
 		},
 		{
 			"type": "WEB",

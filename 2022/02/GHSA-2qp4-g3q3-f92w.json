@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2qp4-g3q3-f92w",
-	"modified": "2023-11-08T04:08:30.744469Z",
+	"modified": "2024-02-19T05:33:44.506681Z",
 	"published": "2022-02-26T00:00:43Z",
 	"aliases": [
 		"CVE-2022-24329"
@@ -225,7 +225,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://blog.jetbrains.com/blog/2022/02/08/jetbrains-security-bulletin-q4-2021/"
+			"url": "https://blog.jetbrains.com/blog/2022/02/08/jetbrains-security-bulletin-q4-2021"
 		},
 		{
 			"type": "PACKAGE",

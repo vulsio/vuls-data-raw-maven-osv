@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fg3j-q579-v8x4",
-	"modified": "2023-11-08T04:05:51.089949Z",
+	"modified": "2024-02-19T05:28:57.764794Z",
 	"published": "2021-06-15T15:54:32Z",
 	"aliases": [
 		"CVE-2021-31811"
@@ -161,11 +161,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/7HHWJRFXZ3PTKLJCOM7WJEYZFKFWMNSV/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/7HHWJRFXZ3PTKLJCOM7WJEYZFKFWMNSV"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MDJKJQOMVFDFIDS27OQJXNOYHV2O273D/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/MDJKJQOMVFDFIDS27OQJXNOYHV2O273D"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-crv7-7245-f45f",
-	"modified": "2023-11-08T04:06:10.313004Z",
+	"modified": "2024-02-19T05:32:16.701066Z",
 	"published": "2021-08-02T16:55:15Z",
 	"aliases": [
 		"CVE-2021-35516"
@@ -120,7 +120,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211022-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20211022-0001"
 		},
 		{
 			"type": "WEB",

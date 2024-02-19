@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9gp7-jvm2-r4mx",
-	"modified": "2024-02-16T08:12:16.601510Z",
+	"modified": "2024-02-19T05:27:11.926900Z",
 	"published": "2018-10-16T19:36:43Z",
 	"aliases": [
 		"CVE-2017-7672"
@@ -63,7 +63,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180706-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20180706-0002"
 		},
 		{
 			"type": "WEB",

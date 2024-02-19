@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hr8p-76q8-fxwq",
-	"modified": "2024-02-16T08:16:49.490289Z",
+	"modified": "2024-02-19T05:41:40.286435Z",
 	"published": "2022-05-24T19:20:32Z",
 	"aliases": [
 		"CVE-2021-21701"
@@ -88,7 +88,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-21-1313/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-21-1313"
 		},
 		{
 			"type": "WEB",

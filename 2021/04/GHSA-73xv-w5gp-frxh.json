@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-73xv-w5gp-frxh",
-	"modified": "2023-11-08T04:03:23.487680Z",
+	"modified": "2024-02-19T05:20:55.922081Z",
 	"published": "2021-04-30T16:14:15Z",
 	"aliases": [
 		"CVE-2020-28052"
@@ -308,7 +308,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.synopsys.com/blogs/software-security/cve-2020-28052-bouncy-castle/"
+			"url": "https://www.synopsys.com/blogs/software-security/cve-2020-28052-bouncy-castle"
 		}
 	],
 	"database_specific": {

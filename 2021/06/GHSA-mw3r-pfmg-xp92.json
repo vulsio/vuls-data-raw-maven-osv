@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mw3r-pfmg-xp92",
-	"modified": "2023-11-08T04:05:14.045362Z",
+	"modified": "2024-02-19T05:31:48.906957Z",
 	"published": "2021-06-16T17:37:11Z",
 	"aliases": [
 		"CVE-2021-23926"
@@ -69,11 +69,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://poi.apache.org/"
+			"url": "https://poi.apache.org"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210513-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20210513-0004"
 		},
 		{
 			"type": "WEB",

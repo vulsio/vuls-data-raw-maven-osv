@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5v34-g2px-j4fw",
-	"modified": "2023-11-08T04:06:13.341873Z",
+	"modified": "2024-02-19T05:33:45.840474Z",
 	"published": "2021-08-02T16:56:31Z",
 	"aliases": [
 		"CVE-2021-36374"
@@ -131,7 +131,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210819-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20210819-0007"
 		},
 		{
 			"type": "WEB",

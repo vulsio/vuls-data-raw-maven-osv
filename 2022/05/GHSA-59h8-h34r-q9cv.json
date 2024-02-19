@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-59h8-h34r-q9cv",
-	"modified": "2023-11-08T04:01:25.721175Z",
+	"modified": "2024-02-19T05:32:15.683252Z",
 	"published": "2022-05-24T16:59:50Z",
 	"aliases": [
 		"CVE-2019-18393"
@@ -57,7 +57,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://swarm.ptsecurity.com/openfire-admin-console/"
+			"url": "https://swarm.ptsecurity.com/openfire-admin-console"
 		}
 	],
 	"database_specific": {

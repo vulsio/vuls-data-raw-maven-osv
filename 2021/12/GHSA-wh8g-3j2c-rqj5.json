@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wh8g-3j2c-rqj5",
-	"modified": "2023-11-08T04:03:34.260673Z",
+	"modified": "2024-02-19T05:22:57.643336Z",
 	"published": "2021-12-09T19:15:00Z",
 	"aliases": [
 		"CVE-2020-35490"
@@ -196,7 +196,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210122-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210122-0005"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-88cc-g835-76rp",
-	"modified": "2023-12-06T01:00:12.306444Z",
+	"modified": "2024-02-19T05:32:32.813155Z",
 	"published": "2022-02-10T00:30:07Z",
 	"aliases": [
 		"BIT-postgresql-jdbc-driver-2020-13692",
@@ -206,11 +206,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/DCCAPM6FSNOC272DLSNQ6YHXS3OMHGJC/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/DCCAPM6FSNOC272DLSNQ6YHXS3OMHGJC"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200619-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20200619-0005"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mh83-jcw5-rjh8",
-	"modified": "2023-11-08T04:07:29.717077Z",
+	"modified": "2024-02-19T05:32:04.914887Z",
 	"published": "2022-01-14T21:07:23Z",
 	"aliases": [
 		"CVE-2022-0198"
@@ -78,8 +78,8 @@
 			"url": "https://github.com/stanfordnlp/corenlp/commit/1f52136321cfca68b991bd7870563d06cf96624d"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/stanfordnlp/corenlp/"
+			"type": "WEB",
+			"url": "https://github.com/stanfordnlp/corenlp"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pj45-8vhc-mh2f",
-	"modified": "2023-11-08T03:58:46.063728Z",
+	"modified": "2024-02-19T05:23:52.661757Z",
 	"published": "2022-05-14T03:45:42Z",
 	"aliases": [
 		"CVE-2017-1000402"
@@ -102,7 +102,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2017-10-11/"
+			"url": "https://jenkins.io/security/advisory/2017-10-11"
 		}
 	],
 	"database_specific": {
