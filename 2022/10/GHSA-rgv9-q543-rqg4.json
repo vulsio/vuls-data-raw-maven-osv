@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rgv9-q543-rqg4",
-	"modified": "2023-11-08T04:10:37.282320Z",
+	"modified": "2024-02-20T05:33:09.400579Z",
 	"published": "2022-10-03T00:00:31Z",
 	"aliases": [
 		"CVE-2022-42004"
@@ -265,7 +265,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221118-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20221118-0008"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g9hh-vvx3-v37v",
-	"modified": "2023-11-08T04:09:04.250813Z",
+	"modified": "2024-02-20T05:33:28.550353Z",
 	"published": "2022-04-23T00:03:04Z",
 	"aliases": [
 		"CVE-2022-28366"
@@ -64,7 +64,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://sourceforge.net/projects/htmlunit/files/htmlunit/2.27/"
+			"url": "https://sourceforge.net/projects/htmlunit/files/htmlunit/2.27"
 		}
 	],
 	"database_specific": {

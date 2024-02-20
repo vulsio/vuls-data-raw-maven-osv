@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-38cr-2ph5-frr9",
-	"modified": "2024-02-16T08:09:42.603673Z",
+	"modified": "2024-02-20T05:31:07.975982Z",
 	"published": "2018-10-16T19:35:26Z",
 	"aliases": [
 		"CVE-2018-1327"
@@ -136,7 +136,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180330-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20180330-0001"
 		},
 		{
 			"type": "WEB",

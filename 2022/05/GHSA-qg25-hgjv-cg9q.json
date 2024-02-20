@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qg25-hgjv-cg9q",
-	"modified": "2023-11-08T03:57:53.828269Z",
+	"modified": "2024-02-20T05:31:54.645691Z",
 	"published": "2022-05-13T01:25:41Z",
 	"aliases": [
 		"CVE-2015-3253"
@@ -172,7 +172,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20160623-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20160623-0001"
 		},
 		{
 			"type": "WEB",
@@ -220,7 +220,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.zerodayinitiative.com/advisories/ZDI-15-365/"
+			"url": "http://www.zerodayinitiative.com/advisories/ZDI-15-365"
 		}
 	],
 	"database_specific": {

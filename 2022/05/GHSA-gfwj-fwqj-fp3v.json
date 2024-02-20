@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gfwj-fwqj-fp3v",
-	"modified": "2024-02-16T08:12:31.379456Z",
+	"modified": "2024-02-20T05:32:02.209050Z",
 	"published": "2022-05-24T19:03:28Z",
 	"aliases": [
 		"CVE-2021-22118"
@@ -113,7 +113,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210713-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210713-0005"
 		},
 		{
 			"type": "WEB",

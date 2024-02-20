@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qxp4-27vx-xmm3",
-	"modified": "2023-11-08T03:57:01.691400Z",
+	"modified": "2024-02-20T05:17:52.942731Z",
 	"published": "2022-05-14T01:27:35Z",
 	"aliases": [
 		"CVE-2011-4461"
@@ -148,7 +148,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20190307-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20190307-0004"
 		},
 		{
 			"type": "WEB",

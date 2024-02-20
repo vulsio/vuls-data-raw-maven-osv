@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v8j6-6c2r-r27c",
-	"modified": "2023-11-08T04:05:50.971148Z",
+	"modified": "2024-02-20T05:22:46.454990Z",
 	"published": "2022-04-13T00:00:30Z",
 	"aliases": [
 		"CVE-2021-31805"
@@ -134,7 +134,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220420-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20220420-0001"
 		},
 		{
 			"type": "WEB",

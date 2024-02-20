@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-784j-h234-m56x",
-	"modified": "2023-11-08T04:00:35.968111Z",
+	"modified": "2024-02-20T05:38:11.892329Z",
 	"published": "2022-05-13T01:15:19Z",
 	"aliases": [
 		"CVE-2019-1003000"
@@ -124,11 +124,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46453/"
+			"url": "https://www.exploit-db.com/exploits/46453"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46572/"
+			"url": "https://www.exploit-db.com/exploits/46572"
 		},
 		{
 			"type": "WEB",

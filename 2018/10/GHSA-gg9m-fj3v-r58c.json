@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gg9m-fj3v-r58c",
-	"modified": "2024-02-16T08:16:59.288202Z",
+	"modified": "2024-02-20T05:32:32.699960Z",
 	"published": "2018-10-16T19:37:56Z",
 	"aliases": [
 		"CVE-2017-9805"
@@ -151,7 +151,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20170907-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20170907-0001"
 		},
 		{
 			"type": "WEB",
@@ -171,7 +171,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/42627/"
+			"url": "https://www.exploit-db.com/exploits/42627"
 		},
 		{
 			"type": "WEB",

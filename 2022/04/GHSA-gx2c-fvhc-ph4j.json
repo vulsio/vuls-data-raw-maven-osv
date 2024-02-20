@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gx2c-fvhc-ph4j",
-	"modified": "2023-11-08T04:08:54.788702Z",
+	"modified": "2024-02-20T05:34:19.796410Z",
 	"published": "2022-04-08T00:00:21Z",
 	"aliases": [
 		"CVE-2022-26612"
@@ -126,7 +126,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220519-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220519-0004"
 		}
 	],
 	"database_specific": {

@@ -49,8 +49,8 @@
 			"url": "https://github.com/jenkinsci/synopsys-detect-plugin/commit/0da415d793e39f2ed3ec0fec5955485904d7175b"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/synopsys-detect-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/synopsys-detect-plugin"
 		},
 		{
 			"type": "WEB",
@@ -58,7 +58,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/blackduck-detect/"
+			"url": "https://plugins.jenkins.io/blackduck-detect"
 		}
 	],
 	"database_specific": {

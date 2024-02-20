@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2x9h-h3c4-wqqh",
-	"modified": "2023-11-08T03:58:38.294910Z",
+	"modified": "2024-02-20T05:27:49.216193Z",
 	"published": "2022-05-14T01:00:43Z",
 	"aliases": [
 		"CVE-2016-9299"
@@ -450,7 +450,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZW2KUKYLNLVDB7STLHLYALCUFLEGCRM6/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ZW2KUKYLNLVDB7STLHLYALCUFLEGCRM6"
 		},
 		{
 			"type": "WEB",
@@ -462,7 +462,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44642/"
+			"url": "https://www.exploit-db.com/exploits/44642"
 		},
 		{
 			"type": "WEB",

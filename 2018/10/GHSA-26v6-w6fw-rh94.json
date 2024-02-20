@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-26v6-w6fw-rh94",
-	"modified": "2024-02-16T08:11:03.875744Z",
+	"modified": "2024-02-20T05:33:09.249889Z",
 	"published": "2018-10-16T23:12:20Z",
 	"aliases": [
 		"CVE-2015-5348"
@@ -745,8 +745,8 @@
 			"url": "https://github.com/advisories/GHSA-26v6-w6fw-rh94"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/camel/"
+			"type": "WEB",
+			"url": "https://github.com/apache/camel"
 		},
 		{
 			"type": "WEB",

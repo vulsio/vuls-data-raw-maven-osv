@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pmhc-2g4f-85cg",
-	"modified": "2024-02-16T08:14:05.184146Z",
+	"modified": "2024-02-20T05:31:25.133983Z",
 	"published": "2023-07-24T21:30:39Z",
 	"aliases": [
 		"CVE-2023-34478"
@@ -116,7 +116,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230915-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20230915-0005"
 		},
 		{
 			"type": "WEB",

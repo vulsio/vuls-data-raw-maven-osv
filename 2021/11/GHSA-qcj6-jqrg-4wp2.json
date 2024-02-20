@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcj6-jqrg-4wp2",
-	"modified": "2023-11-08T04:07:09.972124Z",
+	"modified": "2024-02-20T05:33:13.432414Z",
 	"published": "2021-11-10T19:52:33Z",
 	"aliases": [
 		"CVE-2021-43466"
@@ -71,7 +71,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221014-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20221014-0001"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4262-wr7p-gpcj",
-	"modified": "2023-11-08T04:01:37.939223Z",
+	"modified": "2024-02-20T05:22:36.634042Z",
 	"published": "2022-05-13T01:06:55Z",
 	"aliases": [
 		"CVE-2019-6804"
@@ -76,7 +76,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46251/"
+			"url": "https://www.exploit-db.com/exploits/46251"
 		}
 	],
 	"database_specific": {

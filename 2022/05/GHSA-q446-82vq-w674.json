@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q446-82vq-w674",
-	"modified": "2023-11-08T03:58:31.878396Z",
+	"modified": "2024-02-20T05:33:38.873866Z",
 	"published": "2022-05-13T01:09:33Z",
 	"aliases": [
 		"CVE-2016-5725"
@@ -83,7 +83,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40411/"
+			"url": "https://www.exploit-db.com/exploits/40411"
 		},
 		{
 			"type": "WEB",

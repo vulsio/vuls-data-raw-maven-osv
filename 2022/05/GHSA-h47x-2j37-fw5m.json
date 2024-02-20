@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h47x-2j37-fw5m",
-	"modified": "2023-11-08T04:00:42.184468Z",
+	"modified": "2024-02-20T05:34:46.685094Z",
 	"published": "2022-05-24T17:01:50Z",
 	"aliases": [
 		"CVE-2019-10174"
@@ -305,7 +305,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0018/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0018"
 		}
 	],
 	"database_specific": {

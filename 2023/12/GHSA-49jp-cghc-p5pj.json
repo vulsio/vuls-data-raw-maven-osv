@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-49jp-cghc-p5pj",
-	"modified": "2024-02-16T08:23:39.086249Z",
+	"modified": "2024-02-20T05:34:23.534689Z",
 	"published": "2023-12-30T06:30:28Z",
 	"aliases": [
 		"CVE-2023-41544"
@@ -60,7 +60,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://pho3n1x-web.github.io/2023/09/18/CVE-2023-41544%28JeecgBoot_SSTI%29/"
+			"url": "https://pho3n1x-web.github.io/2023/09/18/CVE-2023-41544%28JeecgBoot_SSTI%29"
 		}
 	],
 	"database_specific": {

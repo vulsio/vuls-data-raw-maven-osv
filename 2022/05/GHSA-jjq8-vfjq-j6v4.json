@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjq8-vfjq-j6v4",
-	"modified": "2023-11-08T03:57:58.350333Z",
+	"modified": "2024-02-20T05:32:42.819508Z",
 	"published": "2022-05-14T02:48:01Z",
 	"aliases": [
 		"CVE-2015-5531"
@@ -165,11 +165,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.elastic.co/community/security/"
+			"url": "https://www.elastic.co/community/security"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/38383/"
+			"url": "https://www.exploit-db.com/exploits/38383"
 		},
 		{
 			"type": "WEB",

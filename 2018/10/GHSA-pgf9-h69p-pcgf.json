@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pgf9-h69p-pcgf",
-	"modified": "2023-11-08T03:57:56.701825Z",
+	"modified": "2024-02-20T05:24:34.390766Z",
 	"published": "2018-10-17T20:29:33Z",
 	"aliases": [
 		"CVE-2015-5211"
@@ -211,7 +211,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-New-Web-Attack-Vector/"
+			"url": "https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-New-Web-Attack-Vector"
 		}
 	],
 	"database_specific": {

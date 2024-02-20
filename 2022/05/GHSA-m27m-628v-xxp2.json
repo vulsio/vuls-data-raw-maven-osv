@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m27m-628v-xxp2",
-	"modified": "2023-11-08T03:58:06.860886Z",
+	"modified": "2024-02-20T05:34:17.089302Z",
 	"published": "2022-05-14T02:47:05Z",
 	"aliases": [
 		"CVE-2016-0956"
@@ -62,7 +62,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/39435/"
+			"url": "https://www.exploit-db.com/exploits/39435"
 		},
 		{
 			"type": "WEB",

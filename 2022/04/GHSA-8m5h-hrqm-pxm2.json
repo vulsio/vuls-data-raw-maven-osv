@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8m5h-hrqm-pxm2",
-	"modified": "2023-11-08T04:08:18.247744Z",
+	"modified": "2024-02-20T05:24:17.588669Z",
 	"published": "2022-04-27T21:09:43Z",
 	"aliases": [
 		"CVE-2022-23457"
@@ -85,11 +85,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230127-0014/"
+			"url": "https://security.netapp.com/advisory/ntap-20230127-0014"
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://securitylab.github.com/advisories/GHSL-2022-008_The_OWASP_Enterprise_Security_API/"
+			"url": "https://securitylab.github.com/advisories/GHSL-2022-008_The_OWASP_Enterprise_Security_API"
 		},
 		{
 			"type": "WEB",

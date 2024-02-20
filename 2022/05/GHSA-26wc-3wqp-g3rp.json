@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-26wc-3wqp-g3rp",
-	"modified": "2023-11-08T03:58:44.842170Z",
+	"modified": "2024-02-20T05:33:16.719134Z",
 	"published": "2022-05-13T01:01:03Z",
 	"aliases": [
 		"CVE-2017-1000353"
@@ -482,11 +482,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2017-04-26/"
+			"url": "https://jenkins.io/security/advisory/2017-04-26"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/41965/"
+			"url": "https://www.exploit-db.com/exploits/41965"
 		},
 		{
 			"type": "WEB",

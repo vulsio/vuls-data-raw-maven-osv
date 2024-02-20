@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gc43-g62c-99g2",
-	"modified": "2023-11-08T03:57:52.170729Z",
+	"modified": "2024-02-20T05:37:56.989583Z",
 	"published": "2022-05-17T00:25:07Z",
 	"aliases": [
 		"CVE-2015-2575"
@@ -88,7 +88,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20150417-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20150417-0003"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vq9j-jh62-5hmp",
-	"modified": "2024-02-16T08:20:02.312543Z",
+	"modified": "2024-02-20T05:32:17.959090Z",
 	"published": "2018-10-16T23:13:11Z",
 	"aliases": [
 		"CVE-2017-5643"
@@ -186,8 +186,8 @@
 			"url": "https://github.com/advisories/GHSA-vq9j-jh62-5hmp"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/camel/"
+			"type": "WEB",
+			"url": "https://github.com/apache/camel"
 		},
 		{
 			"type": "WEB",

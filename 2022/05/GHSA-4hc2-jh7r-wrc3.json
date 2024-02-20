@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4hc2-jh7r-wrc3",
-	"modified": "2023-11-08T03:58:24.281776Z",
+	"modified": "2024-02-20T05:22:26.866493Z",
 	"published": "2022-05-13T01:11:51Z",
 	"aliases": [
 		"CVE-2016-2402"
@@ -81,7 +81,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://koz.io/pinning-cve-2016-2402/"
+			"url": "https://koz.io/pinning-cve-2016-2402"
 		},
 		{
 			"type": "WEB",
@@ -89,7 +89,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://publicobject.com/2016/02/11/okhttp-certificate-pinning-vulnerability/"
+			"url": "https://publicobject.com/2016/02/11/okhttp-certificate-pinning-vulnerability"
 		},
 		{
 			"type": "WEB",

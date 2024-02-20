@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8qq4-8jvq-mfw4",
-	"modified": "2023-11-08T03:58:53.125598Z",
+	"modified": "2024-02-20T05:33:03.833090Z",
 	"published": "2022-05-14T01:10:16Z",
 	"aliases": [
 		"CVE-2017-12616"
@@ -140,7 +140,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20171018-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20171018-0001"
 		},
 		{
 			"type": "WEB",
@@ -148,7 +148,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/3665-1/"
+			"url": "https://usn.ubuntu.com/3665-1"
 		},
 		{
 			"type": "WEB",

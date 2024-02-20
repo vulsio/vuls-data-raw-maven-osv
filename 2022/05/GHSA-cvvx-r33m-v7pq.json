@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cvvx-r33m-v7pq",
-	"modified": "2023-11-08T03:57:48.781042Z",
+	"modified": "2024-02-20T05:32:30.653498Z",
 	"published": "2022-05-14T03:15:11Z",
 	"aliases": [
 		"CVE-2015-0899"
@@ -56,7 +56,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20180629-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20180629-0006"
 		},
 		{
 			"type": "WEB",

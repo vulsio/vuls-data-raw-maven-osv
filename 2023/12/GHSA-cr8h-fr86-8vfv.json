@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cr8h-fr86-8vfv",
-	"modified": "2024-02-16T08:06:56.669589Z",
+	"modified": "2024-02-20T05:34:47.005774Z",
 	"published": "2023-12-15T12:30:25Z",
 	"aliases": [
 		"CVE-2023-6836"
@@ -525,7 +525,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2021/WSO2-2020-0716/"
+			"url": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2021/WSO2-2020-0716"
 		}
 	],
 	"database_specific": {

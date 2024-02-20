@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mxcc-7h5m-x57r",
-	"modified": "2024-02-16T07:57:00.189995Z",
+	"modified": "2024-02-20T05:34:10.771595Z",
 	"published": "2022-07-28T00:00:43Z",
 	"aliases": [
 		"CVE-2022-36885"
@@ -148,7 +148,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/github-issues/"
+			"url": "https://plugins.jenkins.io/github-issues"
 		},
 		{
 			"type": "WEB",

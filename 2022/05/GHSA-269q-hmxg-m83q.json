@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-269q-hmxg-m83q",
-	"modified": "2023-11-08T04:04:40.292793Z",
+	"modified": "2024-02-20T05:29:12.144193Z",
 	"published": "2022-05-10T08:46:50Z",
 	"aliases": [
 		"CVE-2021-21290",
@@ -237,7 +237,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220616-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220616-0004"
 		},
 		{
 			"type": "WEB",

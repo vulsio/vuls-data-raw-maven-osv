@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9284-j4c9-779q",
-	"modified": "2023-11-08T03:57:50.935250Z",
+	"modified": "2024-02-20T05:33:46.734587Z",
 	"published": "2022-05-14T02:49:30Z",
 	"aliases": [
 		"CVE-2015-1833"
@@ -244,7 +244,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/37110/"
+			"url": "https://www.exploit-db.com/exploits/37110"
 		},
 		{
 			"type": "WEB",
