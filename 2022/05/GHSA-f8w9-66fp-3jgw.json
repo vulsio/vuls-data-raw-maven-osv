@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f8w9-66fp-3jgw",
-	"modified": "2024-02-16T08:15:14.597525Z",
+	"modified": "2024-02-20T06:01:25.629603Z",
 	"published": "2022-05-24T16:59:38Z",
 	"aliases": [
 		"CVE-2019-10475"
@@ -56,7 +56,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/build-metrics/"
+			"url": "https://plugins.jenkins.io/build-metrics"
 		},
 		{
 			"type": "WEB",
