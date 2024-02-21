@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cgwf-w82q-5jrr",
-	"modified": "2024-02-16T08:23:49.540051Z",
+	"modified": "2024-02-21T05:37:55.424935Z",
 	"published": "2023-09-14T09:30:28Z",
 	"aliases": [
 		"CVE-2023-42503"
@@ -62,7 +62,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231020-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20231020-0003"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q63q-hwf6-3mw6",
-	"modified": "2024-02-16T08:07:11.560883Z",
+	"modified": "2024-02-21T05:36:45.607949Z",
 	"published": "2023-05-05T00:30:19Z",
 	"aliases": [
 		"CVE-2023-30093"
@@ -193,7 +193,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.edoardoottavianelli.it/CVE-2023-30093/"
+			"url": "https://www.edoardoottavianelli.it/CVE-2023-30093"
 		},
 		{
 			"type": "WEB",

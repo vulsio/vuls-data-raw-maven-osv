@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cqgv-256r-m9r8",
-	"modified": "2023-12-06T01:00:37.569119Z",
+	"modified": "2024-02-21T05:32:33.759535Z",
 	"published": "2022-05-24T17:41:42Z",
 	"aliases": [
 		"BIT-elasticsearch-2020-7021",
@@ -360,7 +360,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210319-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20210319-0003"
 		}
 	],
 	"database_specific": {

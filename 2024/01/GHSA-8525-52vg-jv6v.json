@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8525-52vg-jv6v",
-	"modified": "2024-02-16T08:19:41.349758Z",
+	"modified": "2024-02-21T05:36:55.486133Z",
 	"published": "2024-01-09T09:30:29Z",
 	"aliases": [
 		"CVE-2023-6147"
@@ -59,15 +59,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/qualys-pc/"
+			"url": "https://plugins.jenkins.io/qualys-pc"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.qualys.com/security-advisories/"
+			"url": "https://www.qualys.com/security-advisories"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.qualys.com/security-advisories/cve-2023-6147/"
+			"url": "https://www.qualys.com/security-advisories/cve-2023-6147"
 		},
 		{
 			"type": "WEB",

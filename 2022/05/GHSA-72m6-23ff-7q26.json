@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-72m6-23ff-7q26",
-	"modified": "2024-02-16T08:05:10.543690Z",
+	"modified": "2024-02-21T05:32:58.708490Z",
 	"published": "2022-05-14T01:14:52Z",
 	"aliases": [
 		"CVE-2014-3612"
@@ -92,8 +92,8 @@
 			"url": "https://github.com/apache/activemq/commit/22f2f3dde757d31307da772d579815c1d169bc39"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/activemq/"
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq"
 		},
 		{
 			"type": "WEB",

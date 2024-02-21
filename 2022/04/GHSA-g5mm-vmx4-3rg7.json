@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g5mm-vmx4-3rg7",
-	"modified": "2024-02-16T08:09:00.784369Z",
+	"modified": "2024-02-21T05:32:48.134197Z",
 	"published": "2022-04-15T00:00:32Z",
 	"aliases": [
 		"CVE-2022-22968"
@@ -310,7 +310,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220602-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220602-0004"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gfv5-grx2-9jw2",
-	"modified": "2023-12-06T01:00:37.198760Z",
+	"modified": "2024-02-21T05:33:01.378064Z",
 	"published": "2022-05-24T17:13:01Z",
 	"aliases": [
 		"BIT-elasticsearch-2020-7009",
@@ -112,11 +112,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200403-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20200403-0004"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.elastic.co/community/security/"
+			"url": "https://www.elastic.co/community/security"
 		}
 	],
 	"database_specific": {

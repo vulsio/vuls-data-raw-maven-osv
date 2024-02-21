@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-564r-hj7v-mcr5",
-	"modified": "2024-02-16T08:18:09.902102Z",
+	"modified": "2024-02-21T05:32:51.848498Z",
 	"published": "2023-03-23T21:30:19Z",
 	"aliases": [
 		"CVE-2023-20861"
@@ -297,7 +297,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230420-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20230420-0007"
 		},
 		{
 			"type": "WEB",

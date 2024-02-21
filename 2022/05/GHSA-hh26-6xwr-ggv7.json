@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hh26-6xwr-ggv7",
-	"modified": "2024-02-16T08:20:43.836395Z",
+	"modified": "2024-02-21T05:33:12.095640Z",
 	"published": "2022-05-13T00:00:28Z",
 	"aliases": [
 		"CVE-2022-22970"
@@ -301,7 +301,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220616-0006/"
+			"url": "https://security.netapp.com/advisory/ntap-20220616-0006"
 		},
 		{
 			"type": "WEB",

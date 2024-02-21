@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xf96-w227-r7c4",
-	"modified": "2024-02-16T08:17:32.176981Z",
+	"modified": "2024-02-21T05:36:07.942864Z",
 	"published": "2023-05-26T18:30:21Z",
 	"aliases": [
 		"CVE-2023-20883"
@@ -331,7 +331,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230703-0008/"
+			"url": "https://security.netapp.com/advisory/ntap-20230703-0008"
 		},
 		{
 			"type": "WEB",

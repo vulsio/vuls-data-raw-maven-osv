@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6296-mvgp-27hp",
-	"modified": "2023-11-08T04:06:50.300302Z",
+	"modified": "2024-02-21T05:42:56.933409Z",
 	"published": "2022-07-08T00:00:42Z",
 	"aliases": [
 		"CVE-2021-41042"
@@ -63,8 +63,8 @@
 			"url": "https://github.com/eclipse/lyo/commit/a8b15b7f49ca15e55f6699749c39705d21367c6e"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/eclipse/lyo/"
+			"type": "WEB",
+			"url": "https://github.com/eclipse/lyo"
 		},
 		{
 			"type": "WEB",

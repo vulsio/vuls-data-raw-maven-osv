@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3264-3fm9-fg44",
-	"modified": "2023-11-08T04:02:46.802818Z",
+	"modified": "2024-02-21T05:43:26.088828Z",
 	"published": "2021-05-07T15:54:00Z",
 	"aliases": [
 		"CVE-2020-1951"
@@ -80,7 +80,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4564-1/"
+			"url": "https://usn.ubuntu.com/4564-1"
 		},
 		{
 			"type": "WEB",

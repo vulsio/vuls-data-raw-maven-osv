@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2w4h-f44w-968f",
-	"modified": "2023-11-08T04:06:08.793635Z",
+	"modified": "2024-02-21T05:33:41.037562Z",
 	"published": "2022-05-24T19:09:23Z",
 	"aliases": [
 		"CVE-2021-34802"
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://neo4j.com/developer/kb/neo4j-4-2-x-sec-vuln-fix/"
+			"url": "https://neo4j.com/developer/kb/neo4j-4-2-x-sec-vuln-fix"
 		}
 	],
 	"database_specific": {

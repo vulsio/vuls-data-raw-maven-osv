@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4qhr-q7wf-94xp",
-	"modified": "2023-11-08T04:04:16.565395Z",
+	"modified": "2024-02-21T05:32:37.975111Z",
 	"published": "2022-05-24T17:09:22Z",
 	"aliases": [
 		"CVE-2020-8441"
@@ -62,11 +62,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20200313-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20200313-0001"
 		},
 		{
 			"type": "WEB",
-			"url": "https://sourceforge.net/p/jyaml/bugs/"
+			"url": "https://sourceforge.net/p/jyaml/bugs"
 		}
 	],
 	"database_specific": {

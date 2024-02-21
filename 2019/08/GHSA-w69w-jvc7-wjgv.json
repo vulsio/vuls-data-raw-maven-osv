@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w69w-jvc7-wjgv",
-	"modified": "2024-02-16T08:23:22.490055Z",
+	"modified": "2024-02-21T05:41:33.734706Z",
 	"published": "2019-08-01T19:18:16Z",
 	"aliases": [
 		"CVE-2019-10184"
@@ -343,7 +343,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0016/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0016"
 		}
 	],
 	"database_specific": {
