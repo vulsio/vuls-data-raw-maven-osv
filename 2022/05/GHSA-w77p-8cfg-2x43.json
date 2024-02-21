@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w77p-8cfg-2x43",
-	"modified": "2024-02-16T08:07:51.398252Z",
+	"modified": "2024-02-21T05:31:49.355168Z",
 	"published": "2022-05-13T01:04:09Z",
 	"aliases": [
 		"CVE-2018-8088"
@@ -453,7 +453,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231227-0010/"
+			"url": "https://security.netapp.com/advisory/ntap-20231227-0010"
 		},
 		{
 			"type": "WEB",

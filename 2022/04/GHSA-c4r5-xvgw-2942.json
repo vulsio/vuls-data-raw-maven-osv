@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c4r5-xvgw-2942",
-	"modified": "2024-02-16T08:22:38.740977Z",
+	"modified": "2024-02-21T05:31:28.217306Z",
 	"published": "2022-04-19T00:00:50Z",
 	"aliases": [
 		"BIT-wildfly-2021-3503",
@@ -79,7 +79,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220609-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20220609-0004"
 		}
 	],
 	"database_specific": {

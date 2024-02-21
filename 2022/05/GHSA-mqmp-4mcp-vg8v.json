@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mqmp-4mcp-vg8v",
-	"modified": "2023-11-08T04:00:24.056822Z",
+	"modified": "2024-02-21T05:23:17.499386Z",
 	"published": "2022-05-13T01:20:37Z",
 	"aliases": [
 		"CVE-2018-8015"
@@ -84,7 +84,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://orc.apache.org/security/CVE-2018-8015/"
+			"url": "https://orc.apache.org/security/CVE-2018-8015"
 		}
 	],
 	"database_specific": {

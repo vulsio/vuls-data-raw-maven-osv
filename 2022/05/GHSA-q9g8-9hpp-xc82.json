@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q9g8-9hpp-xc82",
-	"modified": "2023-11-08T04:01:59.869918Z",
+	"modified": "2024-02-21T05:30:05.134105Z",
 	"published": "2022-05-24T17:21:42Z",
 	"aliases": [
 		"CVE-2020-10727"
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210827-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20210827-0001"
 		}
 	],
 	"database_specific": {

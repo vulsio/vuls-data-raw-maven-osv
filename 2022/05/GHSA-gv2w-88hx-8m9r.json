@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gv2w-88hx-8m9r",
-	"modified": "2023-11-08T04:02:41.454122Z",
+	"modified": "2024-02-21T05:27:15.402515Z",
 	"published": "2022-05-24T17:16:46Z",
 	"aliases": [
 		"CVE-2020-1745"
@@ -299,7 +299,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://meterpreter.org/cve-2020-1938-apache-tomcat-ajp-connector-remote-code-execution-vulnerability-alert/"
+			"url": "https://meterpreter.org/cve-2020-1938-apache-tomcat-ajp-connector-remote-code-execution-vulnerability-alert"
 		},
 		{
 			"type": "WEB",

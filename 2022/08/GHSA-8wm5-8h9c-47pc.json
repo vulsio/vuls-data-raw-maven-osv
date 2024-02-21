@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8wm5-8h9c-47pc",
-	"modified": "2024-02-16T08:09:17.627499Z",
+	"modified": "2024-02-21T05:29:29.300541Z",
 	"published": "2022-08-05T00:00:24Z",
 	"aliases": [
 		"CVE-2022-25168"
@@ -171,7 +171,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220915-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20220915-0007"
 		}
 	],
 	"database_specific": {

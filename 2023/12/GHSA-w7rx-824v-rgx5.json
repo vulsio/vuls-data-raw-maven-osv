@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w7rx-824v-rgx5",
-	"modified": "2024-02-16T08:18:12.094441Z",
+	"modified": "2024-02-21T05:32:21.585357Z",
 	"published": "2023-12-15T12:30:25Z",
 	"aliases": [
 		"CVE-2023-6835"
@@ -1877,7 +1877,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2021/WSO2-2021-1357/"
+			"url": "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2021/WSO2-2021-1357"
 		}
 	],
 	"database_specific": {

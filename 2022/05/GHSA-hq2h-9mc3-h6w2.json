@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hq2h-9mc3-h6w2",
-	"modified": "2024-02-16T08:07:18.302786Z",
+	"modified": "2024-02-21T05:32:10.442616Z",
 	"published": "2022-05-24T17:28:25Z",
 	"aliases": [
 		"CVE-2020-2256"
@@ -186,8 +186,8 @@
 			"url": "https://github.com/jenkinsci/pipeline-maven-plugin/commit/78b8e6d49bffcc6b65064a882c03a2b4bb157230"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/pipeline-maven-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/pipeline-maven-plugin"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p487-39h9-hm84",
-	"modified": "2023-11-08T03:57:57.496355Z",
+	"modified": "2024-02-21T05:25:59.983253Z",
 	"published": "2022-07-08T00:00:43Z",
 	"aliases": [
 		"CVE-2015-5298"
@@ -54,7 +54,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.jenkins.io/security/advisory/2015-10-12/"
+			"url": "https://www.jenkins.io/security/advisory/2015-10-12"
 		},
 		{
 			"type": "WEB",

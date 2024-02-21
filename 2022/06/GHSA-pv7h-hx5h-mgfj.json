@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pv7h-hx5h-mgfj",
-	"modified": "2023-11-08T04:08:48.891739Z",
+	"modified": "2024-02-21T05:32:36.800173Z",
 	"published": "2022-06-11T00:00:17Z",
 	"aliases": [
 		"CVE-2022-25845",
@@ -125,9 +125,13 @@
 				"1.1.68.android",
 				"1.1.69.android",
 				"1.1.70.android",
+				"1.1.70.android_noneautotype",
 				"1.1.71.android",
 				"1.1.72.android",
 				"1.1.73.android",
+				"1.1.76.android",
+				"1.1.76.android_noneautotype",
+				"1.1.77.android_noneautotype",
 				"1.2.0",
 				"1.2.1",
 				"1.2.10",
@@ -319,7 +323,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.ddosi.org/fastjson-poc/"
+			"url": "https://www.ddosi.org/fastjson-poc"
 		},
 		{
 			"type": "WEB",

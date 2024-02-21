@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rp82-xvg3-727c",
-	"modified": "2023-11-08T03:59:36.623045Z",
+	"modified": "2024-02-21T05:19:07.514033Z",
 	"published": "2022-05-14T03:18:40Z",
 	"aliases": [
 		"CVE-2018-1000173"
@@ -58,7 +58,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2018-04-16/"
+			"url": "https://jenkins.io/security/advisory/2018-04-16"
 		},
 		{
 			"type": "WEB",

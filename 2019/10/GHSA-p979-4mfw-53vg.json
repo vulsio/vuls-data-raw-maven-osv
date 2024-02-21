@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p979-4mfw-53vg",
-	"modified": "2024-02-16T08:14:21.075892Z",
+	"modified": "2024-02-21T05:26:33.760621Z",
 	"published": "2019-10-11T18:41:23Z",
 	"aliases": [
 		"CVE-2019-16869"
@@ -553,7 +553,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://usn.ubuntu.com/4532-1/"
+			"url": "https://usn.ubuntu.com/4532-1"
 		},
 		{
 			"type": "WEB",

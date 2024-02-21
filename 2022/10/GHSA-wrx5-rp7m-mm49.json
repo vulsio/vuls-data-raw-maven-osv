@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wrx5-rp7m-mm49",
-	"modified": "2023-04-11T01:44:53.238366Z",
+	"modified": "2024-02-21T05:22:46.201847Z",
 	"published": "2022-10-06T18:52:05Z",
 	"summary": "Withdrawn: CVE Rejected: JXPath vulnerable to remote code execution when interpreting untrusted XPath expressions",
 	"details": "## This advisory has been withdrawn due to the CVE being rejected.\n\n## Original advisory text\nThose using JXPath to interpret untrusted XPath expressions may be vulnerable to a remote code execution attack. All JXPathContext class functions processing a XPath string are vulnerable except `compile()` and `compilePath()` function. The XPath expression can be used by an attacker to load any Java class from the classpath resulting in code execution.",
@@ -61,7 +61,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://hackinglab.cz/en/blog/remote-code-execution-in-jxpath-library-cve-2022-41852/"
+			"url": "https://hackinglab.cz/en/blog/remote-code-execution-in-jxpath-library-cve-2022-41852"
 		}
 	],
 	"database_specific": {

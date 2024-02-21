@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m6gg-86c6-gfr9",
-	"modified": "2023-04-11T01:34:35.138461Z",
+	"modified": "2024-02-21T05:31:32.718260Z",
 	"published": "2022-03-04T00:00:15Z",
 	"summary": "Withdrawn: Cross-site Scripting in Kibana",
 	"details": "##Withdrawn: This advisory is for Kibana, not ElasticSearch as it was originally published, and is withdrawn as being out of scope of our supported ecosystems.\n\nA cross-site-scripting (XSS) vulnerability was discovered in the Data Preview Pane (previously known as Index Pattern Preview Pane) which could allow arbitrary JavaScript to be executed in a victim's browser.",
@@ -54,7 +54,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220325-0009/"
+			"url": "https://security.netapp.com/advisory/ntap-20220325-0009"
 		}
 	],
 	"database_specific": {

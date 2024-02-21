@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rfmp-97jj-h8m6",
-	"modified": "2023-11-08T04:04:53.707481Z",
+	"modified": "2024-02-21T05:31:57.747026Z",
 	"published": "2022-05-24T19:19:04Z",
 	"aliases": [
 		"CVE-2021-22096"
@@ -104,7 +104,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211125-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20211125-0005"
 		},
 		{
 			"type": "WEB",
