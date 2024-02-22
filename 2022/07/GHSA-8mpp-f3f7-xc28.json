@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8mpp-f3f7-xc28",
-	"modified": "2023-11-08T04:08:11.182352Z",
+	"modified": "2024-02-22T05:18:31.237834Z",
 	"published": "2022-07-07T20:55:37Z",
 	"aliases": [
 		"CVE-2022-2191"
@@ -100,12 +100,12 @@
 			"url": "https://github.com/eclipse/jetty.project/issues/8161"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/eclipse/jetty.project/"
+			"type": "WEB",
+			"url": "https://github.com/eclipse/jetty.project"
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220909-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20220909-0003"
 		}
 	],
 	"database_specific": {

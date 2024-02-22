@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wjxj-5m7g-mg7q",
-	"modified": "2024-02-16T08:22:16.636834Z",
+	"modified": "2024-02-22T05:34:07.471018Z",
 	"published": "2023-11-23T18:30:33Z",
 	"aliases": [
 		"CVE-2023-33202"
@@ -87,7 +87,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20240125-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20240125-0001"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qc2p-q7x9-v64p",
-	"modified": "2024-02-16T07:57:59.745789Z",
+	"modified": "2024-02-22T05:33:31.652304Z",
 	"published": "2022-05-13T01:09:21Z",
 	"aliases": [
 		"CVE-2017-3156"
@@ -182,8 +182,8 @@
 			"url": "https://access.redhat.com/errata/RHSA-2017:1832"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/cxf/"
+			"type": "WEB",
+			"url": "https://github.com/apache/cxf"
 		},
 		{
 			"type": "WEB",

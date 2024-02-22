@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjjh-jjxp-wpff",
-	"modified": "2023-11-08T04:10:37.222058Z",
+	"modified": "2024-02-22T05:33:38.875353Z",
 	"published": "2022-10-03T00:00:31Z",
 	"aliases": [
 		"CVE-2022-42003"
@@ -271,7 +271,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221124-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20221124-0004"
 		},
 		{
 			"type": "WEB",

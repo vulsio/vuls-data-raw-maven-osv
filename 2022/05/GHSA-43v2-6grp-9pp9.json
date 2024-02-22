@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-43v2-6grp-9pp9",
-	"modified": "2024-02-21T23:28:17Z",
+	"modified": "2024-02-21T23:41:46.803859Z",
 	"published": "2022-05-14T02:56:35Z",
+	"aliases": [
+		"CVE-2011-0534"
+	],
 	"summary": "Apache Tomcat does not enforce the maxHttpHeaderSize limit",
 	"details": "Apache Tomcat 7.0.0 through 7.0.6 and 6.0.0 through 6.0.30 does not enforce the maxHttpHeaderSize limit for requests involving the NIO HTTP connector, which allows remote attackers to cause a denial of service (OutOfMemoryError) via a crafted request.",
 	"severity": [

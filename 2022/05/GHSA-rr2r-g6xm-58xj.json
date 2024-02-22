@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rr2r-g6xm-58xj",
-	"modified": "2023-11-08T04:09:21.983279Z",
+	"modified": "2024-02-22T05:33:59.053645Z",
 	"published": "2022-05-18T00:00:42Z",
 	"aliases": [
 		"CVE-2022-30972"
@@ -48,8 +48,8 @@
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-30972"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/jenkinsci/storable-configs-plugin/"
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/storable-configs-plugin"
 		},
 		{
 			"type": "WEB",

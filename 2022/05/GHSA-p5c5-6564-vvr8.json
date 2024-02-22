@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p5c5-6564-vvr8",
-	"modified": "2024-02-16T08:18:12.061215Z",
+	"modified": "2024-02-22T05:25:43.515353Z",
 	"published": "2022-05-05T02:48:38Z",
 	"aliases": [
 		"CVE-2013-0239"
@@ -164,8 +164,8 @@
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/81981"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/cxf/"
+			"type": "WEB",
+			"url": "https://github.com/apache/cxf"
 		},
 		{
 			"type": "WEB",

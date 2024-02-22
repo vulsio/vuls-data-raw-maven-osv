@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-33j4-8vcr-f79v",
-	"modified": "2024-02-16T08:11:15.798207Z",
+	"modified": "2024-02-22T05:20:21.183566Z",
 	"published": "2022-05-02T06:20:35Z",
 	"aliases": [
 		"CVE-2010-1244"
@@ -59,8 +59,8 @@
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/57398"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/activemq/"
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-grg4-wf29-r9vv",
-	"modified": "2024-02-16T08:09:39.674367Z",
+	"modified": "2024-02-22T05:32:27.701249Z",
 	"published": "2021-09-09T17:11:21Z",
 	"aliases": [
 		"CVE-2021-37136"
@@ -417,7 +417,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0012/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0012"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7fhr-2694-rg79",
-	"modified": "2023-11-08T04:01:59.690124Z",
+	"modified": "2024-02-22T05:33:15.390908Z",
 	"published": "2022-02-15T01:39:57Z",
 	"aliases": [
 		"CVE-2020-10714"
@@ -224,7 +224,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20201223-0002/"
+			"url": "https://security.netapp.com/advisory/ntap-20201223-0002"
 		}
 	],
 	"database_specific": {

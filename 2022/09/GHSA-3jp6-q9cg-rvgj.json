@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3jp6-q9cg-rvgj",
-	"modified": "2024-02-16T08:17:46.446525Z",
+	"modified": "2024-02-22T05:33:51.779226Z",
 	"published": "2022-09-22T00:00:28Z",
 	"aliases": [
 		"CVE-2022-41230"
@@ -64,7 +64,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://plugins.jenkins.io/build-publisher/"
+			"url": "https://plugins.jenkins.io/build-publisher"
 		},
 		{
 			"type": "WEB",

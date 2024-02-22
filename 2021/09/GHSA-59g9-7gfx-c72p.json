@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-59g9-7gfx-c72p",
-	"modified": "2023-12-06T01:01:32.366475Z",
+	"modified": "2024-02-22T05:31:54.896036Z",
 	"published": "2021-09-20T20:45:44Z",
 	"aliases": [
 		"BIT-tomcat-2021-41079",
@@ -210,7 +210,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20211008-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20211008-0005"
 		},
 		{
 			"type": "WEB",

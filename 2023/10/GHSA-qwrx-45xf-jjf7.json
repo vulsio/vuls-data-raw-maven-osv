@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qwrx-45xf-jjf7",
-	"modified": "2024-02-16T08:14:44.583707Z",
+	"modified": "2024-02-22T05:34:21.779794Z",
 	"published": "2023-10-26T18:30:23Z",
 	"aliases": [
 		"BIT-elasticsearch-2023-31419",
@@ -171,7 +171,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231116-0010/"
+			"url": "https://security.netapp.com/advisory/ntap-20231116-0010"
 		},
 		{
 			"type": "WEB",

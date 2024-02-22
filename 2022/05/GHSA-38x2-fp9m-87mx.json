@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-38x2-fp9m-87mx",
-	"modified": "2024-02-16T08:04:25.952006Z",
+	"modified": "2024-02-22T05:33:46.126738Z",
 	"published": "2022-05-13T01:09:20Z",
 	"aliases": [
 		"CVE-2014-0034"
@@ -158,8 +158,8 @@
 			"url": "https://github.com/apache/cxf/commit/b4b9a010bb23059251400455afabddee15b46127"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/cxf/"
+			"type": "WEB",
+			"url": "https://github.com/apache/cxf"
 		},
 		{
 			"type": "WEB",

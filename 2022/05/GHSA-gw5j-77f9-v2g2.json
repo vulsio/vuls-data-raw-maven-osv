@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gw5j-77f9-v2g2",
-	"modified": "2024-02-16T08:23:40.395282Z",
+	"modified": "2024-02-22T05:17:20.326657Z",
 	"published": "2022-05-13T01:09:20Z",
 	"aliases": [
 		"CVE-2014-3584"
@@ -182,8 +182,8 @@
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/97753"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/cxf/"
+			"type": "WEB",
+			"url": "https://github.com/apache/cxf"
 		},
 		{
 			"type": "WEB",

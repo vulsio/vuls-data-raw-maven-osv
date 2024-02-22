@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ffm7-7r8g-77xm",
-	"modified": "2024-02-16T08:12:11.755302Z",
+	"modified": "2024-02-22T05:34:00.973377Z",
 	"published": "2022-02-10T22:38:50Z",
 	"aliases": [
 		"CVE-2020-1954"
@@ -250,7 +250,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0001"
 		},
 		{
 			"type": "WEB",

@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cxg2-49rq-8gcr",
-	"modified": "2024-02-21T23:23:29Z",
+	"modified": "2024-02-21T23:41:46.708430Z",
 	"published": "2022-05-14T01:17:03Z",
+	"aliases": [
+		"CVE-2010-2227"
+	],
 	"summary": "Apache Tomcat does not properly handle an invalid Transfer-Encoding header",
 	"details": "Apache Tomcat 5.5.0 through 5.5.29, 6.0.0 through 6.0.27, and 7.0.0 beta does not properly handle an invalid Transfer-Encoding header, which allows remote attackers to cause a denial of service (application outage) or obtain sensitive information via a crafted header that interferes with \"recycling of a buffer.\"",
 	"affected": [
