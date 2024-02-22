@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r7c8-hghc-2mp8",
-	"modified": "2023-11-08T03:56:59.947379Z",
+	"modified": "2024-02-21T21:35:06Z",
 	"published": "2022-05-17T02:44:28Z",
 	"aliases": [
 		"CVE-2011-2481"
@@ -37,6 +37,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2011-2481"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/279e4451cb996f810fbca2f78b6340412d9daa7b"
 		},
 		{
 			"type": "PACKAGE",
