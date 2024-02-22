@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vjxc-frw4-jmh5",
-	"modified": "2023-11-08T04:01:12.071730Z",
+	"modified": "2024-02-22T05:34:37.742681Z",
 	"published": "2022-05-24T17:07:10Z",
 	"aliases": [
 		"CVE-2019-14888"
@@ -301,7 +301,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220211-0001/"
+			"url": "https://security.netapp.com/advisory/ntap-20220211-0001"
 		}
 	],
 	"database_specific": {

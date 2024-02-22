@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c438-8cvq-pxxx",
-	"modified": "2024-02-16T08:20:24.123803Z",
+	"modified": "2024-02-22T05:52:43.844898Z",
 	"published": "2022-05-13T01:26:11Z",
 	"aliases": [
 		"CVE-2014-1972"
@@ -83,8 +83,8 @@
 			"url": "https://github.com/apache/tapestry-5/commit/5ad5257fdfacbad2c7c480fdf2afa15d9a37e6b0"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/tapestry-5/"
+			"type": "WEB",
+			"url": "https://github.com/apache/tapestry-5"
 		},
 		{
 			"type": "WEB",

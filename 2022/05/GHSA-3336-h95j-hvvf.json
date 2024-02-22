@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3336-h95j-hvvf",
-	"modified": "2024-02-16T08:17:58.475427Z",
+	"modified": "2024-02-22T05:34:17.670707Z",
 	"published": "2022-05-13T01:09:20Z",
 	"aliases": [
 		"CVE-2015-5253"
@@ -155,8 +155,8 @@
 			"url": "https://git-wip-us.apache.org/repos/asf?p=cxf.git;a=commitdiff;h=845eccb6484b43ba02875c71e824db23ae4f20c0"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/cxf/"
+			"type": "WEB",
+			"url": "https://github.com/apache/cxf"
 		},
 		{
 			"type": "WEB",

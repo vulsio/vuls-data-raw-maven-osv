@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5mcr-gq6c-3hq2",
-	"modified": "2024-02-16T08:11:39.171468Z",
+	"modified": "2024-02-22T05:38:32.321696Z",
 	"published": "2021-02-08T21:17:48Z",
 	"aliases": [
 		"CVE-2021-21290",
@@ -474,7 +474,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220210-0011/"
+			"url": "https://security.netapp.com/advisory/ntap-20220210-0011"
 		},
 		{
 			"type": "WEB",

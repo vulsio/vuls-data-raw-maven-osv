@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wx5j-54mm-rqqq",
-	"modified": "2024-02-16T08:11:55.178290Z",
+	"modified": "2024-02-22T05:37:31.471154Z",
 	"published": "2021-12-09T19:09:17Z",
 	"aliases": [
 		"CVE-2021-43797"
@@ -359,8 +359,8 @@
 			"url": "https://github.com/netty/netty/commit/07aa6b5938a8b6ed7a6586e066400e2643897323"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/netty/netty/"
+			"type": "WEB",
+			"url": "https://github.com/netty/netty"
 		},
 		{
 			"type": "WEB",
@@ -368,7 +368,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20220107-0003/"
+			"url": "https://security.netapp.com/advisory/ntap-20220107-0003"
 		},
 		{
 			"type": "WEB",

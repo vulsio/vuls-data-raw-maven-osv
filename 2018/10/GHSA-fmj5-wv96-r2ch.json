@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fmj5-wv96-r2ch",
-	"modified": "2023-11-08T03:57:57.251848Z",
+	"modified": "2024-02-22T05:42:22.050973Z",
 	"published": "2018-10-17T00:05:29Z",
 	"aliases": [
 		"CVE-2015-5262"
@@ -89,7 +89,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://jenkins.io/security/advisory/2018-02-26/"
+			"url": "https://jenkins.io/security/advisory/2018-02-26"
 		},
 		{
 			"type": "WEB",

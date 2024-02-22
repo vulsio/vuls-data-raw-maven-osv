@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-339q-62wm-c39w",
-	"modified": "2023-11-08T04:06:28.619674Z",
+	"modified": "2024-02-22T05:34:10.798768Z",
 	"published": "2022-07-15T21:32:13Z",
 	"aliases": [
 		"CVE-2021-3859"
@@ -359,7 +359,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20221201-0004/"
+			"url": "https://security.netapp.com/advisory/ntap-20221201-0004"
 		}
 	],
 	"database_specific": {

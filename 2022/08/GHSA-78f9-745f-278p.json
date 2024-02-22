@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-78f9-745f-278p",
-	"modified": "2023-11-08T04:10:08.310206Z",
+	"modified": "2024-02-22T05:34:18.972417Z",
 	"published": "2022-08-12T15:38:33Z",
 	"aliases": [
 		"CVE-2022-37423"
@@ -192,7 +192,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://neo4j.com/docs/aura/platform/apoc/"
+			"url": "https://neo4j.com/docs/aura/platform/apoc"
 		}
 	],
 	"database_specific": {
