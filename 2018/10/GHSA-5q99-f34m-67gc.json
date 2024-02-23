@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5q99-f34m-67gc",
-	"modified": "2024-02-18T05:19:35.460148Z",
+	"modified": "2024-02-22T22:49:08.704353Z",
 	"published": "2018-10-17T16:31:02Z",
 	"aliases": [
 		"CVE-2018-11784"
@@ -178,6 +178,18 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-11784"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/b76e1dfb3dec3789cc700f8d022c872eb947a221"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/efb860b3ff8ebcf606199b8d0d432f76898040da"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/f9f147359b7c95511b64cd99bbc47917c01b3879"
 		},
 		{
 			"type": "WEB",

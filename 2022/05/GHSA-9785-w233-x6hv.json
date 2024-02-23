@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9785-w233-x6hv",
-	"modified": "2024-02-18T05:33:31.791299Z",
+	"modified": "2024-02-22T22:01:10.773352Z",
 	"published": "2022-05-13T01:46:13Z",
 	"aliases": [
 		"CVE-2017-5650"
@@ -94,6 +94,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-5650"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/2cb9c724e6a2d15a5bc909c4bf1ab9dfc26fa362"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/5496e193a89b8b8b3177e516358df2f07ab852b3"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-46j3-r4pj-4835",
-	"modified": "2024-02-18T05:30:44.499245Z",
+	"modified": "2024-02-22T22:01:16.616127Z",
 	"published": "2018-10-17T16:32:43Z",
 	"aliases": [
 		"CVE-2018-8034"
@@ -233,6 +233,14 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/2835bb4e030c1c741ed0847bb3b9c3822e4fbc8a"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/2c522795166c930741a9cecca76797bf48cb1634"
+		},
+		{
+			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2019:0130"
 		},
 		{
@@ -274,10 +282,6 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2019:3892"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-46j3-r4pj-4835"
 		},
 		{
 			"type": "PACKAGE",
