@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v7hg-77v9-2445",
-	"modified": "2024-02-16T08:14:56.627453Z",
+	"modified": "2024-02-23T21:49:06.019575Z",
 	"published": "2023-12-30T18:30:37Z",
 	"aliases": [
 		"CVE-2023-49299"
@@ -80,6 +80,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/tnf99qoc6tlnwrny4t1zk6mfszgdsokm"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/02/23/3"
 		}
 	],
 	"database_specific": {
