@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8h4x-xvjp-vf99",
-	"modified": "2024-02-16T23:41:49.991559Z",
+	"modified": "2024-02-27T19:31:11.525098Z",
 	"published": "2024-02-16T23:14:45Z",
 	"aliases": [
 		"CVE-2023-45860"
@@ -83,12 +83,13 @@
 							"introduced": "5.2.0"
 						},
 						{
-							"last_affected": "5.2.4"
+							"fixed": "5.2.5"
 						}
 					]
 				}
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 5.2.4",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-8h4x-xvjp-vf99/GHSA-8h4x-xvjp-vf99.json"
 			}
 		},
@@ -129,7 +130,7 @@
 							"introduced": "5.2.0"
 						},
 						{
-							"last_affected": "5.2.4"
+							"fixed": "5.2.5"
 						}
 					]
 				}
@@ -142,6 +143,7 @@
 				"5.2.4"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 5.2.4",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-8h4x-xvjp-vf99/GHSA-8h4x-xvjp-vf99.json"
 			}
 		},
