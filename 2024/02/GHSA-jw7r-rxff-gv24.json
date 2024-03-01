@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jw7r-rxff-gv24",
-	"modified": "2024-02-27T22:41:44.845249Z",
+	"modified": "2024-03-01T14:46:07.304915Z",
 	"published": "2024-02-27T18:31:02Z",
 	"aliases": [
 		"CVE-2024-21742"
@@ -68,6 +68,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/nrqzg93219wdj056pqfszsd33dc54kfy"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/02/27/5"
 		}
 	],
 	"database_specific": {

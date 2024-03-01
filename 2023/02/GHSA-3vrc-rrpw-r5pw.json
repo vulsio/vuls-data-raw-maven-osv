@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3vrc-rrpw-r5pw",
-	"modified": "2024-02-18T05:32:58.802144Z",
+	"modified": "2024-03-01T14:52:28.150101Z",
 	"published": "2023-02-19T18:30:21Z",
 	"aliases": [
 		"CVE-2014-125087"

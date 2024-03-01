@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p2qf-9vp6-3jjq",
-	"modified": "2024-02-21T05:16:36.658979Z",
+	"modified": "2024-03-01T14:46:11.705975Z",
 	"published": "2023-06-15T15:30:15Z",
 	"aliases": [
 		"CVE-2023-3276"
@@ -235,6 +235,10 @@
 		{
 			"type": "WEB",
 			"url": "https://fbdhhhh47.github.io/2023/06/06/hutool-XXE"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/dromara/hutool"
 		},
 		{
 			"type": "WEB",
