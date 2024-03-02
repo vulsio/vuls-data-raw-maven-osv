@@ -1,12 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r53v-vm87-f72c",
-	"modified": "2023-11-08T03:57:39.175856Z",
+	"modified": "2024-03-01T20:46:18.451162Z",
 	"published": "2018-10-16T20:50:58Z",
 	"aliases": [
 		"CVE-2014-3596"
 	],
-	"summary": "Moderate severity vulnerability that affects org.apache.axis:axis",
+	"summary": "Improper Validation of Certificates in apache axis",
 	"details": "The getCN function in Apache Axis 1.4 and earlier does not properly verify that the server hostname matches a domain name in the subject's Common Name (CN) or subjectAltName field of the X.509 certificate, which allows man-in-the-middle attackers to spoof SSL servers via a certificate with a subject that specifies a common name in a field that is not the CN field.  NOTE: this issue exists because of an incomplete fix for CVE-2012-5784.",
 	"affected": [
 		{
@@ -29,6 +29,44 @@
 				}
 			],
 			"versions": [
+				"1.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/10/GHSA-r53v-vm87-f72c/GHSA-r53v-vm87-f72c.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "axis:axis",
+				"purl": "pkg:maven/axis/axis"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "1.4"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.0",
+				"1.1",
+				"1.1-beta",
+				"1.2",
+				"1.2-RC1",
+				"1.2-RC2",
+				"1.2-RC3",
+				"1.2-alpha-1",
+				"1.2-beta-2",
+				"1.2-beta-3",
+				"1.2.1",
+				"1.3",
 				"1.4"
 			],
 			"database_specific": {
