@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p4mx-p49m-8rw4",
-	"modified": "2023-11-08T03:57:22.715964Z",
+	"modified": "2024-03-05T17:34:24.437452Z",
 	"published": "2022-05-17T05:02:46Z",
 	"aliases": [
 		"CVE-2013-4378"
@@ -23,7 +23,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "1.46.0"
+							"fixed": "1.47.0"
 						}
 					]
 				}
@@ -68,6 +68,7 @@
 				"1.43.0",
 				"1.44.0",
 				"1.45.0",
+				"1.46.0",
 				"1.8.1",
 				"1.8.2",
 				"1.9.0"
@@ -81,6 +82,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-4378"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/javamelody/javamelody/issues/346"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/javamelody/javamelody/commit/aacbc46151ff4ac1ca34ce0899c2a6113071c66e"
 		},
 		{
 			"type": "WEB",
