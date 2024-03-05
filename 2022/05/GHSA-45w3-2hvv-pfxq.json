@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-45w3-2hvv-pfxq",
-	"modified": "2023-11-08T03:57:26.122471Z",
+	"modified": "2024-03-05T00:16:19.992777Z",
 	"published": "2022-05-17T04:39:49Z",
 	"aliases": [
 		"CVE-2013-6408"
@@ -57,6 +57,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-6408"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/lucene-solr/commit/7239a57a51ea0f4d05dd330ce5e15e4f72f72747"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/lucene-solr"
 		},
 		{
 			"type": "WEB",

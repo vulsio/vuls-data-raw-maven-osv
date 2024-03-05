@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8gwc-x7mg-7p7p",
-	"modified": "2023-11-08T03:57:25.266545Z",
+	"modified": "2024-03-05T00:46:03.498049Z",
 	"published": "2022-05-14T00:02:32Z",
 	"aliases": [
 		"CVE-2013-5823"
@@ -78,7 +78,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/santuario-java/commit/55a48497dfbf3fe63a81e67c13160b3f41ebb1f3"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/apache/santuario-java/commit/cea3c91106fb8be35e2f1bb3f1fe0cfddd0ec710"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/santuario-java/commit/f9a61f2df9473237aa71308c28113540b4063d33"
 		},
 		{
 			"type": "WEB",
@@ -87,6 +95,10 @@
 		{
 			"type": "WEB",
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2013-5823"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/SANTUARIO-334"
 		},
 		{
 			"type": "WEB",
