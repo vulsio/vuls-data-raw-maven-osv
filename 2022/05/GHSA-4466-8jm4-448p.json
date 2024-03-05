@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4466-8jm4-448p",
-	"modified": "2024-02-20T05:36:43.065837Z",
+	"modified": "2024-03-04T21:31:26.691890Z",
 	"published": "2022-05-14T03:44:36Z",
 	"aliases": [
 		"CVE-2017-1000355"
@@ -471,6 +471,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/jenkinsci/jenkins/commit/701ea95a52afe53bee28f76a3f96eb0e578852e9"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/jenkins/commit/f7075e60772bd2fa15bcc72450735641c168fed5"
 		},
 		{
 			"type": "PACKAGE",

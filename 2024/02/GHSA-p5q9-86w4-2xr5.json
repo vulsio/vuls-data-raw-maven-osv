@@ -1,19 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p5q9-86w4-2xr5",
-	"modified": "2024-02-27T19:41:51.950538Z",
+	"modified": "2024-03-04T17:31:02.913686Z",
 	"published": "2024-02-27T15:30:31Z",
 	"aliases": [
 		"CVE-2023-51747"
 	],
-	"summary": "Apache James vulnerable to SMTP smuggling",
+	"summary": "SMTP smuggling in Apache James",
 	"details": "Apache James prior to versions 3.8.1 and 3.7.5 is vulnerable to SMTP smuggling.\n\nA lenient behaviour in line delimiter handling might create a difference of interpretation between the sender and the receiver which can be exploited by an attacker to forge an SMTP envelop, allowing for instance to bypass SPF checks.\n\nThe patch implies enforcement of CRLF as a line delimiter as part of the DATA transaction.\n\nWe recommend James users to upgrade to non vulnerable versions.",
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.james:james-project",
-				"purl": "pkg:maven/org.apache.james/james-project"
+				"name": "org.apache.james:james-server",
+				"purl": "pkg:maven/org.apache.james/james-server"
 			},
 			"ranges": [
 				{
@@ -29,15 +29,11 @@
 				}
 			],
 			"versions": [
-				"1.1",
-				"1.2",
-				"1.3",
-				"1.5",
-				"1.6",
-				"1.7",
-				"1.8",
-				"1.8.1",
-				"1.8.2",
+				"3.0-M1",
+				"3.0-M2",
+				"3.0-beta2",
+				"3.0-beta3",
+				"3.0-beta4",
 				"3.0.0",
 				"3.0.0-RC1",
 				"3.0.0-beta5",
@@ -62,8 +58,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.james:james-project",
-				"purl": "pkg:maven/org.apache.james/james-project"
+				"name": "org.apache.james:james-server",
+				"purl": "pkg:maven/org.apache.james/james-server"
 			},
 			"ranges": [
 				{

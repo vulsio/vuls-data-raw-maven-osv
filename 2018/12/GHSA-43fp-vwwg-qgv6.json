@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-43fp-vwwg-qgv6",
-	"modified": "2024-02-16T08:22:10.555389Z",
+	"modified": "2024-03-04T21:49:21.756507Z",
 	"published": "2018-12-20T22:02:32Z",
 	"aliases": [
 		"CVE-2018-17194"
@@ -61,11 +61,19 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/apache/nifi/commit/1baead6f525046a613fc4fe494a0d193776ea70f,"
+			"url": "https://github.com/apache/nifi/commit/1baead6f525046a613fc4fe494a0d193776ea70f"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/nifi/commit/748cf745628dab20b7e71f12b5dcfe6ed0bbf134"
 		},
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/apache/nifi"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/NIFI-5628"
 		},
 		{
 			"type": "WEB",

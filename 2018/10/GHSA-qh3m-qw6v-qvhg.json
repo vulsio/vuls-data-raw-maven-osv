@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qh3m-qw6v-qvhg",
-	"modified": "2023-11-08T03:59:50.105091Z",
+	"modified": "2024-03-04T21:01:51.550361Z",
 	"published": "2018-10-17T16:20:32Z",
 	"aliases": [
 		"CVE-2018-12544"
@@ -51,6 +51,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/vert-x3/vertx-web/issues/1021"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/vert-x3/vertx-web/commit/ac8692c618d6180a9bc012a2ac8dbec821b1a97"
 		},
 		{
 			"type": "WEB",

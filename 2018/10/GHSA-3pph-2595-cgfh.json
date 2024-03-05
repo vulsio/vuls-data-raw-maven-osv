@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3pph-2595-cgfh",
-	"modified": "2023-11-08T03:59:52.401325Z",
+	"modified": "2024-03-04T20:46:19.149385Z",
 	"published": "2018-10-17T19:55:46Z",
 	"aliases": [
 		"CVE-2018-1308"
@@ -119,7 +119,7 @@
 							"introduced": "7.0.0"
 						},
 						{
-							"fixed": "7.2.1"
+							"fixed": "7.3.0"
 						}
 					]
 				}
@@ -128,7 +128,8 @@
 				"7.0.0",
 				"7.0.1",
 				"7.1.0",
-				"7.2.0"
+				"7.2.0",
+				"7.2.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/10/GHSA-3pph-2595-cgfh/GHSA-3pph-2595-cgfh.json"
@@ -139,6 +140,18 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1308"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/lucene-solr/commit/3530397f1777332872eac2760f9aa0e2ae1d7450"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/lucene-solr/commit/739a7933"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/lucene-solr/commit/dd3be31f7062dcb2f3b2d7f0e89df29e197dee63"
 		},
 		{
 			"type": "ADVISORY",

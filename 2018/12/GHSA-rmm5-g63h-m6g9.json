@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rmm5-g63h-m6g9",
-	"modified": "2023-11-08T04:00:10.659924Z",
+	"modified": "2024-03-04T22:46:04.851115Z",
 	"published": "2018-12-19T19:24:39Z",
 	"aliases": [
 		"CVE-2018-20059"
@@ -72,6 +72,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/pippo-java/pippo/issues/486"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/pippo-java/pippo/commit/9f36e5891c0b11f840e1e1561ae96d83ba9ce759"
 		},
 		{
 			"type": "ADVISORY",
