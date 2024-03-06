@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gw42-f939-fhvm",
-	"modified": "2024-02-16T08:21:38.820554Z",
+	"modified": "2024-03-06T12:28:14.817206Z",
 	"published": "2023-05-23T19:54:30Z",
 	"aliases": [
+		"BIT-openfire-2023-32315",
 		"CVE-2023-32315"
 	],
 	"summary": "Administration Console authentication bypass in openfire xmppserver",
