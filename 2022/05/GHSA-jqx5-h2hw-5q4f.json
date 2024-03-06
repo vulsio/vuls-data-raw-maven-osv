@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jqx5-h2hw-5q4f",
-	"modified": "2024-02-16T08:21:13.110291Z",
+	"modified": "2024-03-05T19:16:53.587484Z",
 	"published": "2022-05-04T00:28:50Z",
 	"aliases": [
 		"CVE-2012-0213"
@@ -148,7 +148,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-400"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2022-07-13T18:56:25Z",
 		"nvd_published_at": "2012-08-07T21:55:00Z",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j24h-xcpc-9jw8",
-	"modified": "2024-02-19T05:33:11.761159Z",
+	"modified": "2024-03-05T21:46:06.438286Z",
 	"published": "2023-11-30T19:52:54Z",
 	"aliases": [
 		"CVE-2023-4218"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.ant.ui",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ant.ui"
+				"name": "org.eclipse.platform:org.eclipse.core.runtime",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.core.runtime"
 			},
 			"ranges": [
 				{
@@ -29,622 +29,182 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "4.29"
+							"fixed": "3.29.0"
 						}
 					]
 				}
 			],
 			"versions": [
-				"3.6.201",
+				"3.12.0",
+				"3.13.0",
+				"3.14.0",
+				"3.15.0",
+				"3.15.100",
+				"3.15.200",
+				"3.15.300",
+				"3.16.0",
+				"3.17.0",
+				"3.17.100",
+				"3.18.0",
+				"3.19.0",
+				"3.20.0",
+				"3.20.100",
+				"3.22.0",
+				"3.23.0",
+				"3.24.0",
+				"3.24.100",
+				"3.25.0",
+				"3.26.0",
+				"3.26.100",
+				"3.27.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.eclipse.platform:org.eclipse.platform",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.platform"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "4.29.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.10.0",
+				"4.11.0",
+				"4.12.0",
+				"4.13.0",
+				"4.14.0",
+				"4.15.0",
+				"4.16.0",
+				"4.17.0",
+				"4.18.0",
+				"4.19.0",
+				"4.20.0",
+				"4.21.0",
+				"4.22.0",
+				"4.23.0",
+				"4.24.0",
+				"4.25.0",
+				"4.26.0",
+				"4.27.0",
+				"4.28.0",
+				"4.6.2",
+				"4.6.3",
+				"4.7.0",
+				"4.7.1",
+				"4.7.2",
+				"4.7.3",
+				"4.8.0",
+				"4.9.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.eclipse.platform:org.eclipse.jface",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.jface"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.31.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"3.12.1",
+				"3.12.2",
+				"3.13.0",
+				"3.13.1",
+				"3.13.2",
+				"3.14.0",
+				"3.14.100",
+				"3.15.0",
+				"3.15.100",
+				"3.16.0",
+				"3.17.0",
+				"3.18.0",
+				"3.19.0",
+				"3.20.0",
+				"3.21.0",
+				"3.22.0",
+				"3.22.100",
+				"3.22.200",
+				"3.23.0",
+				"3.24.0",
+				"3.25.0",
+				"3.26.0",
+				"3.27.0",
+				"3.28.0",
+				"3.29.0",
+				"3.30.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.eclipse.platform:org.eclipse.ui.forms",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ui.forms"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "3.13.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"3.10.0",
+				"3.11.0",
+				"3.11.100",
+				"3.11.200",
+				"3.11.300",
+				"3.11.400",
+				"3.11.500",
+				"3.11.600",
+				"3.12.0",
 				"3.7.0",
+				"3.7.1",
 				"3.7.100",
-				"3.7.1000",
-				"3.7.1200",
+				"3.7.101",
 				"3.7.200",
 				"3.7.300",
 				"3.7.400",
 				"3.7.500",
-				"3.7.600",
-				"3.7.700",
-				"3.7.800",
-				"3.7.900",
 				"3.8.0",
 				"3.8.100",
 				"3.8.200",
-				"3.8.300",
-				"3.9.0",
-				"3.9.100",
-				"3.9.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.core.variables",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.core.variables"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.3.0",
-				"3.4.0",
-				"3.4.100",
-				"3.4.200",
-				"3.4.300",
-				"3.4.400",
-				"3.4.500",
-				"3.4.600",
-				"3.4.700",
-				"3.4.800",
-				"3.5.0",
-				"3.5.100",
-				"3.6.0",
-				"3.6.100",
-				"3.6.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.debug.core",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.debug.core"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.10.100",
-				"3.11.0",
-				"3.12.0",
-				"3.13.0",
-				"3.13.100",
-				"3.13.200",
-				"3.13.300",
-				"3.14.0",
-				"3.14.100",
-				"3.15.0",
-				"3.15.100",
-				"3.16.0",
-				"3.17.0",
-				"3.18.0",
-				"3.18.100",
-				"3.18.200",
-				"3.18.300",
-				"3.19.0",
-				"3.19.100",
-				"3.20.0",
-				"3.20.100",
-				"3.21.0",
-				"3.21.100",
-				"3.21.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.debug.ui",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.debug.ui"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.11.202",
-				"3.12.0",
-				"3.12.50",
-				"3.13.0",
-				"3.13.100",
-				"3.13.200",
-				"3.14.0",
-				"3.14.100",
-				"3.14.200",
-				"3.14.300",
-				"3.14.400",
-				"3.14.500",
-				"3.14.600",
-				"3.14.700",
-				"3.14.800",
-				"3.15.0",
-				"3.15.100",
-				"3.15.200",
-				"3.16.0",
-				"3.16.100",
-				"3.17.0",
-				"3.17.100",
-				"3.17.200",
-				"3.18.0",
-				"3.18.100",
-				"3.18.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.core.resources",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.core.resources"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.11.1",
-				"3.12.0",
-				"3.13.0",
-				"3.13.100",
-				"3.13.200",
-				"3.13.300",
-				"3.13.400",
-				"3.13.500",
-				"3.13.600",
-				"3.13.700",
-				"3.13.800",
-				"3.13.900",
-				"3.14.0",
-				"3.15.0",
-				"3.15.100",
-				"3.16.0",
-				"3.16.100",
-				"3.17.0",
-				"3.18.0",
-				"3.18.100",
-				"3.18.200",
-				"3.19.0",
-				"3.19.100",
-				"3.20.0"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.core:org.eclipse.core.runtime",
-				"purl": "pkg:maven/org.eclipse.core/org.eclipse.core.runtime"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.6.0.v20100505",
-				"3.7.0"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.ant.core",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ant.core"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.4.100",
-				"3.5.0",
-				"3.5.100",
-				"3.5.200",
-				"3.5.300",
-				"3.5.400",
-				"3.5.500",
-				"3.5.600",
-				"3.5.700",
-				"3.5.800",
-				"3.6.0",
-				"3.6.100",
-				"3.6.200",
-				"3.6.300",
-				"3.6.400",
-				"3.6.500",
-				"3.7.0",
-				"3.7.100",
-				"3.7.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.ant.launching",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ant.launching"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"1.1.201",
-				"1.2.0",
-				"1.2.1",
-				"1.2.100",
-				"1.2.1000",
-				"1.2.200",
-				"1.2.300",
-				"1.2.400",
-				"1.2.500",
-				"1.2.600",
-				"1.2.700",
-				"1.2.800",
-				"1.2.900",
-				"1.3.0",
-				"1.3.100",
-				"1.3.200",
-				"1.3.300",
-				"1.3.400",
-				"1.4.0",
-				"1.4.100",
-				"1.4.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.team.ui",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.team.ui"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.10.0",
-				"3.10.100",
-				"3.10.200",
-				"3.8.0",
-				"3.8.1",
-				"3.8.100",
-				"3.8.1000",
-				"3.8.1100",
-				"3.8.1200",
-				"3.8.200",
-				"3.8.300",
-				"3.8.400",
-				"3.8.500",
-				"3.8.600",
-				"3.8.700",
-				"3.8.800",
-				"3.8.900",
-				"3.9.0",
-				"3.9.100",
-				"3.9.200",
-				"3.9.300",
-				"3.9.400",
-				"3.9.500",
-				"3.9.600"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.compare.examples.xml",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.compare.examples.xml"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.4.0",
-				"3.4.100",
-				"3.4.1000",
-				"3.4.1100",
-				"3.4.1200",
-				"3.4.200",
-				"3.4.300",
-				"3.4.400",
-				"3.4.500",
-				"3.4.600",
-				"3.4.700",
-				"3.4.800",
-				"3.4.900",
-				"3.5.0",
-				"3.5.100",
-				"3.6.0",
-				"3.6.100",
-				"3.6.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.help.base",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.help.base"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"4.1.1",
-				"4.1.2",
-				"4.2.100",
-				"4.2.1000",
-				"4.2.101",
-				"4.2.102",
-				"4.2.103",
-				"4.2.153",
-				"4.2.200",
-				"4.2.300",
-				"4.2.400",
-				"4.2.500",
-				"4.2.600",
-				"4.2.700",
-				"4.2.800",
-				"4.2.900",
-				"4.3.0",
-				"4.3.100",
-				"4.3.1000",
-				"4.3.200",
-				"4.3.300",
-				"4.3.400",
-				"4.3.500",
-				"4.3.600",
-				"4.3.700",
-				"4.3.800",
-				"4.3.900",
-				"4.4.0",
-				"4.4.100",
-				"4.4.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.help.ui",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.help.ui"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"4.0.200",
-				"4.1.0",
-				"4.1.100",
-				"4.1.200",
-				"4.1.300",
-				"4.1.400",
-				"4.1.500",
-				"4.1.600",
-				"4.1.700",
-				"4.1.800",
-				"4.1.900",
-				"4.2.0",
-				"4.2.100",
-				"4.2.200",
-				"4.3.0",
-				"4.3.100",
-				"4.3.200",
-				"4.4.0",
-				"4.4.100",
-				"4.5.0",
-				"4.6.0",
-				"4.6.100"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.help.webapp",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.help.webapp"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.10.0",
-				"3.10.100",
-				"3.10.1000",
-				"3.10.200",
-				"3.10.300",
-				"3.10.400",
-				"3.10.500",
-				"3.10.600",
-				"3.10.700",
-				"3.10.800",
-				"3.10.900",
-				"3.11.0",
-				"3.11.100",
-				"3.11.200",
-				"3.8.0",
-				"3.9.0",
-				"3.9.1",
-				"3.9.100",
-				"3.9.200",
-				"3.9.300",
-				"3.9.400",
-				"3.9.500",
-				"3.9.600",
-				"3.9.700",
-				"3.9.800",
-				"3.9.900"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.help",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.help"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.10.0",
-				"3.10.100",
-				"3.10.200",
-				"3.7.0",
-				"3.8.0",
-				"3.8.1",
-				"3.8.100",
-				"3.8.200",
-				"3.8.300",
-				"3.8.400",
-				"3.8.500",
-				"3.8.600",
-				"3.8.700",
-				"3.8.800",
 				"3.9.0",
 				"3.9.100"
 			],
@@ -655,8 +215,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.tips.ide",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.tips.ide"
+				"name": "org.eclipse.platform:org.eclipse.ui.ide",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ui.ide"
 			},
 			"ranges": [
 				{
@@ -666,26 +226,37 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "4.29"
+							"fixed": "3.21.100"
 						}
 					]
 				}
 			],
 			"versions": [
-				"0.1.0",
-				"0.1.200",
-				"0.1.300",
-				"0.1.400",
-				"0.1.500",
-				"0.1.600",
-				"0.1.700",
-				"0.1.800",
-				"0.1.900",
-				"0.2.0",
-				"0.2.100",
-				"0.3.0",
-				"0.3.100",
-				"0.3.200"
+				"3.12.2",
+				"3.12.3",
+				"3.13.0",
+				"3.13.1",
+				"3.14.0",
+				"3.14.100",
+				"3.14.200",
+				"3.15.0",
+				"3.15.200",
+				"3.16.0",
+				"3.16.100",
+				"3.17.0",
+				"3.17.100",
+				"3.17.200",
+				"3.18.0",
+				"3.18.100",
+				"3.18.200",
+				"3.18.300",
+				"3.18.400",
+				"3.18.500",
+				"3.19.0",
+				"3.19.100",
+				"3.20.0",
+				"3.20.100",
+				"3.21.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -694,8 +265,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.ui.cheatsheets",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ui.cheatsheets"
+				"name": "org.eclipse.platform:org.eclipse.ui.workbench",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ui.workbench"
 			},
 			"ranges": [
 				{
@@ -705,30 +276,37 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "4.29"
+							"fixed": "3.130.0"
 						}
 					]
 				}
 			],
 			"versions": [
-				"3.5.0",
-				"3.5.100",
-				"3.5.200",
-				"3.5.300",
-				"3.5.400",
-				"3.5.500",
-				"3.5.600",
-				"3.5.700",
-				"3.5.800",
-				"3.7.0",
-				"3.7.100",
-				"3.7.200",
-				"3.7.300",
-				"3.7.400",
-				"3.7.500",
-				"3.8.0",
-				"3.8.100",
-				"3.8.200"
+				"3.108.2",
+				"3.108.3",
+				"3.110.0",
+				"3.110.1",
+				"3.111.0",
+				"3.112.0",
+				"3.112.100",
+				"3.113.0",
+				"3.115.0",
+				"3.116.0",
+				"3.117.0",
+				"3.118.0",
+				"3.119.0",
+				"3.120.0",
+				"3.122.0",
+				"3.122.100",
+				"3.122.200",
+				"3.123.0",
+				"3.124.0",
+				"3.125.0",
+				"3.125.100",
+				"3.126.0",
+				"3.127.0",
+				"3.128.0",
+				"3.129.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -737,8 +315,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.ui.intro.universal",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal"
+				"name": "org.eclipse.platform:org.eclipse.urischeme",
+				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.urischeme"
 			},
 			"ranges": [
 				{
@@ -748,29 +326,29 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "4.29"
+							"fixed": "1.3.100"
 						}
 					]
 				}
 			],
 			"versions": [
-				"3.3.1",
-				"3.3.100",
-				"3.3.200",
-				"3.3.300",
-				"3.3.400",
-				"3.3.500",
-				"3.3.600",
-				"3.3.700",
-				"3.3.800",
-				"3.3.900",
-				"3.4.0",
-				"3.4.100",
-				"3.4.200",
-				"3.4.300",
-				"3.5.0",
-				"3.5.100",
-				"3.5.200"
+				"1.0.0",
+				"1.0.100",
+				"1.0.200",
+				"1.0.300",
+				"1.0.400",
+				"1.0.500",
+				"1.0.600",
+				"1.1.0",
+				"1.1.100",
+				"1.1.200",
+				"1.1.300",
+				"1.1.400",
+				"1.2.0",
+				"1.2.100",
+				"1.2.200",
+				"1.2.300",
+				"1.3.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
@@ -779,8 +357,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.ui.intro",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.ui.intro"
+				"name": "org.eclipse.jdt:org.eclipse.jdt.ui",
+				"purl": "pkg:maven/org.eclipse.jdt/org.eclipse.jdt.ui"
 			},
 			"ranges": [
 				{
@@ -790,74 +368,39 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "4.29"
+							"fixed": "3.30.0"
 						}
 					]
 				}
 			],
 			"versions": [
-				"3.5.100",
-				"3.5.1000",
-				"3.5.1100",
-				"3.5.2",
-				"3.5.200",
-				"3.5.300",
-				"3.5.400",
-				"3.5.500",
-				"3.5.600",
-				"3.5.700",
-				"3.5.800",
-				"3.5.900",
-				"3.6.0",
-				"3.6.100",
-				"3.6.200",
-				"3.6.300",
-				"3.6.400",
-				"3.6.500",
-				"3.6.600",
-				"3.7.0",
-				"3.7.100",
-				"3.7.200"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.eclipse.platform:org.eclipse.update.configurator",
-				"purl": "pkg:maven/org.eclipse.platform/org.eclipse.update.configurator"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "4.29"
-						}
-					]
-				}
-			],
-			"versions": [
-				"3.3.400",
-				"3.4.0",
-				"3.4.100",
-				"3.4.1000",
-				"3.4.200",
-				"3.4.300",
-				"3.4.400",
-				"3.4.500",
-				"3.4.600",
-				"3.4.700",
-				"3.4.800",
-				"3.4.900",
-				"3.5.0",
-				"3.5.100",
-				"3.5.200"
+				"3.12.2",
+				"3.13.0",
+				"3.13.100",
+				"3.13.50",
+				"3.13.51",
+				"3.13.52",
+				"3.14.0",
+				"3.15.0",
+				"3.16.0",
+				"3.17.0",
+				"3.18.0",
+				"3.19.0",
+				"3.20.0",
+				"3.21.0",
+				"3.21.100",
+				"3.21.200",
+				"3.22.0",
+				"3.22.100",
+				"3.23.0",
+				"3.24.0",
+				"3.25.0",
+				"3.26.0",
+				"3.26.100",
+				"3.27.0",
+				"3.27.100",
+				"3.28.0",
+				"3.29.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-j24h-xcpc-9jw8/GHSA-j24h-xcpc-9jw8.json"

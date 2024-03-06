@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qx6h-9567-5fqw",
-	"modified": "2023-11-08T03:57:18.345627Z",
+	"modified": "2024-03-05T18:15:59.024661Z",
 	"published": "2022-05-14T03:52:43Z",
 	"aliases": [
 		"CVE-2013-2186"
@@ -51,11 +51,19 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/commons-fileupload/commit/163a6061fbc077d4b6e4787d26857c2baba495d1"
+		},
+		{
+			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2016:0070"
 		},
 		{
 			"type": "WEB",
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/88133"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/commons-fileupload"
 		},
 		{
 			"type": "WEB",

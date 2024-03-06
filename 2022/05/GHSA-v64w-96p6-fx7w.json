@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v64w-96p6-fx7w",
-	"modified": "2023-11-08T03:57:14.956329Z",
+	"modified": "2024-03-05T18:46:01.391298Z",
 	"published": "2022-05-17T04:48:11Z",
 	"aliases": [
 		"CVE-2013-1777"
@@ -42,6 +42,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-1777"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/geronimo/commit/ee031c5e62b0d358250d06c2aa6722518579a6c5"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/geronimo"
 		},
 		{
 			"type": "WEB",
