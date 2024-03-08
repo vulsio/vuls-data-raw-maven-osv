@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rh8q-vjgf-gf74",
-	"modified": "2024-02-26T20:45:59.452080Z",
+	"modified": "2024-03-07T22:01:19.712428Z",
 	"published": "2022-05-14T01:10:16Z",
 	"aliases": [
 		"CVE-2015-5345"
@@ -163,7 +163,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/127d8ea86d245846f0472865f0eb1eb111955e71"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/apache/tomcat/commit/58c09b6217c546e1a251a82da227018f05277228"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/66daa4adc14b3e939659879153c0a579fdfcb099"
 		},
 		{
 			"type": "WEB",
@@ -172,6 +180,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/apache/tomcat/commit/816552abf6735fa37dfd37c8a7bfbdbd045477e0"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/8437193708e4bf6b2861a7953dc472f9dad49111"
 		},
 		{
 			"type": "WEB",
