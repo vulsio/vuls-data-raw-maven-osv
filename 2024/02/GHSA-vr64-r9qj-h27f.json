@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vr64-r9qj-h27f",
-	"modified": "2024-03-05T23:16:01.136594Z",
+	"modified": "2024-03-08T21:16:13.691405Z",
 	"published": "2024-02-29T03:33:18Z",
 	"aliases": [
 		"CVE-2024-22871"
 	],
 	"summary": "Reading specially crafted serializable objects from an untrusted source may cause an infinite loop and denial of service",
-	"details": "Any program on the JVM may read serialized objects via [java.io.ObjectInputStream.readObject()](https://docs.oracle.com/javase/8/docs/api/java/io/ObjectInputStream.html#readObject--). Reading serialized objects from an untrusted source is **inherently unsafe** (this affects any program running on any version of the JVM) and is a prerequisite for this vulnerability.\n\nClojure classes that represent infinite seqs (Cycle, infinite Repeat, and Iterate) do not define hashCode() and use the parent ASeq.hashCode(), which walks the seq to compute the hash, yielding an infinite loop. Classes like java.util.HashMap call hashCode() on keys during deserialization of a serialized map. \n\nThe exploit requires:\n\n1. Crafting a serialized HashMap object with an infinite seq object as a key.\n2. Sending that to a program that reads serialized objects via ObjectInputStream.readObject().\n\nThis will cause the program to enter an infinite loop on the reading thread and thus a denial of service (DoS).\n\nThe affected Clojure classes (Cycle, Repeat, Iterate) exist in Clojure 1.2.0-1.12.0-alpha8.",
+	"details": "Any program on the JVM may read serialized objects via [java.io.ObjectInputStream.readObject()](https://docs.oracle.com/javase/8/docs/api/java/io/ObjectInputStream.html#readObject--). Reading serialized objects from an untrusted source is **inherently unsafe** (this affects any program running on any version of the JVM) and is a prerequisite for this vulnerability.\n\nClojure classes that represent infinite seqs (Cycle, infinite Repeat, and Iterate) do not define hashCode() and use the parent ASeq.hashCode(), which walks the seq to compute the hash, yielding an infinite loop. Classes like java.util.HashMap call hashCode() on keys during deserialization of a serialized map. \n\nThe exploit requires:\n\n1. Crafting a serialized HashMap object with an infinite seq object as a key.\n2. Sending that to a program that reads serialized objects via ObjectInputStream.readObject().\n\nThis will cause the program to enter an infinite loop on the reading thread and thus a denial of service (DoS).\n\nThe affected Clojure classes (Cycle, Repeat, Iterate) exist in Clojure 1.7.0-1.11.1, 1.12.0-alpha1-1.12.0-alpha8.",
 	"affected": [
 		{
 			"package": {
@@ -20,10 +20,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "1.2.0"
+							"introduced": "1.7.0"
 						},
 						{
-							"last_affected": "1.12.0-alpha8"
+							"fixed": "1.11.2"
 						}
 					]
 				}
@@ -76,88 +76,7 @@
 				"1.11.0-rc1",
 				"1.11.1",
 				"1.11.1-rc1",
-				"1.12.0-alpha1",
-				"1.12.0-alpha2",
-				"1.12.0-alpha3",
-				"1.12.0-alpha4",
-				"1.12.0-alpha5",
-				"1.12.0-alpha6",
-				"1.12.0-alpha7",
-				"1.12.0-alpha8",
-				"1.2.0",
-				"1.2.1",
-				"1.3.0",
-				"1.3.0-RC0",
-				"1.3.0-alpha5",
-				"1.3.0-alpha6",
-				"1.3.0-alpha7",
-				"1.3.0-alpha8",
-				"1.3.0-beta1",
-				"1.3.0-beta2",
-				"1.3.0-beta3",
-				"1.4.0",
-				"1.4.0-alpha1",
-				"1.4.0-alpha2",
-				"1.4.0-alpha3",
-				"1.4.0-alpha4",
-				"1.4.0-alpha5",
-				"1.4.0-beta1",
-				"1.4.0-beta2",
-				"1.4.0-beta3",
-				"1.4.0-beta4",
-				"1.4.0-beta5",
-				"1.4.0-beta6",
-				"1.4.0-beta7",
-				"1.5.0",
-				"1.5.0-RC1",
-				"1.5.0-RC14",
-				"1.5.0-RC15",
-				"1.5.0-RC16",
-				"1.5.0-RC17",
-				"1.5.0-RC2",
-				"1.5.0-RC3",
-				"1.5.0-RC4",
-				"1.5.0-RC5",
-				"1.5.0-RC6",
-				"1.5.0-alpha1",
-				"1.5.0-alpha2",
-				"1.5.0-alpha3",
-				"1.5.0-alpha4",
-				"1.5.0-alpha5",
-				"1.5.0-alpha6",
-				"1.5.0-alpha7",
-				"1.5.0-beta1",
-				"1.5.0-beta10",
-				"1.5.0-beta11",
-				"1.5.0-beta12",
-				"1.5.0-beta13",
-				"1.5.0-beta2",
-				"1.5.0-beta7",
-				"1.5.0-beta8",
-				"1.5.0-beta9",
-				"1.5.1",
-				"1.6.0",
-				"1.6.0-RC1",
-				"1.6.0-RC2",
-				"1.6.0-RC3",
-				"1.6.0-RC4",
-				"1.6.0-alpha1",
-				"1.6.0-alpha2",
-				"1.6.0-alpha3",
-				"1.6.0-beta1",
-				"1.6.0-beta2",
 				"1.7.0",
-				"1.7.0-RC1",
-				"1.7.0-RC2",
-				"1.7.0-alpha1",
-				"1.7.0-alpha2",
-				"1.7.0-alpha3",
-				"1.7.0-alpha4",
-				"1.7.0-alpha5",
-				"1.7.0-alpha6",
-				"1.7.0-beta1",
-				"1.7.0-beta2",
-				"1.7.0-beta3",
 				"1.8.0",
 				"1.8.0-RC1",
 				"1.8.0-RC2",
@@ -198,6 +117,39 @@
 				"1.9.0-beta2",
 				"1.9.0-beta3",
 				"1.9.0-beta4"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-vr64-r9qj-h27f/GHSA-vr64-r9qj-h27f.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.clojure:clojure",
+				"purl": "pkg:maven/org.clojure/clojure"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "1.12.0-alpha1"
+						},
+						{
+							"fixed": "1.12.0-alpha9"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.12.0-alpha1",
+				"1.12.0-alpha2",
+				"1.12.0-alpha3",
+				"1.12.0-alpha4",
+				"1.12.0-alpha5",
+				"1.12.0-alpha6",
+				"1.12.0-alpha7",
+				"1.12.0-alpha8"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-vr64-r9qj-h27f/GHSA-vr64-r9qj-h27f.json"
