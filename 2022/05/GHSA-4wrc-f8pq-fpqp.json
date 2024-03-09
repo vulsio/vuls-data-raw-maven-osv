@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4wrc-f8pq-fpqp",
-	"modified": "2024-02-20T05:33:36.127789Z",
+	"modified": "2024-03-09T05:16:58.586223Z",
 	"published": "2022-05-24T17:05:30Z",
 	"aliases": [
 		"CVE-2016-1000027"
@@ -323,27 +323,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2016-1000027"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://github.com/spring-projects/spring-framework"
-		},
-		{
-			"type": "WEB",
-			"url": "https://jira.spring.io/browse/SPR-17143?redirect=false"
-		},
-		{
-			"type": "WEB",
-			"url": "https://security-tracker.debian.org/tracker/CVE-2016-1000027"
-		},
-		{
-			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20230420-0009"
-		},
-		{
-			"type": "WEB",
-			"url": "https://spring.io/blog/2022/05/11/spring-framework-5-3-20-and-5-2-22-available-now"
+			"url": "https://www.tenable.com/security/research/tra-2016-20"
 		},
 		{
 			"type": "WEB",
@@ -351,7 +331,27 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.tenable.com/security/research/tra-2016-20"
+			"url": "https://spring.io/blog/2022/05/11/spring-framework-5-3-20-and-5-2-22-available-now"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20230420-0009"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security-tracker.debian.org/tracker/CVE-2016-1000027"
+		},
+		{
+			"type": "WEB",
+			"url": "https://jira.spring.io/browse/SPR-17143?redirect=false"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/spring-projects/spring-framework"
+		},
+		{
+			"type": "WEB",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2016-1000027"
 		}
 	],
 	"database_specific": {

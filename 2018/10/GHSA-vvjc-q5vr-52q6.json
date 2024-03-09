@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vvjc-q5vr-52q6",
-	"modified": "2024-02-16T08:15:04.987285Z",
+	"modified": "2024-03-09T05:16:21.431490Z",
 	"published": "2018-10-16T23:13:00Z",
 	"aliases": [
 		"CVE-2016-8749"
@@ -226,22 +226,6 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:1832"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-vvjc-q5vr-52q6"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/camel"
-		},
-		{
-			"type": "WEB",
-			"url": "https://issues.apache.org/jira/browse/CAMEL-10567"
-		},
-		{
-			"type": "WEB",
 			"url": "https://issues.apache.org/jira/browse/CAMEL-10604"
 		},
 		{
@@ -255,6 +239,22 @@
 		{
 			"type": "WEB",
 			"url": "https://www.github.com/mbechler/marshalsec/blob/master/marshalsec.pdf?raw=true"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/CAMEL-10567"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/camel"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-vvjc-q5vr-52q6"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:1832"
 		},
 		{
 			"type": "WEB",
