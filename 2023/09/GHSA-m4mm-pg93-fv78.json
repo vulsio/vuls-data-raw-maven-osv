@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m4mm-pg93-fv78",
-	"modified": "2024-02-21T05:31:23.006994Z",
+	"modified": "2024-03-10T05:16:36.062630Z",
 	"published": "2023-09-14T15:31:23Z",
 	"aliases": [
 		"CVE-2023-1108"
@@ -374,7 +374,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/undertow-io/undertow/commit/1302c8cf4476936802504efe0d36c58dcd954f78"
+			"url": "https://github.com/undertow-io/undertow/commit/ccc053b55f5de9872bc1a4999fd6aa85fc5e146d"
 		},
 		{
 			"type": "WEB",
@@ -382,67 +382,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://github.com/undertow-io/undertow/commit/ccc053b55f5de9872bc1a4999fd6aa85fc5e146d"
+			"url": "https://github.com/undertow-io/undertow/commit/1302c8cf4476936802504efe0d36c58dcd954f78"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:1184"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:1185"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:1512"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:1513"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:1514"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:1516"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:3883"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:3884"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:3885"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:3888"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:3892"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:3954"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2023:4612"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/security/cve/CVE-2023-1108"
-		},
-		{
-			"type": "WEB",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2174246"
+			"url": "https://security.netapp.com/advisory/ntap-20231020-0002"
 		},
 		{
 			"type": "PACKAGE",
@@ -450,7 +394,63 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20231020-0002"
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2174246"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/security/cve/CVE-2023-1108"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:4612"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:3954"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:3892"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:3888"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:3885"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:3884"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:3883"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:1516"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:1514"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:1513"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:1512"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:1185"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:1184"
 		}
 	],
 	"database_specific": {
