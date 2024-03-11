@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6fxm-66hq-fc96",
-	"modified": "2024-02-22T15:40:56.949395Z",
+	"modified": "2024-03-11T05:32:27.181208Z",
 	"published": "2022-05-13T01:07:05Z",
 	"aliases": [
 		"CVE-2012-2098"
@@ -95,22 +95,6 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/75857"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/commons-compress"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/r204ba2a9ea750f38d789d2bb429cc0925ad6133deea7cbc3001d96b5@<solr-user.lucene.apache.org>"
-		},
-		{
-			"type": "WEB",
-			"url": "https://web.archive.org/web/20130525085523/http://www.securityfocus.com/bid/53676"
-		},
-		{
-			"type": "WEB",
 			"url": "https://web.archive.org/web/20140724002926/http://secunia.com/advisories/49286"
 		},
 		{
@@ -124,6 +108,22 @@
 		{
 			"type": "WEB",
 			"url": "https://www.oracle.com/security-alerts/cpujan2021.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://web.archive.org/web/20130525085523/http://www.securityfocus.com/bid/53676"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/r204ba2a9ea750f38d789d2bb429cc0925ad6133deea7cbc3001d96b5@<solr-user.lucene.apache.org>"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/commons-compress"
+		},
+		{
+			"type": "WEB",
+			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/75857"
 		},
 		{
 			"type": "WEB",
