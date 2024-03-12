@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6rh5-23hx-j452",
-	"modified": "2024-02-16T08:22:38.267997Z",
+	"modified": "2024-03-12T14:41:00.541248Z",
 	"published": "2022-05-13T01:05:22Z",
 	"aliases": [
 		"CVE-2019-1003003"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "2.159"
+							"fixed": "2.150.2"
 						}
 					]
 				}
@@ -433,16 +433,6 @@
 				"2.15",
 				"2.150",
 				"2.150.1",
-				"2.150.2",
-				"2.150.3",
-				"2.151",
-				"2.152",
-				"2.153",
-				"2.154",
-				"2.155",
-				"2.156",
-				"2.157",
-				"2.158",
 				"2.16",
 				"2.17",
 				"2.18",
@@ -563,6 +553,39 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-6rh5-23hx-j452/GHSA-6rh5-23hx-j452.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.jenkins-ci.main:jenkins-core",
+				"purl": "pkg:maven/org.jenkins-ci.main/jenkins-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.151"
+						},
+						{
+							"fixed": "2.159"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.151",
+				"2.152",
+				"2.153",
+				"2.154",
+				"2.155",
+				"2.156",
+				"2.157",
+				"2.158"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-6rh5-23hx-j452/GHSA-6rh5-23hx-j452.json"
+			}
 		}
 	],
 	"references": [
@@ -579,12 +602,16 @@
 			"url": "https://access.redhat.com/errata/RHBA-2019:0327"
 		},
 		{
+			"type": "PACKAGE",
+			"url": "https://github.com/jenkinsci/jenkins"
+		},
+		{
 			"type": "WEB",
 			"url": "https://jenkins.io/security/advisory/2019-01-16/#SECURITY-868"
 		},
 		{
 			"type": "WEB",
-			"url": "http://www.securityfocus.com/bid/106680"
+			"url": "https://web.archive.org/web/20200227092104/http://www.securityfocus.com/bid/106680"
 		}
 	],
 	"database_specific": {
