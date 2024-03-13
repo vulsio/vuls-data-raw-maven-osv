@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r9vv-xj4w-g8m8",
-	"modified": "2024-02-16T08:14:17.756467Z",
+	"modified": "2024-03-13T05:31:35.292422Z",
 	"published": "2022-05-13T01:11:53Z",
 	"aliases": [
 		"CVE-2016-4978"
@@ -52,91 +52,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:1834"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:1835"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:1836"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:1837"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:3454"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:3455"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:3456"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2017:3458"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:1447"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:1448"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:1449"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:1450"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2018:1451"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://github.com/apache/activemq-artemis"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/7260bd0955c12aac5bd892039d3356ba3aa0ff4caaf2aa4fd4fe84a2%40%3Cissues.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/7260bd0955c12aac5bd892039d3356ba3aa0ff4caaf2aa4fd4fe84a2@%3Cissues.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/d4ffbc6a43a915324a394b2913ceb7d07bc352f2d08caa19df0aff02%40%3Cissues.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/d4ffbc6a43a915324a394b2913ceb7d07bc352f2d08caa19df0aff02@%3Cissues.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/rb2fd3bf2dce042e0ab3f3c94c4767c96bb2e7e6737624d63162df36d%40%3Ccommits.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/rb2fd3bf2dce042e0ab3f3c94c4767c96bb2e7e6737624d63162df36d@%3Ccommits.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/rc96ad63f148f784c84ea7f0a178c84a8985c6afccabbcd9847a82088%40%3Ccommits.activemq.apache.org%3E"
-		},
-		{
-			"type": "WEB",
-			"url": "https://lists.apache.org/thread.html/rc96ad63f148f784c84ea7f0a178c84a8985c6afccabbcd9847a82088@%3Ccommits.activemq.apache.org%3E"
+			"url": "https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf"
 		},
 		{
 			"type": "WEB",
@@ -144,7 +60,91 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf"
+			"url": "https://lists.apache.org/thread.html/rc96ad63f148f784c84ea7f0a178c84a8985c6afccabbcd9847a82088@%3Ccommits.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/rc96ad63f148f784c84ea7f0a178c84a8985c6afccabbcd9847a82088%40%3Ccommits.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/rb2fd3bf2dce042e0ab3f3c94c4767c96bb2e7e6737624d63162df36d@%3Ccommits.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/rb2fd3bf2dce042e0ab3f3c94c4767c96bb2e7e6737624d63162df36d%40%3Ccommits.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/d4ffbc6a43a915324a394b2913ceb7d07bc352f2d08caa19df0aff02@%3Cissues.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/d4ffbc6a43a915324a394b2913ceb7d07bc352f2d08caa19df0aff02%40%3Cissues.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/7260bd0955c12aac5bd892039d3356ba3aa0ff4caaf2aa4fd4fe84a2@%3Cissues.activemq.apache.org%3E"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/7260bd0955c12aac5bd892039d3356ba3aa0ff4caaf2aa4fd4fe84a2%40%3Cissues.activemq.apache.org%3E"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/activemq-artemis"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:1451"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:1450"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:1449"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:1448"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2018:1447"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:3458"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:3456"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:3455"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:3454"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:1837"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:1836"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:1835"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2017:1834"
 		},
 		{
 			"type": "WEB",
