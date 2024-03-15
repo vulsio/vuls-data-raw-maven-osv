@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-34fp-xvxp-rg22",
-	"modified": "2024-02-16T08:19:37.649201Z",
+	"modified": "2024-03-14T23:01:40.796384Z",
 	"published": "2022-05-17T03:46:32Z",
 	"aliases": [
 		"CVE-2012-6551"
@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.activemq:activemq-all",
-				"purl": "pkg:maven/org.apache.activemq/activemq-all"
+				"name": "org.apache.activemq:apache-activemq",
+				"purl": "pkg:maven/org.apache.activemq/apache-activemq"
 			},
 			"ranges": [
 				{
@@ -29,6 +29,48 @@
 				}
 			],
 			"versions": [
+				"4.1.1",
+				"4.1.2",
+				"5.0.0",
+				"5.1.0",
+				"5.2.0",
+				"5.3.0",
+				"5.3.1",
+				"5.3.2",
+				"5.4.0",
+				"5.4.1",
+				"5.4.2",
+				"5.4.3",
+				"5.5.0",
+				"5.5.1",
+				"5.6.0",
+				"5.7.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-34fp-xvxp-rg22/GHSA-34fp-xvxp-rg22.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.apache.activemq:activemq-web-demo",
+				"purl": "pkg:maven/org.apache.activemq/activemq-web-demo"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "5.8.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"4.1.1",
 				"4.1.2",
 				"5.0.0",
 				"5.1.0",
@@ -57,7 +99,27 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/22bc55b9487df98a3c3cb04f99f4618fcba364fe"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/437ea2f6e58d18837ae0e68dcd2fdadc1fff3723"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/ced33d2551a040813cb40bd6d36fdd322034fa73"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/activemq"
+		},
+		{
+			"type": "WEB",
 			"url": "https://issues.apache.org/jira/browse/AMQ-4124"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.apache.org/jira/browse/AMQ-5033"
 		},
 		{
 			"type": "WEB",

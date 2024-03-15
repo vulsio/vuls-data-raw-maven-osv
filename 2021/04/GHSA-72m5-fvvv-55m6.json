@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-72m5-fvvv-55m6",
-	"modified": "2024-02-17T05:29:41.446290Z",
+	"modified": "2024-03-14T22:16:19.509843Z",
 	"published": "2021-04-22T16:16:49Z",
 	"aliases": [
 		"CVE-2020-26939"
@@ -143,6 +143,136 @@
 			"versions": [
 				"1.0.0",
 				"1.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-72m5-fvvv-55m6/GHSA-72m5-fvvv-55m6.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-ext-jdk15on",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-ext-jdk15on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.61"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.46",
+				"1.47",
+				"1.48",
+				"1.49",
+				"1.50",
+				"1.51",
+				"1.52",
+				"1.53",
+				"1.54",
+				"1.55",
+				"1.56",
+				"1.57",
+				"1.58",
+				"1.59",
+				"1.60"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-72m5-fvvv-55m6/GHSA-72m5-fvvv-55m6.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-ext-jdk16",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-ext-jdk16"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.61"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.45",
+				"1.46"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-72m5-fvvv-55m6/GHSA-72m5-fvvv-55m6.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-jdk15on",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk15on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.61"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.46",
+				"1.47",
+				"1.48",
+				"1.49",
+				"1.50",
+				"1.51",
+				"1.52",
+				"1.53",
+				"1.54",
+				"1.55",
+				"1.56",
+				"1.57",
+				"1.58",
+				"1.59",
+				"1.60"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-72m5-fvvv-55m6/GHSA-72m5-fvvv-55m6.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-jdk15to18",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk15to18"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.61"
+						}
+					]
+				}
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/04/GHSA-72m5-fvvv-55m6/GHSA-72m5-fvvv-55m6.json"

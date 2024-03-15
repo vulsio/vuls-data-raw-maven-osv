@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f866-m9mv-2xr3",
-	"modified": "2023-11-08T03:57:00.437271Z",
+	"modified": "2024-03-14T21:35:28.665181Z",
 	"published": "2022-05-14T02:54:56Z",
 	"aliases": [
 		"CVE-2011-2894"
@@ -111,7 +111,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/spring-projects/spring-framework/commit/070a723ef2c886770a063eb9a67f84f74e06edfb"
+		},
+		{
+			"type": "WEB",
 			"url": "https://exchange.xforce.ibmcloud.com/vulnerabilities/69687"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/spring-projects/spring-framework"
 		},
 		{
 			"type": "WEB",

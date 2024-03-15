@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wqfh-9m4g-7x6x",
-	"modified": "2023-12-06T01:00:03.188326Z",
+	"modified": "2024-03-14T21:56:27Z",
 	"published": "2022-02-09T22:14:58Z",
 	"aliases": [
 		"BIT-activemq-2020-11998",
@@ -47,6 +47,18 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-11998"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/0d6e5f2"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/88b78d0"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/aa8900c"
 		},
 		{
 			"type": "WEB",

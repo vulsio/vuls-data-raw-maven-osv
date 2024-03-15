@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rmqp-9w4c-gc7w",
-	"modified": "2024-02-16T08:11:02.239624Z",
+	"modified": "2024-03-14T22:02:50.799816Z",
 	"published": "2023-09-05T15:30:25Z",
 	"aliases": [
 		"CVE-2023-40743"
@@ -35,6 +35,44 @@
 				}
 			],
 			"versions": [
+				"1.4"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/09/GHSA-rmqp-9w4c-gc7w/GHSA-rmqp-9w4c-gc7w.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "axis:axis",
+				"purl": "pkg:maven/axis/axis"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "1.4"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.0",
+				"1.1",
+				"1.1-beta",
+				"1.2",
+				"1.2-RC1",
+				"1.2-RC2",
+				"1.2-RC3",
+				"1.2-alpha-1",
+				"1.2-beta-2",
+				"1.2-beta-3",
+				"1.2.1",
+				"1.3",
 				"1.4"
 			],
 			"database_specific": {

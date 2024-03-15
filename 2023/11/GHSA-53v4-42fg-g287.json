@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53v4-42fg-g287",
-	"modified": "2024-02-16T15:57:44.827078Z",
+	"modified": "2024-03-14T21:50:11.309234Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"BIT-activemq-2022-41678",
@@ -148,7 +148,19 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/5c8d457d9"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/apache/activemq/commit/6120169e563b55323352431dfe9ac67a8b4de6c2"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/bf65929fd"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/d8ce1d9ff"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3832-9276-x7gf",
-	"modified": "2023-11-08T03:57:10.278632Z",
+	"modified": "2024-03-14T22:02:33.751135Z",
 	"published": "2022-05-13T01:10:34Z",
 	"aliases": [
 		"CVE-2012-5783"
@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.httpcomponents:httpclient",
-				"purl": "pkg:maven/org.apache.httpcomponents/httpclient"
+				"name": "commons-httpclient:commons-httpclient",
+				"purl": "pkg:maven/commons-httpclient/commons-httpclient"
 			},
 			"ranges": [
 				{
@@ -29,12 +29,15 @@
 				}
 			],
 			"versions": [
-				"4.0-alpha1",
-				"4.0-alpha2",
-				"4.0-alpha3",
-				"4.0-alpha4",
-				"4.0-beta1",
-				"4.0-beta2"
+				"3.0",
+				"3.0.1",
+				"3.1",
+				"3.1-alpha1",
+				"3.1-beta1",
+				"3.1-jenkins-1",
+				"3.1-jenkins-2",
+				"3.1-jenkins-3",
+				"3.1-rc1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-3832-9276-x7gf/GHSA-3832-9276-x7gf.json"

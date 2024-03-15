@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hxqq-w4mr-mc62",
-	"modified": "2024-02-20T05:33:50.972674Z",
+	"modified": "2024-03-14T21:35:12.963932Z",
 	"published": "2022-05-04T00:29:43Z",
 	"aliases": [
 		"CVE-2012-0393"
@@ -23,7 +23,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "2.2.3.1"
+							"fixed": "2.3.1.1"
 						}
 					]
 				}
@@ -44,7 +44,9 @@
 				"2.1.8.1",
 				"2.2.1",
 				"2.2.1.1",
-				"2.2.3"
+				"2.2.3",
+				"2.2.3.1",
+				"2.3.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-hxqq-w4mr-mc62/GHSA-hxqq-w4mr-mc62.json"
@@ -87,6 +89,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/apache/struts/commit/25e50069d60434a30395e3a98357ffba2bed427e"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/struts/commit/9cad25f258bb2629d263f828574d2671366c238d"
 		},
 		{
 			"type": "PACKAGE",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w525-w93j-rxgm",
-	"modified": "2023-11-08T03:58:05.747487Z",
+	"modified": "2024-03-14T22:46:39.236378Z",
 	"published": "2022-05-14T01:14:51Z",
 	"aliases": [
 		"CVE-2016-0734"
@@ -66,7 +66,19 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/028a33ea7d73fabe6161defffdbfc85578328a68"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/activemq/commit/24ad36778534c5ac888f880837075449169578ad"
+		},
+		{
+			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2016:1424"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/apache/activemq"
 		},
 		{
 			"type": "WEB",
