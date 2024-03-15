@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rf6r-2c4q-2vwg",
-	"modified": "2024-02-16T08:13:57.585501Z",
+	"modified": "2024-03-15T01:05:13.129194Z",
 	"published": "2020-05-15T18:58:54Z",
 	"aliases": [
 		"CVE-2020-10968"
@@ -71,6 +71,14 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/FasterXML/jackson-databind/issues/2662"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/FasterXML/jackson-databind/commit/05d7e0e13f43e12db6a51726df12c8b4d8040676"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/FasterXML/jackson-databind/commit/08fbfacf89a4a4c026a6227a1b470ab7a13e2e88"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cggj-fvv3-cqwv",
-	"modified": "2024-03-11T05:36:56.380387Z",
+	"modified": "2024-03-15T01:18:46.938616Z",
 	"published": "2018-10-16T17:45:18Z",
 	"aliases": [
 		"CVE-2018-7489"
@@ -242,6 +242,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/FasterXML/jackson-databind/commit/6799f8f10cc78e9af6d443ed6982d00a13f2e7d2"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/FasterXML/jackson-databind/commit/bc22f90eb7f896ace9567598a99cb1ff6e0f9d9d"
 		},
 		{
 			"type": "WEB",

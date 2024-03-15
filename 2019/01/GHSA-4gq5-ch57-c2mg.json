@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4gq5-ch57-c2mg",
-	"modified": "2024-02-17T05:35:42.348971Z",
+	"modified": "2024-03-15T05:20:21.411726Z",
 	"published": "2019-01-04T19:09:49Z",
 	"aliases": [
 		"CVE-2018-14719"
@@ -216,66 +216,6 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHBA-2019:0959"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:0782"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:0877"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:1782"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:1797"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:1822"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:1823"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:2804"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:2858"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:3002"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:3140"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:3149"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:3892"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2019:4037"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://github.com/FasterXML/jackson-databind"
-		},
-		{
-			"type": "WEB",
 			"url": "https://github.com/FasterXML/jackson/wiki/Jackson-Release-2.9.7"
 		},
 		{
@@ -333,6 +273,66 @@
 		{
 			"type": "WEB",
 			"url": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/FasterXML/jackson-databind"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:4037"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:3892"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:3149"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:3140"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:3002"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:2858"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:2804"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:1823"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:1822"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:1797"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:1782"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:0877"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2019:0782"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHBA-2019:0959"
 		}
 	],
 	"database_specific": {
