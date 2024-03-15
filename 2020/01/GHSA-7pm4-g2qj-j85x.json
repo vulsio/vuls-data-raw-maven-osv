@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7pm4-g2qj-j85x",
-	"modified": "2023-11-08T04:03:54.920823Z",
+	"modified": "2024-03-15T16:12:40.150978Z",
 	"published": "2020-01-21T20:59:33Z",
 	"aliases": [
 		"CVE-2020-5397"
@@ -79,6 +79,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/spring-projects/spring-framework/commit/bc7d01048579430b4b2df668178809b63d3f1929"
+		},
+		{
+			"type": "PACKAGE",
 			"url": "https://github.com/spring-projects/spring-framework"
 		},
 		{

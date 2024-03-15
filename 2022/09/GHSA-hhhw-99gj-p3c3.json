@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hhhw-99gj-p3c3",
-	"modified": "2023-11-08T04:10:13.280368Z",
+	"modified": "2024-03-15T12:49:06.729862Z",
 	"published": "2022-09-06T00:00:27Z",
 	"aliases": [
 		"CVE-2022-38750"
@@ -92,6 +92,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.gentoo.org/glsa/202305-28"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240315-0010"
 		}
 	],
 	"database_specific": {
