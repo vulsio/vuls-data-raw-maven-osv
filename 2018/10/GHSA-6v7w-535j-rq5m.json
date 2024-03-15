@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6v7w-535j-rq5m",
-	"modified": "2024-03-05T18:31:10.934674Z",
+	"modified": "2024-03-15T05:46:26.165089Z",
 	"published": "2018-10-17T20:29:12Z",
 	"aliases": [
 		"CVE-2015-3192"
@@ -224,27 +224,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2016:1218"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2016:1219"
-		},
-		{
-			"type": "ADVISORY",
-			"url": "https://github.com/advisories/GHSA-6v7w-535j-rq5m"
-		},
-		{
-			"type": "PACKAGE",
-			"url": "https://github.com/spring-projects/spring-framework"
-		},
-		{
-			"type": "WEB",
-			"url": "https://jira.spring.io/browse/SPR-13136"
-		},
-		{
-			"type": "WEB",
-			"url": "https://jira.spring.io/browse/SPR-13136?redirect=false"
+			"url": "https://spring.io/security/cve-2015-3192"
 		},
 		{
 			"type": "WEB",
@@ -252,7 +232,27 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://spring.io/security/cve-2015-3192"
+			"url": "https://jira.spring.io/browse/SPR-13136?redirect=false"
+		},
+		{
+			"type": "WEB",
+			"url": "https://jira.spring.io/browse/SPR-13136"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/spring-projects/spring-framework"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-6v7w-535j-rq5m"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2016:1219"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2016:1218"
 		},
 		{
 			"type": "WEB",
