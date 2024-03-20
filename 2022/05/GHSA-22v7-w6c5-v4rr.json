@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-22v7-w6c5-v4rr",
-	"modified": "2023-11-08T03:58:05.808227Z",
+	"modified": "2024-03-20T14:10:51Z",
 	"published": "2022-05-17T03:56:54Z",
 	"aliases": [
 		"CVE-2016-0735"
@@ -43,6 +43,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-0735"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/ranger/commit/18f216d0201eab93daea0b57035f7e6e3280bcfd"
 		},
 		{
 			"type": "PACKAGE",
