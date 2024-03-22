@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pfwp-8pq4-g7pv",
-	"modified": "2023-11-08T04:01:46.794715Z",
+	"modified": "2024-03-21T16:59:13.340238Z",
 	"published": "2019-03-06T17:36:08Z",
 	"aliases": [
 		"CVE-2019-9212"
@@ -99,7 +99,7 @@
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2020-06-16T21:49:03Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2019-02-27T17:29:00Z",
 		"severity": "CRITICAL"
 	}
 }
