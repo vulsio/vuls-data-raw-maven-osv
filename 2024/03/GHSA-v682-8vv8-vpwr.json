@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v682-8vv8-vpwr",
-	"modified": "2024-03-14T14:41:41.765890Z",
+	"modified": "2024-04-01T14:58:46.526054Z",
 	"published": "2024-03-13T18:31:34Z",
 	"aliases": [
+		"BIT-tomcat-2024-23672",
 		"CVE-2024-23672"
 	],
 	"summary": "Denial of Service via incomplete cleanup vulnerability in Apache Tomcat",

@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7w75-32cg-r6g2",
-	"modified": "2024-03-15T17:18:17.167948Z",
+	"modified": "2024-04-01T14:58:48.375684Z",
 	"published": "2024-03-13T18:31:34Z",
 	"aliases": [
+		"BIT-tomcat-2024-24549",
 		"CVE-2024-24549"
 	],
 	"summary": "Apache Tomcat Denial of Service due to improper input validation vulnerability for HTTP/2 requests",
