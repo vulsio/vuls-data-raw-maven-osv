@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r978-9m6m-6gm6",
-	"modified": "2024-03-15T19:58:40.195663Z",
+	"modified": "2024-04-01T07:26:46.599929Z",
 	"published": "2024-03-15T12:30:37Z",
 	"aliases": [
+		"BIT-zookeeper-2024-23944",
 		"CVE-2024-23944"
 	],
 	"summary": "Apache ZooKeeper vulnerable to information disclosure in persistent watchers handling",
