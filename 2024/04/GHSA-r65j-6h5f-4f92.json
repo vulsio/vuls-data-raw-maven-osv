@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r65j-6h5f-4f92",
-	"modified": "2024-04-01T16:31:15.875302Z",
+	"modified": "2024-04-01T23:26:49.309436Z",
 	"published": "2024-04-01T03:30:38Z",
+	"aliases": [
+		"CVE-2024-31033"
+	],
 	"summary": "JJWT improperly generates signing keys",
 	"details": "JJWT (aka Java JWT) through 0.12.5 ignores certain characters and thus a user might falsely conclude that they have a strong key. The impacted code is the setSigningKey() method within the DefaultJwtParser class and the signWith() method within the DefaultJwtBuilder class.",
 	"severity": [
@@ -15,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "io.jsonwebtoken:jjwt-root",
-				"purl": "pkg:maven/io.jsonwebtoken/jjwt-root"
+				"name": "io.jsonwebtoken:jjwt-impl",
+				"purl": "pkg:maven/io.jsonwebtoken/jjwt-impl"
 			},
 			"ranges": [
 				{
@@ -71,6 +74,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/jwtk/jjwt"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jwtk/jjwt/blob/26948610fbef81eba867cbaad54b516d1874c70a/impl/src/main/java/io/jsonwebtoken/impl/DefaultJwtParserBuilder.java#L242"
 		},
 		{
 			"type": "WEB",
