@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9ph3-v2vh-3qx7",
-	"modified": "2024-04-03T15:48:58.008737Z",
+	"modified": "2024-04-10T19:03:43.622016Z",
 	"published": "2024-04-02T09:30:42Z",
 	"aliases": [
 		"CVE-2024-1300"
@@ -11,7 +11,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:L"
 		}
 	],
 	"affected": [
@@ -110,6 +110,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2024:1662"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:1706"
 		},
 		{
 			"type": "WEB",
