@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-87vg-5pgx-pggh",
-	"modified": "2024-02-16T08:15:58.725110Z",
+	"modified": "2024-04-12T21:33:44.331736Z",
 	"published": "2022-05-13T01:07:04Z",
 	"aliases": [
 		"CVE-2018-1263"
@@ -47,6 +47,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-1263"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/spring-projects/spring-integration-extensions/commit/d10f537283d90eabd28af57ac97f860a3913bf9b"
 		},
 		{
 			"type": "PACKAGE",
