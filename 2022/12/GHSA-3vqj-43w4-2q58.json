@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3vqj-43w4-2q58",
-	"modified": "2023-11-08T04:10:53.395555Z",
+	"modified": "2024-04-15T20:32:09.965200Z",
 	"published": "2022-12-13T15:30:26Z",
 	"aliases": [
 		"CVE-2022-45688"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "5.8.10"
+							"fixed": "5.8.25"
 						}
 					]
 				}
@@ -203,7 +203,21 @@
 				"5.8.0.M4",
 				"5.8.1",
 				"5.8.10",
+				"5.8.11",
+				"5.8.12",
+				"5.8.13",
+				"5.8.14",
+				"5.8.15",
+				"5.8.16",
+				"5.8.17",
+				"5.8.18",
+				"5.8.19",
 				"5.8.2",
+				"5.8.20",
+				"5.8.21",
+				"5.8.22",
+				"5.8.23",
+				"5.8.24",
 				"5.8.3",
 				"5.8.4",
 				"5.8.4.M1",
@@ -280,7 +294,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/dromara/hutool/commit/6a2b585de0a380e8c12016dbaa1620b69be11b8c"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/stleary/JSON-java/commit/a6e412bded7a0ad605adfeca029318f184c32102"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/dromara/hutool/releases/tag/5.8.25"
 		}
 	],
 	"database_specific": {
