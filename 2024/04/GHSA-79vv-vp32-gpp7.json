@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-79vv-vp32-gpp7",
-	"modified": "2024-04-12T21:41:54.360490Z",
+	"modified": "2024-04-16T08:11:49.049689Z",
 	"published": "2024-04-12T09:33:40Z",
 	"aliases": [
+		"BIT-kafka-2024-27309",
 		"CVE-2024-27309"
 	],
 	"summary": "Apache Kafka: Potential incorrect access control during migration from ZK mode to KRaft mode",
