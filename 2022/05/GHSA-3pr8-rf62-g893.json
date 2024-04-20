@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3pr8-rf62-g893",
-	"modified": "2023-11-08T03:59:38.096304Z",
+	"modified": "2024-04-19T19:01:04.708034Z",
 	"published": "2022-05-14T01:04:36Z",
 	"aliases": [
 		"CVE-2018-1000406"
@@ -581,6 +581,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/jenkinsci/jenkins/commit/c3351d2e7c3edfee82b9470e9aa1168982296072"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/jenkinsci/jenkins"
 		},
 		{
 			"type": "WEB",
