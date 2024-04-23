@@ -1,25 +1,25 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-rvfc-g8j5-9ccf",
-	"modified": "2024-04-22T20:01:20.121719Z",
-	"published": "2022-02-09T00:59:06Z",
+	"id": "GHSA-pcv5-m2wh-66j3",
+	"modified": "2024-04-22T23:26:36.742448Z",
+	"published": "2022-05-24T17:43:50Z",
 	"aliases": [
-		"CVE-2020-1717"
+		"CVE-2020-27838"
 	],
-	"summary": "Generation of Error Message Containing Sensitive Information in Keycloak",
-	"details": "A flaw was found in Keycloak 7.0.1. A logged in user can do an account email enumeration attack.",
+	"summary": "Keycloak discloses information without authentication",
+	"details": "A flaw was found in keycloak in versions prior to 13.0.0. The client registration endpoint allows fetching information about PUBLIC clients (like client secret) without authentication which could be an issue if the same PUBLIC client changed to CONFIDENTIAL later. The highest threat from this vulnerability is to data confidentiality.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:N/A:N"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N"
 		}
 	],
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.keycloak:keycloak-parent",
-				"purl": "pkg:maven/org.keycloak/keycloak-parent"
+				"name": "org.keycloak:keycloak-core",
+				"purl": "pkg:maven/org.keycloak/keycloak-core"
 			},
 			"ranges": [
 				{
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "7.0.1"
+							"fixed": "13.0.0"
 						}
 					]
 				}
@@ -86,6 +86,18 @@
 				"1.9.5.Final",
 				"1.9.7.Final",
 				"1.9.8.Final",
+				"10.0.0",
+				"10.0.1",
+				"10.0.2",
+				"11.0.0",
+				"11.0.1",
+				"11.0.2",
+				"11.0.3",
+				"12.0.0",
+				"12.0.1",
+				"12.0.2",
+				"12.0.3",
+				"12.0.4",
 				"2.0.0.CR1",
 				"2.0.0.Final",
 				"2.1.0.CR1",
@@ -138,34 +150,44 @@
 				"6.0.0",
 				"6.0.1",
 				"7.0.0",
-				"7.0.1"
+				"7.0.1",
+				"8.0.0",
+				"8.0.1",
+				"8.0.2",
+				"9.0.0",
+				"9.0.2",
+				"9.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/02/GHSA-rvfc-g8j5-9ccf/GHSA-rvfc-g8j5-9ccf.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-pcv5-m2wh-66j3/GHSA-pcv5-m2wh-66j3.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1717"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-27838"
 		},
 		{
 			"type": "WEB",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1796281"
+			"url": "https://github.com/keycloak/keycloak/pull/7790"
 		},
 		{
 			"type": "WEB",
-			"url": "https://issues.jboss.org/browse/KEYCLOAK-12014"
+			"url": "https://github.com/keycloak/keycloak/commit/9356843c6c3d7097d010b3bb6f91e25fcaba378c"
+		},
+		{
+			"type": "WEB",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=1906797"
 		}
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-209"
+			"CWE-287"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2021-04-01T16:29:50Z",
-		"nvd_published_at": "2021-02-11T18:15:00Z",
-		"severity": "LOW"
+		"github_reviewed_at": "2024-04-22T23:11:37Z",
+		"nvd_published_at": "2021-03-08T22:15:00Z",
+		"severity": "MODERATE"
 	}
 }
