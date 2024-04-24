@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r6j3-px5g-cq3x",
-	"modified": "2024-02-16T08:22:54.509191Z",
+	"modified": "2024-04-24T15:46:02.047560Z",
 	"published": "2023-10-10T21:31:12Z",
 	"aliases": [
 		"BIT-tomcat-2023-45648",
@@ -623,6 +623,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/apache/tomcat/commit/8ecff306507be8e4fd3adee1ae5de1ea6661a8f4"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apache/tomcat/commit/c83fe47725f7ae9ae213568d9039171124fb7ec6"
 		},
 		{
 			"type": "WEB",
