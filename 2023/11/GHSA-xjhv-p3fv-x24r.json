@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xjhv-p3fv-x24r",
-	"modified": "2024-02-16T08:18:25.684969Z",
+	"modified": "2024-04-26T14:55:09.867981Z",
 	"published": "2023-11-15T12:30:30Z",
 	"aliases": [
 		"CVE-2023-34062"
@@ -122,6 +122,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-34062"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/reactor/reactor-netty/commit/b1dd46b9a424ca27f7f770be6561faa84d812e5b"
 		},
 		{
 			"type": "PACKAGE",
