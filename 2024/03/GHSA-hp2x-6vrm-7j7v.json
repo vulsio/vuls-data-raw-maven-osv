@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hp2x-6vrm-7j7v",
-	"modified": "2024-03-01T22:11:44.709982Z",
+	"modified": "2024-05-02T13:33:34.287410Z",
 	"published": "2024-03-01T18:30:23Z",
 	"aliases": [
 		"CVE-2024-27140"
@@ -65,6 +65,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/xrn6nt904ozh3jym60c3f5hj2fb75pjy"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/01/2"
 		}
 	],
 	"database_specific": {

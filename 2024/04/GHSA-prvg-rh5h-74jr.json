@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-prvg-rh5h-74jr",
-	"modified": "2024-04-10T18:58:56.114219Z",
+	"modified": "2024-05-02T15:01:02.691775Z",
 	"published": "2024-04-09T12:30:46Z",
 	"aliases": [
 		"CVE-2021-28656"
@@ -64,6 +64,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/dttzkkv4qyn1rq2fdv1r94otb1osxztc"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/04/09/3"
 		}
 	],
 	"database_specific": {

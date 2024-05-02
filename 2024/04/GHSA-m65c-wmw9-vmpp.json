@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m65c-wmw9-vmpp",
-	"modified": "2024-04-10T18:58:58.013611Z",
+	"modified": "2024-05-02T15:01:34.250111Z",
 	"published": "2024-04-09T12:30:47Z",
 	"aliases": [
 		"CVE-2024-31863"
@@ -58,6 +58,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/3od2gfpwllmtc9c5ggw04ohn8s7w3ct9"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/04/09/6"
 		}
 	],
 	"database_specific": {

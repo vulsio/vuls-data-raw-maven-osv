@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m4rm-x2rr-357w",
-	"modified": "2024-03-06T20:27:43.767051Z",
+	"modified": "2024-05-02T14:15:18.980412Z",
 	"published": "2024-03-06T18:30:38Z",
 	"aliases": [
 		"CVE-2024-28152"
@@ -123,6 +123,7 @@
 				"832.v43175a_425ea_6",
 				"843.vd09104df7988",
 				"845.v27a_d5823911b_",
+				"848.850.v6a_a_2a_234a_c81",
 				"848.v42c6a_317eda_e",
 				"856.v04c46c86f911",
 				"866.vdea_7dcd3008e"
@@ -149,6 +150,10 @@
 		{
 			"type": "WEB",
 			"url": "https://www.jenkins.io/security/advisory/2024-03-06/#SECURITY-3300"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/06/3"
 		}
 	],
 	"database_specific": {

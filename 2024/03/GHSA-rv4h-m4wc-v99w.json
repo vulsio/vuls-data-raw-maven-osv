@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rv4h-m4wc-v99w",
-	"modified": "2024-03-01T20:26:39.943885Z",
+	"modified": "2024-05-02T13:31:17.319764Z",
 	"published": "2024-03-01T18:30:23Z",
 	"aliases": [
 		"CVE-2024-27138"
@@ -83,6 +83,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/070qcpclcb3sqk1hn8j5lvzohp30k1m2"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/01/4"
 		}
 	],
 	"database_specific": {

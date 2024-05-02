@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p2gx-4434-pf6g",
-	"modified": "2024-03-07T17:32:45.576404Z",
+	"modified": "2024-05-02T15:01:50.263152Z",
 	"published": "2024-03-06T12:30:29Z",
 	"aliases": [
 		"CVE-2024-26580"
@@ -58,6 +58,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/xvomf66l58x4dmoyzojflvx52gkzcdmk"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/06/1"
 		}
 	],
 	"database_specific": {

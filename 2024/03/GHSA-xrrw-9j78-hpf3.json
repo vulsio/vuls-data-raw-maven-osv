@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xrrw-9j78-hpf3",
-	"modified": "2024-03-06T19:41:51.442579Z",
+	"modified": "2024-05-02T14:15:42.488381Z",
 	"published": "2024-03-06T18:30:38Z",
 	"aliases": [
 		"CVE-2024-28150"
@@ -94,6 +94,10 @@
 		{
 			"type": "WEB",
 			"url": "https://www.jenkins.io/security/advisory/2024-03-06/#SECURITY-3302"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/06/3"
 		}
 	],
 	"database_specific": {

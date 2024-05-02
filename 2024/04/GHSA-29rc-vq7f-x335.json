@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-29rc-vq7f-x335",
-	"modified": "2024-04-22T19:13:02.088430Z",
+	"modified": "2024-05-02T15:01:17.891153Z",
 	"published": "2024-04-22T15:30:41Z",
 	"aliases": [
 		"CVE-2024-27348"
@@ -90,6 +90,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/nx6g6htyhpgtzsocybm242781o8w5kq9"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/04/22/3"
 		}
 	],
 	"database_specific": {
