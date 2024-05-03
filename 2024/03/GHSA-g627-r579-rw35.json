@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g627-r579-rw35",
-	"modified": "2024-03-13T20:56:42.847836Z",
+	"modified": "2024-05-02T19:04:02.914028Z",
 	"published": "2024-03-12T21:30:59Z",
 	"aliases": [
 		"CVE-2024-28098"
@@ -194,6 +194,10 @@
 		{
 			"type": "WEB",
 			"url": "https://pulsar.apache.org/security/CVE-2024-28098"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/12/12"
 		}
 	],
 	"database_specific": {

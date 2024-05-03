@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8vvp-525h-cxf9",
-	"modified": "2024-03-20T15:56:57.595825Z",
+	"modified": "2024-05-02T19:04:32.070930Z",
 	"published": "2024-03-19T12:30:40Z",
 	"aliases": [
 		"CVE-2024-27439"
@@ -91,6 +91,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/o825rvjjtmz3qv21ps5k7m2w9193g1lo"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/19/2"
 		}
 	],
 	"database_specific": {

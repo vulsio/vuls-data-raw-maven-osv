@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-66j8-c83m-gj5f",
-	"modified": "2024-04-11T20:26:57.875862Z",
+	"modified": "2024-05-02T19:17:18.841461Z",
 	"published": "2024-04-09T18:30:22Z",
 	"aliases": [
 		"CVE-2024-31864"
@@ -85,6 +85,10 @@
 		{
 			"type": "WEB",
 			"url": "https://www.cve.org/CVERecord?id=CVE-2020-11974"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/04/09/8"
 		}
 	],
 	"database_specific": {

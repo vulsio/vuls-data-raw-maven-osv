@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rggv-cv7r-mw98",
-	"modified": "2024-04-10T19:03:37.943987Z",
+	"modified": "2024-05-02T18:47:02.626288Z",
 	"published": "2024-02-26T20:13:46Z",
 	"aliases": [
 		"CVE-2024-22201"
@@ -429,6 +429,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.netapp.com/advisory/ntap-20240329-0001"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/20/2"
 		}
 	],
 	"database_specific": {

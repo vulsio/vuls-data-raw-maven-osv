@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qmgx-j96g-4428",
-	"modified": "2024-03-15T19:58:40.270537Z",
+	"modified": "2024-05-02T19:04:35.998047Z",
 	"published": "2024-03-15T12:30:37Z",
 	"aliases": [
 		"CVE-2024-28752"
@@ -190,6 +190,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/apache/cxf"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/14/3"
 		}
 	],
 	"database_specific": {

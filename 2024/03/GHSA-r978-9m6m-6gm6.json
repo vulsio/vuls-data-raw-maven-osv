@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r978-9m6m-6gm6",
-	"modified": "2024-04-01T07:26:46.599929Z",
+	"modified": "2024-05-02T19:03:17.317514Z",
 	"published": "2024-03-15T12:30:37Z",
 	"aliases": [
 		"BIT-zookeeper-2024-23944",
@@ -126,6 +126,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/96s5nqssj03rznz9hv58txdb2k1lr79k"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/03/14/2"
 		}
 	],
 	"database_specific": {

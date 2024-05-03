@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mg2-6c6v-342r",
-	"modified": "2024-04-10T18:58:57.265966Z",
+	"modified": "2024-05-02T19:03:49.413269Z",
 	"published": "2024-04-02T21:30:27Z",
 	"aliases": [
 		"CVE-2024-29834"
@@ -203,6 +203,10 @@
 		{
 			"type": "WEB",
 			"url": "https://pulsar.apache.org/security/CVE-2024-29834"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/04/02/2"
 		}
 	],
 	"database_specific": {
