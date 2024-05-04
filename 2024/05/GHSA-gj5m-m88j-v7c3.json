@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gj5m-m88j-v7c3",
-	"modified": "2024-05-03T18:12:29.164401Z",
+	"modified": "2024-05-04T08:11:42.112926Z",
 	"published": "2024-05-02T09:30:48Z",
 	"aliases": [
+		"BIT-activemq-2024-32114",
 		"CVE-2024-32114"
 	],
 	"summary": "Apache ActiveMQ's default configuration doesn't secure the API web context",
