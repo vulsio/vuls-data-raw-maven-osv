@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fgh3-pwmp-3qw3",
-	"modified": "2024-05-08T20:12:35.779053Z",
+	"modified": "2024-05-09T13:42:04.007676Z",
 	"published": "2024-05-08T15:30:42Z",
 	"aliases": [
 		"CVE-2024-26579"
@@ -60,6 +60,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/apache/inlong/commit/cdf616670942fec7d09fae2452e2ea215205dd1d"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-fgh3-pwmp-3qw3"
 		},
 		{
 			"type": "PACKAGE",
