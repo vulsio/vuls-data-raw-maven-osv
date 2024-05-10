@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cw54-59pw-4g8c",
-	"modified": "2024-04-19T18:15:59.890857Z",
+	"modified": "2024-05-10T16:00:46.073967Z",
 	"published": "2022-05-13T01:14:52Z",
 	"aliases": [
 		"CVE-2016-8735"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat-catalina",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
+				"name": "org.apache.tomcat:tomcat-catalina-jmx-remote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote"
 			},
 			"ranges": [
 				{
@@ -34,6 +34,16 @@
 					]
 				}
 			],
+			"versions": [
+				"6.0.36",
+				"6.0.37",
+				"6.0.39",
+				"6.0.41",
+				"6.0.43",
+				"6.0.44",
+				"6.0.45",
+				"6.0.47"
+			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-cw54-59pw-4g8c/GHSA-cw54-59pw-4g8c.json"
 			}
@@ -41,8 +51,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat-catalina",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
+				"name": "org.apache.tomcat:tomcat-catalina-jmx-remote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote"
 			},
 			"ranges": [
 				{
@@ -115,8 +125,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat-catalina",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
+				"name": "org.apache.tomcat:tomcat-catalina-jmx-remote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote"
 			},
 			"ranges": [
 				{
@@ -167,8 +177,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat-catalina",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
+				"name": "org.apache.tomcat:tomcat-catalina-jmx-remote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote"
 			},
 			"ranges": [
 				{
@@ -198,8 +208,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat-catalina",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
+				"name": "org.apache.tomcat:tomcat-catalina-jmx-remote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina-jmx-remote"
 			},
 			"ranges": [
 				{
@@ -231,8 +241,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat.embed:tomcat-embed-core",
-				"purl": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core"
+				"name": "org.apache.tomcat:tomcat-catalina",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
 			},
 			"ranges": [
 				{
@@ -254,8 +264,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat.embed:tomcat-embed-core",
-				"purl": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core"
+				"name": "org.apache.tomcat:tomcat-catalina",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
 			},
 			"ranges": [
 				{
@@ -328,8 +338,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat.embed:tomcat-embed-core",
-				"purl": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core"
+				"name": "org.apache.tomcat:tomcat-catalina",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
 			},
 			"ranges": [
 				{
@@ -380,8 +390,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat.embed:tomcat-embed-core",
-				"purl": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core"
+				"name": "org.apache.tomcat:tomcat-catalina",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
 			},
 			"ranges": [
 				{
@@ -411,8 +421,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat.embed:tomcat-embed-core",
-				"purl": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core"
+				"name": "org.apache.tomcat:tomcat-catalina",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-catalina"
 			},
 			"ranges": [
 				{
