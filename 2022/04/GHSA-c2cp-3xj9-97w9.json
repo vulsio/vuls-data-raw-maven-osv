@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c2cp-3xj9-97w9",
-	"modified": "2024-03-14T22:32:24.485011Z",
+	"modified": "2024-05-14T16:15:45.601106Z",
 	"published": "2022-04-22T00:00:33Z",
 	"aliases": [
 		"CVE-2022-22969"
@@ -26,7 +26,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "2.5.0"
+							"introduced": "2.5.0.RELEASE"
 						},
 						{
 							"fixed": "2.5.2.RELEASE"
@@ -37,6 +37,33 @@
 			"versions": [
 				"2.5.0.RELEASE",
 				"2.5.1.RELEASE"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/04/GHSA-c2cp-3xj9-97w9/GHSA-c2cp-3xj9-97w9.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.springframework.security.oauth:spring-security-oauth2",
+				"purl": "pkg:maven/org.springframework.security.oauth/spring-security-oauth2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.4.0.RELEASE"
+						},
+						{
+							"fixed": "2.4.2.RELEASE"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.4.0.RELEASE",
+				"2.4.1.RELEASE"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/04/GHSA-c2cp-3xj9-97w9/GHSA-c2cp-3xj9-97w9.json"
