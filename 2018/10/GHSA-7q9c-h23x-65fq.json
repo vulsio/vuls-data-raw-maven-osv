@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7q9c-h23x-65fq",
-	"modified": "2023-11-08T03:58:30.045121Z",
+	"modified": "2024-05-14T17:56:36.262254Z",
 	"published": "2018-10-18T18:06:22Z",
 	"aliases": [
 		"CVE-2016-4977"
@@ -26,7 +26,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "2.0.0"
 						},
 						{
 							"fixed": "2.0.10"
@@ -35,12 +35,6 @@
 				}
 			],
 			"versions": [
-				"1.0.0.RELEASE",
-				"1.0.1.RELEASE",
-				"1.0.2.RELEASE",
-				"1.0.3.RELEASE",
-				"1.0.4.RELEASE",
-				"1.0.5.RELEASE",
 				"2.0.0.RELEASE",
 				"2.0.1.RELEASE",
 				"2.0.2.RELEASE",
@@ -51,6 +45,36 @@
 				"2.0.7.RELEASE",
 				"2.0.8.RELEASE",
 				"2.0.9.RELEASE"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/10/GHSA-7q9c-h23x-65fq/GHSA-7q9c-h23x-65fq.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.springframework.security.oauth:spring-security-oauth2",
+				"purl": "pkg:maven/org.springframework.security.oauth/spring-security-oauth2"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "1.0.0"
+						},
+						{
+							"fixed": "1.0.5"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.0.0.RELEASE",
+				"1.0.1.RELEASE",
+				"1.0.2.RELEASE",
+				"1.0.3.RELEASE",
+				"1.0.4.RELEASE"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2018/10/GHSA-7q9c-h23x-65fq/GHSA-7q9c-h23x-65fq.json"

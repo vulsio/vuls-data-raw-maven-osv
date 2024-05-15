@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53ph-2r2x-vqw8",
-	"modified": "2024-03-12T16:31:05.148981Z",
+	"modified": "2024-05-14T18:12:23.228850Z",
 	"published": "2024-01-24T18:31:02Z",
 	"aliases": [
 		"BIT-jenkins-2024-23898",
@@ -336,6 +336,8 @@
 				"2.439",
 				"2.440",
 				"2.440.1",
+				"2.440.2",
+				"2.440.3",
 				"2.441"
 			],
 			"database_specific": {
@@ -373,6 +375,10 @@
 		{
 			"type": "WEB",
 			"url": "https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3315"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.sonarsource.com/blog/excessive-expansion-uncovering-critical-security-vulnerabilities-in-jenkins"
 		},
 		{
 			"type": "WEB",
