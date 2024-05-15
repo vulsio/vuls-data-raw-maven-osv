@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v35c-49j6-q8hq",
-	"modified": "2023-11-08T03:58:39.333394Z",
+	"modified": "2024-05-15T06:49:16.638992Z",
 	"published": "2020-09-15T20:30:34Z",
 	"aliases": [
 		"CVE-2016-9879"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "3.2.10"
+							"fixed": "3.2.10.RELEASE"
 						}
 					]
 				}
@@ -87,10 +87,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "4.0.0"
+							"introduced": "4.0.0.RELEASE"
 						},
 						{
-							"fixed": "4.1.4"
+							"fixed": "4.1.4.RELEASE"
 						}
 					]
 				}
@@ -121,10 +121,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "4.2.0"
+							"introduced": "4.2.0.RELEASE"
 						},
 						{
-							"fixed": "4.2.1"
+							"fixed": "4.2.1.RELEASE"
 						}
 					]
 				}

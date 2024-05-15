@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m8p2-495h-ccmh",
-	"modified": "2024-03-14T05:19:19.437601Z",
+	"modified": "2024-05-15T05:45:40.037948Z",
 	"published": "2020-01-08T17:01:52Z",
 	"aliases": [
 		"CVE-2019-10219"
@@ -26,40 +26,20 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "6.1.0.Alpha1"
 						},
 						{
-							"fixed": "6.0.18"
+							"fixed": "6.1.0.Alpha6"
 						}
 					]
 				}
 			],
 			"versions": [
-				"6.0.0.Alpha1",
-				"6.0.0.Alpha2",
-				"6.0.0.Beta1",
-				"6.0.0.Beta2",
-				"6.0.0.CR1",
-				"6.0.0.CR2",
-				"6.0.0.CR3",
-				"6.0.0.Final",
-				"6.0.1.Final",
-				"6.0.10.Final",
-				"6.0.11.Final",
-				"6.0.12.Final",
-				"6.0.13.Final",
-				"6.0.14.Final",
-				"6.0.15.Final",
-				"6.0.16.Final",
-				"6.0.17.Final",
-				"6.0.2.Final",
-				"6.0.3.Final",
-				"6.0.4.Final",
-				"6.0.5.Final",
-				"6.0.6.Final",
-				"6.0.7.Final",
-				"6.0.8.Final",
-				"6.0.9.Final"
+				"6.1.0.Alpha1",
+				"6.1.0.Alpha2",
+				"6.1.0.Alpha3",
+				"6.1.0.Alpha4",
+				"6.1.0.Alpha5"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/01/GHSA-m8p2-495h-ccmh/GHSA-m8p2-495h-ccmh.json"

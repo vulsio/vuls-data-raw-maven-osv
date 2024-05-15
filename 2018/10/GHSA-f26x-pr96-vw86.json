@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f26x-pr96-vw86",
-	"modified": "2024-03-05T18:01:46.439553Z",
+	"modified": "2024-05-15T06:31:22.122564Z",
 	"published": "2018-10-16T17:43:45Z",
 	"aliases": [
 		"CVE-2018-11040"
@@ -26,10 +26,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "5.0.0"
+							"introduced": "5.0.0.RELEASE"
 						},
 						{
-							"fixed": "5.0.7"
+							"fixed": "5.0.7.RELEASE"
 						}
 					]
 				}
@@ -58,10 +58,10 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "4.3.0"
+							"introduced": "4.3.0.RELEASE"
 						},
 						{
-							"fixed": "4.3.18"
+							"fixed": "4.3.18.RELEASE"
 						}
 					]
 				}

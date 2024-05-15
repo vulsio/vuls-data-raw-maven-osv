@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5p52-j8pw-j7x5",
-	"modified": "2023-11-08T04:00:10.597775Z",
+	"modified": "2024-05-15T07:01:49.181734Z",
 	"published": "2018-12-19T19:24:52Z",
 	"aliases": [
 		"CVE-2018-20000"
@@ -26,7 +26,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "4.0.1"
 						},
 						{
 							"fixed": "4.0.3"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mqvp-7rrg-9jxc",
-	"modified": "2024-02-16T08:21:18.637927Z",
+	"modified": "2024-05-15T07:02:06.818374Z",
 	"published": "2022-03-05T00:00:44Z",
 	"aliases": [
 		"CVE-2022-26336"
@@ -26,7 +26,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "3.8-beta1"
 						},
 						{
 							"fixed": "5.2.1"
@@ -35,13 +35,6 @@
 				}
 			],
 			"versions": [
-				"3.0.1-FINAL",
-				"3.0.2-FINAL",
-				"3.0.2-beta1",
-				"3.0.2-beta2",
-				"3.1-FINAL",
-				"3.1-beta1",
-				"3.1-beta2",
 				"3.10-FINAL",
 				"3.10-beta1",
 				"3.10-beta2",
@@ -64,18 +57,6 @@
 				"3.16-beta2",
 				"3.17",
 				"3.17-beta1",
-				"3.2-FINAL",
-				"3.5-FINAL",
-				"3.5-beta1",
-				"3.5-beta3",
-				"3.5-beta4",
-				"3.5-beta5",
-				"3.5-beta6",
-				"3.6",
-				"3.7",
-				"3.7-beta1",
-				"3.7-beta2",
-				"3.7-beta3",
 				"3.8",
 				"3.8-beta1",
 				"3.8-beta2",
