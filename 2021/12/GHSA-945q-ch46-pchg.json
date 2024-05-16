@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-945q-ch46-pchg",
-	"modified": "2023-11-08T04:04:53.644592Z",
+	"modified": "2024-05-15T23:15:43.565681Z",
 	"published": "2021-12-01T00:00:40Z",
 	"aliases": [
 		"CVE-2021-22095"
@@ -29,7 +29,7 @@
 							"introduced": "2.2.0"
 						},
 						{
-							"fixed": "2.2.19"
+							"fixed": "2.2.20"
 						}
 					]
 				}
@@ -46,6 +46,7 @@
 				"2.2.16.RELEASE",
 				"2.2.17.RELEASE",
 				"2.2.18.RELEASE",
+				"2.2.19.RELEASE",
 				"2.2.2.RELEASE",
 				"2.2.3.RELEASE",
 				"2.2.4.RELEASE",
@@ -56,7 +57,7 @@
 				"2.2.9.RELEASE"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 2.2.18",
+				"last_known_affected_version_range": "<= 2.2.19",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/12/GHSA-945q-ch46-pchg/GHSA-945q-ch46-pchg.json"
 			}
 		},
@@ -102,6 +103,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2021-22095"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/spring-projects/spring-amqp/commit/bde294d62a8b7f3f1d5a9f50f862c6f0782efb9d"
 		},
 		{
 			"type": "WEB",
