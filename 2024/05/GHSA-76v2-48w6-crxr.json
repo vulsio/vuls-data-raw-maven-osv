@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-76v2-48w6-crxr",
-	"modified": "2024-05-15T20:00:48.577826Z",
+	"modified": "2024-05-19T02:24:44.993384Z",
 	"published": "2024-05-15T18:30:35Z",
+	"aliases": [
+		"CVE-2024-28087"
+	],
 	"summary": "Bonitasoft Runtime Community edition's contains an insecure direct object references vulnerability",
 	"details": "In Bonitasoft runtime Community edition, the lack of dynamic permissions causes IDOR vulnerability. Dynamic permissions existed only in Subscription edition and have now been restored in Community edition, where they are not custmizable.",
 	"severity": [

@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g95v-3pj6-j433",
-	"modified": "2024-05-14T21:46:58.391085Z",
+	"modified": "2024-05-19T02:24:46.528134Z",
 	"published": "2024-05-14T18:30:52Z",
+	"aliases": [
+		"CVE-2024-3462"
+	],
 	"summary": "Ant Media Server does not properly authorize non-administrative API calls",
 	"details": "Ant Media Server Community Edition in a default configuration is vulnerable to an improper HTTP header based authorization, leading to a possible use of non-administrative API calls reserved only for authorized users. \nAll versions up to 2.9.0 (tested) and possibly newer ones are believed to be vulnerable as the vendor has not confirmed releasing a patch.",
 	"severity": [

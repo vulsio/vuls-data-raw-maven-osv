@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-338x-hfx8-vx9x",
-	"modified": "2024-05-14T21:45:48.097365Z",
+	"modified": "2024-05-19T02:24:46.468144Z",
 	"published": "2024-05-14T18:30:50Z",
+	"aliases": [
+		"CVE-2024-34365"
+	],
 	"summary": "Apache Karaf Cave: Cave SSRF and arbitrary file access ",
 	"details": "This issue affects all versions of Apache Karaf Cave.\n\nAs this project is retired, there are no plans to release a version that fixes this issue. Users are recommended to find an alternative or restrict access to the instance to trusted users. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.\n\n",
 	"affected": [

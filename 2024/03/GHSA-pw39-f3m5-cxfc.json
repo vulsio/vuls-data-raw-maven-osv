@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pw39-f3m5-cxfc",
-	"modified": "2024-03-29T16:11:44.696710Z",
+	"modified": "2024-05-19T02:24:02.618925Z",
 	"published": "2024-03-29T12:30:42Z",
 	"aliases": [
+		"BIT-elasticsearch-2024-23449",
 		"CVE-2024-23449"
 	],
 	"summary": "Elasticsearch Uncaught Exception leading to crash",
