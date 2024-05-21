@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rc6h-qwj9-2c53",
-	"modified": "2024-02-23T21:49:01.410756Z",
+	"modified": "2024-05-20T21:01:01.216680Z",
 	"published": "2024-02-23T18:30:59Z",
 	"aliases": [
 		"CVE-2024-23320"
@@ -12,8 +12,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.dolphinscheduler:dolphinscheduler",
-				"purl": "pkg:maven/org.apache.dolphinscheduler/dolphinscheduler"
+				"name": "org.apache.dolphinscheduler:dolphinscheduler-master",
+				"purl": "pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-master"
 			},
 			"ranges": [
 				{
@@ -29,29 +29,6 @@
 				}
 			],
 			"versions": [
-				"1.2.0",
-				"1.2.1",
-				"1.3.0",
-				"1.3.1",
-				"1.3.2",
-				"1.3.3",
-				"1.3.4",
-				"1.3.5",
-				"1.3.6",
-				"1.3.7",
-				"1.3.8",
-				"1.3.9",
-				"2.0.0",
-				"2.0.0-alpha",
-				"2.0.1",
-				"2.0.2",
-				"2.0.3",
-				"2.0.4",
-				"2.0.5",
-				"2.0.6",
-				"2.0.7",
-				"2.0.8",
-				"2.0.9",
 				"3.0.0",
 				"3.0.0-alpha",
 				"3.0.0-beta-1",
