@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wjxj-5m7g-mg7q",
-	"modified": "2024-03-22T16:16:05.801942Z",
+	"modified": "2024-05-23T21:16:05.532450Z",
 	"published": "2023-11-23T18:30:33Z",
 	"aliases": [
 		"CVE-2023-33202"
@@ -15,112 +15,6 @@
 		}
 	],
 	"affected": [
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.bouncycastle:bcprov-jdk18on",
-				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk18on"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "1.73"
-						}
-					]
-				}
-			],
-			"versions": [
-				"1.71",
-				"1.71.1",
-				"1.72"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.bouncycastle:bcpkix-jdk18on",
-				"purl": "pkg:maven/org.bouncycastle/bcpkix-jdk18on"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "1.73"
-						}
-					]
-				}
-			],
-			"versions": [
-				"1.71",
-				"1.71.1",
-				"1.72"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.bouncycastle:bcprov-ext-jdk15on",
-				"purl": "pkg:maven/org.bouncycastle/bcprov-ext-jdk15on"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "1.73"
-						}
-					]
-				}
-			],
-			"versions": [
-				"1.46",
-				"1.47",
-				"1.48",
-				"1.49",
-				"1.50",
-				"1.51",
-				"1.52",
-				"1.53",
-				"1.54",
-				"1.55",
-				"1.56",
-				"1.57",
-				"1.58",
-				"1.59",
-				"1.60",
-				"1.61",
-				"1.62",
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.66",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
-			}
-		},
 		{
 			"package": {
 				"ecosystem": "Maven",
@@ -237,57 +131,6 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.bouncycastle:bcprov-jdk15on",
-				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk15on"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"last_affected": "1.70"
-						}
-					]
-				}
-			],
-			"versions": [
-				"1.46",
-				"1.47",
-				"1.48",
-				"1.49",
-				"1.50",
-				"1.51",
-				"1.52",
-				"1.53",
-				"1.54",
-				"1.55",
-				"1.56",
-				"1.57",
-				"1.58",
-				"1.59",
-				"1.60",
-				"1.61",
-				"1.62",
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.65.01",
-				"1.66",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
 				"name": "org.bouncycastle:bcprov-jdk15to18",
 				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk15to18"
 			},
@@ -350,6 +193,161 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-jdk15on",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk15on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.46",
+				"1.47",
+				"1.48",
+				"1.49",
+				"1.50",
+				"1.51",
+				"1.52",
+				"1.53",
+				"1.54",
+				"1.55",
+				"1.56",
+				"1.57",
+				"1.58",
+				"1.59",
+				"1.60",
+				"1.61",
+				"1.62",
+				"1.63",
+				"1.64",
+				"1.65",
+				"1.65.01",
+				"1.66",
+				"1.67",
+				"1.68",
+				"1.69",
+				"1.70"
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "< 1.70",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcpkix-jdk18on",
+				"purl": "pkg:maven/org.bouncycastle/bcpkix-jdk18on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.73"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.71",
+				"1.71.1",
+				"1.72"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-ext-jdk15on",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-ext-jdk15on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.73"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.46",
+				"1.47",
+				"1.48",
+				"1.49",
+				"1.50",
+				"1.51",
+				"1.52",
+				"1.53",
+				"1.54",
+				"1.55",
+				"1.56",
+				"1.57",
+				"1.58",
+				"1.59",
+				"1.60",
+				"1.61",
+				"1.62",
+				"1.63",
+				"1.64",
+				"1.65",
+				"1.66",
+				"1.67",
+				"1.68",
+				"1.69",
+				"1.70"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.bouncycastle:bcprov-jdk18on",
+				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk18on"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.73"
+						}
+					]
+				}
+			],
+			"versions": [
+				"1.71",
+				"1.71.1",
+				"1.72"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-wjxj-5m7g-mg7q/GHSA-wjxj-5m7g-mg7q.json"
+			}
 		}
 	],
 	"references": [
@@ -359,7 +357,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://bouncycastle.org"
+			"url": "https://github.com/bcgit/bc-java/commit/0c576892862ed41894f49a8f639112e8d66d229c"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/bcgit/bc-java"
 		},
 		{
 			"type": "WEB",
