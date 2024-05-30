@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g6h2-4x64-c59x",
-	"modified": "2023-11-08T04:00:46.836534Z",
+	"modified": "2024-05-30T14:50:27.747968Z",
 	"published": "2022-05-24T16:47:43Z",
 	"aliases": [
 		"CVE-2019-10337"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.jenkins-ci.plugins:oken-macro",
-				"purl": "pkg:maven/org.jenkins-ci.plugins/oken-macro"
+				"name": "org.jenkins-ci.plugins:token-macro",
+				"purl": "pkg:maven/org.jenkins-ci.plugins/token-macro"
 			},
 			"ranges": [
 				{
@@ -33,6 +33,34 @@
 						}
 					]
 				}
+			],
+			"versions": [
+				"1.0",
+				"1.1",
+				"1.10",
+				"1.11",
+				"1.12",
+				"1.12.1",
+				"1.13-alpha",
+				"1.2",
+				"1.3",
+				"1.4",
+				"1.5",
+				"1.5.1",
+				"1.6",
+				"1.7",
+				"1.8",
+				"1.8.1",
+				"1.9",
+				"2.0",
+				"2.0-beta",
+				"2.1",
+				"2.2",
+				"2.3",
+				"2.4",
+				"2.5",
+				"2.6",
+				"2.7"
 			],
 			"database_specific": {
 				"last_known_affected_version_range": "<= 2.7",
@@ -56,6 +84,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2019:1851"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/jenkinsci/token-macro-plugin"
 		},
 		{
 			"type": "WEB",
