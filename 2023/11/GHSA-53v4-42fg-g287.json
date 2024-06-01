@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-53v4-42fg-g287",
-	"modified": "2024-03-14T21:50:11.309234Z",
+	"modified": "2024-05-31T21:08:16.273933Z",
 	"published": "2023-11-28T18:30:23Z",
 	"aliases": [
 		"BIT-activemq-2022-41678",
@@ -180,11 +180,16 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://www.openwall.com/lists/oss-security/2023/11/28/1"
+		},
+		{
+			"type": "WEB",
 			"url": "http://www.openwall.com/lists/oss-security/2023/11/28/1"
 		}
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-287",
 			"CWE-502"
 		],
 		"github_reviewed": true,
