@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v4mm-q8fv-r2w5",
-	"modified": "2024-06-04T00:59:22.322093Z",
+	"modified": "2024-06-04T18:49:58.933732Z",
 	"published": "2024-04-09T09:31:10Z",
 	"aliases": [
 		"CVE-2024-1233"
@@ -171,6 +171,14 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/wildfly/wildfly/pull/17812/commits/0c02350bc0d84287bed46e7c32f90b36e50d3523"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/wildfly/wildfly/commit/aa151a00d75d6dbc4a1bf1b68d58b9de3087bb62"
+		},
+		{
+			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2024:3559"
 		},
 		{
@@ -187,6 +195,18 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:3580"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:3581"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:3583"
+		},
+		{
+			"type": "WEB",
 			"url": "https://access.redhat.com/security/cve/CVE-2024-1233"
 		},
 		{
@@ -194,8 +214,16 @@
 			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2262849"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-v4mm-q8fv-r2w5"
+		},
+		{
 			"type": "PACKAGE",
 			"url": "https://github.com/wildfly-security/wildfly-elytron"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.redhat.com/browse/WFLY-19226"
 		}
 	],
 	"database_specific": {

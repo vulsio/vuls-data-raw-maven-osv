@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9wmf-xf3h-r8pr",
-	"modified": "2024-04-25T20:13:44.840633Z",
+	"modified": "2024-06-04T18:49:59.468949Z",
 	"published": "2024-04-25T18:30:39Z",
 	"aliases": [
 		"CVE-2024-1102"
@@ -133,6 +133,18 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/jberet/jsr352/commit/eeef999663d7da0e372aeeeac26ecf7201a3121d"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:3580"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:3581"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:3583"
 		},
 		{
 			"type": "WEB",
