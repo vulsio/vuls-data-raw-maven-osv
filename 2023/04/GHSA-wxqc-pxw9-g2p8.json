@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wxqc-pxw9-g2p8",
-	"modified": "2024-03-14T20:05:28.471808Z",
+	"modified": "2024-06-10T19:04:24.157978Z",
 	"published": "2023-04-13T21:30:27Z",
 	"aliases": [
 		"CVE-2023-20863"
@@ -305,6 +305,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/spring-projects/spring-framework"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240524-0015"
 		},
 		{
 			"type": "WEB",

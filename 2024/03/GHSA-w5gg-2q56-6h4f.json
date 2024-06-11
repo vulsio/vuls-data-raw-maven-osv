@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w5gg-2q56-6h4f",
-	"modified": "2024-05-19T02:24:02.822724Z",
+	"modified": "2024-06-10T18:53:34.943896Z",
 	"published": "2024-03-27T18:32:38Z",
 	"aliases": [
 		"BIT-elasticsearch-2024-23450",
@@ -193,6 +193,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/elastic/elasticsearch"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240517-0010"
 		},
 		{
 			"type": "WEB",
