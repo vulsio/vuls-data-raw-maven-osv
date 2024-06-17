@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4q22-422g-m4pj",
-	"modified": "2024-06-13T22:27:20.628139Z",
+	"modified": "2024-06-17T12:27:13.291631Z",
 	"published": "2024-06-13T18:31:58Z",
 	"aliases": [
+		"BIT-elasticsearch-2024-37280",
 		"CVE-2024-37280"
 	],
 	"summary": "Elasticsearch StackOverflow vulnerability",
