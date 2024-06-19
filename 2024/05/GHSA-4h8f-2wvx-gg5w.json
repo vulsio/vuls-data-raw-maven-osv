@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4h8f-2wvx-gg5w",
-	"modified": "2024-06-14T15:49:17.048794Z",
+	"modified": "2024-06-19T07:44:21.189481Z",
 	"published": "2024-05-03T18:30:37Z",
 	"aliases": [
+		"CGA-wvcg-3cjq-8wjm",
 		"CVE-2024-34447"
 	],
 	"summary": "Bouncy Castle Java Cryptography API vulnerable to DNS poisoning",

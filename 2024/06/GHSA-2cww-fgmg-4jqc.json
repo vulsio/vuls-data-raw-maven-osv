@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2cww-fgmg-4jqc",
-	"modified": "2024-06-11T20:42:36.166434Z",
+	"modified": "2024-06-19T07:44:27.750470Z",
 	"published": "2024-06-11T20:22:40Z",
 	"aliases": [
+		"CGA-4qmx-6685-qc88",
 		"CVE-2024-3656"
 	],
 	"summary": "Keycloak's admin API allows low privilege users to use administrative functions",

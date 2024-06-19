@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5jpm-x58v-624v",
-	"modified": "2024-03-25T22:47:12.033915Z",
+	"modified": "2024-06-19T07:44:20.364800Z",
 	"published": "2024-03-25T19:40:50Z",
 	"aliases": [
+		"CGA-mgv4-g226-vxr2",
 		"CVE-2024-29025"
 	],
 	"summary": "Netty's HttpPostRequestDecoder can OOM",

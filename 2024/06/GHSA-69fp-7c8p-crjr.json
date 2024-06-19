@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-69fp-7c8p-crjr",
-	"modified": "2024-06-10T19:01:37.022543Z",
+	"modified": "2024-06-19T07:44:37.772890Z",
 	"published": "2024-06-10T18:36:56Z",
+	"aliases": [
+		"CGA-mpfw-r73p-h6vx"
+	],
 	"summary": "Keycloak exposes sensitive information in Pushed Authorization Requests (PAR)",
 	"details": "A flaw was found in Keycloak in the OAuth 2.0 Pushed Authorization Requests (PAR). Client provided parameters were found to be included in plain text in the KC_RESTART cookie returned by the authorization server's HTTP response to a request_uri authorization request. This could lead to an information disclosure vulnerability.",
 	"severity": [
