@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4265-ccf5-phj5",
-	"modified": "2024-03-07T18:46:18.457570Z",
+	"modified": "2024-06-19T13:14:35.235591Z",
 	"published": "2024-02-19T09:30:52Z",
 	"aliases": [
+		"CGA-96mq-j5w6-4gc5",
 		"CVE-2024-26308"
 	],
 	"summary": "Apache Commons Compress: OutOfMemoryError unpacking broken Pack200 file",

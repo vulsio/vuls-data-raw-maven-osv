@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gmrm-8fx4-66x7",
-	"modified": "2024-06-18T16:59:31.764964Z",
+	"modified": "2024-06-19T13:14:33.292727Z",
 	"published": "2024-06-18T12:30:42Z",
 	"aliases": [
+		"CGA-25xr-q758-v6q8",
+		"CGA-xh72-4x6m-jpfw",
 		"CVE-2024-5967"
 	],
 	"summary": "Keycloak: Leak of configured LDAP bind credentials",

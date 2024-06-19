@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7g45-4rm6-3mm3",
-	"modified": "2024-02-16T08:14:13.737222Z",
+	"modified": "2024-06-19T13:14:37.524118Z",
 	"published": "2023-06-14T18:30:38Z",
 	"aliases": [
+		"CGA-5wxh-2846-4r2x",
 		"CVE-2023-2976"
 	],
 	"summary": "Guava vulnerable to insecure use of temporary directory",

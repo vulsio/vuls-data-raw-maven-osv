@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4g9r-vxhx-9pgx",
-	"modified": "2024-03-07T18:46:51.327575Z",
+	"modified": "2024-06-19T13:14:34.812344Z",
 	"published": "2024-02-19T09:30:50Z",
 	"aliases": [
+		"CGA-2xg7-8qm4-vx87",
 		"CVE-2024-25710"
 	],
 	"summary": "Apache Commons Compress: Denial of service caused by an infinite loop for a corrupted DUMP file",
