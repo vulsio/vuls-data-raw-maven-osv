@@ -1,16 +1,16 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-gmrm-8fx4-66x7",
+	"id": "GHSA-c25h-c27q-5qpv",
 	"modified": "2024-06-21T16:12:20.991780Z",
-	"published": "2024-06-18T12:30:42Z",
+	"published": "2024-06-21T15:52:38Z",
 	"aliases": [
 		"CGA-25xr-q758-v6q8",
 		"CGA-xh72-4x6m-jpfw",
 		"CVE-2024-5967",
-		"GHSA-c25h-c27q-5qpv"
+		"GHSA-gmrm-8fx4-66x7"
 	],
-	"summary": "Duplicate Advisory: Keycloak: Leak of configured LDAP bind credentials",
-	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-c25h-c27q-5qpv. This link is maintained to preserve external references.\n\n## Original Description\n\nA vulnerability was found in Keycloak. The LDAP testing endpoint allows changing the Connection URL  independently without re-entering the currently configured LDAP bind credentials. This flaw allows an attacker with admin access (permission manage-realm) to change the LDAP host URL (\"Connection URL\") to a machine they control. The Keycloak server will connect to the attacker's host and try to authenticate with the configured credentials, thus leaking them to the attacker. As a consequence, an attacker who has compromised the admin console or compromised a user with sufficient privileges can leak domain credentials and attack the domain.",
+	"summary": "Keycloak leaks configured LDAP bind credentials through the Keycloak admin console",
+	"details": "### Impact\n\nThe LDAP testing endpoint allows to change the Connection URL independently of and without having to re-enter the currently configured LDAP bind credentials. An attacker with admin access (permission manage-realm) can change the LDAP host URL (\"Connection URL\") to a machine they control. The Keycloak server will connect to the attacker's host and try to authenticate with the configured credentials, thus leaking them to the attacker.\nAs a consequence, an attacker who has compromised the admin console/compromised a user with sufficient privileges can leak domain credentials and can now attack the domain.\n\n### Acknowledgements\n\nSpecial thanks to Simon Wessling for reporting this issue and helping us improve our project",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -21,8 +21,34 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.keycloak:keycloak-core",
-				"purl": "pkg:maven/org.keycloak/keycloak-core"
+				"name": "org.keycloak:keycloak-ldap-federation",
+				"purl": "pkg:maven/org.keycloak/keycloak-ldap-federation"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "25.0.0"
+						},
+						{
+							"fixed": "25.0.1"
+						}
+					]
+				}
+			],
+			"versions": [
+				"25.0.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-c25h-c27q-5qpv/GHSA-c25h-c27q-5qpv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.keycloak:keycloak-ldap-federation",
+				"purl": "pkg:maven/org.keycloak/keycloak-ldap-federation"
 			},
 			"ranges": [
 				{
@@ -32,22 +58,12 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "24.0.5"
+							"fixed": "22.0.12"
 						}
 					]
 				}
 			],
 			"versions": [
-				"1.0-alpha-1",
-				"1.0-alpha-1-12062013",
-				"1.0-alpha-2",
-				"1.0-alpha-3",
-				"1.0-alpha-4",
-				"1.0-beta-1",
-				"1.0-beta-1-20150521",
-				"1.0-beta-1-20150523",
-				"1.0-beta-2",
-				"1.0-beta-3",
 				"1.0-beta-4",
 				"1.0-final",
 				"1.0-rc-1",
@@ -155,20 +171,6 @@
 				"22.0.3",
 				"22.0.4",
 				"22.0.5",
-				"23.0.0",
-				"23.0.1",
-				"23.0.2",
-				"23.0.3",
-				"23.0.4",
-				"23.0.5",
-				"23.0.6",
-				"23.0.7",
-				"24.0.0",
-				"24.0.1",
-				"24.0.2",
-				"24.0.3",
-				"24.0.4",
-				"24.0.5",
 				"3.0.0.CR1",
 				"3.0.0.Final",
 				"3.1.0.CR1",
@@ -214,11 +216,56 @@
 				"9.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-gmrm-8fx4-66x7/GHSA-gmrm-8fx4-66x7.json"
+				"last_known_affected_version_range": "<= 22.0.11",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-c25h-c27q-5qpv/GHSA-c25h-c27q-5qpv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.keycloak:keycloak-ldap-federation",
+				"purl": "pkg:maven/org.keycloak/keycloak-ldap-federation"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "23.0.0"
+						},
+						{
+							"fixed": "24.0.6"
+						}
+					]
+				}
+			],
+			"versions": [
+				"23.0.0",
+				"23.0.1",
+				"23.0.2",
+				"23.0.3",
+				"23.0.4",
+				"23.0.5",
+				"23.0.6",
+				"23.0.7",
+				"24.0.0",
+				"24.0.1",
+				"24.0.2",
+				"24.0.3",
+				"24.0.4",
+				"24.0.5"
+			],
+			"database_specific": {
+				"last_known_affected_version_range": "<= 24.0.5",
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-c25h-c27q-5qpv/GHSA-c25h-c27q-5qpv.json"
 			}
 		}
 	],
 	"references": [
+		{
+			"type": "WEB",
+			"url": "https://github.com/keycloak/keycloak/security/advisories/GHSA-c25h-c27q-5qpv"
+		},
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-5967"
@@ -241,8 +288,8 @@
 			"CWE-276"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2024-06-18T16:34:46Z",
-		"nvd_published_at": "2024-06-18T12:15:12Z",
+		"github_reviewed_at": "2024-06-21T15:52:38Z",
+		"nvd_published_at": null,
 		"severity": "LOW"
 	}
 }
