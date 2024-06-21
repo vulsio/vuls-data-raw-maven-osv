@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f8h5-v2vg-46rr",
-	"modified": "2024-05-31T03:49:15.417696Z",
+	"modified": "2024-06-20T18:47:08.555661Z",
 	"published": "2024-04-04T15:30:34Z",
 	"aliases": [
 		"CVE-2024-2700"
@@ -412,6 +412,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2024:3527"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:4028"
 		},
 		{
 			"type": "WEB",
