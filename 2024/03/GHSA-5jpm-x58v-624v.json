@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5jpm-x58v-624v",
-	"modified": "2024-06-19T07:44:20.364800Z",
+	"modified": "2024-06-22T00:49:11.670864Z",
 	"published": "2024-03-25T19:40:50Z",
 	"aliases": [
 		"CGA-mgv4-g226-vxr2",
@@ -267,6 +267,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/vietj/netty/tree/post-request-decoder"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.debian.org/debian-lts-announce/2024/06/msg00015.html"
 		}
 	],
 	"database_specific": {
