@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7286-pgfv-vxvh",
-	"modified": "2024-02-16T08:21:45.434951Z",
+	"modified": "2024-06-21T21:48:12.435527Z",
 	"published": "2023-10-11T12:30:27Z",
 	"aliases": [
 		"BIT-zookeeper-2023-44981",
@@ -152,6 +152,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.debian.org/debian-lts-announce/2023/10/msg00029.html"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240621-0007"
 		},
 		{
 			"type": "WEB",

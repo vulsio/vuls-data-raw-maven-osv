@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wgh7-54f2-x98r",
-	"modified": "2024-02-16T22:47:10.723388Z",
+	"modified": "2024-06-21T21:49:52.671594Z",
 	"published": "2023-10-10T21:16:23Z",
 	"aliases": [
 		"BIT-jenkins-2023-36478",
@@ -353,6 +353,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.netapp.com/advisory/ntap-20231116-0011"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240621-0006"
 		},
 		{
 			"type": "WEB",

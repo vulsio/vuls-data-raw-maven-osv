@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w37g-rhq8-7m4j",
-	"modified": "2024-03-15T19:21:19.565441Z",
+	"modified": "2024-06-21T21:47:18.945723Z",
 	"published": "2022-11-11T19:00:31Z",
 	"aliases": [
 		"CVE-2022-41854"
@@ -117,6 +117,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.netapp.com/advisory/ntap-20240315-0009"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240621-0006"
 		}
 	],
 	"database_specific": {
