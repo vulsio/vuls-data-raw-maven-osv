@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gmrm-8fx4-66x7",
-	"modified": "2024-06-21T16:12:20.991780Z",
+	"modified": "2024-06-24T09:13:19.858412Z",
 	"published": "2024-06-18T12:30:42Z",
 	"aliases": [
 		"CGA-25xr-q758-v6q8",
+		"CGA-66p9-3frq-6mmw",
 		"CGA-xh72-4x6m-jpfw",
 		"CVE-2024-5967",
 		"GHSA-c25h-c27q-5qpv"
