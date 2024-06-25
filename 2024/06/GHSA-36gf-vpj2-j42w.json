@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-36gf-vpj2-j42w",
-	"modified": "2024-06-24T21:57:36.280465Z",
+	"modified": "2024-06-25T02:45:50.337087Z",
 	"published": "2024-06-24T09:30:53Z",
 	"aliases": [
 		"CVE-2024-27136"

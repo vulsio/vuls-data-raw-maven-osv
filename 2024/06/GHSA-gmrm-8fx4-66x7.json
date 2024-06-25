@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gmrm-8fx4-66x7",
-	"modified": "2024-06-24T09:13:19.858412Z",
+	"modified": "2024-06-25T02:39:06.510518Z",
 	"published": "2024-06-18T12:30:42Z",
 	"aliases": [
 		"CGA-25xr-q758-v6q8",

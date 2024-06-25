@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c25h-c27q-5qpv",
-	"modified": "2024-06-24T09:13:19.858412Z",
+	"modified": "2024-06-25T02:34:27.788784Z",
 	"published": "2024-06-21T15:52:38Z",
 	"aliases": [
 		"CGA-25xr-q758-v6q8",

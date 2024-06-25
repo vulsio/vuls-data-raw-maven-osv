@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jpmx-996v-48fm",
-	"modified": "2024-06-18T16:50:04.157829Z",
+	"modified": "2024-06-25T02:39:03.232580Z",
 	"published": "2024-04-10T15:30:37Z",
 	"aliases": [
 		"CVE-2023-6236"

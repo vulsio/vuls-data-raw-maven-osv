@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5jpm-x58v-624v",
-	"modified": "2024-06-22T00:49:11.670864Z",
+	"modified": "2024-06-25T02:33:50.755318Z",
 	"published": "2024-03-25T19:40:50Z",
 	"aliases": [
 		"CGA-mgv4-g226-vxr2",
