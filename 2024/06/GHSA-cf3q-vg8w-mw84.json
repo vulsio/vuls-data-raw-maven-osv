@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cf3q-vg8w-mw84",
-	"modified": "2024-07-01T17:01:38.418084Z",
+	"modified": "2024-07-01T17:13:05.258860Z",
 	"published": "2024-06-24T12:30:38Z",
+	"aliases": [
+		"CVE-2024-29868"
+	],
 	"summary": "Apache StreamPipes: Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) in Recovery Token Generation",
 	"details": "Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG) vulnerability in Apache StreamPipes user self-registration and password recovery mechanism.\nThis allows an attacker to guess the recovery token in a reasonable time and thereby to take over the attacked user's account.\nThis issue affects Apache StreamPipes: from 0.69.0 through 0.93.0.\n\nUsers are recommended to upgrade to version 0.95.0, which fixes the issue.\n\n",
 	"severity": [
