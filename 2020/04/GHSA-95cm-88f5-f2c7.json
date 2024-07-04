@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-95cm-88f5-f2c7",
-	"modified": "2024-03-15T01:05:31.073155Z",
+	"modified": "2024-07-03T21:23:01.986952Z",
 	"published": "2020-04-23T16:32:59Z",
 	"aliases": [
 		"CVE-2020-10672"
@@ -90,6 +90,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://medium.com/%40cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062"
+		},
+		{
+			"type": "WEB",
 			"url": "https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062"
 		},
 		{
@@ -114,7 +118,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-502"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2020-04-22T21:12:55Z",
 		"nvd_published_at": "2020-03-18T22:15:00Z",
