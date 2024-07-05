@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h822-r4r5-v8jg",
-	"modified": "2024-03-15T01:05:37.847764Z",
+	"modified": "2024-07-04T22:14:29.999145Z",
 	"published": "2019-09-23T18:33:25Z",
 	"aliases": [
+		"CGA-2vh6-9p6m-f98h",
 		"CVE-2019-14540"
 	],
 	"summary": "Polymorphic Typing issue in FasterXML jackson-databind",

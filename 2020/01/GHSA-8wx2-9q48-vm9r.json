@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8wx2-9q48-vm9r",
-	"modified": "2024-03-14T21:16:16.576524Z",
+	"modified": "2024-07-04T22:14:42.930642Z",
 	"published": "2020-01-21T20:59:09Z",
 	"aliases": [
+		"CGA-prvp-gwp5-4ppq",
 		"CVE-2020-5398"
 	],
 	"summary": "RFD attack via Content-Disposition header sourced from request input by Spring MVC or Spring WebFlux Application",
