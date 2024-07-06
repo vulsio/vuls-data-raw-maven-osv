@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p343-9qwp-pqxv",
-	"modified": "2024-06-05T22:01:18.806605Z",
+	"modified": "2024-07-05T21:02:21.160692Z",
 	"published": "2024-05-07T18:30:34Z",
 	"aliases": [
 		"CVE-2024-34517"
 	],
 	"summary": "Neo4j Cypher component mishandles IMMUTABLE privileges",
 	"details": "The Cypher component in Neo4j before 5.19.0 mishandles IMMUTABLE privileges.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -414,6 +420,7 @@
 				"4.4.32",
 				"4.4.33",
 				"4.4.34",
+				"4.4.35",
 				"4.4.4",
 				"4.4.5",
 				"4.4.6",
@@ -478,6 +485,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-05-07T19:59:41Z",
 		"nvd_published_at": "2024-05-07T18:15:08Z",
-		"severity": "MODERATE"
+		"severity": "CRITICAL"
 	}
 }

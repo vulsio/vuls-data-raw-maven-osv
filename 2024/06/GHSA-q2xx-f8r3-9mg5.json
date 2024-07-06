@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q2xx-f8r3-9mg5",
-	"modified": "2024-06-25T02:39:14.537349Z",
+	"modified": "2024-07-05T18:07:52.883151Z",
 	"published": "2024-06-17T21:31:10Z",
 	"aliases": [
 		"CVE-2024-36543"
@@ -104,11 +104,16 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/strimzi/strimzi-kafka-operator"
+		},
+		{
+			"type": "WEB",
+			"url": "http://strimzi.com"
 		}
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-306"
+			"CWE-306",
+			"CWE-400"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-06-18T16:34:17Z",

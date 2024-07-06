@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-79vv-vp32-gpp7",
-	"modified": "2024-05-02T15:11:17.547496Z",
+	"modified": "2024-07-05T18:46:00.219607Z",
 	"published": "2024-04-12T09:33:40Z",
 	"aliases": [
 		"BIT-kafka-2024-27309",
@@ -63,6 +63,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/6536rmzyg076lzzdw2xdktvnz163mjpy"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240705-0002"
 		},
 		{
 			"type": "WEB",
