@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-79vv-vp32-gpp7",
-	"modified": "2024-07-05T18:46:00.219607Z",
+	"modified": "2024-07-09T21:46:21.803957Z",
 	"published": "2024-04-12T09:33:40Z",
 	"aliases": [
 		"BIT-kafka-2024-27309",
@@ -13,6 +13,10 @@
 		{
 			"type": "CVSS_V3",
 			"score": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:N"
+		},
+		{
+			"type": "CVSS_V4",
+			"score": "CVSS:4.0/AV:N/AC:H/AT:N/PR:L/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
