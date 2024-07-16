@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-34062"
 	],
+	"related": [
+		"CGA-fg7r-755x-xwjw",
+		"CGA-w9fh-6r6w-f7rr"
+	],
 	"summary": "In Reactor Netty HTTP Server a malicious user can send a request using a specially crafted URL that can lead to a directory traversal attack",
 	"details": "In Reactor Netty HTTP Server, versions 1.1.x prior to 1.1.13 and versions 1.0.x prior to 1.0.39, a malicious user can send a request using a specially crafted URL that can lead to a directory traversal attack.\n\nSpecifically, an application is vulnerable if Reactor Netty HTTP Server is configured to serve static resources.\n\n\n",
 	"severity": [

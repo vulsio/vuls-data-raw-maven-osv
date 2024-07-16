@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2020-13949"
 	],
+	"related": [
+		"CGA-3pv7-5j5f-w8rx",
+		"CGA-7fjw-8fvm-77hc"
+	],
 	"summary": "Uncontrolled Resource Consumption in Apache Thrift",
 	"details": "In Apache Thrift 0.9.3 to 0.13.0, malicious RPC clients could send short messages which would result in a large memory allocation, potentially leading to denial of service.",
 	"severity": [

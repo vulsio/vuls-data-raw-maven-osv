@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2019-10086"
 	],
+	"related": [
+		"CGA-3x75-f9j7-7hm9"
+	],
 	"summary": "Insecure Deserialization in Apache Commons Beanutils",
 	"details": "In Apache Commons Beanutils 1.9.2, a special BeanIntrospector class was added which allows suppressing the ability for an attacker to access the classloader via the class property available on all Java objects. We, however were not using this by default characteristic of the PropertyUtilsBean.",
 	"severity": [

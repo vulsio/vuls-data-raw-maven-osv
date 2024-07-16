@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2019-10172"
 	],
+	"related": [
+		"CGA-2wfh-9vp6-5hj5"
+	],
 	"summary": "Improper Restriction of XML External Entity Reference in jackson-mapper-asl",
 	"details": "A flaw was found in org.codehaus.jackson:jackson-mapper-asl:1.9.x libraries. XML external entity vulnerabilities similar to CVE-2016-3720 also affects codehaus jackson-mapper-asl libraries but in different classes.",
 	"severity": [

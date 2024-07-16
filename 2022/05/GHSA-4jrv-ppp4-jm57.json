@@ -7,6 +7,9 @@
 		"CVE-2022-25647",
 		"SNYK-JAVA-COMGOOGLECODEGSON-1730327"
 	],
+	"related": [
+		"CGA-828p-4xp8-m457"
+	],
 	"summary": "Deserialization of Untrusted Data in Gson",
 	"details": "The package `com.google.code.gson:gson` before 2.8.9 is vulnerable to Deserialization of Untrusted Data via the `writeReplace()` method in internal classes, which may lead to denial of service attacks.",
 	"severity": [

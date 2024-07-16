@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-22233"
 	],
+	"related": [
+		"CGA-r5h8-564r-g437"
+	],
 	"summary": "Spring Framework server Web DoS Vulnerability",
 	"details": "In Spring Framework versions 6.0.15 and 6.1.2, it is possible for a user to provide specially crafted HTTP requests that may cause a denial-of-service (DoS) condition.\n\nSpecifically, an application is vulnerable when all of the following are true:\n\n  *  the application uses Spring MVC\n  *  Spring Security 6.1.6+ or 6.2.1+ is on the classpath\n\n\nTypically, Spring Boot applications need the org.springframework.boot:spring-boot-starter-web and org.springframework.boot:spring-boot-starter-security dependencies to meet all conditions.\n\n\n",
 	"severity": [

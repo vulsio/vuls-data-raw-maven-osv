@@ -6,6 +6,13 @@
 	"aliases": [
 		"CVE-2024-21742"
 	],
+	"related": [
+		"CGA-2qhj-cqh5-659p",
+		"CGA-49jv-2gch-w8m7",
+		"CGA-c767-335j-hmc4",
+		"CGA-rfg9-4wqj-36v6",
+		"CGA-x2mp-f2qg-g22x"
+	],
 	"summary": "Apache James MIME4J improper input validation vulnerability",
 	"details": "Improper input validation allows for header injection in MIME4J library when using MIME4J DOM for composing message.\nThis can be exploited by an attacker to add unintended headers to MIME messages.\n",
 	"affected": [

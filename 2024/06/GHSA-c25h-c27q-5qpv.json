@@ -1,14 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c25h-c27q-5qpv",
-	"modified": "2024-07-01T14:58:45.347355Z",
+	"modified": "2024-07-15T22:27:04.733470Z",
 	"published": "2024-06-21T15:52:38Z",
 	"aliases": [
-		"CGA-25xr-q758-v6q8",
-		"CGA-66p9-3frq-6mmw",
-		"CGA-xh72-4x6m-jpfw",
-		"CVE-2024-5967",
-		"GHSA-gmrm-8fx4-66x7"
+		"CVE-2024-5967"
+	],
+	"related": [
+		"CGA-5h5w-wg2c-pvj5",
+		"CGA-66p9-3frq-6mmw"
 	],
 	"summary": "Keycloak leaks configured LDAP bind credentials through the Keycloak admin console",
 	"details": "### Impact\n\nThe LDAP testing endpoint allows to change the Connection URL independently of and without having to re-enter the currently configured LDAP bind credentials. An attacker with admin access (permission manage-realm) can change the LDAP host URL (\"Connection URL\") to a machine they control. The Keycloak server will connect to the attacker's host and try to authenticate with the configured credentials, thus leaking them to the attacker.\nAs a consequence, an attacker who has compromised the admin console/compromised a user with sufficient privileges can leak domain credentials and can now attack the domain.\n\n### Acknowledgements\n\nSpecial thanks to Simon Wessling for reporting this issue and helping us improve our project",

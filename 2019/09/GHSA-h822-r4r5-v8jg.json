@@ -1,11 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h822-r4r5-v8jg",
-	"modified": "2024-07-04T22:14:29.999145Z",
+	"modified": "2024-07-15T22:00:19.609618Z",
 	"published": "2019-09-23T18:33:25Z",
 	"aliases": [
-		"CGA-2vh6-9p6m-f98h",
 		"CVE-2019-14540"
+	],
+	"related": [
+		"CGA-2vh6-9p6m-f98h"
 	],
 	"summary": "Polymorphic Typing issue in FasterXML jackson-databind",
 	"details": "A Polymorphic Typing issue was discovered in FasterXML jackson-databind before 2.9.10, 2.8.11.5, and 2.6.7.3. It is related to `com.zaxxer.hikari.HikariConfig`.",

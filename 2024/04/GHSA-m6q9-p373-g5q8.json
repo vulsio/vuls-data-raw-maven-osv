@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2024-1249"
 	],
+	"related": [
+		"CGA-h38j-5xg3-x5v6",
+		"CGA-vrqx-gvvc-7hch"
+	],
 	"summary": "Keycloak's unvalidated cross-origin messages in checkLoginIframe leads to DDoS",
 	"details": "A potential security flaw in the \"checkLoginIframe\" which allows unvalidated cross-origin messages, enabling potential DDoS attacks. By exploiting this vulnerability, attackers could coordinate to send millions of requests in seconds using simple code, significantly impacting the application's availability without proper origin validation for incoming messages.\n\n#### Acknowledgements\nSpecial thanks to Adriano Márcio Monteiro from BRZTEC for reporting this issue and helping us improve our project.\n",
 	"severity": [

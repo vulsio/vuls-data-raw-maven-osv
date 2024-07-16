@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-0264"
 	],
+	"related": [
+		"CGA-w6fw-p4v2-p4fj"
+	],
 	"summary": "Keycloak vulnerable to user impersonation via stolen UUID code",
 	"details": "Keycloak's OpenID Connect user authentication was found to incorrectly authenticate requests. An authenticated attacker who could also obtain a certain piece of info from a user request, from a victim within the same realm, could use that data to impersonate the victim and generate new session tokens.",
 	"severity": [

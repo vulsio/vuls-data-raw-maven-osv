@@ -7,6 +7,9 @@
 		"BIT-postgresql-jdbc-driver-2020-13692",
 		"CVE-2020-13692"
 	],
+	"related": [
+		"CGA-5338-j523-69px"
+	],
 	"summary": "Improper Restriction of XML External Entity Reference",
 	"details": "PostgreSQL JDBC Driver (aka PgJDBC) before 42.2.13 allows XXE.",
 	"severity": [

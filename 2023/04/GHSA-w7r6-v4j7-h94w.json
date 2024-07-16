@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-26269"
 	],
+	"related": [
+		"CGA-w4j4-4g7w-vm2x"
+	],
 	"summary": "Apache James server's JMX management service vulnerable to privilege escalation by local user",
 	"details": "Apache James server version 3.7.3 and earlier provides a JMX management service without authentication by default. This allows privilege escalation by a malicious local user. Administrators are advised to disable JMX, or set up a JMX password. Note that version 3.7.4 onward will set up a JMX password automatically for Guice users.",
 	"severity": [

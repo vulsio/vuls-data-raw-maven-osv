@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-38542"
 	],
+	"related": [
+		"CGA-m894-hrqw-q27v"
+	],
 	"summary": "Command Injection in Apache James",
 	"details": "Apache James prior to release 3.6.1 is vulnerable to a buffering attack relying on the use of the STARTTLS command. This can result in Man-in -the-middle command injection attacks, leading potentially to leakage of sensible information.",
 	"severity": [

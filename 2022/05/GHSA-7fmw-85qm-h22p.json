@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2017-12159"
 	],
+	"related": [
+		"CGA-mrv4-ccrx-m6pr"
+	],
 	"summary": "Keycloak CSRF Vulnerability",
 	"details": "It was found that the cookie used for CSRF prevention in Keycloak was not unique to each session. An attacker could use this flaw to gain access to an authenticated user session, leading to possible information disclosure or further attacks.",
 	"severity": [

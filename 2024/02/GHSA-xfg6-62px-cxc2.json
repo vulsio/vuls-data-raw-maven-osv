@@ -3,6 +3,13 @@
 	"id": "GHSA-xfg6-62px-cxc2",
 	"modified": "2024-06-10T19:00:45.841661Z",
 	"published": "2024-02-19T15:30:38Z",
+	"related": [
+		"CGA-2jc3-3rhh-rc7v",
+		"CGA-2q5v-2cg8-99xh",
+		"CGA-fjg5-9m84-p3v7",
+		"CGA-qqm5-r7fc-q5q9",
+		"CGA-x53v-hg6v-7rvv"
+	],
 	"summary": "Duplicate Advisory: SQL injection in pgjdbc",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-24rp-q3w6-vc56. This link is maintained to preserve external references.\n\n## Original Description\npgjdbc, the PostgreSQL JDBC Driver, allows attacker to inject SQL if using PreferQueryMode=SIMPLE. Note this is not the default. In the default mode there is no vulnerability. A placeholder for a numeric value must be immediately preceded by a minus. There must be a second placeholder for a string value after the first placeholder; both must be on the same line. By constructing a matching string payload, the attacker can inject SQL to alter the query,bypassing the protections that parameterized queries bring against SQL Injection attacks. Versions before 42.7.2, 42.6.1, 42.5.5, 42.4.4, 42.3.9, and 42.2.8 are affected.",
 	"severity": [

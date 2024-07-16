@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2024-2419"
 	],
+	"related": [
+		"CGA-4mpx-5vpw-hg98",
+		"CGA-xgmg-8pmw-q287"
+	],
 	"summary": "Keycloak path traversal vulnerability in the redirect validation",
 	"details": "An issue was found in the redirect_uri validation logic that allows for a bypass of otherwise explicitly allowed hosts.\n\n",
 	"severity": [

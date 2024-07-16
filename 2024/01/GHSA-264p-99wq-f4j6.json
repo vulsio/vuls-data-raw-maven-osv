@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2024-21634"
 	],
+	"related": [
+		"CGA-cjj6-rx8j-mcwv",
+		"CGA-qrmh-pg87-6p4r"
+	],
 	"summary": "Ion Java StackOverflow vulnerability",
 	"details": "### Impact\n\nA potential denial-of-service issue exists in `ion-java` for applications that use `ion-java` to:\n\n* Deserialize Ion text encoded data, or\n* Deserialize Ion text or binary encoded data into the `IonValue` model and then invoke certain `IonValue` methods on that in-memory representation.\n\nAn actor could craft Ion data that, when loaded by the affected application and/or processed using the `IonValue` model, results in a `StackOverflowError` originating from the `ion-java` library.\n\nImpacted versions: <1.10.5\n\n### Patches\n\nThe patch is included in `ion-java` >= 1.10.5.\n\n### Workarounds\n\nDo not load data which originated from an untrusted source or that could have been tampered with. **Only load data you trust.**\n\n----\n\nIf you have any questions or comments about this advisory, we ask that you contact AWS/Amazon Security via our vulnerability reporting page [1] or directly via email to [aws-security@amazon.com](mailto:aws-security@amazon.com). Please do not create a public GitHub issue.\n\n[1] https://aws.amazon.com/security/vulnerability-reporting",
 	"severity": [

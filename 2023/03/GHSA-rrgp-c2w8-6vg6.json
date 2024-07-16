@@ -7,6 +7,9 @@
 		"BIT-jenkins-2023-27904",
 		"CVE-2023-27904"
 	],
+	"related": [
+		"CGA-ffq6-2m67-x25c"
+	],
 	"summary": " Information disclosure through error stack traces related to agents ",
 	"details": "Jenkins 2.393 and earlier, LTS 2.375.3 and earlier, and prior to LTS 2.387.1 prints an error stack trace on agent-related pages when agent connections are broken, potentially revealing information about Jenkins configuration that is otherwise inaccessible to attackers.\n\nJenkins 2.394, LTS 2.375.4, and LTS 2.387.1 does not display error stack traces when agent connections are broken.",
 	"severity": [

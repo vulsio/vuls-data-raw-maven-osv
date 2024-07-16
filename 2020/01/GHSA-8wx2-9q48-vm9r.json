@@ -1,11 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8wx2-9q48-vm9r",
-	"modified": "2024-07-04T22:14:42.930642Z",
+	"modified": "2024-07-15T22:12:26.001130Z",
 	"published": "2020-01-21T20:59:09Z",
 	"aliases": [
-		"CGA-prvp-gwp5-4ppq",
 		"CVE-2020-5398"
+	],
+	"related": [
+		"CGA-prvp-gwp5-4ppq"
 	],
 	"summary": "RFD attack via Content-Disposition header sourced from request input by Spring MVC or Spring WebFlux Application",
 	"details": "In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a \"Content-Disposition\" header in the response where the filename attribute is derived from user supplied input.",

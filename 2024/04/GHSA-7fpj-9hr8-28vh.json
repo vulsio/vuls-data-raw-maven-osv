@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-0657"
 	],
+	"related": [
+		"CGA-6hcj-97r2-cmw6",
+		"CGA-99gg-mfxj-3w9g"
+	],
 	"summary": "Keycloak vulnerable to impersonation via logout token exchange",
 	"details": "Keycloak was found to not properly enforce token types when validating signatures locally. An authenticated attacker could use this flaw to exchange a logout token for an access token and possibly gain access to data outside of enforced permissions.\n\n",
 	"affected": [

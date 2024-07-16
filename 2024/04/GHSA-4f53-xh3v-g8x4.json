@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-3597"
 	],
+	"related": [
+		"CGA-29v8-92hp-4qcr",
+		"CGA-mw98-8pc7-5256"
+	],
 	"summary": "Keycloak secondary factor bypass in step-up authentication",
 	"details": "Keycloak does not correctly validate its client step-up authentication. A password-authed attacker could use this flaw to register a false second auth factor, alongside the existing one, to a targeted account. The second factor then permits step-up authentication.",
 	"severity": [

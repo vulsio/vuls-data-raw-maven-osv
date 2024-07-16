@@ -1,13 +1,15 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4q22-422g-m4pj",
-	"modified": "2024-06-25T02:39:05.669700Z",
+	"modified": "2024-07-15T22:12:01.895242Z",
 	"published": "2024-06-13T18:31:58Z",
 	"aliases": [
 		"BIT-elasticsearch-2024-37280",
-		"CGA-jgf5-4w5m-6h5j",
-		"CGA-qjf3-hj5q-c3qr",
 		"CVE-2024-37280"
+	],
+	"related": [
+		"CGA-jgf5-4w5m-6h5j",
+		"CGA-qjf3-hj5q-c3qr"
 	],
 	"summary": "Elasticsearch StackOverflow vulnerability",
 	"details": "A flaw was discovered in Elasticsearch, affecting document ingestion when an index template contains a dynamic field mapping of “passthrough” type. Under certain circumstances, ingesting documents in this index would cause a StackOverflow exception to be thrown and ultimately lead to a Denial of Service. Note that passthrough fields is an experimental feature.",

@@ -1,9 +1,9 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-69fp-7c8p-crjr",
-	"modified": "2024-06-19T07:44:37.772890Z",
+	"modified": "2024-06-10T19:01:37.022543Z",
 	"published": "2024-06-10T18:36:56Z",
-	"aliases": [
+	"related": [
 		"CGA-mpfw-r73p-h6vx"
 	],
 	"summary": "Keycloak exposes sensitive information in Pushed Authorization Requests (PAR)",

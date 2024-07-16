@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-51074"
 	],
+	"related": [
+		"CGA-66vj-vmmp-rpcp",
+		"CGA-mxw5-7987-fwjr"
+	],
 	"summary": "json-path Out-of-bounds Write vulnerability",
 	"details": "json-path v2.8.0 was discovered to contain a stack overflow via the `Criteria.parse()` method.",
 	"severity": [

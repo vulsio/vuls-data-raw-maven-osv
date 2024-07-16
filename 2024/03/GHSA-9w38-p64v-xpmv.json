@@ -6,6 +6,12 @@
 	"aliases": [
 		"CVE-2024-29133"
 	],
+	"related": [
+		"CGA-9pcx-658r-q6cc",
+		"CGA-f8w3-v8cw-rc4q",
+		"CGA-gxrv-2q36-c76g",
+		"CGA-p5h5-jmpp-wgq6"
+	],
 	"summary": "Apache Commons Configuration: StackOverflowError calling ListDelimiterHandler.flatten(Object, int) with a cyclical object tree",
 	"details": "This Out-of-bounds Write vulnerability in Apache Commons Configuration affects Apache Commons Configuration: from 2.0 before 2.10.1. User can see this as a 'StackOverflowError' calling 'ListDelimiterHandler.flatten(Object, int)' with a cyclical object tree.\nUsers are recommended to upgrade to version 2.10.1, which fixes the issue. \n\n",
 	"severity": [

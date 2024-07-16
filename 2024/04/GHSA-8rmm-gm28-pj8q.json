@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-6717"
 	],
+	"related": [
+		"CGA-296m-q8jg-7vqc",
+		"CGA-c3g8-4xhp-jmhg"
+	],
 	"summary": "Keycloak Cross-site Scripting (XSS) via assertion consumer service URL in SAML POST-binding flow",
 	"details": "Keycloak allows arbitrary URLs as SAML Assertion Consumer Service POST Binding URL (ACS), including JavaScript URIs (javascript:).\n\nAllowing JavaScript URIs in combination with HTML forms leads to JavaScript evaluation in the context of the embedding origin on form submission.\n\n#### Acknowledgements:\nSpecial thanks to Lauritz Holtmann for reporting this issue and helping us improve our project.",
 	"severity": [

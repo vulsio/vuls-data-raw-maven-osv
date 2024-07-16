@@ -6,6 +6,14 @@
 	"aliases": [
 		"CVE-2023-6378"
 	],
+	"related": [
+		"CGA-334h-ff83-4pcg",
+		"CGA-69p6-hjq3-r85h",
+		"CGA-753q-8vfj-7pr3",
+		"CGA-9334-5jx3-592c",
+		"CGA-p5qq-x3qc-jpwx",
+		"CGA-rg2w-hc6f-9pwx"
+	],
 	"summary": "logback serialization vulnerability",
 	"details": "A serialization vulnerability in logback receiver component part of logback allows an attacker to mount a Denial-Of-Service attack by sending poisoned data.\n\nThis is only exploitable if logback receiver component is deployed. See https://logback.qos.ch/manual/receivers.html",
 	"severity": [

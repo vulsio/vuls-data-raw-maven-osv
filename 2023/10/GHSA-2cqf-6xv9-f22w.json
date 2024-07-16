@@ -7,6 +7,9 @@
 		"BIT-elasticsearch-2023-31418",
 		"CVE-2023-31418"
 	],
+	"related": [
+		"CGA-2rh8-vhwq-m8fm"
+	],
 	"summary": "Elasticsearch vulnerable to Uncontrolled Resource Consumption",
 	"details": "An issue has been identified with how Elasticsearch handled incoming requests on the HTTP layer. An unauthenticated user could force an Elasticsearch node to exit with an OutOfMemory error by sending a moderate number of malformed HTTP requests. The issue was identified by Elastic Engineering and we have no indication that the issue is known or that it is being exploited in the wild.",
 	"severity": [

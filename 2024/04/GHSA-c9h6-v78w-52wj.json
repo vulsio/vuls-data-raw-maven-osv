@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2023-6787"
 	],
+	"related": [
+		"CGA-p2m6-2qw4-9j4g",
+		"CGA-v9p7-g7qm-vgf7"
+	],
 	"summary": "Keycloak vulnerable to session hijacking via re-authentication",
 	"details": "A flaw was found in Keycloak. An active keycloak session can be hijacked by initiating a new authentication (having the query parameter prompt=login) and forcing the user to enter his credentials once again. If the user cancels this re-authentication by clicking Restart login, the account takeover could take place as the new session, with a different SUB, will have the same SID as the previous session.\n\n",
 	"severity": [

@@ -6,6 +6,12 @@
 	"aliases": [
 		"CVE-2023-52428"
 	],
+	"related": [
+		"CGA-7847-h394-6rg8",
+		"CGA-7v5w-r37c-32w7",
+		"CGA-7x8r-hc4w-927c",
+		"CGA-xqhq-97gr-pfg7"
+	],
 	"summary": "Denial of Service in Connect2id Nimbus JOSE+JWT",
 	"details": "In Connect2id Nimbus JOSE+JWT before 9.37.2, an attacker can cause a denial of service (resource consumption) via a large JWE p2c header value (aka iteration count) for the PasswordBasedDecrypter (PBKDF2) component.",
 	"affected": [
