@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jfh8-c2jp-5v3q",
-	"modified": "2024-03-13T05:20:38.494568Z",
+	"modified": "2024-07-25T20:23:05.854188Z",
 	"published": "2021-12-10T00:40:56Z",
 	"aliases": [
 		"CVE-2021-44228"
@@ -548,6 +548,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://logging.apache.org/log4j/2.x/changes-report.html#a2.15.0"
+		},
+		{
+			"type": "WEB",
 			"url": "https://logging.apache.org/log4j/2.x/manual/lookups.html#JndiLookup"
 		},
 		{
@@ -676,15 +680,19 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/M5CSVUNV4HWZZXGOKNSK6L7RPM7BOKIB"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/VU57UJDCFIASIO35GC55JMKSRXJMCDFM"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/M5CSVUNV4HWZZXGOKNSK6L7RPM7BOKIB"
 		},
 		{
 			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VU57UJDCFIASIO35GC55JMKSRXJMCDFM"
-		},
-		{
-			"type": "WEB",
-			"url": "https://logging.apache.org/log4j/2.x/changes-report.html#a2.15.0"
 		},
 		{
 			"type": "WEB",

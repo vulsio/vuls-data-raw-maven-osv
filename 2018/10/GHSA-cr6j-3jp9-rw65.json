@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cr6j-3jp9-rw65",
-	"modified": "2024-03-09T05:20:02.397179Z",
+	"modified": "2024-07-25T20:23:07.953566Z",
 	"published": "2018-10-18T19:24:38Z",
 	"aliases": [
 		"CVE-2018-11776"
@@ -191,6 +191,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.apache.org/thread.html/r6d03e45b81eab03580cf7f8bb51cb3e9a1b10a2cc0c6a2d3cc92ed0c%40%3Cannounce.apache.org%3E"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lgtm.com/blog/apache_struts_CVE-2018-11776"
 		},
 		{
@@ -220,6 +224,18 @@
 		{
 			"type": "WEB",
 			"url": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.securityfocus.com/bid/105125"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.securitytracker.com/id/1041547"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.securitytracker.com/id/1041888"
 		}
 	],
 	"database_specific": {
