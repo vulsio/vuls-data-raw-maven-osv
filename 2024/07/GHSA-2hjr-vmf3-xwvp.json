@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2hjr-vmf3-xwvp",
-	"modified": "2024-07-26T15:11:45.352195Z",
+	"modified": "2024-07-31T08:11:53.201175Z",
 	"published": "2024-07-26T06:30:47Z",
 	"aliases": [
+		"BIT-elasticsearch-2023-49921",
 		"CVE-2023-49921"
 	],
 	"summary": "Elasticsearch Insertion of Sensitive Information into Log File",
