@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pjch-4g28-fxx7",
-	"modified": "2023-11-08T04:05:13.305673Z",
+	"modified": "2024-07-31T19:11:45.826768Z",
 	"published": "2022-05-07T00:00:31Z",
 	"aliases": [
-		"CVE-2021-23792",
-		"SNYK-JAVA-COMTWELVEMONKEYSIMAGEIO-2316763"
+		"CVE-2021-23792"
 	],
 	"summary": "External Entity Reference in TwelveMonkeys ImageIO",
 	"details": "The package com.twelvemonkeys.imageio:imageio-metadata before version 3.7.1 is vulnerable to XML External Entity (XXE) Injection due to an insecurely initialized XML parser for reading XMP Metadata. An attacker can exploit this vulnerability if they are able to supply a file (e.g. when an online profile picture is processed) with a malicious XMP segment. If the XMP metadata of the uploaded image is parsed, then the XXE vulnerability is triggered.",

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f263-c949-w85g",
-	"modified": "2023-11-08T04:04:05.133656Z",
+	"modified": "2024-07-31T19:26:55.710448Z",
 	"published": "2021-09-28T16:16:52Z",
 	"aliases": [
-		"CVE-2020-7692",
-		"SNYK-JAVA-COMGOOGLEOAUTHCLIENT-575276"
+		"CVE-2020-7692"
 	],
 	"summary": "Improper Authorization in Google OAuth Client",
 	"details": "PKCE support is not implemented in accordance with the RFC for OAuth 2.0 for Native Apps. Without the use of PKCE, the authorization code returned by an authorization server is not enough to guarantee that the client that issued the initial authorization request is the one that will be authorized. An attacker is able to obtain the authorization code using a malicious app on the client-side and use it to gain authorization to the protected resource. This affects the package com.google.oauth-client:google-oauth-client before 1.31.0.",

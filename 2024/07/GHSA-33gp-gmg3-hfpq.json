@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-33gp-gmg3-hfpq",
-	"modified": "2024-07-31T15:41:57.718272Z",
+	"modified": "2024-07-31T20:20:25Z",
 	"published": "2024-07-31T15:20:02Z",
 	"aliases": [
 		"CVE-2024-37898"
@@ -119,6 +119,10 @@
 			"url": "https://github.com/xwiki/xwiki-platform/security/advisories/GHSA-33gp-gmg3-hfpq"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-37898"
+		},
+		{
 			"type": "WEB",
 			"url": "https://github.com/xwiki/xwiki-platform/commit/0bc27d6ec63c8a505ff950e2d1792cb4f773c22e"
 		},
@@ -149,7 +153,7 @@
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-07-31T15:20:02Z",
-		"nvd_published_at": null,
+		"nvd_published_at": "2024-07-31T16:15:03Z",
 		"severity": "MODERATE"
 	}
 }
