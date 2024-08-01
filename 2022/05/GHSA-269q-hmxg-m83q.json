@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-269q-hmxg-m83q",
-	"modified": "2024-07-31T19:27:26.803481Z",
+	"modified": "2024-08-01T07:56:47.822500Z",
 	"published": "2022-05-10T08:46:50Z",
 	"aliases": [
-		"CVE-2022-24823"
+		"CVE-2021-21290",
+		"CVE-2022-24823",
+		"GHSA-5mcr-gq6c-3hq2"
 	],
 	"related": [
 		"CGA-m5h3-2wph-f949"

@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f256-j965-7f32",
-	"modified": "2024-07-31T19:42:20.535941Z",
+	"modified": "2024-08-01T07:13:04.232041Z",
 	"published": "2021-03-30T15:10:38Z",
 	"aliases": [
-		"CVE-2021-21409"
+		"BIT-zookeeper-2021-21295",
+		"CVE-2021-21295",
+		"CVE-2021-21409",
+		"GHSA-wm47-8v5p-wjpj"
 	],
 	"summary": "Possible request smuggling in HTTP/2 due missing validation of content-length",
 	"details": "### Impact\nThe content-length header is not correctly validated if the request only use a single Http2HeaderFrame with the endStream set to to true. This could lead to request smuggling if the request is proxied to a remote peer and translated to HTTP/1.1\n\nThis is a followup of https://github.com/netty/netty/security/advisories/GHSA-wm47-8v5p-wjpj which did miss to fix this one case. \n\n### Patches\nThis was fixed as part of 4.1.61.Final\n\n### Workarounds\nValidation can be done by the user before proxy the request by validating the header.",
