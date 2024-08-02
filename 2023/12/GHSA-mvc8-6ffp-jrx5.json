@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mvc8-6ffp-jrx5",
-	"modified": "2024-02-16T08:21:56.234858Z",
+	"modified": "2024-08-02T15:49:55.922341Z",
 	"published": "2023-12-09T03:30:15Z",
 	"aliases": [
 		"CVE-2023-6394"
@@ -81,6 +81,8 @@
 				"3.2.0.Final",
 				"3.2.1.Final",
 				"3.2.10.Final",
+				"3.2.11.Final",
+				"3.2.12.Final",
 				"3.2.2.Final",
 				"3.2.3.Final",
 				"3.2.4.Final",
@@ -229,6 +231,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2023:7612"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2023:7700"
 		},
 		{
 			"type": "WEB",
