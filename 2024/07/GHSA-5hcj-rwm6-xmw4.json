@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5hcj-rwm6-xmw4",
-	"modified": "2024-08-02T21:04:29.011149Z",
+	"modified": "2024-08-05T22:07:42.435773Z",
 	"published": "2024-07-31T18:48:40Z",
 	"aliases": [
 		"CVE-2024-41948"
@@ -51,6 +51,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/biscuit-auth/biscuit-java/security/advisories/GHSA-5hcj-rwm6-xmw4"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/biscuit-auth/biscuit/security/advisories/GHSA-rgqv-mwc3-c78m"
 		},
 		{
 			"type": "ADVISORY",
