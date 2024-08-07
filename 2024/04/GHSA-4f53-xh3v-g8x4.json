@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4f53-xh3v-g8x4",
-	"modified": "2024-04-25T17:19:07.277145Z",
+	"modified": "2024-08-07T12:46:19.987831Z",
 	"published": "2024-04-17T17:31:50Z",
 	"aliases": [
 		"CVE-2023-3597"
@@ -253,6 +253,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/keycloak/keycloak/commit/aa634aee882892960a526e49982806e103c8a432"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:1866"
 		},
 		{
 			"type": "WEB",
