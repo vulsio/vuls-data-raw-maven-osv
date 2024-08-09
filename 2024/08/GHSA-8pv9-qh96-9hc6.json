@@ -1,10 +1,14 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8pv9-qh96-9hc6",
-	"modified": "2024-08-07T18:41:54.208938Z",
+	"modified": "2024-08-09T08:11:40.860863Z",
 	"published": "2024-08-07T15:30:42Z",
 	"aliases": [
+		"BIT-jenkins-2024-43045",
 		"CVE-2024-43045"
+	],
+	"related": [
+		"CGA-p6rj-hwc9-9gj3"
 	],
 	"summary": "Jenkins does not perform a permission check in an HTTP endpoint",
 	"details": "Jenkins 2.470 and earlier, LTS 2.452.3 and earlier does not perform a permission check in an HTTP endpoint.\n\nThis allows attackers with Overall/Read permission to access other users' \"My Views\". Attackers with global View/Configure and View/Delete permissions are also able to change other users' \"My Views\".\n\nJenkins 2.471, LTS 2.452.4, LTS 2.462.1 restricts access to a user’s \"My Views\" to the owning user and administrators.",
