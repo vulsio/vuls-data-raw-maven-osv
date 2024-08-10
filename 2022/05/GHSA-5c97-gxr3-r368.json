@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5c97-gxr3-r368",
-	"modified": "2023-11-08T04:01:19.689564Z",
+	"modified": "2024-08-09T22:01:12.049601Z",
 	"published": "2022-05-24T17:03:49Z",
 	"aliases": [
 		"CVE-2019-16572"
@@ -58,6 +58,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-1024",
 			"CWE-256",
 			"CWE-522"
 		],
