@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-40094"
 	],
+	"related": [
+		"CGA-gvh2-74x2-p73w"
+	],
 	"summary": "GraphQL Java does not properly consider ExecutableNormalizedFields (ENFs) as part of preventing denial of service",
 	"details": "GraphQL Java (aka graphql-java) before 21.5 does not properly consider ExecutableNormalizedFields (ENFs) as part of preventing denial of service via introspection queries. 20.9 and 19.11 are also fixed versions.",
 	"severity": [
