@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rvpc-w57p-q95f",
-	"modified": "2023-11-08T04:00:57.461304Z",
+	"modified": "2024-08-15T06:44:11.508597Z",
 	"published": "2022-02-09T22:35:29Z",
 	"aliases": [
-		"CVE-2019-10797",
-		"SNYK-JAVA-ORGWSO2TRANSPORTHTTP-548944"
+		"CVE-2019-10797"
 	],
 	"summary": "HTTP Response Splitting in WSO2 transport-http",
 	"details": "Netty in WSO2 transport-http before v6.3.1 is vulnerable to HTTP Response Splitting due to HTTP Header validation being disabled.",
