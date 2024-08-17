@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8pv9-qh96-9hc6",
-	"modified": "2024-08-09T08:11:40.860863Z",
+	"modified": "2024-08-16T18:46:24.896479Z",
 	"published": "2024-08-07T15:30:42Z",
 	"aliases": [
 		"BIT-jenkins-2024-43045",
@@ -1020,7 +1020,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-285"
+			"CWE-285",
+			"CWE-862"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-08-07T18:26:58Z",
