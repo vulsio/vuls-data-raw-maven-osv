@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-ccgv-vj62-xf9h",
-	"modified": "2024-06-10T18:51:12.984447Z",
+	"modified": "2024-08-22T19:20:48.076861Z",
 	"published": "2024-02-23T06:30:31Z",
 	"aliases": [
 		"CVE-2024-22243"
@@ -405,7 +405,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-601"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-02-23T18:03:48Z",
 		"nvd_published_at": "2024-02-23T05:15:08Z",
