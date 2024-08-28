@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2wrp-6fg6-hmc5",
-	"modified": "2024-06-10T18:54:43.227193Z",
+	"modified": "2024-08-27T18:47:38.791993Z",
 	"published": "2024-04-16T06:30:28Z",
 	"aliases": [
 		"CVE-2024-22262"
@@ -383,7 +383,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-601"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-04-16T16:15:13Z",
 		"nvd_published_at": "2024-04-16T06:15:46Z",
