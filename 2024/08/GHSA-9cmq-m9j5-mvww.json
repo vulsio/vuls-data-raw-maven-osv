@@ -7,6 +7,7 @@
 		"CVE-2024-38808"
 	],
 	"related": [
+		"CGA-439m-2c4m-j5r4",
 		"CGA-7r36-mwcw-5r62"
 	],
 	"summary": "Spring Framework vulnerable to Denial of Service",
