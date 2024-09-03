@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2w7w-2j92-44hx",
-	"modified": "2023-11-08T04:05:04.145872Z",
+	"modified": "2024-09-03T04:41:57.758778Z",
 	"published": "2021-05-10T15:17:09Z",
 	"aliases": [
-		"CVE-2021-23339",
-		"SNYK-JAVA-COMTYPESAFEAKKA-1075043"
+		"CVE-2021-23339"
 	],
 	"summary": "HTTP Request Smuggling in akka-http-core",
 	"details": "A vulnerable Akka HTTP server will accept a malformed message and hand it over to the user. If the user application proxies this message to another server unchanged and that server also accepts that message but interprets it as two HTTP messages, the second message has reached the second server without having been inspected by the proxy.",

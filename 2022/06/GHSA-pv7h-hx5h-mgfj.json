@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pv7h-hx5h-mgfj",
-	"modified": "2024-05-15T06:31:04.645653Z",
+	"modified": "2024-09-03T04:42:08.342397Z",
 	"published": "2022-06-11T00:00:17Z",
 	"aliases": [
-		"CVE-2022-25845",
-		"SNYK-JAVA-COMALIBABA-2859222"
+		"CVE-2022-25845"
 	],
 	"summary": "Unsafe deserialization in com.alibaba:fastjson",
 	"details": "The package com.alibaba:fastjson before 1.2.83 is vulnerable to Deserialization of Untrusted Data by bypassing the default autoType shutdown restrictions, which is possible under certain conditions. Exploiting this vulnerability allows attacking remote servers. Workaround: If upgrading is not possible, you can enable [safeMode](https://github.com/alibaba/fastjson/wiki/fastjson_safemode).",
