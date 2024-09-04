@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mmwx-rj87-vfgr",
-	"modified": "2024-07-22T16:02:02.286045Z",
+	"modified": "2024-09-04T14:51:54.620341Z",
 	"published": "2024-07-22T14:46:59Z",
 	"summary": "DNSJava affected by KeyTrap - NSEC3 closest encloser proof can exhaust CPU resources",
 	"details": "### Impact\nUsers using the `ValidatingResolver` for DNSSEC validation can run into CPU exhaustion with specially crafted DNSSEC-signed zones.\n\n### Patches\nUsers should upgrade to dnsjava v3.6.0\n\n### Workarounds\nAlthough not recommended, only using a non-validating resolver, will remove the vulnerability.\n\n### References\nhttps://www.athene-center.de/en/keytrap\n",
@@ -78,8 +78,16 @@
 			"url": "https://github.com/dnsjava/dnsjava/security/advisories/GHSA-mmwx-rj87-vfgr"
 		},
 		{
+			"type": "ADVISORY",
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50868"
+		},
+		{
 			"type": "WEB",
 			"url": "https://github.com/dnsjava/dnsjava/commit/711af79be3214f52daa5c846b95766dc0a075116"
+		},
+		{
+			"type": "ADVISORY",
+			"url": "https://github.com/advisories/GHSA-pv4h-p8jr-6cv2"
 		},
 		{
 			"type": "PACKAGE",
