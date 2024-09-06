@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-76v2-48w6-crxr",
-	"modified": "2024-05-19T02:24:44.993384Z",
+	"modified": "2024-09-05T18:46:37.163267Z",
 	"published": "2024-05-15T18:30:35Z",
 	"aliases": [
 		"CVE-2024-28087"
@@ -35,6 +35,8 @@
 				}
 			],
 			"versions": [
+				"10.0.0",
+				"10.1.0",
 				"6.1.0",
 				"6.1.1",
 				"6.1.2",
@@ -145,6 +147,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://documentation.bonitasoft.com/bonita/2024.1/release-notes#_fixes_in_bonita_2024_1_u0_2024_04_11"
+		},
+		{
+			"type": "WEB",
 			"url": "https://documentation.bonitasoft.com/bonita/latest/release-notes#_fixes_in_bonita_2024_1_2024_04_11"
 		},
 		{
@@ -154,6 +160,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-284",
 			"CWE-639"
 		],
 		"github_reviewed": true,
