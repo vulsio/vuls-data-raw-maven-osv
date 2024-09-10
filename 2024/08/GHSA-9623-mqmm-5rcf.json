@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9623-mqmm-5rcf",
-	"modified": "2024-08-21T20:27:35.141996Z",
+	"modified": "2024-09-10T00:35:57.997863Z",
 	"published": "2024-08-21T15:30:54Z",
 	"aliases": [
 		"CVE-2024-7885"
@@ -336,6 +336,7 @@
 				"2.2.32.Final",
 				"2.2.33.Final",
 				"2.2.34.Final",
+				"2.2.35.Final",
 				"2.2.4.Final",
 				"2.2.5.Final",
 				"2.2.6.Final",
@@ -371,6 +372,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-7885"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6508"
 		},
 		{
 			"type": "WEB",
