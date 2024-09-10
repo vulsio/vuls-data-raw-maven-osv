@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-7341"
 	],
+	"related": [
+		"CGA-9737-qqj4-9xjc"
+	],
 	"summary": "Keycloak Session Fixation vulnerability",
 	"details": "A session fixation issue was discovered in the SAML adapters provided by Keycloak. The session ID and JSESSIONID cookie are not changed at login time, even when `the turnOffChangeSessionIdOnLogin` option is configured. This flaw allows an attacker who hijacks the current session before authentication to trigger session fixation.",
 	"severity": [
