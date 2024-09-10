@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9442-gm4v-r222",
-	"modified": "2024-08-05T16:49:53.034030Z",
+	"modified": "2024-09-09T18:45:48.143185Z",
 	"published": "2024-06-20T15:31:19Z",
 	"aliases": [
 		"CVE-2024-6162"
@@ -335,6 +335,8 @@
 				"2.2.31.Final",
 				"2.2.32.Final",
 				"2.2.33.Final",
+				"2.2.34.Final",
+				"2.2.35.Final",
 				"2.2.4.Final",
 				"2.2.5.Final",
 				"2.2.6.Final",
@@ -368,6 +370,14 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-6162"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:1194"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:4386"
 		},
 		{
 			"type": "WEB",

@@ -1,27 +1,57 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-gmrm-8fx4-66x7",
-	"modified": "2024-09-09T21:49:04.921772Z",
-	"published": "2024-06-18T12:30:42Z",
-	"related": [
-		"CGA-25xr-q758-v6q8",
-		"CGA-5h5w-wg2c-pvj5",
-		"CGA-xh72-4x6m-jpfw"
+	"id": "GHSA-j76j-rqwj-jmvv",
+	"modified": "2024-09-09T22:57:34.358085Z",
+	"published": "2024-09-09T21:31:22Z",
+	"aliases": [
+		"CVE-2024-7341"
 	],
-	"summary": "Duplicate Advisory: Keycloak: Leak of configured LDAP bind credentials",
-	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-c25h-c27q-5qpv. This link is maintained to preserve external references.\n\n## Original Description\n\nA vulnerability was found in Keycloak. The LDAP testing endpoint allows changing the Connection URL  independently without re-entering the currently configured LDAP bind credentials. This flaw allows an attacker with admin access (permission manage-realm) to change the LDAP host URL (\"Connection URL\") to a machine they control. The Keycloak server will connect to the attacker's host and try to authenticate with the configured credentials, thus leaking them to the attacker. As a consequence, an attacker who has compromised the admin console or compromised a user with sufficient privileges can leak domain credentials and attack the domain.",
+	"summary": "Keycloak Session Fixation vulnerability",
+	"details": "A session fixation issue was discovered in the SAML adapters provided by Keycloak. The session ID and JSESSIONID cookie are not changed at login time, even when `the turnOffChangeSessionIdOnLogin` option is configured. This flaw allows an attacker who hijacks the current session before authentication to trigger session fixation.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:N/A:N"
+			"score": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H"
+		},
+		{
+			"type": "CVSS_V4",
+			"score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:P/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.keycloak:keycloak-core",
-				"purl": "pkg:maven/org.keycloak/keycloak-core"
+				"name": "org.keycloak:keycloak-services",
+				"purl": "pkg:maven/org.keycloak/keycloak-services"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "25.0.0"
+						},
+						{
+							"last_affected": "25.0.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"25.0.0",
+				"25.0.1",
+				"25.0.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-j76j-rqwj-jmvv/GHSA-j76j-rqwj-jmvv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.keycloak:keycloak-services",
+				"purl": "pkg:maven/org.keycloak/keycloak-services"
 			},
 			"ranges": [
 				{
@@ -31,7 +61,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "24.0.5"
+							"fixed": "22.0.12"
 						}
 					]
 				}
@@ -154,20 +184,6 @@
 				"22.0.3",
 				"22.0.4",
 				"22.0.5",
-				"23.0.0",
-				"23.0.1",
-				"23.0.2",
-				"23.0.3",
-				"23.0.4",
-				"23.0.5",
-				"23.0.6",
-				"23.0.7",
-				"24.0.0",
-				"24.0.1",
-				"24.0.2",
-				"24.0.3",
-				"24.0.4",
-				"24.0.5",
 				"3.0.0.CR1",
 				"3.0.0.Final",
 				"3.1.0.CR1",
@@ -213,14 +229,53 @@
 				"9.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-gmrm-8fx4-66x7/GHSA-gmrm-8fx4-66x7.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-j76j-rqwj-jmvv/GHSA-j76j-rqwj-jmvv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.keycloak:keycloak-services",
+				"purl": "pkg:maven/org.keycloak/keycloak-services"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "23.0.0"
+						},
+						{
+							"fixed": "24.0.7"
+						}
+					]
+				}
+			],
+			"versions": [
+				"23.0.0",
+				"23.0.1",
+				"23.0.2",
+				"23.0.3",
+				"23.0.4",
+				"23.0.5",
+				"23.0.6",
+				"23.0.7",
+				"24.0.0",
+				"24.0.1",
+				"24.0.2",
+				"24.0.3",
+				"24.0.4",
+				"24.0.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-j76j-rqwj-jmvv/GHSA-j76j-rqwj-jmvv.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-5967"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-7341"
 		},
 		{
 			"type": "WEB",
@@ -252,11 +307,19 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/security/cve/CVE-2024-5967"
+			"url": "https://access.redhat.com/errata/RHSA-2024:6502"
 		},
 		{
 			"type": "WEB",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2292200"
+			"url": "https://access.redhat.com/errata/RHSA-2024:6503"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/security/cve/CVE-2024-7341"
+		},
+		{
+			"type": "WEB",
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2302064"
 		},
 		{
 			"type": "PACKAGE",
@@ -265,11 +328,11 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-276"
+			"CWE-384"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2024-06-18T16:34:46Z",
-		"nvd_published_at": "2024-06-18T12:15:12Z",
-		"severity": "LOW"
+		"github_reviewed_at": "2024-09-09T22:33:50Z",
+		"nvd_published_at": "2024-09-09T19:15:14Z",
+		"severity": "HIGH"
 	}
 }

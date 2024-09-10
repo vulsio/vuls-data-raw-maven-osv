@@ -1,19 +1,21 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-gmrm-8fx4-66x7",
-	"modified": "2024-09-09T21:49:04.921772Z",
-	"published": "2024-06-18T12:30:42Z",
-	"related": [
-		"CGA-25xr-q758-v6q8",
-		"CGA-5h5w-wg2c-pvj5",
-		"CGA-xh72-4x6m-jpfw"
+	"id": "GHSA-57rh-gr4v-j5f6",
+	"modified": "2024-09-09T22:57:34.290187Z",
+	"published": "2024-09-09T21:31:22Z",
+	"aliases": [
+		"CVE-2024-7318"
 	],
-	"summary": "Duplicate Advisory: Keycloak: Leak of configured LDAP bind credentials",
-	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-c25h-c27q-5qpv. This link is maintained to preserve external references.\n\n## Original Description\n\nA vulnerability was found in Keycloak. The LDAP testing endpoint allows changing the Connection URL  independently without re-entering the currently configured LDAP bind credentials. This flaw allows an attacker with admin access (permission manage-realm) to change the LDAP host URL (\"Connection URL\") to a machine they control. The Keycloak server will connect to the attacker's host and try to authenticate with the configured credentials, thus leaking them to the attacker. As a consequence, an attacker who has compromised the admin console or compromised a user with sufficient privileges can leak domain credentials and attack the domain.",
+	"summary": "Keycloak Uses a Key Past its Expiration Date",
+	"details": "A vulnerability was found in Keycloak. Expired OTP codes are still usable when using FreeOTP when the OTP token period is set to 30 seconds (default). Instead of expiring and deemed unusable around 30 seconds in, the tokens are valid for an additional 30 seconds totaling 1 minute.\nA one time passcode that is valid longer than its expiration time increases the attack window for malicious actors to abuse the system and compromise accounts. Additionally, it increases the attack surface because at any given time, two OTPs are valid.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:N/A:N"
+			"score": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N"
+		},
+		{
+			"type": "CVSS_V4",
+			"score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:L/VI:L/VA:N/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
@@ -31,7 +33,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "24.0.5"
+							"fixed": "24.0.7"
 						}
 					]
 				}
@@ -213,50 +215,30 @@
 				"9.0.3"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-gmrm-8fx4-66x7/GHSA-gmrm-8fx4-66x7.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-57rh-gr4v-j5f6/GHSA-57rh-gr4v-j5f6.json"
 			}
 		}
 	],
 	"references": [
 		{
 			"type": "ADVISORY",
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-5967"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-7318"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6493"
+			"url": "https://access.redhat.com/errata/RHSA-2024:6502"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6494"
+			"url": "https://access.redhat.com/errata/RHSA-2024:6503"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6495"
+			"url": "https://access.redhat.com/security/cve/CVE-2024-7318"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6497"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6499"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6500"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6501"
-		},
-		{
-			"type": "WEB",
-			"url": "https://access.redhat.com/security/cve/CVE-2024-5967"
-		},
-		{
-			"type": "WEB",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2292200"
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2301876"
 		},
 		{
 			"type": "PACKAGE",
@@ -265,11 +247,11 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-276"
+			"CWE-324"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2024-06-18T16:34:46Z",
-		"nvd_published_at": "2024-06-18T12:15:12Z",
-		"severity": "LOW"
+		"github_reviewed_at": "2024-09-09T22:34:10Z",
+		"nvd_published_at": "2024-09-09T19:15:14Z",
+		"severity": "MODERATE"
 	}
 }
