@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-58qw-p7qm-5rvh",
-	"modified": "2024-02-16T08:04:34.090965Z",
+	"modified": "2024-09-10T17:37:39.347737Z",
 	"published": "2023-07-10T21:52:39Z",
 	"related": [
 		"CGA-cvc4-35r3-qcp6"
@@ -159,7 +159,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "9.4.52"
+							"fixed": "9.4.52.v20230823"
 						}
 					]
 				}
