@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r4w2-hjmr-36m7",
-	"modified": "2024-09-16T17:31:52.731234Z",
+	"modified": "2024-09-16T17:42:38.808450Z",
 	"published": "2023-12-30T00:30:23Z",
+	"aliases": [
+		"CVE-2023-3629"
+	],
 	"summary": " Infinispan REST Server's cache retrieval endpoints do not properly evaluate the necessary admin permissions",
 	"details": "A flaw was found in Infinispan's REST, Cache retrieval endpoints do not properly evaluate the necessary admin permissions for the operation. This issue could allow an authenticated user to access information outside of their intended permissions.",
 	"severity": [
