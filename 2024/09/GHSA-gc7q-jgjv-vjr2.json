@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-8wm9-24qg-m5qj",
-	"modified": "2024-09-17T22:34:30.998904Z",
-	"published": "2024-09-03T21:31:12Z",
-	"summary": "Duplicate Advisory: Keycloak has a brute force login protection bypass",
-	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-gc7q-jgjv-vjr2. This link is maintained to preserve external references.\n\n## Original Description\nA vulnerability was found in Keycloak. This flaw allows attackers to bypass brute force protection by exploiting the timing of login attempts. By initiating multiple login requests simultaneously, attackers can exceed the configured limits for failed attempts before the system locks them out. This timing loophole enables attackers to make more guesses at passwords than intended, potentially compromising account security on affected systems.",
+	"id": "GHSA-gc7q-jgjv-vjr2",
+	"modified": "2024-09-17T22:42:23.870230Z",
+	"published": "2024-09-17T22:29:01Z",
+	"aliases": [
+		"CVE-2024-4629"
+	],
+	"summary": "Keycloak Services has a potential bypass of brute force protection",
+	"details": "If an attacker launches many login attempts in parallel then the attacker can have more guesses at a password than the brute force protection configuration permits. This is due to the brute force check occurring before the brute force protector has locked the user.\n\n**Acknowledgements:**\nSpecial thanks to Maurizio Agazzini for reporting this issue and helping us improve our project.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -30,7 +33,7 @@
 							"introduced": "0"
 						},
 						{
-							"fixed": "24.0.4"
+							"fixed": "22.0.12"
 						}
 					]
 				}
@@ -153,18 +156,6 @@
 				"22.0.3",
 				"22.0.4",
 				"22.0.5",
-				"23.0.0",
-				"23.0.1",
-				"23.0.2",
-				"23.0.3",
-				"23.0.4",
-				"23.0.5",
-				"23.0.6",
-				"23.0.7",
-				"24.0.0",
-				"24.0.1",
-				"24.0.2",
-				"24.0.3",
 				"3.0.0.CR1",
 				"3.0.0.Final",
 				"3.1.0.CR1",
@@ -210,43 +201,118 @@
 				"9.0.3"
 			],
 			"database_specific": {
-				"last_known_affected_version_range": "<= 24.0.3",
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-8wm9-24qg-m5qj/GHSA-8wm9-24qg-m5qj.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-gc7q-jgjv-vjr2/GHSA-gc7q-jgjv-vjr2.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.keycloak:keycloak-services",
+				"purl": "pkg:maven/org.keycloak/keycloak-services"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "23.0.0"
+						},
+						{
+							"fixed": "24.0.7"
+						}
+					]
+				}
+			],
+			"versions": [
+				"23.0.0",
+				"23.0.1",
+				"23.0.2",
+				"23.0.3",
+				"23.0.4",
+				"23.0.5",
+				"23.0.6",
+				"23.0.7",
+				"24.0.0",
+				"24.0.1",
+				"24.0.2",
+				"24.0.3",
+				"24.0.4",
+				"24.0.5"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-gc7q-jgjv-vjr2/GHSA-gc7q-jgjv-vjr2.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.keycloak:keycloak-services",
+				"purl": "pkg:maven/org.keycloak/keycloak-services"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "25.0.0"
+						},
+						{
+							"fixed": "25.0.4"
+						}
+					]
+				}
+			],
+			"versions": [
+				"25.0.0",
+				"25.0.1",
+				"25.0.2",
+				"25.0.3"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-gc7q-jgjv-vjr2/GHSA-gc7q-jgjv-vjr2.json"
 			}
 		}
 	],
 	"references": [
+		{
+			"type": "WEB",
+			"url": "https://github.com/keycloak/keycloak/security/advisories/GHSA-gc7q-jgjv-vjr2"
+		},
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4629"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6493"
+			"url": "https://github.com/keycloak/keycloak/commit/d78b3072ffffbff3954bf9f3181e3daf8e93c1ab"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6494"
+			"url": "https://github.com/keycloak/keycloak/commit/c8053dd812d9b9f05b293f901b9dc39e061ebb88"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6495"
+			"url": "https://github.com/keycloak/keycloak/commit/b25c28458a562abda2f84fc684e59cce8577e562"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6497"
+			"url": "https://github.com/keycloak/keycloak/commit/99f92ad5fff5555d53930c2d32f8be3e08c514c1"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6499"
+			"url": "https://github.com/keycloak/keycloak/commit/461fa631dc55b9739c9ed8c49de9f5b213955200"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6500"
+			"url": "https://github.com/keycloak/keycloak/commit/2fb358e1a21c5387cdc11100ce3562b4dcfe5416"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/keycloak/keycloak"
 		},
 		{
 			"type": "WEB",
-			"url": "https://access.redhat.com/errata/RHSA-2024:6501"
+			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2276761"
 		},
 		{
 			"type": "WEB",
@@ -254,20 +320,41 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://bugzilla.redhat.com/show_bug.cgi?id=2276761"
+			"url": "https://access.redhat.com/errata/RHSA-2024:6501"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/keycloak/keycloak"
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6500"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6499"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6497"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6495"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6494"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6493"
 		}
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-307",
 			"CWE-837"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2024-09-03T21:57:40Z",
-		"nvd_published_at": "2024-09-03T20:15:09Z",
+		"github_reviewed_at": "2024-09-17T22:29:01Z",
+		"nvd_published_at": null,
 		"severity": "MODERATE"
 	}
 }
