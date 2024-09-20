@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xpp6-8r3j-ww43",
-	"modified": "2024-09-10T00:35:34.008084Z",
+	"modified": "2024-09-19T21:47:26.942766Z",
 	"published": "2024-07-08T21:31:40Z",
 	"aliases": [
 		"CVE-2024-5971"
@@ -399,6 +399,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2024:6508"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:6883"
 		},
 		{
 			"type": "WEB",
