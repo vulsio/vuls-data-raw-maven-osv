@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-29582"
 	],
+	"related": [
+		"CGA-crm9-p3mr-qc4q"
+	],
 	"summary": "Incorrect Default Permissions in JetBrains Kotlin",
 	"details": "In JetBrains Kotlin before 1.4.21, a vulnerable Java API was used for temporary file and folder creation. An attacker was able to read data from such files and list directories due to insecure permissions.",
 	"severity": [

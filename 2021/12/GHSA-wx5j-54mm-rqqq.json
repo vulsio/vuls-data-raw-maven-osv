@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-43797"
 	],
+	"related": [
+		"CGA-2vx5-qv6g-67jq"
+	],
 	"summary": "HTTP request smuggling in netty",
 	"details": "### Impact\n\nNetty currently just skips control chars when these are present at the beginning / end of the header name. We should better fail fast as these are not allowed by the spec and could lead to HTTP request smuggling.\n\nFailing to do the validation might cause netty to \"sanitize\" header names before it forward these to another remote system when used as proxy. This remote system can't see the invalid usage anymore and so not do the validation itself.\n\n",
 	"severity": [
