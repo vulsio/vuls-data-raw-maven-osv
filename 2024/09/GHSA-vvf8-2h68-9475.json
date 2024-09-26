@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vvf8-2h68-9475",
-	"modified": "2024-09-19T21:46:36.921747Z",
+	"modified": "2024-09-25T19:48:53.337438Z",
 	"published": "2024-09-19T18:30:52Z",
 	"aliases": [
 		"CVE-2024-8883"
@@ -294,6 +294,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-09-19T19:48:16Z",
 		"nvd_published_at": "2024-09-19T16:15:06Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }
