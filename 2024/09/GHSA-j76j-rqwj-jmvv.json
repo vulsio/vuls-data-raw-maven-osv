@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j76j-rqwj-jmvv",
-	"modified": "2024-09-09T22:57:34.358085Z",
+	"modified": "2024-09-27T14:50:37.599628Z",
 	"published": "2024-09-09T21:31:22Z",
 	"aliases": [
 		"CVE-2024-7341"
@@ -36,7 +36,7 @@
 							"introduced": "25.0.0"
 						},
 						{
-							"last_affected": "25.0.2"
+							"fixed": "25.0.5"
 						}
 					]
 				}
@@ -44,7 +44,9 @@
 			"versions": [
 				"25.0.0",
 				"25.0.1",
-				"25.0.2"
+				"25.0.2",
+				"25.0.3",
+				"25.0.4"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/09/GHSA-j76j-rqwj-jmvv/GHSA-j76j-rqwj-jmvv.json"
@@ -279,6 +281,18 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-7341"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/keycloak/keycloak/commit/2341d6ee7a3567c58fd6a04a419fe4403e13374c"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/keycloak/keycloak/commit/5b3de0c7e7f367103affe2f5167913a2ce021cf1"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/keycloak/keycloak/commit/5e06da2f6794c695051605e26a01affa3a18f66b"
 		},
 		{
 			"type": "WEB",
