@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-47804"
 	],
+	"related": [
+		"CGA-8x9v-cf96-pv47"
+	],
 	"summary": "Jenkins item creation restriction bypass vulnerability",
 	"details": "Jenkins provides APIs for fine-grained control of item creation:\n\n- Authorization strategies can prohibit the creation of items of a given type in a given item group (`ACL#hasCreatePermission2`).\n\n- Item types can prohibit creation of new instances in a given item group (`TopLevelItemDescriptor#isApplicableIn(ItemGroup)`).\n\nIf an attempt is made to create an item of a prohibited type through the Jenkins CLI or the REST API and either of the above checks fail, Jenkins 2.478 and earlier, LTS 2.462.2 and earlier creates the item in memory, only deleting it from disk.\n\nThis allows attackers with Item/Create permission to bypass these restrictions, creating a temporary item. With Item/Configure permission, they can also save the item to persist it.\n\nIf an attempt is made to create an item of a prohibited type through the Jenkins CLI or the REST API and either of the above checks fail, Jenkins 2.479, LTS 2.462.3 does not retain the item in memory.",
 	"severity": [
