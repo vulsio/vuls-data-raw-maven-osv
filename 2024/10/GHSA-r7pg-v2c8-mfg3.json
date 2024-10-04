@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r7pg-v2c8-mfg3",
-	"modified": "2024-10-03T17:01:07.833662Z",
+	"modified": "2024-10-03T17:12:24.501727Z",
 	"published": "2024-10-03T12:30:48Z",
+	"aliases": [
+		"CVE-2024-47561"
+	],
 	"summary": "Apache Avro Java SDK: Arbitrary Code Execution when reading Avro Data (Java SDK)",
 	"details": "Schema parsing in the Java SDK of Apache Avro 1.11.3 and previous versions allows bad actors to execute arbitrary code.\nUsers are recommended to upgrade to version 1.11.4  or 1.12.0, which fix this issue.",
 	"severity": [
