@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pj95-ph4q-4qm4",
-	"modified": "2024-10-02T22:12:29.113584Z",
+	"modified": "2024-10-04T08:12:06.257032Z",
 	"published": "2024-10-02T18:31:32Z",
 	"aliases": [
+		"BIT-jenkins-2024-47803",
 		"CVE-2024-47803"
 	],
 	"related": [
