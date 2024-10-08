@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jq3f-mfmg-747x",
-	"modified": "2024-09-30T17:28:47.811384Z",
+	"modified": "2024-10-07T19:00:49.801844Z",
 	"published": "2024-09-30T09:30:47Z",
 	"aliases": [
 		"CVE-2024-9329"
@@ -118,7 +118,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-233"
+			"CWE-233",
+			"CWE-601"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-09-30T17:13:15Z",
