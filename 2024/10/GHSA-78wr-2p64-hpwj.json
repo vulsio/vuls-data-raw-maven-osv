@@ -8,6 +8,7 @@
 	],
 	"related": [
 		"CGA-252j-5hcw-3x22",
+		"CGA-pwg2-7493-q9wm",
 		"CGA-v9q6-cg5v-8pf7"
 	],
 	"summary": "Apache Commons IO: Possible denial of service attack on untrusted input to XmlStreamReader",
