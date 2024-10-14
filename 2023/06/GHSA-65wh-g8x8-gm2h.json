@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-65wh-g8x8-gm2h",
-	"modified": "2024-02-16T08:17:31.736469Z",
+	"modified": "2024-10-14T14:33:21.492216Z",
 	"published": "2023-06-12T18:30:18Z",
 	"aliases": [
 		"CVE-2023-34212"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.nifi:nifi-jms-bundle",
-				"purl": "pkg:maven/org.apache.nifi/nifi-jms-bundle"
+				"name": "org.apache.nifi:nifi-jms-processors",
+				"purl": "pkg:maven/org.apache.nifi/nifi-jms-processors"
 			},
 			"ranges": [
 				{
