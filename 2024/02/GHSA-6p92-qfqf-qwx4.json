@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6p92-qfqf-qwx4",
-	"modified": "2024-02-16T08:22:19.091528Z",
+	"modified": "2024-10-16T22:25:50.931616Z",
 	"published": "2024-02-12T15:08:48Z",
 	"aliases": [
 		"CVE-2024-23833"
@@ -72,7 +72,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-22"
+			"CWE-22",
+			"CWE-863"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-02-12T15:08:48Z",

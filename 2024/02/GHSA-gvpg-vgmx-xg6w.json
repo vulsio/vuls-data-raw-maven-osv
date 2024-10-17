@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gvpg-vgmx-xg6w",
-	"modified": "2024-03-15T14:58:52.822457Z",
+	"modified": "2024-10-16T22:25:34.229148Z",
 	"published": "2024-02-11T06:30:27Z",
 	"aliases": [
 		"CVE-2023-52428"
@@ -15,6 +15,12 @@
 	],
 	"summary": "Denial of Service in Connect2id Nimbus JOSE+JWT",
 	"details": "In Connect2id Nimbus JOSE+JWT before 9.37.2, an attacker can cause a denial of service (resource consumption) via a large JWE p2c header value (aka iteration count) for the PasswordBasedDecrypter (PBKDF2) component.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -337,6 +343,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-03-15T14:23:03Z",
 		"nvd_published_at": "2024-02-11T05:15:08Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }
