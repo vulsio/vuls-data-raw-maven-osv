@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9442-gm4v-r222",
-	"modified": "2024-09-09T18:45:48.143185Z",
+	"modified": "2024-10-17T14:37:50.265447Z",
 	"published": "2024-06-20T15:31:19Z",
 	"aliases": [
 		"CVE-2024-6162"
@@ -19,6 +19,48 @@
 		}
 	],
 	"affected": [
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "io.undertow:undertow-core",
+				"purl": "pkg:maven/io.undertow/undertow-core"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "2.3.0.Alpha1"
+						},
+						{
+							"fixed": "2.3.14.Final"
+						}
+					]
+				}
+			],
+			"versions": [
+				"2.3.0.Alpha1",
+				"2.3.0.Alpha2",
+				"2.3.0.Beta1",
+				"2.3.0.Final",
+				"2.3.1.Final",
+				"2.3.10.Final",
+				"2.3.11.Final",
+				"2.3.12.Final",
+				"2.3.13.Final",
+				"2.3.2.Final",
+				"2.3.3.Final",
+				"2.3.4.Final",
+				"2.3.5.Final",
+				"2.3.6.Final",
+				"2.3.7.Final",
+				"2.3.8.Final",
+				"2.3.9.Final"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-9442-gm4v-r222/GHSA-9442-gm4v-r222.json"
+			}
+		},
 		{
 			"package": {
 				"ecosystem": "Maven",
@@ -337,6 +379,7 @@
 				"2.2.33.Final",
 				"2.2.34.Final",
 				"2.2.35.Final",
+				"2.2.36.Final",
 				"2.2.4.Final",
 				"2.2.5.Final",
 				"2.2.6.Final",
@@ -362,6 +405,7 @@
 				"2.3.9.Final"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "< 2.2.33.Final",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/06/GHSA-9442-gm4v-r222/GHSA-9442-gm4v-r222.json"
 			}
 		}
@@ -370,6 +414,18 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-6162"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/undertow-io/undertow/pull/1612"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/undertow-io/undertow/commit/90f202ada89b6d9883beed0f1fe10c99d470d9a8"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/undertow-io/undertow/commit/a28ac53076e2fa532266d25e0c0b1a01d0e9d2cf"
 		},
 		{
 			"type": "WEB",
@@ -398,6 +454,10 @@
 		{
 			"type": "WEB",
 			"url": "https://issues.redhat.com/browse/JBEAP-26268"
+		},
+		{
+			"type": "WEB",
+			"url": "https://issues.redhat.com/browse/UNDERTOW-2334"
 		}
 	],
 	"database_specific": {
