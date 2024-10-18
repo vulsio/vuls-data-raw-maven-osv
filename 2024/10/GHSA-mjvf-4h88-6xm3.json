@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mjvf-4h88-6xm3",
-	"modified": "2024-10-16T19:25:47Z",
+	"modified": "2024-10-18T07:58:53.954299Z",
 	"published": "2024-10-16T09:30:31Z",
 	"aliases": [
+		"BIT-solr-2024-45216",
 		"CVE-2024-45216"
 	],
 	"summary": "Improper Authentication vulnerability in Apache Solr",

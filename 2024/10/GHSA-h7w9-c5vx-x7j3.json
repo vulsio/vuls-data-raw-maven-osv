@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h7w9-c5vx-x7j3",
-	"modified": "2024-10-16T19:26:04Z",
+	"modified": "2024-10-18T07:58:53.165735Z",
 	"published": "2024-10-16T09:30:31Z",
 	"aliases": [
+		"BIT-solr-2024-45217",
 		"CVE-2024-45217"
 	],
 	"summary": "Insecure Default Initialization of Resource vulnerability in Apache Solr",
