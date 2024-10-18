@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j26w-f9rq-mr2q",
-	"modified": "2024-10-14T21:27:23.693837Z",
+	"modified": "2024-10-18T17:57:01.254953Z",
 	"published": "2024-10-14T15:30:46Z",
 	"aliases": [
-		"CVE-2024-9823"
+		"CVE-2024-9823",
+		"GHSA-7hcf-ppf8-5w5h"
 	],
 	"summary": "Eclipse Jetty has a denial of service vulnerability on DosFilter",
 	"details": "Description\nThere exists a security vulnerability in Jetty's DosFilter which can be exploited by unauthorized users to cause remote denial-of-service (DoS) attack on the server using DosFilter. By repeatedly sending crafted requests, attackers can trigger OutofMemory errors and exhaust the server's memory finally.\n\n\nVulnerability details\nThe Jetty DoSFilter (Denial of Service Filter) is a security filter designed to protect web applications against certain types of Denial of Service (DoS) attacks and other abusive behavior. It helps to mitigate excessive resource consumption by limiting the rate at which clients can make requests to the server.  The DoSFilter monitors and tracks client request patterns, including request rates, and can take actions such as blocking or delaying requests from clients that exceed predefined thresholds.  The internal tracking of requests in DoSFilter is the source of this OutOfMemory condition.\n\n\nImpact\nUsers of the DoSFilter may be subject to DoS attacks that will ultimately exhaust the memory of the server if they have not configured session passivation or an aggressive session inactivation timeout.\n\n\nPatches\nThe DoSFilter has been patched in all active releases to no longer support the session tracking mode, even if configured.\n\n\nPatched releases:\n\n  *  9.4.54\n  *  10.0.18\n  *  11.0.18\n  *  12.0.3",
