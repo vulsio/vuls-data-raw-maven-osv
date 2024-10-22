@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hh82-3pmq-7frp",
-	"modified": "2024-02-16T08:16:47.348878Z",
+	"modified": "2024-10-22T05:28:57.963316Z",
 	"published": "2022-12-12T21:25:44Z",
 	"aliases": [
+		"CGA-q8q6-vmh7-23q3",
 		"CVE-2022-41915"
 	],
 	"summary": "Netty vulnerable to HTTP Response splitting from assigning header value iterator",

@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9w38-p64v-xpmv",
-	"modified": "2024-05-02T19:01:50.467813Z",
+	"modified": "2024-10-22T05:29:02.828048Z",
 	"published": "2024-03-21T09:31:14Z",
 	"aliases": [
+		"CGA-4phw-5934-cp4w",
 		"CVE-2024-29133"
 	],
 	"related": [

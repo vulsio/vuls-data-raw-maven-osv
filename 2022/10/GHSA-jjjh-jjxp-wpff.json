@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jjjh-jjxp-wpff",
-	"modified": "2024-09-13T19:01:22.278682Z",
+	"modified": "2024-10-22T05:28:54.705123Z",
 	"published": "2022-10-03T00:00:31Z",
 	"aliases": [
+		"CGA-cr64-vww2-xpq8",
 		"CVE-2022-42003"
 	],
 	"related": [

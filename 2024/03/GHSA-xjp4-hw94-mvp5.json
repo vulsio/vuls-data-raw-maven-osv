@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xjp4-hw94-mvp5",
-	"modified": "2024-05-02T19:03:02.271426Z",
+	"modified": "2024-10-22T05:29:01.376365Z",
 	"published": "2024-03-21T09:31:14Z",
 	"aliases": [
+		"CGA-6jvc-fmj8-g22f",
 		"CVE-2024-29131"
 	],
 	"related": [

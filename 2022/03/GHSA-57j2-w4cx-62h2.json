@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-57j2-w4cx-62h2",
-	"modified": "2024-03-15T00:31:45.682369Z",
+	"modified": "2024-10-22T05:29:08.356656Z",
 	"published": "2022-03-12T00:00:36Z",
 	"aliases": [
+		"CGA-mh4f-39hj-cv5p",
 		"CVE-2020-36518"
 	],
 	"summary": "Deeply nested json in jackson-databind",

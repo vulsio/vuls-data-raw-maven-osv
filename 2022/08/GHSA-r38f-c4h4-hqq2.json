@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r38f-c4h4-hqq2",
-	"modified": "2024-02-16T08:10:40.886887Z",
+	"modified": "2024-10-22T05:28:51.652017Z",
 	"published": "2022-08-06T05:51:38Z",
 	"aliases": [
 		"BIT-postgresql-jdbc-driver-2022-31197",
+		"CGA-fqv6-m5xf-9wf3",
 		"CVE-2022-31197"
 	],
 	"related": [

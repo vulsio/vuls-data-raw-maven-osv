@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7g45-4rm6-3mm3",
-	"modified": "2024-07-15T22:00:20.197101Z",
+	"modified": "2024-10-22T05:29:00.637094Z",
 	"published": "2023-06-14T18:30:38Z",
 	"aliases": [
+		"CGA-g8pm-vcpp-9jxq",
 		"CVE-2023-2976"
 	],
 	"related": [

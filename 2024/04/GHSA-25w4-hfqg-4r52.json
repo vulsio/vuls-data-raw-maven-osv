@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-25w4-hfqg-4r52",
-	"modified": "2024-08-02T16:11:11.250991Z",
+	"modified": "2024-10-22T05:29:03.562565Z",
 	"published": "2024-04-25T18:30:39Z",
 	"aliases": [
+		"CGA-c73v-xh83-x849",
+		"CGA-qjg8-r8p4-27c9",
 		"CVE-2023-5675"
 	],
 	"summary": "Quarkus: authorization flaw in quarkus resteasy reactive and classic",

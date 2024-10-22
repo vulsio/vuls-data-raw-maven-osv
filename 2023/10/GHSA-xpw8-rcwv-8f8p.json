@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xpw8-rcwv-8f8p",
-	"modified": "2024-02-16T08:23:58.662031Z",
+	"modified": "2024-10-22T05:29:14.079317Z",
 	"published": "2023-10-10T22:22:54Z",
+	"aliases": [
+		"CGA-gph4-p2pw-xq8x"
+	],
 	"related": [
 		"CGA-6774-f4f4-5fh3",
 		"CGA-765w-472h-4f7c",

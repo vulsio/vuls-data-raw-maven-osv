@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3x8x-79m2-3w2w",
-	"modified": "2023-11-08T04:07:27.620078Z",
+	"modified": "2024-10-22T05:28:49.709560Z",
 	"published": "2023-03-19T00:30:25Z",
 	"aliases": [
+		"CGA-fgh7-phh7-cj6x",
 		"CVE-2021-46877"
 	],
 	"summary": "jackson-databind possible Denial of Service if using JDK serialization to serialize JsonNode",

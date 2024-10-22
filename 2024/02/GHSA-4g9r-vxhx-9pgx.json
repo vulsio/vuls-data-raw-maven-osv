@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4g9r-vxhx-9pgx",
-	"modified": "2024-07-15T22:00:21.067191Z",
+	"modified": "2024-10-22T05:28:51.890772Z",
 	"published": "2024-02-19T09:30:50Z",
 	"aliases": [
+		"CGA-6rmf-ffqm-f8vv",
 		"CVE-2024-25710"
 	],
 	"related": [

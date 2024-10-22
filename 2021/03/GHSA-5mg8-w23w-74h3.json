@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5mg8-w23w-74h3",
-	"modified": "2024-09-03T03:41:57.906760Z",
+	"modified": "2024-10-22T05:29:00.343921Z",
 	"published": "2021-03-25T17:04:19Z",
 	"aliases": [
+		"CGA-7rjh-334q-pq8g",
 		"CVE-2020-8908",
 		"SNYK-JAVA-COMGOOGLEGUAVA-1015415"
 	],

@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rgv9-q543-rqg4",
-	"modified": "2024-03-14T23:46:09.729455Z",
+	"modified": "2024-10-22T05:28:56.728965Z",
 	"published": "2022-10-03T00:00:31Z",
 	"aliases": [
+		"CGA-9vjr-qmvr-wg48",
 		"CVE-2022-42004"
 	],
 	"related": [

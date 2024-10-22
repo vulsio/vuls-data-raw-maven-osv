@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3j6g-hxx5-3q26",
-	"modified": "2024-02-16T08:20:03.027168Z",
+	"modified": "2024-10-22T05:28:59.273186Z",
 	"published": "2021-09-23T23:18:58Z",
 	"aliases": [
 		"BIT-kafka-2021-38153",
+		"CGA-6xhq-ggm7-4q2r",
 		"CVE-2021-38153"
 	],
 	"summary": "Observable Discrepancy in Apache Kafka",

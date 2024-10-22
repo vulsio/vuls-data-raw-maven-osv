@@ -1,13 +1,16 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-24rp-q3w6-vc56",
-	"modified": "2024-10-08T04:26:56.903515Z",
+	"modified": "2024-10-22T05:28:53.424537Z",
 	"published": "2024-02-21T23:33:43Z",
 	"aliases": [
 		"BIT-postgresql-jdbc-driver-2024-1597",
+		"CGA-5cmg-w6mr-wx73",
+		"CGA-pp92-9wg6-xwgx",
 		"CVE-2024-1597",
 		"CVE-2024-32888",
-		"GHSA-x3wm-hffr-chwm"
+		"GHSA-x3wm-hffr-chwm",
+		"GHSA-xfg6-62px-cxc2"
 	],
 	"related": [
 		"CGA-2jc3-3rhh-rc7v",

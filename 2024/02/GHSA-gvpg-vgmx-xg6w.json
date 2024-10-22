@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gvpg-vgmx-xg6w",
-	"modified": "2024-10-16T22:25:34.229148Z",
+	"modified": "2024-10-22T05:29:04.341743Z",
 	"published": "2024-02-11T06:30:27Z",
 	"aliases": [
+		"CGA-hvjw-cqfw-cqf3",
 		"CVE-2023-52428"
 	],
 	"related": [
