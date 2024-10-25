@@ -7,8 +7,11 @@
 		"CVE-2024-8184"
 	],
 	"related": [
+		"CGA-3v96-9425-c5jg",
 		"CGA-45xv-w77x-56w8",
 		"CGA-56m4-5757-c9j7",
+		"CGA-6wch-9rxv-fw5r",
+		"CGA-vp9g-g9wg-4xpq",
 		"CGA-xj92-8mfm-x22p"
 	],
 	"summary": "Eclipse Jetty's ThreadLimitHandler.getRemote() vulnerable to remote DoS attacks",
