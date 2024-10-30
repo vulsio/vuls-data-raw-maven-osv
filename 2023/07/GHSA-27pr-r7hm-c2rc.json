@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-27pr-r7hm-c2rc",
-	"modified": "2024-02-18T05:32:37.663462Z",
+	"modified": "2024-10-29T22:01:11.232819Z",
 	"published": "2023-07-19T18:30:55Z",
 	"aliases": [
 		"CVE-2023-32261"
@@ -78,11 +78,17 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://www.jenkins.io/security/advisory/2023-06-14"
+		},
+		{
+			"type": "WEB",
 			"url": "https://www.jenkins.io/security/advisory/2023-06-14/#SECURITY-3138"
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-863"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-01-30T23:03:10Z",
 		"nvd_published_at": "2023-07-19T16:15:09Z",
