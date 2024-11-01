@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f686-hw9c-xw9c",
-	"modified": "2024-10-30T22:01:06.485515Z",
+	"modified": "2024-10-31T20:03:50.412294Z",
 	"published": "2024-10-30T14:37:53Z",
 	"aliases": [
 		"CVE-2024-43382"
@@ -195,7 +195,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-311"
+			"CWE-311",
+			"CWE-326"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-10-30T14:37:53Z",
