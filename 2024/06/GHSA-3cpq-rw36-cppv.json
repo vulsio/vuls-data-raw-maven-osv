@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3cpq-rw36-cppv",
-	"modified": "2024-06-26T20:27:47.831699Z",
+	"modified": "2024-11-01T20:11:35.521524Z",
 	"published": "2024-06-26T18:30:28Z",
 	"aliases": [
 		"CVE-2024-39459"
@@ -83,7 +83,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-319"
+			"CWE-319",
+			"CWE-922"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-06-26T20:07:12Z",
