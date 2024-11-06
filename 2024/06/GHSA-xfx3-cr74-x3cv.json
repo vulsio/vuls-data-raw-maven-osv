@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xfx3-cr74-x3cv",
-	"modified": "2024-07-15T22:12:28.627036Z",
+	"modified": "2024-11-06T14:54:14.378956Z",
 	"published": "2024-06-26T18:30:28Z",
 	"aliases": [
 		"CVE-2024-39458"
@@ -15,6 +15,10 @@
 		{
 			"type": "CVSS_V3",
 			"score": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:N/A:N"
+		},
+		{
+			"type": "CVSS_V4",
+			"score": "CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
@@ -98,7 +102,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-200"
+			"CWE-200",
+			"CWE-209"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-06-26T20:03:44Z",
