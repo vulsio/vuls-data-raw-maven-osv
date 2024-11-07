@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-38752"
 	],
+	"related": [
+		"CGA-85g9-6hwh-32gx"
+	],
 	"summary": "snakeYAML before 1.32 vulnerable to Denial of Service due to Out-of-bounds Write",
 	"details": "Using snakeYAML to parse untrusted YAML files may be vulnerable to Denial of Service attacks (DoS). If the parser is running on user supplied input, an attacker may supply content that causes the parser to crash by stack-overflow.",
 	"severity": [

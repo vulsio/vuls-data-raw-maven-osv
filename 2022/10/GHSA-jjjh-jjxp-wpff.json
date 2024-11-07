@@ -8,6 +8,7 @@
 		"CVE-2022-42003"
 	],
 	"related": [
+		"CGA-9gmq-c996-778j",
 		"CGA-fqmv-h753-pwr7"
 	],
 	"summary": "Uncontrolled Resource Consumption in Jackson-databind",

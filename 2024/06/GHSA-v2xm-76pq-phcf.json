@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-47621"
 	],
+	"related": [
+		"CGA-654j-wjm3-qmg4"
+	],
 	"summary": "ClassGraph XML External Entity Reference",
 	"details": "ClassGraph before 4.8.112 was not resistant to XML eXternal Entity (XXE) attacks.",
 	"severity": [
