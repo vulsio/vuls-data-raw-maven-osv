@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-38821"
 	],
+	"related": [
+		"CGA-f4v6-8g9q-cvhm"
+	],
 	"summary": "Spring Security vulnerable to Authorization Bypass of Static Resources in WebFlux Applications",
 	"details": "Spring WebFlux applications that have Spring Security authorization rules on static resources can be bypassed under certain circumstances.\n\nFor this to impact an application, all of the following must be true:\n\n  *  It must be a WebFlux application\n  *  It must be using Spring's static resources support\n  *  It must have a non-permitAll authorization rule applied to the static resources support",
 	"severity": [
