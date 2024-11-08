@@ -7,6 +7,7 @@
 		"CVE-2022-25857"
 	],
 	"related": [
+		"CGA-v8c3-wc4q-hfmx",
 		"CGA-w753-xwwq-8ch4"
 	],
 	"summary": "Uncontrolled Resource Consumption in snakeyaml",

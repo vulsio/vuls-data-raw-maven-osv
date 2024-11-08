@@ -7,6 +7,7 @@
 		"CVE-2022-41854"
 	],
 	"related": [
+		"CGA-7rjv-f2q6-55mp",
 		"CGA-vgwv-c777-jqwv"
 	],
 	"summary": "Snakeyaml vulnerable to Stack overflow leading to denial of service",

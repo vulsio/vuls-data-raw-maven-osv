@@ -8,6 +8,7 @@
 		"CVE-2021-46877"
 	],
 	"related": [
+		"CGA-rxrj-cf2v-c7cp",
 		"CGA-v95v-8w2m-8jvx"
 	],
 	"summary": "jackson-databind possible Denial of Service if using JDK serialization to serialize JsonNode",

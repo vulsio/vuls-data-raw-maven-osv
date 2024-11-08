@@ -8,7 +8,8 @@
 		"CVE-2020-36518"
 	],
 	"related": [
-		"CGA-449j-52qq-cgj7"
+		"CGA-449j-52qq-cgj7",
+		"CGA-f5fm-pjmq-gwc9"
 	],
 	"summary": "Deeply nested json in jackson-databind",
 	"details": "jackson-databind is a data-binding package for the Jackson Data Processor. jackson-databind allows a Java stack overflow exception and denial of service via a large depth of nested objects.",
