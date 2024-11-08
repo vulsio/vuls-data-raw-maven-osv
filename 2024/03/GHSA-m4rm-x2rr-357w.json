@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m4rm-x2rr-357w",
-	"modified": "2024-05-02T14:15:18.980412Z",
+	"modified": "2024-11-07T19:22:05.678027Z",
 	"published": "2024-03-06T18:30:38Z",
 	"aliases": [
 		"CVE-2024-28152"
@@ -157,7 +157,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-281"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-03-06T19:20:57Z",
 		"nvd_published_at": "2024-03-06T17:15:10Z",
