@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7jqf-v358-p8g7",
-	"modified": "2024-11-07T17:59:25.599711Z",
+	"modified": "2024-11-09T07:56:59.074317Z",
 	"published": "2024-11-07T09:30:42Z",
 	"aliases": [
+		"BIT-tomcat-2024-38286",
 		"CVE-2024-38286"
 	],
 	"summary": "Apache Tomcat Allocation of Resources Without Limits or Throttling vulnerability",
