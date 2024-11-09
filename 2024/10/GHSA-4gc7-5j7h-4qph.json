@@ -7,7 +7,8 @@
 		"CVE-2024-38820"
 	],
 	"related": [
-		"CGA-c6cq-22q6-hc8w"
+		"CGA-c6cq-22q6-hc8w",
+		"CGA-xqp6-884p-65f9"
 	],
 	"summary": "Spring Framework DataBinder Case Sensitive Match Exception",
 	"details": "The fix for CVE-2022-22968 made disallowedFields patterns in DataBinder case insensitive. However, String.toLowerCase() has some Locale dependent exceptions that could potentially result in fields not protected as expected.",
