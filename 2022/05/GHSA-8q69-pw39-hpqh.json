@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-16971"
 	],
+	"related": [
+		"CGA-665j-29x9-vgrf"
+	],
 	"summary": "Azure SDK for Java Security Feature Bypass Vulnerability",
 	"details": "Azure SDK for Java Security Feature Bypass Vulnerability",
 	"severity": [

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g5vf-v6wf-7w2r",
-	"modified": "2023-11-08T04:04:19.465376Z",
+	"modified": "2024-11-13T23:22:30.359134Z",
 	"published": "2020-10-16T00:51:24Z",
 	"aliases": [
 		"CVE-2020-8929",
@@ -13,6 +13,10 @@
 		{
 			"type": "CVSS_V3",
 			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+		},
+		{
+			"type": "CVSS_V4",
+			"score": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:N/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
@@ -71,6 +75,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/google/tink/commit/93d839a5865b9d950dffdc9d0bc99b71280a8899"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/pypa/advisory-database/tree/main/vulns/tink/PYSEC-2020-142.yaml"
 		}
 	],
 	"database_specific": {
@@ -81,6 +89,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2020-10-16T00:49:43Z",
 		"nvd_published_at": null,
-		"severity": "LOW"
+		"severity": "MODERATE"
 	}
 }
