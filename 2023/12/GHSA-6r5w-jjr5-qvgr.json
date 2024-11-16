@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6r5w-jjr5-qvgr",
-	"modified": "2024-02-16T08:18:29.632621Z",
+	"modified": "2024-11-15T22:32:11.341265Z",
 	"published": "2023-12-13T18:31:04Z",
 	"aliases": [
 		"CVE-2023-50770"
 	],
 	"summary": "Password stored in a recoverable format by Jenkins OpenId Connect Authentication Plugin ",
-	"details": "Jenkins OpenId Connect Authentication Plugin 2.6 and earlier stores a password of a local user account used as an anti-lockout feature in a recoverable format, allowing attackers with access to the Jenkins controller file system to recover the plain text password of that account, likely gaining administrator access to Jenkins.",
+	"details": "Jenkins OpenId Connect Authentication Plugin stores a password of a local user account used as an anti-lockout feature in a recoverable format, allowing attackers with access to the Jenkins controller file system to recover the plain text password of that account, likely gaining administrator access to Jenkins.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "2.6"
+							"fixed": "4.229.vf736b"
 						}
 					]
 				}
@@ -50,7 +50,14 @@
 				"2.3",
 				"2.4",
 				"2.5",
-				"2.6"
+				"2.6",
+				"3.0",
+				"4.220.v22331f08e6a_3",
+				"4.223.v503b_9a_75a_8a_f",
+				"4.224.v62720cfa_026e",
+				"4.225.v03326773b_44b_",
+				"4.227.v36610663f760",
+				"4.228.v0c3e8682ff1f"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/12/GHSA-6r5w-jjr5-qvgr/GHSA-6r5w-jjr5-qvgr.json"
@@ -61,6 +68,22 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-50770"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/oic-auth-plugin/issues/259"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkins-infra/update-center2/pull/773"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/jenkinsci/oic-auth-plugin/pull/287"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/jenkinsci/oic-auth-plugin"
 		},
 		{
 			"type": "WEB",
