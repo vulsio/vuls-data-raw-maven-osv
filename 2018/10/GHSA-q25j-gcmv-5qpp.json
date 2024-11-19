@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q25j-gcmv-5qpp",
-	"modified": "2023-11-08T03:59:38.835705Z",
+	"modified": "2024-11-18T18:32:30.822864Z",
 	"published": "2018-10-19T16:46:01Z",
 	"aliases": [
 		"CVE-2018-1000529"
 	],
-	"summary": "Moderate severity vulnerability that affects org.grails.plugins:fields and org.grails:grails-core",
-	"details": "Grails Fields plugin version 2.2.7 contains a Cross Site Scripting (XSS) vulnerability in Using the display tag that can result in XSS . This vulnerability appears to have been fixed in 2.2.8.",
+	"summary": "Stored Cross Site Scripting in Grails Fields Plugin",
+	"details": "Grails Fields plugin version 2.2.7 contains a Cross Site Scripting (XSS) vulnerability in using the display tag that can result in XSS. This vulnerability has been fixed in version 2.2.8.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
