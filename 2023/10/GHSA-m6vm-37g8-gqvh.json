@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m6vm-37g8-gqvh",
-	"modified": "2024-08-29T21:24:31.983038Z",
+	"modified": "2024-11-19T05:22:33.129783Z",
 	"published": "2023-10-18T00:31:42Z",
 	"aliases": [
 		"CVE-2023-22102"
@@ -99,6 +99,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-08-29T18:32:05Z",
 		"nvd_published_at": "2023-10-17T22:15:15Z",
-		"severity": "HIGH"
+		"severity": "CRITICAL"
 	}
 }
