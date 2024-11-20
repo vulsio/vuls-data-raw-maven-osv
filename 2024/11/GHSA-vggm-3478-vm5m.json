@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-vggm-3478-vm5m",
-	"modified": "2024-11-18T23:17:48.265688Z",
+	"modified": "2024-11-19T21:02:01.508254Z",
 	"published": "2024-11-18T20:02:26Z",
 	"aliases": [
 		"CVE-2024-52506"
