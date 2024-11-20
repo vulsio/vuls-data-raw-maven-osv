@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f632-9449-3j4w",
-	"modified": "2024-11-18T21:12:17.832937Z",
+	"modified": "2024-11-20T07:57:01.423198Z",
 	"published": "2024-11-18T15:33:20Z",
 	"aliases": [
+		"BIT-tomcat-2024-52318",
 		"CVE-2024-52318"
 	],
 	"summary": "Apache Tomcat - XSS in generated JSPs",
