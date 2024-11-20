@@ -8,6 +8,7 @@
 	],
 	"related": [
 		"CGA-7rjv-f2q6-55mp",
+		"CGA-vgmg-hv2p-g7h8",
 		"CGA-vgwv-c777-jqwv"
 	],
 	"summary": "Snakeyaml vulnerable to Stack overflow leading to denial of service",
