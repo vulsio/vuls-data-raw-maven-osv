@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c86f-9grv-pmqf",
-	"modified": "2023-11-08T04:10:11.863700Z",
+	"modified": "2024-11-21T14:57:14.626772Z",
 	"published": "2022-09-06T00:00:27Z",
 	"aliases": [
-		"CVE-2022-38370"
+		"CVE-2022-38370",
+		"PYSEC-2022-43070"
 	],
 	"summary": "Apache IoTDB grafana-connector contains an interface without authorization",
 	"details": "Apache IoTDB grafana-connector version 0.13.0 contains an interface without authorization, which may expose the internal structure of a database. Users should upgrade to version 0.13.1, which addresses this issue.",
