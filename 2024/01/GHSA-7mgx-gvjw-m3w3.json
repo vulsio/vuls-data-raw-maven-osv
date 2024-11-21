@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7mgx-gvjw-m3w3",
-	"modified": "2024-11-20T18:42:39Z",
+	"modified": "2024-11-21T04:26:59.277852Z",
 	"published": "2024-01-30T03:30:30Z",
 	"aliases": [
-		"CVE-2023-51982",
-		"PYSEC-2024-27"
+		"CVE-2023-51982"
 	],
 	"summary": "CrateDB authentication bypass vulnerability",
 	"details": "CrateDB 5.5.1 is contains an authentication bypass vulnerability in the Admin UI component. After configuring password authentication and_ Local_ In the case of an address, identity authentication can be bypassed by setting the X-Real IP request header to a specific value and accessing the Admin UI directly using the default user identity.",
