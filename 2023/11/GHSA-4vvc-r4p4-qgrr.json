@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4vvc-r4p4-qgrr",
-	"modified": "2024-11-21T14:56:59.501507Z",
+	"modified": "2024-11-21T21:34:36.599093Z",
 	"published": "2023-11-24T09:30:28Z",
 	"aliases": [
 		"CVE-2023-48796",
@@ -42,6 +42,33 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-4vvc-r4p4-qgrr/GHSA-4vvc-r4p4-qgrr.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "PyPI",
+				"name": "apache-dolphinscheduler",
+				"purl": "pkg:pypi/apache-dolphinscheduler"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.0.0"
+						},
+						{
+							"fixed": "3.0.2"
+						}
+					]
+				}
+			],
+			"versions": [
+				"3.0.0",
+				"3.0.1"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/11/GHSA-4vvc-r4p4-qgrr/GHSA-4vvc-r4p4-qgrr.json"
+			}
 		}
 	],
 	"references": [
@@ -52,6 +79,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/apache/dolphinscheduler"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/pypa/advisory-database/tree/main/vulns/apache-dolphinscheduler/PYSEC-2023-268.yaml"
 		},
 		{
 			"type": "WEB",
