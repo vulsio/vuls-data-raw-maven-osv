@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2rwm-xv5j-777p",
-	"modified": "2024-07-17T19:56:53.179158Z",
+	"modified": "2024-11-25T05:24:35.605972Z",
 	"published": "2024-07-17T15:30:50Z",
 	"aliases": [
 		"CVE-2023-7272"
@@ -110,6 +110,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-07-17T19:29:06Z",
 		"nvd_published_at": "2024-07-17T15:15:10Z",
-		"severity": "HIGH"
+		"severity": "CRITICAL"
 	}
 }
