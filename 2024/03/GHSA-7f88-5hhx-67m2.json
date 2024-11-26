@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7f88-5hhx-67m2",
-	"modified": "2024-05-08T09:46:00.155074Z",
+	"modified": "2024-11-26T03:50:27.807398Z",
 	"published": "2024-03-22T21:30:56Z",
 	"aliases": [
 		"CVE-2023-5685"
@@ -139,6 +139,7 @@
 				"3.5.0.CR2",
 				"3.5.0.Final",
 				"3.5.1.Final",
+				"3.5.10.Final",
 				"3.5.2.Final",
 				"3.5.3.Final",
 				"3.5.4.Final",
@@ -164,6 +165,7 @@
 				"3.7.10.Final",
 				"3.7.11.Final",
 				"3.7.12.Final",
+				"3.7.13.Final",
 				"3.7.2.Final",
 				"3.7.3.Final",
 				"3.7.4.Final",
@@ -216,6 +218,14 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2023:7641"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:10207"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:10208"
 		},
 		{
 			"type": "WEB",
