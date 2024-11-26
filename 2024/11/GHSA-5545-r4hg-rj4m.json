@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2024-10492"
 	],
+	"related": [
+		"CGA-694j-5xmj-cmgw",
+		"CGA-x364-25j3-gjfx"
+	],
 	"summary": "Keycloak Path Traversal Vulnerability Due to External Control of File Name or Path",
 	"details": "A vulnerability was found in Keycloak. A user with high privileges could read sensitive information from a Vault file that is not within the expected context. This attacker must have previous high access to the Keycloak server in order to perform resource creation, for example, an LDAP provider configuration and set up a Vault read file, which will only inform whether that file exists or not.",
 	"severity": [

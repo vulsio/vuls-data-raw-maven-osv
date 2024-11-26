@@ -6,6 +6,10 @@
 	"aliases": [
 		"CVE-2024-10270"
 	],
+	"related": [
+		"CGA-35hf-7pgf-4h7w",
+		"CGA-h6xj-ppgf-v3m9"
+	],
 	"summary": "org.keycloak:keycloak-services has Inefficient Regular Expression Complexity",
 	"details": "A vulnerability was found in the Keycloak-services package. If untrusted data is passed to the SearchQueryUtils method, it could lead to a denial of service (DoS) scenario by exhausting system resources due to a Regex complexity.",
 	"severity": [
