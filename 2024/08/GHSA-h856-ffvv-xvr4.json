@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h856-ffvv-xvr4",
-	"modified": "2024-08-16T18:46:07.228830Z",
+	"modified": "2024-11-26T05:37:26.241468Z",
 	"published": "2024-08-07T15:30:42Z",
 	"aliases": [
 		"BIT-jenkins-2024-43044",
@@ -1324,6 +1324,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-08-07T18:12:59Z",
 		"nvd_published_at": "2024-08-07T14:15:33Z",
-		"severity": "CRITICAL"
+		"severity": "HIGH"
 	}
 }
