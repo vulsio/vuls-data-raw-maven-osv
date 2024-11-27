@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w97f-w3hq-36g2",
-	"modified": "2024-09-17T13:34:01.569330Z",
+	"modified": "2024-11-27T05:26:48.776421Z",
 	"published": "2024-09-10T18:30:44Z",
 	"aliases": [
 		"CVE-2023-6841"
@@ -246,6 +246,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-09-10T19:41:54Z",
 		"nvd_published_at": "2024-09-10T17:15:15Z",
-		"severity": "MODERATE"
+		"severity": "HIGH"
 	}
 }
