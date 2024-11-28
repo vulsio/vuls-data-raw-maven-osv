@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wwcp-26wc-3fxm",
-	"modified": "2024-11-07T22:01:06.090635Z",
+	"modified": "2024-11-28T05:34:06.385426Z",
 	"published": "2024-10-04T06:30:45Z",
 	"aliases": [
 		"CVE-2024-47855"

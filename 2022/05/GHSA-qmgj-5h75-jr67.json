@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qmgj-5h75-jr67",
-	"modified": "2024-02-16T08:11:15.505183Z",
+	"modified": "2024-11-28T05:30:12.510709Z",
 	"published": "2022-05-01T07:02:10Z",
 	"aliases": [
 		"CVE-2006-2758"
@@ -57,7 +57,11 @@
 				"6.0.0rc1",
 				"6.0.0rc2",
 				"6.0.0rc3",
-				"6.0.0rc4"
+				"6.0.0rc4",
+				"test-6.0.0",
+				"test-6.0.0rc3",
+				"test-6.0.0rc4",
+				"test-6.0.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-qmgj-5h75-jr67/GHSA-qmgj-5h75-jr67.json"

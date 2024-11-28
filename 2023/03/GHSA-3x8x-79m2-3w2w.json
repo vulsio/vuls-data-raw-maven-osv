@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3x8x-79m2-3w2w",
-	"modified": "2024-10-22T05:28:49.709560Z",
+	"modified": "2024-11-28T05:46:06.039357Z",
 	"published": "2023-03-19T00:30:25Z",
 	"aliases": [
 		"CGA-fgh7-phh7-cj6x",

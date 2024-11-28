@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-475f-74wp-pqv5",
-	"modified": "2024-02-22T16:31:22.616322Z",
+	"modified": "2024-11-28T05:36:12.436553Z",
 	"published": "2022-05-14T01:10:19Z",
 	"aliases": [
 		"CVE-2014-0075"

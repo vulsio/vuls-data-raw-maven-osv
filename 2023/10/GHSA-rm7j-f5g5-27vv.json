@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rm7j-f5g5-27vv",
-	"modified": "2024-06-25T02:39:18.592269Z",
+	"modified": "2024-11-28T05:40:35.898028Z",
 	"published": "2023-10-12T18:30:28Z",
 	"summary": "Duplicate Advisory: Denial of Service  in JSON-Java",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-4jq9-2xhw-jpx7. This link is maintained to preserve external references.\n\n## Original Description\nDenial of Service  in JSON-Java versions prior to 20230618.  A bug in the parser means that an input string of modest size can lead to indefinite amounts of memory being used.  \n",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qfv2-3p2f-vg48",
-	"modified": "2024-02-16T08:09:32.942487Z",
+	"modified": "2024-11-28T05:50:06.898670Z",
 	"published": "2024-02-02T06:30:32Z",
 	"summary": "Duplicate Advisory: Central Dogma Authentication Bypass Vulnerability via Session Leakage",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-34q3-p352-c7q8. This link is maintained to preserve external references.\n\n## Original Description\nCentral Dogma versions prior to 0.64.0 is vulnerable to Cross-Site Scripting (XSS), which could allow for the leakage of user sessions and subsequent authentication bypass.",

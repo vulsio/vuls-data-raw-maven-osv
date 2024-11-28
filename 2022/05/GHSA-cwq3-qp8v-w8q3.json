@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cwq3-qp8v-w8q3",
-	"modified": "2024-02-16T08:20:55.838934Z",
+	"modified": "2024-11-28T05:34:11.091547Z",
 	"published": "2022-05-01T02:20:38Z",
 	"aliases": [
 		"CVE-2005-3747"
@@ -35,7 +35,11 @@
 				"4.2.12",
 				"4.2.2",
 				"4.2.3",
-				"4.2.9"
+				"4.2.9",
+				"test-6.0.0",
+				"test-6.0.0rc3",
+				"test-6.0.0rc4",
+				"test-6.0.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-cwq3-qp8v-w8q3/GHSA-cwq3-qp8v-w8q3.json"

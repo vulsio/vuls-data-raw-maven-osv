@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jcp9-796g-pv9p",
-	"modified": "2024-03-20T17:46:02.640284Z",
+	"modified": "2024-11-28T05:31:54.561602Z",
 	"published": "2022-05-17T03:56:06Z",
 	"aliases": [
 		"CVE-2013-5679"

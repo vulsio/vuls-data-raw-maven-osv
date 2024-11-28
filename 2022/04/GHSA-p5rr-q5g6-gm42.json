@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p5rr-q5g6-gm42",
-	"modified": "2024-02-16T08:21:56.368500Z",
+	"modified": "2024-11-28T05:30:07.803612Z",
 	"published": "2022-04-29T03:01:19Z",
 	"aliases": [
 		"CVE-2004-2381"
@@ -35,7 +35,11 @@
 				"4.2.12",
 				"4.2.2",
 				"4.2.3",
-				"4.2.9"
+				"4.2.9",
+				"test-6.0.0",
+				"test-6.0.0rc3",
+				"test-6.0.0rc4",
+				"test-6.0.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/04/GHSA-p5rr-q5g6-gm42/GHSA-p5rr-q5g6-gm42.json"
