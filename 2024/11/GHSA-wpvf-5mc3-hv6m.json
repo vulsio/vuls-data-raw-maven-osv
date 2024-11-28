@@ -1,13 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wpvf-5mc3-hv6m",
-	"modified": "2024-11-21T22:42:30.639090Z",
+	"modified": "2024-11-27T17:34:16.467175Z",
 	"published": "2024-11-20T21:30:50Z",
-	"aliases": [
-		"CVE-2024-49203"
-	],
-	"summary": "Querydsl SQL/HQL injection",
-	"details": "Querydsl 5.1.0 allows SQL/HQL injection in orderBy in JPAQuery.",
+	"summary": "Duplicate Advisory: Querydsl SQL/HQL injection",
+	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-6q3q-6v5j-h6vg. This link is maintained to preserve external references.\n\n## Original Description\nQuerydsl 5.1.0 allows SQL/HQL injection in orderBy in JPAQuery.",
 	"affected": [
 		{
 			"package": {
