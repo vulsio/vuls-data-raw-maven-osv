@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m43p-55rf-8c2j",
-	"modified": "2024-02-22T20:46:19.392159Z",
+	"modified": "2024-11-29T05:38:25.323215Z",
 	"published": "2024-02-20T15:31:06Z",
 	"aliases": [
 		"CVE-2024-23114"
