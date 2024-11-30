@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fxrc-hg6j-6v3x",
-	"modified": "2023-11-08T04:10:53.456068Z",
+	"modified": "2024-11-30T05:52:06.543634Z",
 	"published": "2022-12-13T15:30:26Z",
 	"aliases": [
 		"CVE-2022-45689"

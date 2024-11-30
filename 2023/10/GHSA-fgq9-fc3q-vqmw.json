@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fgq9-fc3q-vqmw",
-	"modified": "2024-02-16T08:16:48.624680Z",
+	"modified": "2024-11-30T05:34:52.582499Z",
 	"published": "2023-10-25T18:32:23Z",
 	"summary": "Withdrawn Advisory: dom4j XML Entity Expansion vulnerability",
 	"details": "## Withdrawn Advisory\nThis advisory has been withdrawn because [the underlying vulnerability could not be reproduced](https://github.com/joker-xiaoyan/XXE-SAXReader/issues/1#issuecomment-1783780581). This link is maintained to preserve external references.\n\n## Original Description\nAn issue in dom4.j org.dom4.io.SAXReader v.2.1.4 and before allows a remote attacker to obtain sensitive information via the setFeature function.",
