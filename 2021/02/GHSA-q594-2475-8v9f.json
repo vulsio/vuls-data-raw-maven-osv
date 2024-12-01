@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q594-2475-8v9f",
-	"modified": "2023-04-11T01:40:08.597743Z",
+	"modified": "2024-12-01T05:35:46.731834Z",
 	"published": "2021-02-24T19:33:17Z",
 	"summary": "Unencrypted passwords",
 	"details": "A vulnerability found in Apache NIFI before v0.4.0-RC2. Passwords of InvokeHTTP weren?t encrypted.",

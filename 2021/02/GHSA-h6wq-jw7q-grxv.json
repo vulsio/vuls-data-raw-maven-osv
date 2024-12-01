@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h6wq-jw7q-grxv",
-	"modified": "2023-04-11T01:41:38.821242Z",
+	"modified": "2024-12-01T05:28:15.001015Z",
 	"published": "2021-02-24T19:38:21Z",
 	"summary": "Elliptic Curve Key Disclosure",
 	"details": "Affected versions of the package are vulnerable to Elliptic Curve Key Disclosure.",
