@@ -9,6 +9,7 @@
 	],
 	"related": [
 		"CGA-2772-96rw-fr4c",
+		"CGA-c453-74rv-2qcc",
 		"CGA-j64p-5vwg-qvv7"
 	],
 	"summary": "Apache Derby: LDAP injection vulnerability in authenticator",
