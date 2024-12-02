@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7qfm-6m33-rgg9",
-	"modified": "2023-04-11T01:45:04.306932Z",
+	"modified": "2024-12-02T05:36:23.012050Z",
 	"published": "2021-08-13T15:21:59Z",
 	"summary": "XML External Entity Reference",
 	"details": "An issue was discovered in service-api before 4.3.12 and 5.x before 5.1.1 for Report Portal. It allows XXE, with resultant secrets disclosure and SSRF, via JUnit XML launch import.",

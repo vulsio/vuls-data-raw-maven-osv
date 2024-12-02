@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w3gh-g32m-cvhr",
-	"modified": "2023-11-08T04:00:25.225829Z",
+	"modified": "2024-12-02T05:42:14.034968Z",
 	"published": "2018-10-18T16:56:47Z",
 	"aliases": [
 		"CVE-2018-8038"

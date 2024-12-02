@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mj8x-cpr8-x39h",
-	"modified": "2024-02-17T05:36:11.104973Z",
+	"modified": "2024-12-02T05:47:35.826691Z",
 	"published": "2021-06-16T17:33:19Z",
 	"aliases": [
 		"CVE-2021-27850"

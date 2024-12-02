@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9h6g-6mxg-vvp4",
-	"modified": "2024-02-17T05:34:08.250615Z",
+	"modified": "2024-12-02T05:45:00.685897Z",
 	"published": "2021-04-19T14:47:18Z",
 	"summary": "Timing side channel vulnerability in endpoint request handler in Vaadin 15-19",
 	"details": "Non-constant-time comparison of CSRF tokens in endpoint request handler in `com.vaadin:flow-server` versions 3.0.0 through 5.0.3 (Vaadin 15.0.0 through 18.0.6), and com.vaadin:fusion-endpoint version 6.0.0 (Vaadin 19.0.0) allows attacker to guess a security token for Fusion endpoints via timing attack.\n\n- https://vaadin.com/security/cve-2021-31406",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rrvx-pwf8-p59p",
-	"modified": "2024-02-17T05:36:49.869403Z",
+	"modified": "2024-12-02T05:54:24.477865Z",
 	"published": "2018-10-17T16:24:22Z",
 	"aliases": [
 		"CVE-2016-1000343"

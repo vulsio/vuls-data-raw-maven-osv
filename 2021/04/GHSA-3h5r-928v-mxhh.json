@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3h5r-928v-mxhh",
-	"modified": "2023-04-11T01:24:55.988226Z",
+	"modified": "2024-12-02T05:55:11.439626Z",
 	"published": "2021-04-19T14:49:13Z",
 	"summary": "Unauthorized client-side property update in UIDL request handler in Vaadin 10 and 11",
 	"details": "Missing check in UIDL request handler in `com.vaadin:flow-server` versions 1.0.0 through 1.0.5 (Vaadin 10.0.0 through 10.0.7, and 11.0.0 through 11.0.2) allows attacker to update element property values via crafted synchronization message.\n\n- https://vaadin.com/security/cve-2018-25007",

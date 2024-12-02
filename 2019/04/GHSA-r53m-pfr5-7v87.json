@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r53m-pfr5-7v87",
-	"modified": "2023-04-11T01:42:37.938239Z",
+	"modified": "2024-12-02T05:52:34.005281Z",
 	"published": "2019-04-18T14:50:19Z",
 	"summary": "Moderate severity vulnerability that affects org.apache.tomcat.embed:tomcat-embed-core",
 	"details": "**Withdrawn:** Duplicate of GHSA-qcxh-w3j9-58qr",

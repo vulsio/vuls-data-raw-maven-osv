@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f92j-qf46-p6vm",
-	"modified": "2023-11-08T04:04:38.519203Z",
+	"modified": "2024-12-02T05:40:12.444376Z",
 	"published": "2021-02-02T15:46:52Z",
 	"aliases": [
 		"CVE-2021-21028",

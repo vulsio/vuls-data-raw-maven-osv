@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qgm9-232x-hwpx",
-	"modified": "2023-04-11T01:21:53.873735Z",
+	"modified": "2024-12-02T05:46:29.766083Z",
 	"published": "2018-10-18T16:48:15Z",
 	"summary": "Moderate severity vulnerability that affects org.keycloak:keycloak-core",
 	"details": "Withdrawn: Duplicate of CVE-2017-12161 / GHSA-959q-32g8-vvp7",

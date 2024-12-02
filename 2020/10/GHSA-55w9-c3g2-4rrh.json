@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-55w9-c3g2-4rrh",
-	"modified": "2023-11-08T03:57:10.339397Z",
+	"modified": "2024-12-02T05:41:04.511974Z",
 	"published": "2020-10-07T17:51:02Z",
 	"aliases": [
 		"CVE-2012-5784"

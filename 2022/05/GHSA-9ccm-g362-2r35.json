@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9ccm-g362-2r35",
-	"modified": "2024-02-16T08:02:52.066570Z",
+	"modified": "2024-12-02T05:41:39.877949Z",
 	"published": "2022-05-14T02:55:17Z",
 	"aliases": [
 		"CVE-2011-2088"

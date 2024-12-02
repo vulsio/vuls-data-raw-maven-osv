@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w8v7-c7pm-7wfr",
-	"modified": "2023-04-11T01:27:45.933033Z",
+	"modified": "2024-12-02T05:45:28.301385Z",
 	"published": "2022-09-02T00:01:02Z",
 	"summary": "Duplicate Advisory: Keycloak vulnerable to Cross-Site Scripting (XSS)",
 	"details": "## Duplicate Advisory\nThis advisory is a duplicate of [GHSA-w9mf-83w3-fv49](https://github.com/advisories/GHSA-w9mf-83w3-fv49). This link is maintained to preserve external references.\n\n## Original Description\nA stored Cross-site scripting (XSS) vulnerability was found in keycloak as shipped in Red Hat Single Sign-On 7. This flaw allows a privileged attacker to execute malicious scripts in the admin console, abusing the default roles functionality.",
