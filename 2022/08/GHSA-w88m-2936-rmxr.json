@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w88m-2936-rmxr",
-	"modified": "2023-12-06T01:01:20.512226Z",
+	"modified": "2024-12-03T06:00:45.865020Z",
 	"published": "2022-08-27T00:00:45Z",
 	"aliases": [
 		"BIT-wildfly-2021-3644",
