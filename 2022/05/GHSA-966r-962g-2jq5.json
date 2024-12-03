@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-966r-962g-2jq5",
-	"modified": "2024-02-16T08:11:11.807544Z",
+	"modified": "2024-12-03T06:26:22.232759Z",
 	"published": "2022-05-01T18:35:01Z",
 	"aliases": [
 		"CVE-2007-5615"
@@ -96,7 +96,11 @@
 				"6.1H.5-beta",
 				"6.1H.6",
 				"6.1H.7",
-				"6.1H.8"
+				"6.1H.8",
+				"test-6.0.0",
+				"test-6.0.0rc3",
+				"test-6.0.0rc4",
+				"test-6.0.1"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-966r-962g-2jq5/GHSA-966r-962g-2jq5.json"

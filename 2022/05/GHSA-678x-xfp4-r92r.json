@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-678x-xfp4-r92r",
-	"modified": "2024-02-26T22:32:38.524855Z",
+	"modified": "2024-12-03T06:08:50.830701Z",
 	"published": "2022-05-02T03:12:31Z",
 	"aliases": [
 		"CVE-2009-0039"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f866-m9mv-2xr3",
-	"modified": "2024-03-14T21:35:28.665181Z",
+	"modified": "2024-12-03T06:08:45.298122Z",
 	"published": "2022-05-14T02:54:56Z",
 	"aliases": [
 		"CVE-2011-2894"

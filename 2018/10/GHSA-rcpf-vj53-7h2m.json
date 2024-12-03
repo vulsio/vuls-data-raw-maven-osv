@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rcpf-vj53-7h2m",
-	"modified": "2024-03-06T21:19:21.378262Z",
+	"modified": "2024-12-03T06:11:33.435507Z",
 	"published": "2018-10-17T20:02:20Z",
 	"aliases": [
 		"CVE-2018-1257"

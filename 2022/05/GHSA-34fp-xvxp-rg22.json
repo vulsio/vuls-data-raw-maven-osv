@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-34fp-xvxp-rg22",
-	"modified": "2024-03-14T23:01:40.796384Z",
+	"modified": "2024-12-03T06:07:49.613780Z",
 	"published": "2022-05-17T03:46:32Z",
 	"aliases": [
 		"CVE-2012-6551"
