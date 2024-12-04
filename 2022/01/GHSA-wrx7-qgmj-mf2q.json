@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wrx7-qgmj-mf2q",
-	"modified": "2023-11-08T04:05:25.583608Z",
+	"modified": "2024-12-04T05:30:42.063104Z",
 	"published": "2022-01-08T00:43:04Z",
 	"aliases": [
 		"CVE-2021-27738"

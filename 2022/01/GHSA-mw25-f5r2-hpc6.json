@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mw25-f5r2-hpc6",
-	"modified": "2023-11-08T04:06:08.608761Z",
+	"modified": "2024-12-04T05:33:25.245716Z",
 	"published": "2022-01-06T22:23:25Z",
 	"aliases": [
 		"CVE-2021-34797"

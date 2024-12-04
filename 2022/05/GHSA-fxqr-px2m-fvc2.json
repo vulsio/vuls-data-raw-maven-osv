@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fxqr-px2m-fvc2",
-	"modified": "2023-11-08T03:57:40.372180Z",
+	"modified": "2024-12-04T05:41:51.971219Z",
 	"published": "2022-05-17T03:53:35Z",
 	"aliases": [
 		"CVE-2014-3662"

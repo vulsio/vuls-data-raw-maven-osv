@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j65f-mvgw-prp2",
-	"modified": "2024-02-26T22:31:48.671912Z",
+	"modified": "2024-12-04T05:41:29.524485Z",
 	"published": "2022-05-14T03:30:19Z",
 	"aliases": [
 		"CVE-2013-1768"

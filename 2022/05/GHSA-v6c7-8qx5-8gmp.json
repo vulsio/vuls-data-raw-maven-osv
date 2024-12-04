@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v6c7-8qx5-8gmp",
-	"modified": "2023-11-08T03:57:18.283051Z",
+	"modified": "2024-12-04T05:36:58.235916Z",
 	"published": "2022-05-17T03:47:51Z",
 	"aliases": [
 		"CVE-2013-2185"

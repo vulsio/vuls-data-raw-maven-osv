@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xm92-rf24-h74w",
-	"modified": "2024-02-26T22:43:42.021090Z",
+	"modified": "2024-12-04T05:40:39.088704Z",
 	"published": "2022-05-14T02:40:10Z",
 	"aliases": [
 		"CVE-2008-5518"
