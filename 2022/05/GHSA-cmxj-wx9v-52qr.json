@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cmxj-wx9v-52qr",
-	"modified": "2023-11-08T03:57:39.510485Z",
+	"modified": "2024-12-05T05:56:56.068602Z",
 	"published": "2022-05-14T03:59:54Z",
 	"aliases": [
 		"CVE-2014-3604"

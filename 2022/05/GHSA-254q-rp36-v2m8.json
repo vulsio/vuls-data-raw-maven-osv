@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-254q-rp36-v2m8",
-	"modified": "2023-11-08T03:57:17.974811Z",
+	"modified": "2024-12-05T05:42:24.331228Z",
 	"published": "2022-05-13T01:09:20Z",
 	"aliases": [
 		"CVE-2013-2160"

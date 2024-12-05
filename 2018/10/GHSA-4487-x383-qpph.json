@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4487-x383-qpph",
-	"modified": "2024-03-08T20:45:58.764834Z",
+	"modified": "2024-12-05T05:30:27.932883Z",
 	"published": "2018-10-17T20:27:47Z",
 	"aliases": [
 		"CVE-2018-1272"

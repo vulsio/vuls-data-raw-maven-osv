@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-chfm-68vv-pvw5",
-	"modified": "2024-05-01T16:58:38.567304Z",
+	"modified": "2024-12-05T05:28:04.518630Z",
 	"published": "2024-05-01T16:40:01Z",
 	"aliases": [
 		"CVE-2024-31573"

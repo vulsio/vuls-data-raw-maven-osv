@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wv88-pf73-x22p",
-	"modified": "2024-02-27T22:49:17.825671Z",
+	"modified": "2024-12-05T05:34:13.113550Z",
 	"published": "2022-05-17T02:16:01Z",
 	"aliases": [
 		"CVE-2011-2730"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fcrx-8829-jpqx",
-	"modified": "2024-02-20T05:31:47.607956Z",
+	"modified": "2024-12-05T05:32:51.578094Z",
 	"published": "2022-04-01T00:00:45Z",
 	"aliases": [
 		"CVE-2021-43142"

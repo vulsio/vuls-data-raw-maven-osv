@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xm92-v2mq-842q",
-	"modified": "2024-02-19T05:32:44.846310Z",
+	"modified": "2024-12-05T05:39:44.560733Z",
 	"published": "2022-05-17T02:16:00Z",
 	"aliases": [
 		"CVE-2016-4436"
