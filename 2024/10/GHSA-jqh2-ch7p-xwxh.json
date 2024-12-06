@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jqh2-ch7p-xwxh",
-	"modified": "2024-10-08T23:12:23.704350Z",
+	"modified": "2024-12-06T12:49:26.051076Z",
 	"published": "2024-10-08T18:33:14Z",
 	"aliases": [
 		"CVE-2024-9621"
@@ -157,6 +157,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/quarkiverse/quarkus-cxf/commit/8ed72cab8db8e5659e294b05529d2b45557859bd"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:10035"
 		},
 		{
 			"type": "WEB",
