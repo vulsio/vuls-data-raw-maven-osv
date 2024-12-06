@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cgmm-c2m9-ff7r",
-	"modified": "2024-11-30T05:36:24.304602Z",
+	"modified": "2024-12-05T19:25:38.184971Z",
 	"published": "2023-06-26T21:30:59Z",
 	"aliases": [
 		"CVE-2021-31635"
@@ -92,7 +92,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-94"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-06-29T15:02:49Z",
 		"nvd_published_at": "2023-06-26T19:15:09Z",
