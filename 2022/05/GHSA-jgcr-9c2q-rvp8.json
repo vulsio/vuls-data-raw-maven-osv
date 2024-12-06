@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jgcr-9c2q-rvp8",
-	"modified": "2024-02-16T08:14:56.586565Z",
+	"modified": "2024-12-06T05:31:39.196860Z",
 	"published": "2022-05-17T05:52:45Z",
 	"aliases": [
 		"CVE-2008-6682"

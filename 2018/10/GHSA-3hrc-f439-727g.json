@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3hrc-f439-727g",
-	"modified": "2024-02-16T08:20:35.568526Z",
+	"modified": "2024-12-06T05:25:47.581979Z",
 	"published": "2018-10-16T23:08:43Z",
 	"aliases": [
 		"CVE-2015-0263"

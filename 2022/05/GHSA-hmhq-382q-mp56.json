@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hmhq-382q-mp56",
-	"modified": "2024-02-16T08:08:55.852075Z",
+	"modified": "2024-12-06T05:43:03.047253Z",
 	"published": "2022-05-14T00:54:14Z",
 	"aliases": [
 		"CVE-2014-0116"

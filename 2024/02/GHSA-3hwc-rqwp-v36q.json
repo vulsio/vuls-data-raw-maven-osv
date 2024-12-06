@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3hwc-rqwp-v36q",
-	"modified": "2024-02-16T08:26:35.544942Z",
+	"modified": "2024-12-06T05:48:15.307321Z",
 	"published": "2024-02-09T18:31:07Z",
 	"aliases": [
 		"BIT-solr-2023-50291",

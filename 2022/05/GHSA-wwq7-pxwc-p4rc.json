@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wwq7-pxwc-p4rc",
-	"modified": "2023-11-08T03:57:10.399220Z",
+	"modified": "2024-12-06T05:39:49.299953Z",
 	"published": "2022-05-17T01:38:56Z",
 	"aliases": [
 		"CVE-2012-5785"
