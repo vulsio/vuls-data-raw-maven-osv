@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mfhr-3xmc-r2gg",
-	"modified": "2024-02-21T05:36:44.020907Z",
+	"modified": "2024-12-07T05:38:26.754799Z",
 	"published": "2022-05-17T01:36:25Z",
 	"aliases": [
 		"CVE-2013-1879"

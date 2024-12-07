@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mpx3-mx2p-9gv3",
-	"modified": "2023-11-08T03:57:33.960488Z",
+	"modified": "2024-12-07T05:40:12.854356Z",
 	"published": "2022-05-17T04:46:05Z",
 	"aliases": [
 		"CVE-2014-1216"

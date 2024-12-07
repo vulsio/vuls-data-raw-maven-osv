@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f976-24hc-mjvr",
-	"modified": "2023-11-08T04:11:45.893411Z",
+	"modified": "2024-12-07T05:48:39.291405Z",
 	"published": "2023-01-26T21:30:18Z",
 	"aliases": [
 		"CVE-2023-24444"

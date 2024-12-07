@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xfg6-62px-cxc2",
-	"modified": "2024-10-22T05:28:53.424537Z",
+	"modified": "2024-12-07T05:40:38.822930Z",
 	"published": "2024-02-19T15:30:38Z",
 	"aliases": [
 		"BIT-postgresql-jdbc-driver-2024-1597",

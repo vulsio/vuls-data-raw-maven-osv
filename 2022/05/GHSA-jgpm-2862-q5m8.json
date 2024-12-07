@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jgpm-2862-q5m8",
-	"modified": "2024-02-16T08:23:57.405662Z",
+	"modified": "2024-12-07T05:38:11.752596Z",
 	"published": "2022-05-13T01:15:21Z",
 	"aliases": [
 		"CVE-2019-1003024"

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5xm9-rf63-wj7h",
-	"modified": "2023-11-08T03:57:00.314041Z",
+	"modified": "2024-12-07T05:36:23.375662Z",
 	"published": "2022-05-17T05:18:15Z",
 	"aliases": [
 		"CVE-2011-2732"

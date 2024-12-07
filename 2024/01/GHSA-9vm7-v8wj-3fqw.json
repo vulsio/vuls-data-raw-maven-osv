@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9vm7-v8wj-3fqw",
-	"modified": "2024-02-16T08:24:16.431023Z",
+	"modified": "2024-12-07T05:38:14.788775Z",
 	"published": "2024-01-23T14:43:50Z",
 	"related": [
 		"CGA-2rqj-46g6-q385",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jpmf-8cj2-595g",
-	"modified": "2023-11-08T03:57:39.881301Z",
+	"modified": "2024-12-07T05:28:22.082035Z",
 	"published": "2022-05-17T04:20:31Z",
 	"aliases": [
 		"CVE-2014-3627"
