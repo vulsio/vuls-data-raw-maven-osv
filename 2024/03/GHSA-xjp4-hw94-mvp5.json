@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xjp4-hw94-mvp5",
-	"modified": "2024-10-22T05:29:01.376365Z",
+	"modified": "2024-12-13T16:09:30.722359Z",
 	"published": "2024-03-21T09:31:14Z",
 	"aliases": [
 		"CGA-6jvc-fmj8-g22f",
@@ -88,6 +88,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/YD4AFTIIQW662LUAQRMWS6BBKYSZG3YS"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20241213-0001"
 		},
 		{
 			"type": "WEB",
