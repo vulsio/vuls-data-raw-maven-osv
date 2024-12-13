@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f8h5-v2vg-46rr",
-	"modified": "2024-10-22T05:28:59.743912Z",
+	"modified": "2024-12-13T00:38:32.763319Z",
 	"published": "2024-04-04T15:30:34Z",
 	"aliases": [
 		"CGA-4h54-q8v3-8q47",
@@ -409,6 +409,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/quarkusio/quarkus/commit/990c3ee5dd5c689f514e5e87c221bce6d5dff267"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:11023"
 		},
 		{
 			"type": "WEB",
