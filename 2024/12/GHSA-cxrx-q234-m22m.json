@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-12397"
 	],
+	"related": [
+		"CGA-x8vm-j96x-4fxq"
+	],
 	"summary": "io.quarkus.http/quarkus-http-core: Quarkus HTTP Cookie Smuggling",
 	"details": "A flaw was found in Quarkus-HTTP, which incorrectly parses cookies with certain value-delimiting characters in incoming requests. This issue could allow an attacker to construct a cookie value to exfiltrate HttpOnly cookie values or spoof arbitrary additional cookie values, leading to unauthorized data access or modification. The main threat from this flaw impacts data confidentiality and integrity.",
 	"severity": [
