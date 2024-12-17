@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mfj5-cf8g-g2fv",
-	"modified": "2024-12-12T22:26:24.645982Z",
+	"modified": "2024-12-16T23:00:59.551424Z",
 	"published": "2024-12-02T20:04:43Z",
 	"aliases": [
 		"CVE-2024-53990"
@@ -11,7 +11,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V4",
-			"score": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N/E:X/CR:X/IR:X/AR:X/MAV:X/MAC:X/MAT:X/MPR:X/MUI:X/MVC:X/MVI:X/MVA:X/MSC:X/MSI:X/MSA:X/S:X/AU:X/R:X/V:X/RE:X/U:X"
+			"score": "CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
@@ -29,7 +29,7 @@
 							"introduced": "2.1.0"
 						},
 						{
-							"fixed": "3.0.1"
+							"fixed": "2.12.4"
 						}
 					]
 				}
@@ -71,7 +71,32 @@
 				"2.7.0",
 				"2.8.0",
 				"2.8.1",
-				"2.9.0",
+				"2.9.0"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/12/GHSA-mfj5-cf8g-g2fv/GHSA-mfj5-cf8g-g2fv.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Maven",
+				"name": "org.asynchttpclient:async-http-client",
+				"purl": "pkg:maven/org.asynchttpclient/async-http-client"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "3.0.0.Beta1"
+						},
+						{
+							"fixed": "3.0.1"
+						}
+					]
+				}
+			],
+			"versions": [
 				"3.0.0",
 				"3.0.0.Beta1",
 				"3.0.0.Beta2",
