@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-653p-vg55-5652",
-	"modified": "2024-12-17T21:48:04.348276Z",
+	"modified": "2024-12-18T19:50:03.528232Z",
 	"published": "2024-12-17T15:31:43Z",
 	"aliases": [
 		"CVE-2024-54677"
@@ -382,6 +382,10 @@
 		{
 			"type": "WEB",
 			"url": "http://www.openwall.com/lists/oss-security/2024/12/17/6"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/12/18/1"
 		}
 	],
 	"database_specific": {
