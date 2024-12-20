@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-22c5-cpvr-cfvq",
-	"modified": "2024-12-19T15:38:49.419288Z",
+	"modified": "2024-12-19T18:37:51.199412Z",
 	"published": "2024-12-12T09:31:36Z",
 	"aliases": [
 		"CVE-2024-4109"
@@ -393,6 +393,14 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2024:11559"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:11560"
+		},
+		{
+			"type": "WEB",
+			"url": "https://access.redhat.com/errata/RHSA-2024:11570"
 		},
 		{
 			"type": "WEB",
