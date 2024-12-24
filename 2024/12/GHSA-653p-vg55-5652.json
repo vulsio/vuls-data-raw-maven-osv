@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-653p-vg55-5652",
-	"modified": "2024-12-18T19:50:03.528232Z",
+	"modified": "2024-12-23T19:57:01.361323Z",
 	"published": "2024-12-17T15:31:43Z",
 	"aliases": [
+		"BIT-tomcat-2024-54677",
 		"CVE-2024-54677"
 	],
 	"summary": "Apache Tomcat Uncontrolled Resource Consumption vulnerability",

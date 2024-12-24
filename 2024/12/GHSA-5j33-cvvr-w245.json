@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5j33-cvvr-w245",
-	"modified": "2024-12-18T19:49:08.528859Z",
+	"modified": "2024-12-23T19:57:00.017403Z",
 	"published": "2024-12-17T15:31:43Z",
 	"aliases": [
+		"BIT-tomcat-2024-50379",
 		"CVE-2024-50379"
 	],
 	"summary": "Apache Tomcat Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability",
