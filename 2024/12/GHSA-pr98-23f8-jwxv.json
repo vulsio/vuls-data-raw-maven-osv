@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-12798"
 	],
+	"related": [
+		"CGA-2x95-fmjg-q2cg"
+	],
 	"summary": "QOS.CH logback-core Expression Language Injection vulnerability",
 	"details": "ACE vulnerability in JaninoEventEvaluator by QOS.CH logback-core up to and including version 1.5.12 in Java applications allows attackers to execute arbitrary code by compromising an existing logback configuration file or by injecting an environment variable before program execution.\n\nMalicious logback configuration files can allow the attacker to execute arbitrary code using the JaninoEventEvaluator extension.\n\nA successful attack requires the user to have write access to a configuration file. Alternatively, the attacker could inject a malicious environment variable pointing to a malicious configuration file. In both cases, the attack requires existing privilege.",
 	"severity": [
