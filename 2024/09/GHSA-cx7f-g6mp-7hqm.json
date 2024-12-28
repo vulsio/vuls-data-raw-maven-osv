@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-cx7f-g6mp-7hqm",
-	"modified": "2024-12-10T20:00:54.848885Z",
+	"modified": "2024-12-27T18:34:05.583740Z",
 	"published": "2024-09-13T06:30:42Z",
 	"aliases": [
 		"CVE-2024-38816"
@@ -332,6 +332,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/spring-projects/spring-framework"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20241227-0001"
 		},
 		{
 			"type": "WEB",
