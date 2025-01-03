@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-43mq-6xmg-29vm",
-	"modified": "2024-12-20T18:38:01.941178Z",
+	"modified": "2025-01-03T12:35:24.391337Z",
 	"published": "2024-12-11T18:30:42Z",
 	"aliases": [
 		"CVE-2024-53677"
@@ -149,6 +149,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/apache/struts"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20250103-0005"
 		},
 		{
 			"type": "WEB",

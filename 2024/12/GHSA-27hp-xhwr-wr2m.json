@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-27hp-xhwr-wr2m",
-	"modified": "2024-12-24T19:57:01.201838Z",
+	"modified": "2025-01-03T16:42:53.940552Z",
 	"published": "2024-12-20T18:31:32Z",
 	"aliases": [
 		"BIT-tomcat-2024-56337",
@@ -271,6 +271,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/b2b9qrgjrz1kvo4ym8y2wkfdvwoq6qbp"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20250103-0002"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5j33-cvvr-w245",
-	"modified": "2024-12-26T16:15:51.334996Z",
+	"modified": "2025-01-03T12:35:42.423963Z",
 	"published": "2024-12-17T15:31:43Z",
 	"aliases": [
 		"BIT-tomcat-2024-50379",
@@ -541,6 +541,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/y6lj6q1xnp822g6ro70tn19sgtjmr80r"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20250103-0003"
 		},
 		{
 			"type": "WEB",
