@@ -7,6 +7,7 @@
 		"CVE-2024-12801"
 	],
 	"related": [
+		"CGA-734c-7jrf-pj3j",
 		"CGA-p3h7-687g-jhcm"
 	],
 	"summary": "QOS.CH logback-core Server-Side Request Forgery vulnerability",
