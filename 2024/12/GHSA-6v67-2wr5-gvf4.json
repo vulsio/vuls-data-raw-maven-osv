@@ -8,7 +8,8 @@
 	],
 	"related": [
 		"CGA-734c-7jrf-pj3j",
-		"CGA-p3h7-687g-jhcm"
+		"CGA-p3h7-687g-jhcm",
+		"CGA-v3gv-5vpv-r7rp"
 	],
 	"summary": "QOS.CH logback-core Server-Side Request Forgery vulnerability",
 	"details": "Server-Side Request Forgery (SSRF) in SaxEventRecorder by QOS.CH logback version 1.5.12 on the Java platform, allows an attacker to forge requests by compromising logback configuration files in XML.\n \nThe attacks involves the modification of DOCTYPE declaration in  XML configuration files.",
