@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2015-0886"
 	],
+	"related": [
+		"CGA-7v7w-6m6p-3fm5"
+	],
 	"summary": "Integer Overflow or Wraparound in JBCrypt",
 	"details": "Integer overflow in the crypt_raw method in the key-stretching implementation in JBCrypt before 0.4 makes it easier for remote attackers to determine cleartext values of password hashes via a brute-force attack against hashes associated with the maximum exponent.",
 	"affected": [
