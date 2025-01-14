@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-50720"
 	],
+	"related": [
+		"CVE-2023-50720"
+	],
 	"summary": "Solr search discloses email addresses of users",
 	"details": "### Impact\nThe Solr-based search in XWiki discloses the email addresses of users even when obfuscation of email addresses is enabled. To demonstrate the vulnerability, search for `objcontent:email*` using XWiki's regular search interface.\n\n### Patches\nThis has been fixed in XWiki 14.10.15, 15.5.2 and 15.7RC1 by not indexing email address properties when obfuscation is enabled. Further, changing the setting now triggers re-indexing of the affected wiki(s).\n\n### Workarounds\nWe're not aware of any workarounds.\n\n### References\n* https://jira.xwiki.org/browse/XWIKI-20371\n* https://github.com/xwiki/xwiki-platform/commit/3e5272f2ef0dff06a8f4db10afd1949b2f9e6eea\n\n### Attribution\nThis vulnerability was reported on Intigriti by [ynoof](https://twitter.com/ynoofAssiri) @Ynoof5.",
 	"severity": [

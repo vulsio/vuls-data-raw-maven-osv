@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-28118"
 	],
+	"related": [
+		"CVE-2023-28118"
+	],
 	"summary": "kaml has potential denial of service while parsing input with anchors and aliases ",
 	"details": "### Impact\nApplications that use kaml to parse untrusted input containing anchors and aliases may consume excessive memory and crash.\n\n### Patches\nVersion 0.53.0 and later default to refusing to parse YAML documents containing anchors and aliases.\n\n### Workarounds\nNone.\n\n### References\nWikipedia has an explanation of this class of vulnerability: [billion laughs attack](https://en.wikipedia.org/wiki/Billion_laughs_attack)\n\n### Acknowledgements\nThank you to @gdude2002 for reporting this issue.",
 	"severity": [

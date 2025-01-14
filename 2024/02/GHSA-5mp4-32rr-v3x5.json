@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-25125"
 	],
+	"related": [
+		"CVE-2024-25125"
+	],
 	"summary": "Absolute path traversal vulnerability in digdag server",
 	"details": "### Summary\n\nTreasure Data's digdag workload automation system is susceptible to a path traversal vulnerability if it's configured to store log files locally.\n\n### Impact\n\nThis issue may lead to Information Disclosure.\n",
 	"severity": [

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-31997"
 	],
+	"related": [
+		"CVE-2024-31997"
+	],
 	"summary": "XWiki Platform remote code execution from account through UIExtension parameters",
 	"details": "### Impact\nParameters of UI extensions are always interpreted as Velocity code and executed with programming rights. Any user with edit right on any document like the user's own profile can create UI extensions. This allows remote code execution and thereby impacts the confidentiality, integrity and availability of the whole XWiki installation.\n\nTo reproduce, edit your user profile with the object editor and add a UIExtension object with the following values:\n```\nExtension Point ID: org.xwiki.platform.panels.Applications\nExtension ID: platform.panels.myFakeApplication\nExtension parameters: \nlabel=I got programming right: $services.security.authorization.hasAccess('programming')\ntarget=Main.WebHome\ntargetQueryString=\nicon=icon:bomb\nExtension Scope: \"Current User\".\n```\n\nSave the document and open any document. If an application entry with the text \"I got programming right: true\" is displayed, the attack succeeded, if the code in \"label\" is displayed literally, the XWiki installation isn't vulnerable.\n\n### Patches\nThis vulnerability has been patched in XWiki 14.10.19, 15.5.4 and 15.9-RC1.\n\n### Workarounds\nWe're not aware of any workarounds apart from upgrading.\n\n### References\n* https://jira.xwiki.org/browse/XWIKI-21335\n* https://github.com/xwiki/xwiki-platform/commit/171e7c7d0e56deaa7b3678657ae26ef95379b1ea\n",
 	"severity": [

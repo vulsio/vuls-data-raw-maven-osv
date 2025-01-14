@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gvc7-gjrw-hj65",
-	"modified": "2024-09-11T12:42:13.768299Z",
+	"modified": "2025-01-14T12:27:10.987993Z",
 	"published": "2024-01-19T21:30:36Z",
 	"aliases": [
-		"CVE-2024-23680",
-		"GHSA-55xh-53m6-936r"
+		"CVE-2024-23680"
 	],
 	"summary": "Improper Verification of Cryptographic Signature in aws-encryption-sdk-java",
 	"details": "AWS Encryption SDK for Java versions 2.0.0 to 2.2.0 and less than 1.9.0 incorrectly validates some invalid ECDSA signatures. \n\n\n",

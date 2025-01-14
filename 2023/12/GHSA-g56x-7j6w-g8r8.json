@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-50730"
 	],
+	"related": [
+		"CVE-2023-50730"
+	],
 	"summary": "Grackle has StackOverflowError in GraphQL query processing",
 	"details": "### Impact\n\nPrior to this fix, the GraphQL query parsing was vulnerable to `StackOverflowError`s. The possibility of small queries resulting in stack overflow is a potential denial of service vulnerability.\n\nThis potentially affects all applications using Grackle which have untrusted users.\n\n> [!CAUTION]  \n> **No specific knowledge of an application's GraphQL schema would be required to construct a pathological query.**\n\n### Patches\nThe stack overflow issues have been resolved in the v0.18.0 release of Grackle.\n\n### Workarounds\nUsers could interpose a sanitizing layer in between untrusted input and Grackle query processing.\n",
 	"severity": [

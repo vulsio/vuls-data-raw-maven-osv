@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-35697"
 	],
+	"related": [
+		"CVE-2022-35697"
+	],
 	"summary": "AEM WCM Core Components CVG Image vulnerable to Reflected Cross-site Scripting",
 	"details": "Core Components version 2.20.6 (and earlier) suffer from a reflected cross-site scripting (XSS) vulnerability in `AdaptiveImageServlet` via SVG images. An attacker with author access can upload a special crafted SVG image (including a malicious Javascript) and obtain a link that, when loaded by another authenticated users, will execute the malicious script and gain access to other user's session. The issue has been resolved in 2.20.8. There are currently no known workarounds.\n\n\n",
 	"severity": [

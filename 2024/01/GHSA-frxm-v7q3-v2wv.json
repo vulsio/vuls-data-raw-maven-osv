@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-frxm-v7q3-v2wv",
-	"modified": "2024-02-16T08:15:16.687681Z",
+	"modified": "2025-01-14T12:27:23.099810Z",
 	"published": "2024-01-20T00:30:27Z",
 	"aliases": [
-		"CVE-2024-23686",
-		"GHSA-qqhq-8r2c-c3f5"
+		"CVE-2024-23686"
 	],
 	"summary": "Insertion of Sensitive Information into Log File in OWASP DependencyCheck",
 	"details": "DependencyCheck for Maven 9.0.0 to 9.0.6, for CLI version 9.0.0 to 9.0.5, and for Ant versions 9.0.0 to 9.0.5, when used in debug mode, allows an attacker to recover the NVD API Key from a log file.\n\n",

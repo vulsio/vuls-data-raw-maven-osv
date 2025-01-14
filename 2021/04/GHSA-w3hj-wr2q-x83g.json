@@ -1,9 +1,9 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w3hj-wr2q-x83g",
-	"modified": "2024-01-30T20:14:13.191048Z",
+	"modified": "2021-03-30T17:04:34Z",
 	"published": "2021-04-06T17:22:17Z",
-	"aliases": [
+	"related": [
 		"CVE-2024-23688"
 	],
 	"summary": "Discovery uses the same AES/GCM Nonce throughout the session",

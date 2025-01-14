@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-45669"
 	],
+	"related": [
+		"CVE-2023-45669"
+	],
 	"summary": "WebAuthn4J Spring Security Improper signature counter value handling",
 	"details": "Improper signature counter value handling\n\n### Impact\n\nA flaw was found in webauthn4j-spring-security-core. When an authneticator returns an incremented signature counter value during authentication, webauthn4j-spring-security-core does not properly persist the value, which means cloned authenticator detection does not work.\nAn attacker who cloned valid authenticator in some way can use the cloned authenticator without being detected.\n\n### Patches\n\nPlease upgrade to `com.webauthn4j:webauthn4j-spring-security-core:0.9.1.RELEASE`\n\n\n### References\n\nFor more details about WebAuthn signature counters, see [WebAuthn specification 6.1.1. Signature Counter Considerations](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/#sctn-sign-counter).\n\n### Reporter\n\nThis issue was discovered by Michael Budnick (@mbudnick)\n",
 	"severity": [

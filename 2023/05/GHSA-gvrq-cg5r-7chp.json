@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-32081"
 	],
+	"related": [
+		"CVE-2023-32081"
+	],
 	"summary": "Vert.x STOMP server process client frames that would not send initially a connect frame",
 	"details": "### Impact\nA Vert.x STOMP server processes client STOMP frames without checking that the client send an initial CONNECT frame replied with a successful CONNECTED frame. The client can subscribe to a destination or publish message without prior authentication. Any Vert.x STOMP server configured with an authentication handler is impacted.\n\n### Patches\nThe issue is patched in Vert.x 4.4.2 and Vert.x 3.9.16\n\n### Workarounds\nNo trivial workaround.\n",
 	"severity": [

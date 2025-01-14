@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-50422"
 	],
+	"related": [
+		"CVE-2023-50422"
+	],
 	"summary": "Improper JWT Signature Validation in SAP Security Services Library ",
 	"details": "### Impact\nSAP BTP Security Services Integration Library ([Java] cloud-security-services-integration-library) allows under certain conditions an escalation of privileges. On successful exploitation, an unauthenticated attacker can obtain arbitrary permissions within the application.\n\n### Patches\nUpgrade to patched version >= 2.17.0 or >= 3.3.0 \nWe always recommend to upgrade to the latest released version.\n\n### Workarounds\nNo workarounds\n\n### References\nhttps://www.cve.org/CVERecord?id=CVE-2023-50422\n",
 	"severity": [

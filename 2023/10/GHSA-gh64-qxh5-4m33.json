@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-37911"
 	],
+	"related": [
+		"CVE-2023-37911"
+	],
 	"summary": "org.xwiki.platform:xwiki-platform-oldcore may leak data through deleted and re-created documents",
 	"details": "### Impact\n\nWhen a document has been deleted and re-created, it is possible for users with view right on the re-created document but not on the deleted document to view the contents of the deleted document. Such a situation might arise when rights were added to the deleted document. This can be exploited through the diff feature and, partially, through the REST API by using versions such as `deleted:1` (where the number counts the deletions in the wiki and is thus guessable). Given sufficient rights, the attacker can also re-create the deleted document, thus extending the scope to any deleted document as long as the attacker has edit right in the location of the deleted document.\n\n### Patches\nThis vulnerability has been patched in XWiki 14.10.8 and 15.3 RC1 by properly checking rights when deleted revisions of a document are accessed.\n\n### Workarounds\nThe only workaround is to regularly [clean deleted documents](https://extensions.xwiki.org/xwiki/bin/view/Extension/Index%20Application#HPermanentlydeleteallpages) to minimize the potential exposure. Extra care should be taken when deleting sensitive documents that are protected individually (and not, e.g., by being placed in a protected space) or deleting a protected space as a whole.\n\n### References\n* https://jira.xwiki.org/browse/XWIKI-20685 (root cause)\n* https://jira.xwiki.org/browse/XWIKI-20817 (exploitation via the diff feature)\n* https://jira.xwiki.org/browse/XWIKI-20684 (exploitation via the REST API)\n* https://github.com/xwiki/xwiki-platform/commit/f471f2a392aeeb9e51d59fdfe1d76fccf532523f",
 	"severity": [

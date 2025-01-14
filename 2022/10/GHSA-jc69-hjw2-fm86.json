@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-41828"
 	],
+	"related": [
+		"CVE-2022-41828"
+	],
 	"summary": "com.amazon.redshift:redshift-jdbc42 vulnerable to remote command execution",
 	"details": "### Impact\n\nA potential remote command execution issue exists within `redshift-jdbc42` versions 2.1.0.7 and below. When plugins are used with the driver, it instantiates plugin instances based on Java class names provided via the `sslhostnameverifier`, `socketFactory`, `sslfactory`, and `sslpasswordcallback` connection properties. In affected versions, the driver does not verify if a plugin class implements the expected interface before instantiatiaton. This can lead to loading of arbitrary Java classes, which a knowledgeable attacker with control over the JDBC URL can use to achieve remote code execution.\n\n### Patches\n\nThis issue is patched within `redshift-jdbc-42` 2.1.0.8 and above.\n\n### Workarounds\n\nWe advise customers using plugins to upgrade to `redshift-jdbc42` version 2.1.0.8 or above. There are no known workarounds for this issue.\n\n### For more information\n\nIf you have any questions or comments about this advisory, please contact AWS Security at [aws-security@amazon.com](mailto:aws-security@amazon.com).\n",
 	"severity": [

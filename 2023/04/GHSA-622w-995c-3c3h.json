@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-29015"
 	],
+	"related": [
+		"CVE-2023-29015"
+	],
 	"summary": "Goobi viewer Core has Cross-Site Scripting Vulnerability in User Comments",
 	"details": "### Impact\nA cross-site scripting vulnerability has been identified in the user comment feature of Goobi viewer core. An attacker could create a specially crafted comment, resulting in the execution of malicious script code in the user's browser when displaying the comment.\n\n### Patches\nThe vulnerability has been fixed in version 23.03\n\nIf you have any questions or comments about this advisory:\n* Email us at [support@intranda.com](mailto:support@intranda.com)",
 	"severity": [

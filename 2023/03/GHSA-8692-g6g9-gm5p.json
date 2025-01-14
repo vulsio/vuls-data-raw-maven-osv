@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-26478"
 	],
+	"related": [
+		"CVE-2023-26478"
+	],
 	"summary": "xwiki contains Exposed Dangerous Method or Function",
 	"details": "### Impact\n`org.xwiki.store.script.TemporaryAttachmentsScriptService#uploadTemporaryAttachment` is returning an instance of `com.xpn.xwiki.doc.XWikiAttachment`. This class is not supported to be exposed to users without the `programing` right.\n`com.xpn.xwiki.api.Attachment` should be used instead and takes case of checking the user's rights before performing dangerous operations.\n\n### Patches\nThis has been patched in the version 14.9-rc-1 and 14.4.6.\n\n### Workarounds\nThere's no workaround for this issue.\n\n### References\nhttps://jira.xwiki.org/browse/XWIKI-20180\n\n### For more information\nIf you have any questions or comments about this advisory:\n\n* Open an issue in [JIRA](https://jira.xwiki.org/)\n* Email us at [security ML](mailto:security@xwiki.org)\n",
 	"severity": [
