@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-4133"
 	],
+	"related": [
+		"CVE-2021-4133"
+	],
 	"summary": "Improper Authorization in Keycloak",
 	"details": "A incorrect authorization flaw was found in Keycloak 12.0.0, the flaw allows an attacker with any existing user account to create new default user accounts via the administrative REST API even where new user registration is disabled.",
 	"severity": [

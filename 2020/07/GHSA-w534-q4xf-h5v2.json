@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-15231"
 	],
+	"related": [
+		"CVE-2020-15231"
+	],
 	"summary": "XSS in Mapfish Print relating to JSONP support",
 	"details": "### Impact\nA user can use the JSONP support to do a Cross-site scripting.\n\n### Patches\nUse version >= 3.24\n\n### Workarounds\nNo\n\n### References\n* https://github.com/mapfish/mapfish-print/pull/1397/commits/89155f2506b9cee822e15ce60ccae390a1419d5e\n* https://cwe.mitre.org/data/definitions/79.html\n\n### For more information\nIf you have any questions or comments about this advisory Comment the pull request: https://github.com/mapfish/mapfish-print/pull/1397",
 	"severity": [

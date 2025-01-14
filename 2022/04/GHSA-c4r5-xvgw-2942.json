@@ -7,6 +7,9 @@
 		"BIT-wildfly-2021-3503",
 		"CVE-2021-3503"
 	],
+	"related": [
+		"CVE-2021-3503"
+	],
 	"summary": "Metrics exposure in Wildfly",
 	"details": "A flaw was found in Wildfly where insufficient RBAC restrictions may lead to expose metrics data.",
 	"severity": [

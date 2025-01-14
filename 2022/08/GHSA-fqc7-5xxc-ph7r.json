@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fqc7-5xxc-ph7r",
-	"modified": "2023-11-08T04:07:29.960858Z",
+	"modified": "2025-01-14T10:12:00.952963Z",
 	"published": "2022-08-27T00:00:44Z",
 	"aliases": [
-		"CVE-2022-0225",
-		"GHSA-755v-r4x4-qf7m"
+		"CVE-2022-0225"
 	],
 	"summary": "Keycloak XSS via use of malicious payload as group name when creating new group from admin console",
 	"details": "A flaw was found in Keycloak. This flaw allows a privileged attacker to use the malicious payload as the group name while creating a new group from the admin console, leading to a stored Cross-site scripting (XSS) attack.",

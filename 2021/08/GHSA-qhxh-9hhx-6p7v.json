@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qhxh-9hhx-6p7v",
-	"modified": "2023-11-08T04:05:07.939604Z",
+	"modified": "2025-01-14T09:12:03.091582Z",
 	"published": "2021-08-02T16:59:35Z",
 	"aliases": [
-		"CVE-2021-23408",
-		"SNYK-JAVA-COMGRAPHHOPPER-1320114"
+		"CVE-2021-23408"
 	],
 	"summary": "Prototype Pollution in GraphHopper",
 	"details": "This affects the package `com.graphhopper:graphhopper-web-bundle` before 3.2, from 4.0-pre1 and before 4.0. The URL parser could be tricked into adding or modifying properties of Object.prototype using a constructor or __proto__ payload.",

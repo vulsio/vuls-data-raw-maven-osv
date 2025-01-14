@@ -1,15 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g24w-373r-5pxg",
-	"modified": "2023-11-08T04:00:55.078712Z",
+	"modified": "2025-01-14T07:14:26.961906Z",
 	"published": "2022-05-24T16:56:41Z",
 	"aliases": [
-		"CVE-2019-10754",
-		"SNYK-JAVA-ORGAPEREOCAS-467402",
-		"SNYK-JAVA-ORGAPEREOCAS-467404",
-		"SNYK-JAVA-ORGAPEREOCAS-467406",
-		"SNYK-JAVA-ORGAPEREOCAS-468868",
-		"SNYK-JAVA-ORGAPEREOCAS-468869"
+		"CVE-2019-10754"
 	],
 	"summary": "Use of Insufficiently Random Values in Apereo CAS",
 	"details": "Multiple classes used within Apereo CAS before release 6.1.0-RC5 makes use of apache commons-lang3 RandomStringUtils for token and ID generation which makes them predictable due to RandomStringUtils PRNG's algorithm not being cryptographically strong.",

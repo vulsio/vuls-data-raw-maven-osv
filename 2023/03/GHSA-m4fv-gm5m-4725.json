@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-1274"
 	],
+	"related": [
+		"CVE-2022-1274"
+	],
 	"summary": "HTML Injection in Keycloak Admin REST API",
 	"details": "The `execute-actions-email` endpoint of the Keycloak Admin REST API allows a malicious actor to send emails containing phishing links to Keycloak users.\n",
 	"severity": [

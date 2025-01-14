@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-34428"
 	],
+	"related": [
+		"CVE-2021-34428"
+	],
 	"summary": "SessionListener can prevent a session from being invalidated breaking logout",
 	"details": "### Impact\nIf an exception is thrown from the `SessionListener#sessionDestroyed()` method, then the session ID is not invalidated in the session ID manager.   On deployments with clustered sessions and multiple contexts this can result in a session not being invalidated.  This can result in an application used on a shared computer being left logged in.\n\nThere is no known path for an attacker to induce such an exception to be thrown, thus they must rely on an application to throw such an exception.    The OP has also identified that during the call to `sessionDestroyed`, the `getLastAccessedTime()` throws an `IllegalStateException`, which potentially contrary to the servlet spec, so applications calling this method may always throw and fail to log out.  If such an application was only tested on a non clustered test environment, then it may be deployed on a clustered environment with multiple contexts and fail to log out.\n\n### Workarounds\nThe application should catch all Throwables within their `SessionListener#sessionDestroyed()` implementations.\n",
 	"severity": [

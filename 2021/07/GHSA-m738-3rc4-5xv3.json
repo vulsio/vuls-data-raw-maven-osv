@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-32729"
 	],
+	"related": [
+		"CVE-2021-32729"
+	],
 	"summary": "A user without PR can reset user authentication failures information",
 	"details": "### Impact\nThe script service method used to reset the authentication failures record can be executed by any user with Script rights and does not require Programming rights as it should have.\nNote that being able to reset the authentication failure record mean that an attacker with script right might use it to try performing a bruteforce attack since she'd been able to virtually deactivate the mechanism introduced to mitigate those attacks.\n\n### Patches\nThe problem has been patched in version 12.6.8, 12.10.4 and 13.0.\n\n### Workarounds\nThere's no workaround besides upgrading and being careful on which user should have Script right access. Note that any bruteforce attack on the authentication should be visible in the logs since the authentication failures are logged.\n\n### References\nhttps://jira.xwiki.org/browse/XWIKI-18276\n\n### For more information\nIf you have any questions or comments about this advisory:\n* Open an issue in [Jira](http://jira.xwiki.org)\n* Email us at [the security mailing-list](mailto:security@xwiki.org)\n",
 	"severity": [

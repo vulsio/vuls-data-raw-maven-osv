@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-29459"
 	],
+	"related": [
+		"CVE-2021-29459"
+	],
 	"summary": "XSS Cross Site Scripting",
 	"details": "### Impact\nIt is possible to persistently inject scripts in XWiki.\n\nFor unregistred users:\n- By filling simple text fields\n\nFor registered users:\n- By filling their personal information\n- (if they have edit rights) By filling the values of static lists using App Within Minutes\n\nThat can lead to user's session hijacking, and if used in conjunction with a social engineering attack it can also lead to disclosure of sensitive data, CSRF attacks and other security vulnerabilities.\nThat can also lead to the attacker taking over an account.\nIf the victim has administrative rights it might even lead to code execution on the server, depending on the application and the privileges of the account.\n### Patches\nIt has been patched on XWiki 12.8 and 12.6.3.\n\n### Workarounds\nThere is no easy workaround except upgrading XWiki.\n\n### References\nhttps://jira.xwiki.org/browse/XWIKI-17374\n\n### For more information\nIf you have any questions or comments about this advisory:\n  * Open an issue in [Jira XWiki](https://jira.xwiki.org)\n  * Email us at our [security mailing list](mailto:security@xwiki.org)",
 	"severity": [

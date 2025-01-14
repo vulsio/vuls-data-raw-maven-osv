@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-15232"
 	],
+	"related": [
+		"CVE-2020-15232"
+	],
 	"summary": "XXE attack in Mapfish Print",
 	"details": "### Impact\nA user can do to an XML External Entity (XXE) attack with the provided SDL style.\n\n### Patches\nUse version >= 3.24\n\n### Workarounds\nNo\n\n### References\n* https://cwe.mitre.org/data/definitions/611.html\n* https://github.com/mapfish/mapfish-print/pull/1397/commits/e1d0527d13db06b2b62ca7d6afb9e97dacd67a0e\n\n### For more information\nIf you have any questions or comments about this advisory Comment the pull request: https://github.com/mapfish/mapfish-print/pull/1397\n",
 	"severity": [

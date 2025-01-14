@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2022-1245"
 	],
+	"related": [
+		"CVE-2022-1245"
+	],
 	"summary": "Keycloak vulnerable to privilege escalation on Token Exchange feature",
 	"details": "A privilege escalation flaw was found in the token exchange feature of keycloak. Missing authorization allows a client application holding a valid access token to exchange tokens for any target client by passing the client_id of the target. This could allow a client to gain unauthorized access to additional services.",
 	"severity": [

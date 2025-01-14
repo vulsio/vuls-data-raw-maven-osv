@@ -7,6 +7,9 @@
 		"BIT-solr-2021-28163",
 		"CVE-2021-28163"
 	],
+	"related": [
+		"CVE-2021-28163"
+	],
 	"summary": "Directory exposure in jetty",
 	"details": "### Impact\nIf the `${jetty.base}` directory or the `${jetty.base}/webapps` directory is a symlink (soft link in Linux), the contents of the `${jetty.base}/webapps` directory may be deployed as a static web application, exposing the content of the directory for download. \n\nFor example, the problem manifests in the following `${jetty.base}`:\n```$ tree demo-base/\ndemo-base/\n├── etc\n├── lib\n├── resources\n├── start.d\n├── deploy\n│   └── async-rest.war\n└── webapps -> deploy\n\n``` \n\n### Workarounds\nDo not use a symlink",
 	"severity": [

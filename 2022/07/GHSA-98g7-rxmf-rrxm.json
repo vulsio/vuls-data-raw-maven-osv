@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-4178"
 	],
+	"related": [
+		"CVE-2021-4178"
+	],
 	"summary": "fabric8 kubernetes-client vulnerable ",
 	"details": "fabric8 Kubernetes client had an arbitrary code execution flaw in versions 5.0.0-beta-1 and higher. Attackers could potentially insert malicious YAMLs due to misconfigured YAML parsing.",
 	"severity": [

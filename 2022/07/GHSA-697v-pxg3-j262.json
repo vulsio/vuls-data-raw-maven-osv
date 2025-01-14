@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-28191"
 	],
+	"related": [
+		"CVE-2020-28191"
+	],
 	"summary": "Togglz console missing cross-site request forgery (CSRF) protection",
 	"details": "Togglz is an implementation of the Feature Toggles pattern for Java. There is no CSRF protection in the togglz console and could allow an attacker to guess the CSRF token value. Version 2.9.4 adds the necessary CSRF protection.",
 	"severity": [

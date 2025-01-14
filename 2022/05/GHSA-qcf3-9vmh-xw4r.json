@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qcf3-9vmh-xw4r",
-	"modified": "2023-11-08T03:59:42.221882Z",
+	"modified": "2025-01-14T07:27:11.539305Z",
 	"published": "2022-05-13T01:30:44Z",
 	"aliases": [
-		"CVE-2018-1002201",
-		"SNYK-JAVA-ORGZEROTURNAROUND-31681"
+		"CVE-2018-1002201"
 	],
 	"summary": "Improper Limitation of a Pathname to a Restricted Directory in zt-zip",
 	"details": "zt-zip before 1.13 is vulnerable to directory traversal, allowing attackers to write to arbitrary files via a ../ (dot dot slash) in a Zip archive entry that is mishandled during extraction. This vulnerability is also known as 'Zip-Slip'.",
