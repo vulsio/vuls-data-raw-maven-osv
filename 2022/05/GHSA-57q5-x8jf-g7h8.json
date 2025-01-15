@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-57q5-x8jf-g7h8",
-	"modified": "2023-11-08T03:59:25.294730Z",
+	"modified": "2025-01-15T15:45:50.682217Z",
 	"published": "2022-05-13T01:47:01Z",
 	"aliases": [
 		"CVE-2017-7561"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.jboss.resteas:resteasy-jaxrs",
-				"purl": "pkg:maven/org.jboss.resteas/resteasy-jaxrs"
+				"name": "org.jboss.resteasy:resteasy-jaxrs",
+				"purl": "pkg:maven/org.jboss.resteasy/resteasy-jaxrs"
 			},
 			"ranges": [
 				{
@@ -34,6 +34,26 @@
 					]
 				}
 			],
+			"versions": [
+				"3.0.10.Final",
+				"3.0.11.Final",
+				"3.0.12.Final",
+				"3.0.13.Final",
+				"3.0.14.Final",
+				"3.0.15.Final",
+				"3.0.16.Final",
+				"3.0.17.Final",
+				"3.0.18.Final",
+				"3.0.19.Final",
+				"3.0.20.Final",
+				"3.0.21.Final",
+				"3.0.22.Final",
+				"3.0.23.Final",
+				"3.0.24.Final",
+				"3.0.7.Final",
+				"3.0.8.Final",
+				"3.0.9.Final"
+			],
 			"database_specific": {
 				"last_known_affected_version_range": "<= 3.0.24.Final",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-57q5-x8jf-g7h8/GHSA-57q5-x8jf-g7h8.json"
@@ -42,8 +62,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.jboss.resteas:resteasy-jaxrs",
-				"purl": "pkg:maven/org.jboss.resteas/resteasy-jaxrs"
+				"name": "org.jboss.resteasy:resteasy-jaxrs",
+				"purl": "pkg:maven/org.jboss.resteasy/resteasy-jaxrs"
 			},
 			"ranges": [
 				{
@@ -102,6 +122,10 @@
 		{
 			"type": "WEB",
 			"url": "https://access.redhat.com/errata/RHSA-2018:0481"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/resteasy/Resteasy"
 		},
 		{
 			"type": "WEB",
