@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-35230"
 	],
+	"related": [
+		"CVE-2024-35230"
+	],
 	"summary": "Welcome and About GeoServer pages communicate version and revision information",
 	"details": "### Impact\n\nThe welcome and about page includes version and revision information about the software in use (including library and components used).\n\nThis information is sensitive from a security point of view because it allows software used by the server to be easily identified.\n\n### Proof of Concept\n\n1. Welcome page footer: \n   \n   <img width=\"432\" alt=\"image\" src=\"https://github.com/geoserver/geoserver/assets/629681/a7fd5151-55d5-432b-9d5d-79136833609f\">\n\n2. About page *build information*. \n\n   <img width=\"401\" alt=\"image\" src=\"https://github.com/geoserver/geoserver/assets/629681/59fcd8dd-eaee-4bf8-9578-a2a94b2864db\">\n\n### Patches\n\nNo patch presently available.\n\n### Workarounds\n\nNo workaround available, although the ADMIN_CONSOLE can be disabled completely.\n\n### References\n\n* [About GeoServer](https://docs.geoserver.org/latest/en/user/webadmin/about.html)\n",
 	"severity": [
