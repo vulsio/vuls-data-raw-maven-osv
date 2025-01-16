@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v3cg-7r9h-r2g6",
-	"modified": "2023-11-08T04:11:41.117912Z",
+	"modified": "2025-01-16T14:44:36.821800Z",
 	"published": "2023-01-24T20:54:28Z",
 	"aliases": [
 		"CVE-2023-23613"
@@ -21,8 +21,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.opensearch:opensearch-security",
-				"purl": "pkg:maven/org.opensearch/opensearch-security"
+				"name": "org.opensearch.plugin:opensearch-security",
+				"purl": "pkg:maven/org.opensearch.plugin/opensearch-security"
 			},
 			"ranges": [
 				{
@@ -44,8 +44,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.opensearch:opensearch-security",
-				"purl": "pkg:maven/org.opensearch/opensearch-security"
+				"name": "org.opensearch.plugin:opensearch-security",
+				"purl": "pkg:maven/org.opensearch.plugin/opensearch-security"
 			},
 			"ranges": [
 				{
@@ -59,6 +59,14 @@
 						}
 					]
 				}
+			],
+			"versions": [
+				"2.1.0.0",
+				"2.2.0.0",
+				"2.2.1.0",
+				"2.3.0.0",
+				"2.4.0.0",
+				"2.4.1.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/01/GHSA-v3cg-7r9h-r2g6/GHSA-v3cg-7r9h-r2g6.json"
