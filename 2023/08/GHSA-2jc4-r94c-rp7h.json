@@ -7,6 +7,7 @@
 		"CVE-2022-46751"
 	],
 	"related": [
+		"CGA-5ggj-xgwc-pxh5",
 		"CGA-mx26-rvg4-wrjv"
 	],
 	"summary": "Apache Ivy External Entity Reference vulnerability",

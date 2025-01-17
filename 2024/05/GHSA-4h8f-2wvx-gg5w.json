@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4h8f-2wvx-gg5w",
-	"modified": "2024-12-01T05:52:02.966086Z",
+	"modified": "2025-01-17T16:34:08.081316Z",
 	"published": "2024-05-03T18:30:37Z",
 	"aliases": [
 		"CGA-88fx-6j2p-hrcp",
@@ -134,29 +134,6 @@
 				"1.75",
 				"1.76",
 				"1.77"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/05/GHSA-4h8f-2wvx-gg5w/GHSA-4h8f-2wvx-gg5w.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.bouncycastle:bcprov-jdk13",
-				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk13"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "1.61"
-						},
-						{
-							"fixed": "1.78"
-						}
-					]
-				}
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/05/GHSA-4h8f-2wvx-gg5w/GHSA-4h8f-2wvx-gg5w.json"

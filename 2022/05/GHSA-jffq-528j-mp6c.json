@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jffq-528j-mp6c",
-	"modified": "2023-11-08T04:02:02.562638Z",
+	"modified": "2025-01-17T13:09:07Z",
 	"published": "2022-05-24T17:12:53Z",
 	"aliases": [
 		"CVE-2020-10991"
@@ -18,8 +18,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "rg.mule.modules:mule-apikit-module",
-				"purl": "pkg:maven/rg.mule.modules/mule-apikit-module"
+				"name": "org.mule.modules:mule-apikit-module",
+				"purl": "pkg:maven/org.mule.modules/mule-apikit-module"
 			},
 			"ranges": [
 				{
@@ -48,6 +48,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/mulesoft/apikit/issues/547"
+		},
+		{
+			"type": "PACKAGE",
+			"url": "https://github.com/mulesoft/apikit"
 		}
 	],
 	"database_specific": {
