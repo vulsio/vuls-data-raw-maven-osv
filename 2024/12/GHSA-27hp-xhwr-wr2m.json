@@ -8,6 +8,7 @@
 		"CVE-2024-56337"
 	],
 	"related": [
+		"CGA-6qvq-rhpg-rc66",
 		"CGA-9w54-vfw9-4r27"
 	],
 	"summary": "Apache Tomcat Time-of-check Time-of-use (TOCTOU) Race Condition vulnerability",
