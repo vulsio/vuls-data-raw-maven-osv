@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c4pm-63cg-9j7h",
-	"modified": "2023-11-08T04:08:19.323085Z",
+	"modified": "2025-01-17T17:55:13.836619Z",
 	"published": "2022-12-08T15:52:54Z",
 	"aliases": [
 		"CVE-2022-23496"
@@ -353,29 +353,6 @@
 				"7.6.0",
 				"7.7.0",
 				"7.8.0"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/12/GHSA-c4pm-63cg-9j7h/GHSA-c4pm-63cg-9j7h.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "nl.basjes.parse.useragent:yauaa-nifi-processors",
-				"purl": "pkg:maven/nl.basjes.parse.useragent/yauaa-nifi-processors"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "7.0.0"
-						},
-						{
-							"fixed": "7.9.0"
-						}
-					]
-				}
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/12/GHSA-c4pm-63cg-9j7h/GHSA-c4pm-63cg-9j7h.json"
