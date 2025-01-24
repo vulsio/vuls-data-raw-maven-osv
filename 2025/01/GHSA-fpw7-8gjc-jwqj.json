@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fpw7-8gjc-jwqj",
-	"modified": "2025-01-22T19:42:26.588737Z",
+	"modified": "2025-01-23T22:35:01.662657Z",
 	"published": "2025-01-22T18:31:55Z",
 	"aliases": [
 		"CVE-2025-24400"
@@ -62,7 +62,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-276"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2025-01-22T19:26:49Z",
 		"nvd_published_at": "2025-01-22T17:15:13Z",

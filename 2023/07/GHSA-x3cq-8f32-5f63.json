@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x3cq-8f32-5f63",
-	"modified": "2024-02-16T08:10:39.825694Z",
+	"modified": "2025-01-23T22:36:45.205563Z",
 	"published": "2023-07-06T21:15:04Z",
 	"aliases": [
 		"CVE-2023-33246"
@@ -165,6 +165,10 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/1s8j2c8kogthtpv3060yddk03zq0pxyp"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.vicarius.io/vsociety/posts/rocketmq-rce-cve-2023-33246-33247"
 		},
 		{
 			"type": "WEB",

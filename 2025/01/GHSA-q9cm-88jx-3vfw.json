@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-q9cm-88jx-3vfw",
-	"modified": "2025-01-22T19:42:26.519727Z",
+	"modified": "2025-01-23T22:34:06.134619Z",
 	"published": "2025-01-22T18:31:55Z",
 	"aliases": [
 		"CVE-2025-24399"
@@ -87,6 +87,7 @@
 				"4.411.v990b_9d36e74e",
 				"4.418.vccc7061f5b_6d",
 				"4.421.v5422614eb_e0a_",
+				"4.438.440.v3f5f201de5dc",
 				"4.438.v6e62f6782770",
 				"4.444.vd4c54f157201",
 				"4.452.v2849b_d3945fa_"
@@ -116,7 +117,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-178"
+			"CWE-178",
+			"CWE-276"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2025-01-22T19:23:59Z",
