@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-38hw-368m-7jmg",
-	"modified": "2024-02-16T08:24:10.176135Z",
+	"modified": "2025-01-23T23:27:27.122910Z",
 	"published": "2023-05-16T18:30:16Z",
 	"aliases": [
 		"CVE-2023-32982"
@@ -72,7 +72,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-311"
+			"CWE-311",
+			"CWE-312"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-05-17T03:05:51Z",
