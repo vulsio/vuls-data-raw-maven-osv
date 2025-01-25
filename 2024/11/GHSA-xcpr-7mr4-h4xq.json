@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xcpr-7mr4-h4xq",
-	"modified": "2024-11-20T07:57:13.659034Z",
+	"modified": "2025-01-24T22:35:52.898075Z",
 	"published": "2024-11-18T12:30:43Z",
 	"aliases": [
 		"BIT-tomcat-2024-52316",
@@ -484,6 +484,14 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/lopzlqh91jj9n334g02om08sbysdb928"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20250124-0003"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/11/18/2"
 		}
 	],
 	"database_specific": {

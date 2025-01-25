@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c4q5-6c82-3qpw",
-	"modified": "2024-10-28T18:34:53.532864Z",
+	"modified": "2025-01-24T22:05:51.820053Z",
 	"published": "2024-10-28T09:30:53Z",
 	"aliases": [
 		"CVE-2024-38821"
@@ -406,6 +406,10 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/spring-projects/spring-security"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20250124-0006"
 		},
 		{
 			"type": "WEB",
