@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rwxc-4cmw-7x75",
-	"modified": "2024-02-21T23:56:59.423488Z",
+	"modified": "2025-01-28T15:33:38.498793Z",
 	"published": "2024-02-21T03:30:38Z",
 	"aliases": [
 		"CVE-2024-26266"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "7.4.3.13"
+							"fixed": "7.4.3.14"
 						}
 					]
 				}
@@ -75,6 +75,7 @@
 				"7.4.3.9"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 7.4.3.13",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-rwxc-4cmw-7x75/GHSA-rwxc-4cmw-7x75.json"
 			}
 		},

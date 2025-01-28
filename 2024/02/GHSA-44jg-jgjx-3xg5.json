@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-44jg-jgjx-3xg5",
-	"modified": "2024-02-21T23:56:59.338160Z",
+	"modified": "2025-01-28T15:43:20.742235Z",
 	"published": "2024-02-21T03:30:38Z",
 	"aliases": [
 		"CVE-2024-25603"
@@ -29,7 +29,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "7.4.3.4"
+							"fixed": "7.4.3.5"
 						}
 					]
 				}
@@ -66,6 +66,7 @@
 				"7.4.3.4"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 7.4.3.4",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-44jg-jgjx-3xg5/GHSA-44jg-jgjx-3xg5.json"
 			}
 		},

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-73x3-8mrg-5r93",
-	"modified": "2024-02-21T23:56:59.087746Z",
+	"modified": "2025-01-28T15:34:38.392076Z",
 	"published": "2024-02-21T03:30:37Z",
 	"aliases": [
 		"CVE-2023-42498"
@@ -29,7 +29,7 @@
 							"introduced": "7.4.3.8"
 						},
 						{
-							"last_affected": "7.4.3.97"
+							"fixed": "7.4.3.98"
 						}
 					]
 				}
@@ -133,6 +133,7 @@
 				"7.4.3.97"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 7.4.3.97",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-73x3-8mrg-5r93/GHSA-73x3-8mrg-5r93.json"
 			}
 		},
@@ -154,6 +155,12 @@
 						}
 					]
 				}
+			],
+			"versions": [
+				"2023.q3.1",
+				"2023.q3.2",
+				"2023.q3.3",
+				"2023.q3.4"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-73x3-8mrg-5r93/GHSA-73x3-8mrg-5r93.json"

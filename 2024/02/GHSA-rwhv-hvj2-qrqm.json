@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rwhv-hvj2-qrqm",
-	"modified": "2024-02-21T23:56:59.491994Z",
+	"modified": "2025-01-28T15:34:54.316176Z",
 	"published": "2024-02-21T03:30:38Z",
 	"aliases": [
 		"CVE-2024-26269"
@@ -29,7 +29,7 @@
 							"introduced": "7.2.0"
 						},
 						{
-							"last_affected": "7.4.3.37"
+							"fixed": "7.4.3.38"
 						}
 					]
 				}
@@ -93,6 +93,7 @@
 				"7.4.3.9"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 7.4.3.37",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-rwhv-hvj2-qrqm/GHSA-rwhv-hvj2-qrqm.json"
 			}
 		},

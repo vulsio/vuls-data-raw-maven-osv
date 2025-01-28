@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-54pv-r62j-9qqc",
-	"modified": "2024-02-21T23:56:59.000534Z",
+	"modified": "2025-01-28T14:57:12.730879Z",
 	"published": "2024-02-21T03:30:37Z",
 	"aliases": [
 		"CVE-2023-42496"
@@ -29,7 +29,7 @@
 							"introduced": "7.3.3"
 						},
 						{
-							"last_affected": "7.4.3.97"
+							"fixed": "7.4.3.98"
 						}
 					]
 				}
@@ -148,6 +148,7 @@
 				"7.4.3.97"
 			],
 			"database_specific": {
+				"last_known_affected_version_range": "<= 7.4.3.97",
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/02/GHSA-54pv-r62j-9qqc/GHSA-54pv-r62j-9qqc.json"
 			}
 		},
@@ -352,6 +353,10 @@
 				}
 			],
 			"versions": [
+				"2023.q3.1",
+				"2023.q3.2",
+				"2023.q3.3",
+				"2023.q3.4",
 				"2023.q3.5"
 			],
 			"database_specific": {
