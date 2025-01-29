@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-68r2-fwcg-qpm8",
-	"modified": "2025-01-27T18:12:22.933208Z",
+	"modified": "2025-01-29T07:56:50.601432Z",
 	"published": "2025-01-27T09:30:35Z",
 	"aliases": [
+		"BIT-solr-2025-24814",
 		"CVE-2025-24814"
 	],
 	"summary": "Apache Solr vulnerable to Execution with Unnecessary Privileges",

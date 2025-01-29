@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4p5m-gvpf-f3x5",
-	"modified": "2025-01-27T17:59:23.675754Z",
+	"modified": "2025-01-29T07:56:51.007269Z",
 	"published": "2025-01-27T09:30:35Z",
 	"aliases": [
+		"BIT-solr-2024-52012",
 		"CVE-2024-52012"
 	],
 	"summary": "Apache Solr Relative Path Traversal vulnerability",
