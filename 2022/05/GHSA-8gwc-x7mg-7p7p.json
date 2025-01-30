@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2013-5823"
 	],
+	"related": [
+		"CGA-hrgv-2rpw-7g3v"
+	],
 	"summary": "Apache XML Security For Java vulnerable to Infinite Loop",
 	"details": "Affected versions of xmlsec are subject to a denial of service vulnerability. Should a user check the signature of a message larger than 512 MB, the method `expandSize(int newPos)` of class `org.apache.xml.security.utils.UnsyncByteArrayOutputStream` goes in an endless loop. A remote attacker could use this flaw to supply crafted XML that would lead to a denial of service.",
 	"affected": [
