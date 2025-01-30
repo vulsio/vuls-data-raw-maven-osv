@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-36p3-wjmg-h94x",
-	"modified": "2023-11-08T04:08:14.996690Z",
+	"modified": "2025-01-29T19:19:53.976884Z",
 	"published": "2022-03-31T18:30:50Z",
 	"aliases": [
 		"CVE-2022-22965"
@@ -1072,6 +1072,10 @@
 		{
 			"type": "WEB",
 			"url": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-java-spring-rce-Zx9GUc67"
+		},
+		{
+			"type": "WEB",
+			"url": "https://www.kb.cert.org/vuls/id/970766"
 		},
 		{
 			"type": "WEB",
