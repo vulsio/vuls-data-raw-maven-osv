@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2x2g-32r7-p4x8",
-	"modified": "2024-11-19T21:00:54.586372Z",
+	"modified": "2025-01-31T16:03:01.205978Z",
 	"published": "2024-11-19T09:30:54Z",
 	"aliases": [
 		"CVE-2024-31141"
@@ -99,6 +99,14 @@
 		{
 			"type": "WEB",
 			"url": "https://lists.apache.org/thread/9whdzfr0zwdhr364604w5ssnzmg4v2lv"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20250131-0001"
+		},
+		{
+			"type": "WEB",
+			"url": "http://www.openwall.com/lists/oss-security/2024/11/18/5"
 		}
 	],
 	"database_specific": {
