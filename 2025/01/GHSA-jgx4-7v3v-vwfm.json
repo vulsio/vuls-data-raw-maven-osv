@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jgx4-7v3v-vwfm",
-	"modified": "2025-01-21T20:42:05.069147Z",
+	"modified": "2025-02-01T07:56:44.079475Z",
 	"published": "2025-01-21T12:30:47Z",
 	"aliases": [
+		"BIT-elasticsearch-2024-43709",
 		"CVE-2024-43709"
 	],
 	"summary": "Elasticsearch allocation of resources without limits or throttling leads to crash",
