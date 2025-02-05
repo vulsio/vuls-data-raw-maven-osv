@@ -7,7 +7,8 @@
 		"CVE-2025-24789"
 	],
 	"related": [
-		"CGA-2vg3-qxr5-7cgh"
+		"CGA-2vg3-qxr5-7cgh",
+		"CGA-hj36-5gmg-h97m"
 	],
 	"summary": "Snowflake JDBC allows an untrusted search path on Windows",
 	"details": "### Issue\nSnowflake discovered and remediated a vulnerability in the Snowflake JDBC Driver. When the EXTERNALBROWSER authentication method is used on Windows, an attacker with write access to a directory in the %PATH% can escalate their privileges to the user that runs the vulnerable JDBC Driver version.\n\nThis vulnerability affects versions 3.2.3 through 3.21.0 on Windows. Snowflake fixed the issue in version 3.22.0.\n\n### Vulnerability Details\nWhen the EXTERNALBROWSER authentication method is selected, the Snowflake JDBC Driver on non-macOS operating systems tries to open the SSO URL using xdg-open. Because xdg-open is a Linux program that doesn’t exist in a default Windows installation, a sufficiently privileged attacker could place a malicious executable in one of the directories on the %PATH% and achieve local privilege escalation to the user running the JDBC Driver.\n\n### Solution\nSnowflake released version 3.22.0 of the Snowflake JDBC Driver, which fixes this issue. We recommend users upgrade to version 3.22.0.\n\n### Additional Information\nIf you discover a security vulnerability in one of our products or websites, please report the issue to HackerOne. For more information, please see our [Vulnerability Disclosure Policy](https://hackerone.com/snowflake?type=team).",

@@ -7,7 +7,8 @@
 		"CVE-2025-24790"
 	],
 	"related": [
-		"CGA-mfjf-9gqg-2jjr"
+		"CGA-mfjf-9gqg-2jjr",
+		"CGA-p3gx-2p4q-w594"
 	],
 	"summary": "Snowflake JDBC uses insecure temporary credential cache file permissions",
 	"details": "### Issue\nSnowflake discovered and remediated a vulnerability in the Snowflake JDBC Driver. On Linux systems, when temporary credential caching is enabled, the Snowflake JDBC Driver will cache temporary credentials locally in a world-readable file.\n\nThis vulnerability affects versions 3.6.8 through 3.21.0. Snowflake fixed the issue in version 3.22.0.\n\n### Vulnerability Details\nOn Linux, when either EXTERNALBROWSER or USERNAME_PASSWORD_MFA authentication methods are used with temporary credential caching enabled, the Snowflake JDBC Driver will cache temporary credentials in a local file. In the vulnerable versions of the Driver, this file is created with world-readable permissions.\n\n### Solution\nSnowflake released version 3.22.0 of the Snowflake JDBC Driver, which fixes this issue. We recommend users upgrade to version 3.22.0.\n\n### Additional Information\nIf you discover a security vulnerability in one of our products or websites, please report the issue to HackerOne. For more information, please see our [Vulnerability Disclosure Policy](https://hackerone.com/snowflake?type=team).",
