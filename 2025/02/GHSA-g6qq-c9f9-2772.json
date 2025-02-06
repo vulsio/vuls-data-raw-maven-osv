@@ -1,10 +1,13 @@
 {
 	"schema_version": "1.6.0",
-	"id": "GHSA-6mpx-pmgp-ww49",
-	"modified": "2025-02-05T21:25:51.047346Z",
-	"published": "2024-12-18T00:31:23Z",
-	"summary": "Duplicate Advisory: Keycloak vulnerable to Cleartext Transmission of Sensitive Information",
-	"details": "# Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-g6qq-c9f9-2772. This link is maintained to preserve external references.\n\n# Original Description\nA vulnerability was found in Keycloak. The environment option `KC_CACHE_EMBEDDED_MTLS_ENABLED` does not work and the JGroups replication configuration is always used in plain text which can allow an attacker that has access to adjacent networks related to JGroups to read sensitive information.",
+	"id": "GHSA-g6qq-c9f9-2772",
+	"modified": "2025-02-05T21:42:03.741955Z",
+	"published": "2025-02-05T21:18:26Z",
+	"aliases": [
+		"CVE-2024-10973"
+	],
+	"summary": "Keycloak on Quarkus CLI option for encrypted JGroups ignored",
+	"details": "The env option `KC_CACHE_EMBEDDED_MTLS_ENABLED` does not work and the jgroups replication configuration is always used in plain. This option worked before in 24 and 22. More info in public issue https://github.com/keycloak/keycloak/issues/34644.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -46,11 +49,15 @@
 				"26.0.5"
 			],
 			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/12/GHSA-6mpx-pmgp-ww49/GHSA-6mpx-pmgp-ww49.json"
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2025/02/GHSA-g6qq-c9f9-2772/GHSA-g6qq-c9f9-2772.json"
 			}
 		}
 	],
 	"references": [
+		{
+			"type": "WEB",
+			"url": "https://github.com/keycloak/keycloak/security/advisories/GHSA-g6qq-c9f9-2772"
+		},
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10973"
@@ -97,8 +104,8 @@
 			"CWE-319"
 		],
 		"github_reviewed": true,
-		"github_reviewed_at": "2024-12-18T15:40:31Z",
-		"nvd_published_at": "2024-12-17T23:15:05Z",
+		"github_reviewed_at": "2025-02-05T21:18:26Z",
+		"nvd_published_at": null,
 		"severity": "MODERATE"
 	}
 }
