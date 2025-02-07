@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-88m4-h43f-wx84",
-	"modified": "2025-01-31T19:09:14.274786Z",
+	"modified": "2025-02-06T17:19:59.545736Z",
 	"published": "2025-01-31T17:34:09Z",
 	"aliases": [
 		"CVE-2025-23215"
@@ -48,8 +48,24 @@
 				"name": "net.sourceforge.pmd:pmd-ui",
 				"purl": "pkg:maven/net.sourceforge.pmd/pmd-ui"
 			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "6.14.0"
+						},
+						{
+							"last_affected": "6.19.0"
+						}
+					]
+				}
+			],
 			"versions": [
-				"6.14.0"
+				"6.14.0",
+				"6.16.0",
+				"6.17.0",
+				"6.19.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2025/01/GHSA-88m4-h43f-wx84/GHSA-88m4-h43f-wx84.json"
