@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gj5m-m88j-v7c3",
-	"modified": "2024-05-04T08:11:42.112926Z",
+	"modified": "2025-02-11T19:25:04.056288Z",
 	"published": "2024-05-02T09:30:48Z",
 	"aliases": [
 		"BIT-activemq-2024-32114",
@@ -12,7 +12,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:H"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
 		}
 	],
 	"affected": [

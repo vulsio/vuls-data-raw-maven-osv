@@ -9,7 +9,8 @@
 	"related": [
 		"CGA-4fc4-gx3h-pr85",
 		"CGA-4vhm-8vvc-xp32",
-		"CGA-vxw2-mqpj-vp92"
+		"CGA-vxw2-mqpj-vp92",
+		"CVE-2025-24970"
 	],
 	"summary": "SslHandler doesn't correctly validate packets which can lead to native crash when using native SSLEngine",
 	"details": "### Impact\nWhen a special crafted packet is received via SslHandler it doesn't correctly handle validation of such a packet in all cases which can lead to a native crash.\n\n### Workarounds\nAs workaround its possible to either disable the usage of the native SSLEngine or changing the code from:\n\n```\nSslContext context = ...;\nSslHandler handler = context.newHandler(....);\n```\n\nto:\n\n```\nSslContext context = ...;\nSSLEngine engine = context.newEngine(....);\nSslHandler handler = new SslHandler(engine, ....);\n```",
