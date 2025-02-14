@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-389x-839f-4rhx",
-	"modified": "2025-02-11T17:25:37.626584Z",
+	"modified": "2025-02-14T15:20:57.270240Z",
 	"published": "2025-02-10T18:14:47Z",
 	"aliases": [
 		"CVE-2025-25193"
@@ -32,7 +32,7 @@
 							"introduced": "0"
 						},
 						{
-							"last_affected": "4.1.118"
+							"fixed": "4.1.118"
 						}
 					]
 				}
@@ -153,7 +153,6 @@
 				"4.1.115.Final",
 				"4.1.116.Final",
 				"4.1.117.Final",
-				"4.1.118.Final",
 				"4.1.12.Final",
 				"4.1.13.Final",
 				"4.1.14.Final",
