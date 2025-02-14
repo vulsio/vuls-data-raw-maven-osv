@@ -1,13 +1,13 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gq5f-xv48-2365",
-	"modified": "2024-02-16T08:13:23.832518Z",
+	"modified": "2025-02-13T19:36:34.414973Z",
 	"published": "2023-08-22T21:30:26Z",
 	"aliases": [
 		"CVE-2022-44729"
 	],
 	"summary": "Apache XML Graphics Batik Server-Side Request Forgery vulnerability",
-	"details": "Server-Side Request Forgery (SSRF) vulnerability in Apache Software Foundation Apache XML Graphics Batik.This issue affects Apache XML Graphics Batik: 1.16.\n\nOn version 1.16, a malicious SVG could trigger loading external resources by default, causing resource consumption or in some cases even information disclosure. Users are recommended to upgrade to version 1.17 or later.\n\n",
+	"details": "Server-Side Request Forgery (SSRF) vulnerability in Apache Software Foundation Apache XML Graphics Batik.This issue affects Apache XML Graphics Batik: 1.16.\n\nOn version 1.16, a malicious SVG could trigger loading external resources by default, causing resource consumption or in some cases even information disclosure. Users are recommended to upgrade to version 1.17 or later.",
 	"severity": [
 		{
 			"type": "CVSS_V3",

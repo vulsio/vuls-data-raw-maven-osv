@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jw7r-rxff-gv24",
-	"modified": "2024-11-28T05:40:03.210399Z",
+	"modified": "2025-02-13T19:34:35.821680Z",
 	"published": "2024-02-27T18:31:02Z",
 	"aliases": [
 		"CVE-2024-21742"
@@ -14,7 +14,7 @@
 		"CGA-x2mp-f2qg-g22x"
 	],
 	"summary": "Apache James MIME4J improper input validation vulnerability",
-	"details": "Improper input validation allows for header injection in MIME4J library when using MIME4J DOM for composing message.\nThis can be exploited by an attacker to add unintended headers to MIME messages.\n",
+	"details": "Improper input validation allows for header injection in MIME4J library when using MIME4J DOM for composing message.\nThis can be exploited by an attacker to add unintended headers to MIME messages.",
 	"affected": [
 		{
 			"package": {

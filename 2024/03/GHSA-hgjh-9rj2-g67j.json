@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hgjh-9rj2-g67j",
-	"modified": "2024-06-10T19:00:31.256987Z",
+	"modified": "2025-02-13T19:11:00.946278Z",
 	"published": "2024-03-16T06:30:27Z",
 	"aliases": [
 		"CVE-2024-22259"
@@ -11,7 +11,7 @@
 		"CGA-q3hr-q8wm-wcrp"
 	],
 	"summary": "Spring Framework URL Parsing with Host Validation Vulnerability",
-	"details": "Applications that use UriComponentsBuilder in Spring Framework to parse an externally provided URL (e.g. through a query parameter) AND perform validation checks on the host of the parsed URL may be vulnerable to a  open redirect https://cwe.mitre.org/data/definitions/601.html  attack or to a SSRF attack if the URL is used after passing validation checks.\n\nThis is the same as  CVE-2024-22243 https://spring.io/security/cve-2024-22243, but with different input.\n\n",
+	"details": "Applications that use UriComponentsBuilder in Spring Framework to parse an externally provided URL (e.g. through a query parameter) AND perform validation checks on the host of the parsed URL may be vulnerable to a  open redirect https://cwe.mitre.org/data/definitions/601.html  attack or to a SSRF attack if the URL is used after passing validation checks.\n\nThis is the same as  CVE-2024-22243 https://spring.io/security/cve-2024-22243, but with different input.",
 	"severity": [
 		{
 			"type": "CVSS_V3",

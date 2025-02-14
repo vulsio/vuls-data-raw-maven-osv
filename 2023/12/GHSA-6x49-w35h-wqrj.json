@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6x49-w35h-wqrj",
-	"modified": "2024-12-03T06:16:10.242579Z",
+	"modified": "2025-02-13T19:37:52.646741Z",
 	"published": "2023-12-15T09:30:17Z",
 	"aliases": [
 		"CVE-2023-29234"
 	],
 	"summary": "Bypass serialize checks in Apache Dubbo",
-	"details": "A deserialization vulnerability existed when decode a malicious package.This issue affects Apache Dubbo: from 3.1.0 through 3.1.10, from 3.2.0 through 3.2.4.\n\nUsers are recommended to upgrade to the latest version, which fixes the issue.\n\n",
+	"details": "A deserialization vulnerability existed when decode a malicious package.This issue affects Apache Dubbo: from 3.1.0 through 3.1.10, from 3.2.0 through 3.2.4.\n\nUsers are recommended to upgrade to the latest version, which fixes the issue.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+		}
+	],
 	"affected": [
 		{
 			"package": {
@@ -101,6 +107,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-12-15T23:20:28Z",
 		"nvd_published_at": "2023-12-15T09:15:07Z",
-		"severity": "HIGH"
+		"severity": "CRITICAL"
 	}
 }

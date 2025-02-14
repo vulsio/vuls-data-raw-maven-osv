@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jm7m-8jh6-29hp",
-	"modified": "2024-02-16T08:11:12.833825Z",
+	"modified": "2025-02-13T19:36:23.216075Z",
 	"published": "2023-10-10T18:31:35Z",
 	"aliases": [
 		"BIT-tomcat-2023-42794",
@@ -19,8 +19,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat"
+				"name": "org.apache.tomcat:tomcat-coyote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-coyote"
 			},
 			"ranges": [
 				{
@@ -54,8 +54,8 @@
 		{
 			"package": {
 				"ecosystem": "Maven",
-				"name": "org.apache.tomcat:tomcat",
-				"purl": "pkg:maven/org.apache.tomcat/tomcat"
+				"name": "org.apache.tomcat:tomcat-coyote",
+				"purl": "pkg:maven/org.apache.tomcat/tomcat-coyote"
 			},
 			"ranges": [
 				{
